@@ -1,0 +1,6689 @@
+ner,cluster id,weight
+!,234,1
+%AppData% folder,187,1
+-,1,1
+-,32,1
+-,44,2
+-,52,2
+-,229,1
+-,548,2
+-Business Suite Release 11i,192,1
+-Business Suite Release 12,251,1
+.,197,2
+.CrashReporter,532,2
+.NET,3,1
+.NET CLR,200,1
+.NET CLR 1.1.4322,20,1
+.NET CLR 2.0.50727,20,2
+.NET CLR 2.0.50727,200,1
+.NET CLR 3.0.30729,200,1
+.NET CLR 3.0.4506.2152,20,1
+.NET CLR 3.5.30729,20,1
+.NET CLR 3.5.30729,200,1
+.NET Framework,3,3
+.NET Framework,40,1
+.NET Framework,59,3
+.NET Framework,184,2
+.NET Framework,186,2
+.NET Framework,192,2
+.NET Framework,237,1
+.NET Framework 2.0,18,1
+.NET FrameworkInternet Explorer,538,1
+.NET FrameworkMicrosoft,6,1
+.NET FrameworkMicrosoft,8,1
+.NET FrameworkMicrosoft,55,1
+.NET FrameworkMicrosoft,58,1
+.NET FrameworkMicrosoft,184,1
+.NET FrameworkMicrosoft,186,1
+.NET FrameworkMicrosoft,237,1
+.NET4.0C,200,1
+.NET4.0E,200,1
+.unioncryptoupdater,532,1
+/Library/Application Support,532,1
+03,548,1
+1.12.4,9,1
+1.2.8,9,1
+1.5.3.9130,24,1
+1.7,9,1
+10,251,1
+10,253,1
+10,541,1
+10 1607,531,1
+10.1.53.64,24,1
+10DENCEHISPAHARD,11,1
+"10DENCEHISPAHARD, S.L.Created",11,1
+10KBLAZE,206,1
+11,253,1
+1300,185,1
+1445998,45,1
+1511,18,1
+1607,18,1
+1718 Committee Panel of Experts’,30,1
+1718 Sanctions Committee,30,1
+1718 Sanctions Committee on the DPRK,30,1
+2.12.3,15,1
+2.xAdobe AIR 3.5.0.1060,3,1
+2000,229,1
+2000,231,1
+2003,254,1
+2018NutanixJanuary,37,1
+2208Symantec,44,1
+24/7 CyWatch,184,1
+24/7 Operations Center,191,1
+2Windows Server 2008,3,3
+3.0Oracle JRockit,67,1
+3.5,18,1
+365,196,1
+365,197,1
+365,201,1
+365 Defense,198,1
+3A,204,1
+3D,240,1
+3D,546,1
+3D,548,1
+3D &,59,1
+3D &,63,1
+3D &,240,1
+3D & Multimedia,59,2
+3D & Multimedia,63,1
+3D & Multimedia,240,1
+3ve,33,3
+4,204,1
+6,9,3
+6,236,1
+6Microsoft,3,1
+6Microsoft,9,1
+6Microsoft,236,1
+6uIcedTea 1.x,9,1
+7,3,1
+7,4,1
+7,49,2
+7,229,1
+7,231,1
+7-Zip,9,2
+7-Zip,196,3
+7Microsoft,3,1
+7Microsoft,9,1
+7Microsoft,236,1
+7Windows Server 2003Windows,534,1
+7uIcedTea 2.3.0,9,1
+7uIcedTea 2.x,3,1
+7zip,9,1
+8,9,1
+8,49,2
+8,229,1
+8,236,1
+8.1,18,1
+8.1,49,1
+8.1,229,1
+8.1,531,1
+8.1Microsoft,49,1
+8.2.2,253,1
+8.50Siebel Core,541,1
+80386,5,1
+821875,206,1
+8583,3,1
+85th,191,1
+85th Main Special Service Center,191,1
+8Microsoft,3,1
+8Microsoft,236,1
+8Microsoft Server 2003,3,1
+8Microsoft Server 2003,231,1
+9,3,1
+9.0 SP2,18,1
+9.1PeopleSoft Enterprise PeopleTools,541,1
+9.3.2,253,1
+9040,28,1
+@Megaupload,239,1
+AA20-352A,197,1
+AA21-008A.,197,1
+AAA,20,1
+AAEH,3,3
+ACE,209,1
+ACLThe SAP Gateway,206,1
+ACSC,3,11
+ACSC,6,9
+ACSC,9,2
+ACSC,10,5
+ACSC,13,9
+ACSC,15,27
+ACSC,34,2
+ACSC,184,4
+ACSC,191,3
+ACSC,211,7
+ACSC,531,10
+ADC,32,1
+ADFS,201,2
+ADSelfService Plus,3,1
+ADSelfService Plus,530,12
+ADVObfuscation,532,1
+AIR,16,5
+AIR,24,5
+AIR,65,2
+AIR 3.5.0.1060,3,1
+AIRAdobe,16,1
+AIRAdobe Security Bulletin,24,1
+AIX,3,3
+AKO,3,1
+APSB09,548,2
+APSB09-,16,1
+APSB10,54,1
+APSB11,52,5
+APSB11-,59,1
+APSB13,3,1
+APSB13-,3,1
+APSB15-,47,1
+APT,3,1
+APT,9,1
+APT,29,1
+APT,184,2
+APT,191,1
+APT,201,1
+APT,529,1
+APT Cyber Tools Ta,3,1
+APT10,43,1
+APT10,201,1
+APT10,531,1
+APT19,34,2
+APT28,12,1
+APT28,14,1
+APT28,191,2
+APT29,14,1
+APT29,191,1
+APT3,201,1
+APT38,3,1
+APT38,11,1
+APT40,197,10
+APT40,201,1
+APT41,196,1
+APT41,201,1
+AR19-133A,204,1
+ARM64,531,2
+ASA,20,2
+ASA,43,1
+ASD,8,1
+ASD,9,1
+ASD,13,1
+ASD,192,1
+ASN,532,2
+ASP.NET AJAX,9,1
+ASPX,22,1
+ASPack,44,1
+ASRock,185,4
+ATL,33,6
+ATL,206,1
+ATP series,9,1
+ATT&CK,9,1
+ATT&CK,191,1
+ATT&CK,196,1
+AV,39,1
+AX,6,1
+AZORult,6,8
+Accellion,10,1
+Accellion,211,6
+Accellion,531,1
+Accellion FTA,211,5
+Accellion File Transfer Appliance,10,1
+Accellion File Transfer Appliance,211,1
+AccessData,22,1
+Acrobat,16,11
+Acrobat,17,7
+Acrobat,22,13
+Acrobat,24,3
+Acrobat,54,7
+Acrobat,59,9
+Acrobat,61,7
+Acrobat,62,1
+Acrobat,63,11
+Acrobat,240,12
+Acrobat,253,13
+Acrobat,540,11
+Acrobat,543,9
+Acrobat,545,2
+Acrobat,546,8
+Acrobat,548,7
+Acrobat 9.5.1,540,1
+Acrobat 9.x,540,1
+Acrobat JavaScript,546,1
+Acrobat JavaScript Blacklist Framework,17,1
+Acrobat JavaScript Blacklist Framework,61,1
+Acrobat JavaScript Blacklist Framework,540,1
+Acrobat JavaScript).Adobe,17,1
+Acrobat JavaScript).Adobe,59,1
+Acrobat JavaScript).Adobe,61,1
+Acrobat JavaScript).Adobe,240,1
+Acrobat JavaScript).Adobe,540,1
+Acrobat JavaScript).Prevent,16,1
+Acrobat JavaScript).Prevent,548,1
+Acrobat Reader,22,1
+Acrobat Reader,546,1
+Acrobat Reader.2,16,1
+Acrobat Reader.2,17,1
+Acrobat Reader.2,59,1
+Acrobat Reader.2,61,1
+Acrobat Reader.2,240,1
+Acrobat Reader.2,253,1
+Acrobat Reader.2,540,1
+Acrobat Reader.2,543,1
+Acrobat Reader.2,548,1
+Acrobat X,240,2
+Acrobat X,540,1
+Acrobat X 10.0.3,59,1
+AcrobatAdobe,63,1
+Action Fraud,13,1
+ActionScript 3,47,1
+Active Directory,3,5
+Active Directory,9,1
+Active Directory,10,1
+Active Directory,14,1
+Active Directory,21,1
+Active Directory,25,1
+Active Directory,27,1
+Active Directory,34,1
+Active Directory,39,1
+Active Directory,48,2
+Active Directory,187,1
+Active Directory,209,1
+Active Directory Domain Controller,17,1
+Active Directory Domain Services,193,1
+Active Directory Federation Services,201,1
+Active Directory user accounts,193,1
+Active Directory.[3,202,1
+Active Directory—,4,1
+ActiveX,16,1
+ActiveX,24,1
+ActiveX,33,2
+ActiveX,63,1
+ActiveX,257,1
+ActiveX,263,2
+Acunetix,20,5
+Acunetix Scanning,20,4
+Adaptive Security Appliance (ASA)A Cisco ASA,20,1
+Adobe,3,9
+Adobe,5,1
+Adobe,16,13
+Adobe,17,5
+Adobe,18,3
+Adobe,22,16
+Adobe,24,9
+Adobe,33,2
+Adobe,34,1
+Adobe,40,5
+Adobe,43,3
+Adobe,47,18
+Adobe,52,14
+Adobe,54,10
+Adobe,59,25
+Adobe,61,8
+Adobe,62,6
+Adobe,63,17
+Adobe,65,4
+Adobe,201,1
+Adobe,214,2
+Adobe,240,17
+Adobe,253,10
+Adobe,257,4
+Adobe,540,12
+Adobe,543,5
+Adobe,545,9
+Adobe,546,9
+Adobe,548,9
+Adobe,552,1
+Adobe AIR,65,1
+Adobe AIR 1.5.2,65,1
+Adobe Acrobat,240,1
+Adobe Acrobat Reader,22,1
+Adobe Acrobat Reader,63,1
+Adobe Flash,540,1
+Adobe Flash Player,47,1
+Adobe Flash Player,65,2
+Adobe Flash Player,201,1
+Adobe Flash Player,257,1
+Adobe Flash Player 10.0.32.18,65,1
+Adobe Flash Player 10.3.181.23,59,1
+Adobe Flash Player 11.5.502.149,3,1
+Adobe Flash Player 6,257,1
+Adobe Flash Player 6Adobe,257,1
+Adobe Labs,63,1
+Adobe Reader,16,6
+Adobe Reader,17,8
+Adobe Reader,22,2
+Adobe Reader,54,4
+Adobe Reader,59,6
+Adobe Reader,61,5
+Adobe Reader,63,2
+Adobe Reader,240,6
+Adobe Reader,253,6
+Adobe Reader,540,9
+Adobe Reader,543,6
+Adobe Reader,546,1
+Adobe Reader,548,3
+Adobe Reader 9,59,1
+Adobe Reader 9,63,1
+Adobe Reader 9,240,2
+Adobe Reader X,59,1
+Adobe Reader X,240,1
+Adobe Reader X,540,1
+"Adobe Reader.app/Contents/Frameworks/Adobe3D.framework""GNU/Linux",63,1
+Adobe Security Bulletin,54,2
+Adobe Security Bulletin APSB09,22,1
+Adobe Security Bulletin APSB09,546,1
+Adobe Security Bulletin APSB10-,16,1
+Adobe Security Bulletin APSB10-14,24,1
+Adobe Security Bulletin APSB10-16,16,1
+Adobe Security Bulletin APSB10-22,62,2
+Adobe Security Bulletin APSB11-,59,1
+Adobe Security Bulletin APSB11-17,59,1
+Adobe Security Bulletin APSB12,540,1
+Adobe Security Bulletin APSB13-,3,1
+Adobe Type Manager,47,3
+Advanced Encryption Standard,7,1
+Advanced Threat Protection,201,1
+Advisory,17,1
+Advisory to Financial Institutions on Cyber-Events and Cyber-Enabled Crime,9,1
+Adwind RAT,34,2
+Afkar System Yazd Company,184,2
+Agent Tesla,6,9
+Agile - Engineering Data Management,253,1
+Akamai,5,1
+Akamai,52,1
+Akamai Technologies',52,1
+Albania,5,1
+Albanian Government,5,1
+Alert,3,2
+Alert,197,1
+Alert Logic,205,1
+AlienVault,40,1
+Allied Networks,10,1
+AlticGO,11,2
+Amazon,3,3
+Amazon AWS,15,1
+American Water Works Association,3,1
+Ammyy,22,1
+Analytics,201,1
+Anchor,24,2
+Android,3,2
+Android,25,6
+Android,34,1
+Android,59,2
+Android,62,1
+Android,215,1
+Android 3.x,3,1
+Android 4.xAdobe Flash Player 11.1.111.32,3,1
+AndroidAdobe,52,1
+AndroidAdobe AIR 2.7,52,1
+AndroidAdobe Reader 9.3.4,62,1
+Andy,205,1
+Angry IP Scanner,9,3
+AnnualCreditReport.com,536,1
+Anonymous,239,2
+Antimalware,9,1
+Antimalware Scan Interface,3,1
+Ants2Whale,532,3
+Ants2WhaleHelper,532,3
+AnyDesk,9,2
+Apache,3,1
+Apache,10,3
+Apache,15,7
+Apache,194,1
+Apache,196,2
+Apache,204,1
+Apache,211,3
+Apache,234,1
+Apache 2.4.49,3,1
+Apache APISIX,3,6
+Apache Guacamole,3,1
+Apache HTTP Server 2.4.49,3,2
+Apache HTTP Server 2.4.50,3,1
+Apache Log4j,10,2
+Apache Log4j,15,3
+Apache Log4j Security Vulnerabilities,15,3
+Apache Log4j Vulnerability Guidance,8,2
+Apache Log4j Vulnerability Guidance,10,1
+Apache Log4j Vulnerability Guidance,15,1
+Apache Log4j2 2.0,3,1
+Apache Logging,3,1
+Apache Logging Service,9,1
+Apache Software Foundation,196,1
+Apache Struts,18,1
+ApacheAccessLog,22,1
+Apache®,8,1
+App Center,26,1
+App Store,230,1
+AppArmor,9,1
+AppArmor,13,1
+AppLocker,3,1
+AppLocker,9,1
+AppLocker,12,1
+AppLocker,39,1
+AppLocker,40,1
+AppLocker,43,1
+AppLocker,187,1
+AppLocker,209,1
+Apple,11,9
+Apple,21,1
+Apple,22,1
+Apple,50,4
+Apple,66,9
+Apple,69,5
+Apple,206,4
+Apple,210,7
+Apple,230,2
+Apple,233,1
+Apple,240,1
+Apple,260,7
+Apple,267,9
+Apple,532,1
+Apple Downloads,260,1
+Apple Downloads,267,1
+"Apple Downloads
+
+
+",260,1
+Apple Safari,9,1
+AppleJeus,11,3
+AppleJeus,532,36
+Appliance,531,1
+Application Delivery Controller,18,1
+Application Windows,531,1
+ApplicationsMicrosoft,6,1
+Apt41,531,1
+ArabiaSpainSri,3,1
+Argentina,3,1
+Argentina,532,1
+ArgentinaBelgiumBrazilCambodiaChinaColombiaEgyptIndiaIranJordanPakistanSaudi,3,1
+Arkansas,6,1
+Ars Technica,50,1
+ArsTechnica,20,2
+Aryeh Goretsky,550,1
+AsperaConnect,22,1
+AsrDrv103.sys,185,1
+AsyncRAT,6,1
+Atlanta,532,5
+Atlassian,3,8
+Atlassian,10,3
+Atlassian,201,2
+Atlassian,531,6
+Atlassian Data Center,3,1
+Atlassian Jira Data Center,3,1
+Attack Surface Reduction,47,1
+AuditD,3,1
+Australia,0,1
+Australia,2,1
+Australia,3,4
+Australia,7,1
+Australia,8,1
+Australia,10,2
+Australia,12,1
+Australia,13,10
+Australia,14,1
+Australia,16,1
+Australia,17,2
+Australia,18,1
+Australia,30,1
+Australia,34,1
+Australia,46,1
+Australia,184,4
+Australia,186,1
+Australia,191,2
+Australia,207,1
+Australia,211,2
+Australia,529,1
+Australia,531,2
+Australia,532,1
+Australian Cyber Security Centre,9,1
+Australian Cyber Security Centre,10,1
+Australian Cyber Security Centre,13,1
+Australian Cyber Security Centre,15,1
+Australian Cyber Security Centre,34,1
+Australian Cyber Security Centre,46,1
+Australian Cyber Security Centre,191,1
+Australian Cyber Security Centre,204,1
+Australian Cyber Security Centre,207,2
+Australian Cyber Security Centre,211,1
+Australian Cyber Security Centre’s,191,1
+Australian Signals Directorate,8,1
+Authplay,540,2
+AutoPlay,550,2
+AutoRun,265,1
+AutoRun,550,10
+Autonomous System,186,1
+Autorun,45,2
+Autorun,550,3
+Autorun­,45,1
+Avalanche,44,9
+Avast Blog,205,1
+Aviary,201,4
+Aviary Dashboard,201,1
+Azure,3,2
+Azure,12,1
+Azure,197,3
+Azure,201,16
+Azure,202,1
+Azure,204,5
+Azure AD,12,3
+Azure AD,201,4
+Azure AD,204,2
+Azure AD Graph,201,1
+Azure AD’s,12,1
+Azure AD’s,204,1
+Azure Active Directory,201,1
+Azure Advanced Threat Protection,34,1
+Azure Reporting Tool,14,1
+Azure Reporting Tool,201,1
+Azure Sentinel,201,3
+Azure Sentinel.).[10,201,1
+Azure/M365,201,1
+B374,46,2
+BASE64,1,1
+BEA,551,7
+BEA ALDSP,67,1
+BEA JRockit,67,1
+BEERBOT,24,1
+BERSERK BEAR,191,3
+BIG-IP,8,1
+BIG-IP,196,1
+BIND9,186,2
+BMC,44,4
+BRONZE MOHAWK,197,1
+Babuk Locker,2,1
+BabyShark,9,7
+Babyshark,9,4
+Backdoor.,39,1
+Backoff,50,3
+Bad Packets,10,1
+BadAlloc,19,1
+BadRabbit,34,1
+Bangladesh,3,1
+Bangladesh Bank,30,2
+Bangladesh Bank’s,30,1
+Base64,3,1
+Base64,5,3
+Base64,9,3
+Base64,34,1
+Base64,50,1
+Base64,529,4
+Bash,50,7
+Bash,188,3
+Bashlite,20,3
+Bazar,24,1
+BazarBackdoor,24,1
+BazarBackdoor)—as,24,1
+BazarLoader,24,11
+BazarLocker,24,1
+Beacon,198,1
+"Beacon
+",201,1
+BeagleBoyz,3,70
+Beebone,3,1
+Belgium,532,1
+Belkasoft,22,1
+Berserk Bear,9,1
+Berserk Bear,12,1
+Biden,191,1
+Bishop Fox,531,1
+BishopFox,3,1
+BitLocker,3,1
+BitLocker,184,6
+BitPay,532,2
+BitPaymer,205,2
+Bitcoin,1,1
+Bitcoin,8,1
+Bitcoin,24,1
+Bitcoin,187,1
+Bitdefender,22,1
+BitmapData,47,1
+BizTalk Server,201,1
+BizTalk Server 2002,18,1
+Black Hat USA,33,1
+BlackBerry,6,1
+BlackBerry,19,13
+BlackEnergy,14,2
+BlackEnergy,36,2
+BlackEnergy,191,2
+BlackEnergy,192,1
+BlackEnergy 3,14,1
+BlackMatter,13,1
+BlackMatter,16,15
+Blackberry,19,1
+Blackberry Enterprise Server,39,1
+Blackberry Enterprise Server,187,1
+Blackbird Bitcoin Arbitrage,532,2
+Blackbird Bitcoin Arbitrage.[8,532,1
+BloodHound,12,1
+Bloodhound,24,1
+Bloomberg,3,1
+Blue,531,1
+BlueKeep,534,6
+BlueNoroff,11,1
+Bluenoroff,3,2
+Boaxxe,33,2
+Boaxxe/Miuref,33,2
+Boot,9,1
+Border Gateway Protocol,33,1
+Bosnia and Herzegovina,3,1
+BoxDrive,22,1
+Brambul,3,8
+Brazil,3,1
+Brazil,532,1
+Brett Stone-Gross,205,1
+Brewster,205,1
+Brian Krebs’,20,1
+Broadcom,194,1
+Broadcom,201,1
+Broadcom Software,194,1
+Brokers,20,1
+Browser64,529,1
+Buffalo,3,3
+BufferedReader,3,1
+BufferedReader,530,1
+Bugat,205,1
+Bulgaria,3,1
+Bulletin,47,1
+Bulletins,47,1
+Burpsuite Pro,15,1
+C++ Redistributable,33,1
+C2,3,3
+C2,8,1
+C2,9,4
+C2,11,2
+C2,24,3
+C2,33,1
+C2,35,2
+C2,43,2
+C2,187,2
+C2,198,3
+C2,201,1
+C2,212,1
+C2,529,6
+C2,532,12
+C99,46,2
+CA,4,1
+CCCS,9,1
+CCCS,10,3
+CCCS,15,29
+CCCS,34,2
+CCCS,184,3
+CCCS,189,4
+CCCS,191,4
+CCCS,211,5
+CCIRC,3,2
+CCIRC,43,3
+CCIRC,212,1
+CDC,3,1
+CDC,12,6
+CDCs,12,10
+CERT,15,1
+CERT,34,1
+CERT,48,1
+CERT NZ,15,27
+CERT NZ[7,189,1
+CERT-NZ,189,2
+CERT/CC,10,1
+CERT/CC,32,1
+CERT/CC,44,1
+CERT/CC Vulnerability Analysis,550,1
+CGCYBER,8,8
+CGCYBER,530,14
+CHIRP,197,28
+CHIRP Overview,197,1
+CI,9,1
+CI,196,3
+CIG,205,2
+CISA,0,14
+CISA,1,46
+CISA,2,11
+CISA,3,176
+CISA,4,18
+CISA,5,4
+CISA,6,10
+CISA,7,16
+CISA,8,46
+CISA,9,132
+CISA,10,8
+CISA,11,3
+CISA,12,29
+CISA,13,8
+CISA,14,25
+CISA,15,45
+CISA,16,15
+CISA,17,12
+CISA,18,28
+CISA,19,2
+CISA,20,34
+CISA,21,4
+CISA,22,18
+CISA,23,9
+CISA,24,28
+CISA,25,4
+CISA,26,6
+CISA,27,4
+CISA,28,3
+CISA,29,15
+CISA,30,6
+CISA,31,7
+CISA,32,9
+CISA,43,1
+CISA,52,1
+CISA,184,30
+CISA,185,22
+CISA,186,20
+CISA,187,8
+CISA,188,23
+CISA,189,4
+CISA,191,14
+CISA,192,13
+CISA,193,8
+CISA,194,9
+CISA,196,11
+CISA,197,19
+CISA,198,13
+CISA,200,13
+CISA,201,33
+CISA,202,7
+CISA,203,1
+CISA,204,14
+CISA,205,7
+CISA,206,2
+CISA,211,12
+CISA,529,17
+CISA,530,16
+CISA,531,12
+CISA,532,4
+CISA,533,6
+CISA,534,2
+CISA 24/7 Operations Center,9,1
+CISA 24/7 Operations Center,10,1
+CISA 24/7 Operations Center,11,1
+CISA 24/7 Operations Center,185,1
+CISA 24/7 Operations Center,192,1
+CISA 24/7 Operations Center,211,1
+CISA Alert AA20-120A,12,1
+CISA Alert Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments,14,1
+CISA Alerts,197,1
+CISA Cybersecurity Advisor,185,1
+CISA Insight,533,1
+CISA Insights,533,1
+CISA Regional Offices,185,1
+CISA-Multi-State Information Sharing and Analysis Center,187,1
+CISCO,9,1
+CMHD64V5R8,11,1
+CMS,46,1
+CN,5,1
+CN=NVIDIA Corporation,5,1
+CNE,197,1
+CNI,211,1
+CNMF,9,2
+CNMF,184,1
+CNMF,529,13
+CNN,239,2
+CODESYS,185,1
+COPPERHEDGE,3,3
+COVID,3,1
+COVID-19,3,2
+COVID-19,6,1
+COVID-19,200,1
+COZY BEAR,191,1
+CROWDEDFLOUNDER,3,4
+CRT,201,2
+CS5.1,52,1
+CS5APSB11,52,1
+CSA,2,1
+CSA,4,1
+CSA,10,2
+CSA,14,1
+CSA,15,1
+CSA,184,6
+CSA,188,2
+CSA,191,4
+CSA,193,1
+CSA,211,1
+CSE,21,1
+CTX267027,32,1
+CTX269180 –,32,1
+CVE,9,1
+CVSS Impact Subscore 10,50,1
+CYWARE Social,9,2
+Cabinet,54,1
+CacheTask,184,1
+CaddyWiper,194,2
+California,3,1
+California,5,1
+Campus Solutions,541,1
+Canada,0,1
+Canada,2,1
+Canada,3,3
+Canada,7,1
+Canada,8,1
+Canada,10,1
+Canada,12,1
+Canada,13,1
+Canada,14,1
+Canada,16,1
+Canada,17,2
+Canada,18,1
+Canada,21,1
+Canada,30,1
+Canada,34,1
+Canada,46,1
+Canada,184,3
+Canada,186,1
+Canada,191,2
+Canada,197,1
+Canada,200,1
+Canada,211,2
+Canada,529,1
+Canada,531,1
+Canada,532,1
+Canadian Centre for Cyber Security,9,1
+Canadian Centre for Cyber Security,10,1
+Canadian Centre for Cyber Security,15,1
+Canadian Centre for Cyber Security,34,1
+Canadian Centre for Cyber Security,189,1
+Canadian Centre for Cyber Security,191,2
+Canadian Cyber Incident Response Centre,43,1
+Canadian Cyber Incident Response Centre,212,1
+Canary Token,15,1
+Canary Tokens,15,1
+Canonical Name record,3,1
+Canopy,529,2
+"Canopy
+MuddyWater",529,1
+Canopy/Starwhale,529,3
+Canvas,9,1
+Capture Memory,22,1
+Carna Botnet,233,1
+Celas,532,1
+Celas LLC,532,5
+Celas Trade Pro,532,5
+CelasTradePro,532,3
+CelasTradePro.exe,532,1
+Center 16,191,2
+Center 18,191,1
+Center for Internet Security,3,1
+Center for Internet Security,211,1
+Central Scientific Institute of Chemistry and Mechanics,191,2
+Central Scientific Research Institute of Chemistry and Mechanics,9,1
+"Centralized Cyber Incident Reporting
+",24,1
+CertUtil,203,3
+Chandler,205,1
+Changeup,3,1
+Check Point,25,1
+CheckUpdate,532,2
+Cheng Qingmin,197,1
+Chile,3,2
+China,3,1
+China,9,2
+China,18,1
+China,20,3
+China,34,1
+China,46,1
+China,196,2
+China,197,3
+China,201,20
+China,531,2
+China,532,1
+China Chopper,4,1
+China Chopper,9,6
+China Chopper,34,12
+China Chopper,46,2
+China Chopper,196,1
+China Chopper Web Shell,201,1
+"China Chopper Web Shell
+
+
+",9,1
+China Chopper Webshell,22,4
+China Chopper shell,196,1
+"China Chopper 
+",34,1
+China Chopper’s,34,1
+Chinese Gas Pipeli,3,1
+Chinese Ministry of State Security,10,1
+Chisel,9,1
+"Chisel
+",9,1
+Chopper,9,1
+Chopper,46,1
+Christian,52,1
+Christian Rossow,52,1
+Chrome,9,4
+Chrome,22,1
+Chrome,35,1
+Chrome,42,1
+Chrome,47,1
+Chrome,50,1
+Chrome,184,2
+Chrome,198,1
+Chrome,203,1
+Chrome,215,4
+Chrome Remote Desktop,50,1
+Chrome Web Store,9,1
+ChromeExtensions,22,1
+Chromium,25,1
+Chromium Embedded Framework,33,1
+ChunkyTuna,9,5
+Cisco,3,6
+Cisco,9,17
+Cisco,10,2
+Cisco,12,1
+Cisco,14,1
+Cisco,20,18
+Cisco,33,2
+Cisco,37,1
+Cisco,193,1
+Cisco,201,3
+Cisco,207,24
+Cisco ASA,20,2
+Cisco Blogs,205,1
+Cisco IOS,207,1
+Cisco IOS Software,9,1
+Cisco IOS XE Software,9,1
+Cisco Talos,9,1
+Cisco Talos,17,1
+Cisco Talos,36,1
+Cisco Talos,192,3
+CiscoJabber,22,1
+Citrix,3,5
+Citrix,9,20
+Citrix,10,1
+Citrix,12,13
+Citrix,14,1
+Citrix,17,1
+Citrix,18,3
+Citrix,29,2
+Citrix,32,52
+Citrix,37,1
+Citrix,201,12
+Citrix,202,8
+Citrix,204,25
+Citrix,531,7
+Citrix ADC,32,10
+Citrix ADC,202,1
+Citrix ADC,204,2
+Citrix Application Delivery Controller,3,1
+Citrix Application Delivery Controller,9,1
+Citrix Application Delivery Controller,32,1
+Citrix Application Delivery Controllers,9,1
+Citrix Blog,32,4
+Citrix Gateway,9,4
+Citrix Gateway,12,3
+Citrix Gateway,18,1
+Citrix Gateway,32,16
+Citrix Gateway,201,7
+Citrix Gateway,202,4
+Citrix Gateway,204,2
+Citrix NetScaler,9,1
+Citrix SDWAN WANOP,18,1
+City,3,1
+ClientMicrosoft,9,2
+Cloud Foundation,10,1
+CloudStorage,22,1
+CmdLets,5,1
+Coast Guard Cyber Command,8,1
+Cobalt Strike,1,2
+Cobalt Strike,9,6
+Cobalt Strike,17,4
+Cobalt Strike,21,1
+Cobalt Strike,24,1
+Cobalt Strike,34,1
+Cobalt Strike,185,1
+Cobalt Strike,191,1
+Cobalt Strike,196,8
+Cobalt Strike,198,8
+Cobalt Strike,201,1
+Cobalt Strike Beacon,198,10
+Cobalt Strike C2,198,3
+Codoso,201,1
+Coherence,201,1
+CoinGoTrade,532,9
+CoinGoTradeUpgradeDaemon,532,1
+CoinGoTrade[.]com,532,1
+ColdFusion,34,1
+ColdFusion 11 Update 13,201,1
+"Collection
+Kimsuky",9,1
+Colonial Pipeline,1,1
+Colonial Pipeline Company,13,1
+ComSysApp,203,2
+Comae Technologies,206,1
+ComboFix,22,1
+Comcast,207,2
+Command Shell,4,1
+Command Shell,9,2
+Command and Control (,201,1
+Command and Scripting Interpreter,3,3
+Command and Scripting Interpreter,532,1
+CommandHandler,529,1
+Commerce Server 2002,18,1
+Commerce Server 2002,201,1
+Commercial,5,1
+Communications,0,1
+Communications,3,1
+Communications,43,1
+Comodo,532,1
+ComponentsMicrosoft,8,1
+ComputerWorld,204,1
+Confluence Data Center,531,1
+Confluence Server,3,7
+Confluence Server,10,1
+Confluence Server,201,1
+Confluence Server,531,4
+Confluence Server Webwork,10,1
+ConfluenceLogs,22,1
+Congressional Research Services,201,1
+ConnectWise,529,1
+Connection Proxies,3,1
+Connector,531,1
+Constant Contact,198,3
+"Constant Contact, Inc.",198,1
+Content Management Systems,234,1
+Conti,6,2
+Conti,13,1
+Conti,17,2
+Conti,24,3
+Conti,191,4
+CoomingProject,191,3
+Cooperation,529,1
+Copay,532,2
+"Core Impact,[6",9,1
+Corero,52,1
+Corero Network Security,52,1
+Cortex XDR™,3,1
+Costa Rica,3,1
+Council on Foreign Relations,201,1
+CovalentStealer,4,9
+CovidLock,3,2
+"Cozy Bear).[2,3",198,1
+CozyBear,21,1
+CozyDuke,191,1
+CrackMapExec,9,1
+CrackMapExec,39,1
+CrackMapExec,187,1
+CrackMapExec,202,1
+CrashOverRide,209,1
+CrashOveride,14,1
+CrashOverride,14,1
+CrashOverride,191,1
+CrashOverride,209,6
+CrashReporter,532,5
+CrashReporter.exe,532,1
+CreAI Deck,11,2
+CreateRemoteThread,24,2
+CreateRemoteThread,196,1
+CreateToolhelp32Snapshot,24,1
+CredGuard,12,3
+Credential Guard,1,1
+Credential Guard,34,1
+Credential Guard,185,1
+Cridex,44,1
+Cridex,205,1
+Crouching Yeti,9,1
+Crouching Yeti,191,1
+Crowd,531,6
+Crowd Data Center,531,4
+CrowdStrike,2,1
+CrowdStrike,3,1
+CrowdStrike,14,1
+CrowdStrike,191,1
+CrowdStrike,201,5
+CrowdStrike Blog,191,1
+Crowdstrike,9,2
+"CrownCloud US, LLC",532,1
+Crypt3,531,1
+CryptAIS,11,1
+CryptoAPI,3,1
+CryptoAPI,533,2
+CryptoDefence,43,1
+CryptoDefence,212,1
+CryptoDefense,43,2
+CryptoLocker,43,7
+CryptoLocker,212,6
+CryptoLocker,231,3
+CryptoLocker,537,4
+CryptoWall,212,1
+Cryptolocker,3,1
+Cryptolocker,43,1
+Cryptolocker,212,1
+Cryptolocker,231,1
+CryptorBit,43,1
+CryptorBit,212,1
+Cryptowall,43,2
+Curated Intelligence,15,3
+Customer Provider Edge,52,1
+Cutwail,3,1
+CyLance,43,1
+CyWatch,1,1
+CyWatch,3,7
+CyWatch,4,1
+CyWatch,7,1
+CyWatch,9,1
+CyWatch,12,1
+CyWatch,18,2
+CyWatch,36,2
+CyWatch,38,1
+CyWatch,40,1
+CyWatch,191,1
+CyWatch,196,1
+CyWatch,198,1
+CyWatch,200,1
+CyWatch,530,2
+CyWatch,531,1
+Cyber Defense Institute,216,1
+Cyber Division,2,1
+Cyber Division,3,5
+Cyber Division,9,1
+Cyber Division,20,1
+Cyber Division,38,1
+Cyber Division,40,1
+Cyber Division,42,1
+Cyber Division,187,1
+Cyber Division,202,1
+Cyber Division,205,1
+Cyber Division,207,1
+Cyber Hygiene Services,5,1
+Cyber Kill Chain,187,2
+Cyber Task Force,18,1
+Cybersecurity & Communications Integration Cell,6,2
+Cybersecurity and Infrastructure Security Agen,3,1
+Cybersecurity and Infrastructure Security Agency,0,1
+Cybersecurity and Infrastructure Security Agency,2,1
+Cybersecurity and Infrastructure Security Agency,3,11
+Cybersecurity and Infrastructure Security Agency,7,1
+Cybersecurity and Infrastructure Security Agency,9,2
+Cybersecurity and Infrastructure Security Agency,12,1
+Cybersecurity and Infrastructure Security Agency,13,1
+Cybersecurity and Infrastructure Security Agency,21,2
+Cybersecurity and Infrastructure Security Agency,22,1
+Cybersecurity and Infrastructure Security Agency,29,1
+Cybersecurity and Infrastructure Security Agency,189,1
+Cybersecurity and Infrastructure Security Agency,191,2
+Cybersecurity and Infrastructure Security Agency,192,1
+Cybersecurity and Infrastructure Security Agency,193,1
+Cybersecurity and Infrastructure Security Agency,196,1
+Cybersecurity and Infrastructure Security Agency,211,2
+Cyclops Blink,192,21
+D-Link,9,1
+D3FEND,196,1
+DA,2,1
+DAFOM,11,1
+DC,1,2
+DC,3,1
+DC3,4,1
+DCMS,211,1
+DD-WRT,233,1
+DHS,1,1
+DHS,2,1
+DHS,3,26
+DHS,21,6
+DHS,29,1
+DHS,33,3
+DHS,35,1
+DHS,36,3
+DHS,38,6
+DHS,39,20
+DHS,40,11
+DHS,42,4
+DHS,43,1
+DHS,44,1
+DHS,45,1
+DHS,50,1
+DHS,187,21
+DHS,192,1
+DHS,207,5
+DHS,209,1
+DHS,212,1
+DHS,213,1
+DHS,216,1
+DHS,231,1
+DHS,537,2
+DIB,4,1
+DIB,9,1
+DIB,196,4
+DMG Installer,532,1
+DNS Server,186,1
+DNSInspect,186,1
+DNSInspect.com,186,1
+DOE,9,7
+DOE,31,1
+DOE,185,6
+DOJ,3,1
+DOJ,30,4
+DOJ,33,1
+DOJ,191,4
+DOJ,197,2
+DOJ,201,7
+DOJ,213,1
+DOJ,231,1
+DOS,9,2
+DOS,14,1
+DPRK,30,77
+DRACIBM,44,1
+Daixin,2,17
+Daixin Group,2,1
+Daixin Team,2,6
+Dan Farmer,44,1
+Dan Farmer's,44,1
+Dan Sharvit,531,1
+DanaBot,191,7
+Danabot,191,2
+Daniel Bohannon’s,529,1
+Dark Halo,191,1
+DarkSide,1,12
+DarkSide,16,1
+DarkSide,18,2
+Data Access Components,60,2
+Data Center,3,4
+Data Center,10,1
+Data Center,531,2
+Daxin,2,1
+DearCry,22,1
+DearCry Ransomware,22,3
+Debian,37,1
+Deep Panda,201,1
+DefaultAccount,12,1
+Defender,5,1
+Defender,198,1
+Defender,201,1
+Defender,232,1
+Defense Industrial Base,12,1
+Defense Industrial Base (DIB) Sector,3,1
+Defense Industrial Base (DIB) Sector,191,1
+Delphi,187,1
+DeltaCharlie,40,5
+Denmark,30,1
+Denmark,532,1
+Department,12,1
+Department of Defense,3,1
+Department of Defense,9,1
+Department of Defense,12,1
+Department of Defense Cyber Crime Center/DCISE,545,1
+"Department of Digital, Culture, Media, and Sport",211,1
+Department of Energy,1,1
+Department of Health and Human Services,2,1
+Department of Health and Human Services,6,1
+Department of Homeland Security,3,1
+Department of Homeland Security,9,1
+Department of Homeland Security,21,1
+Department of Homeland Security,29,1
+Department of Homeland Security,36,1
+Department of Homeland Security,192,1
+Department of Homeland Security,216,1
+Department of Homeland Security,234,1
+Department of Justice,3,2
+Department of Justice,9,1
+Department of Justice,30,3
+Department of Justice,200,1
+Department of Justice,201,1
+Department of Justice,532,1
+Department of the Treasury,532,1
+DetailsNCCIC,1,1
+DetectionNCCIC,43,1
+Detours Library,3,1
+Developer Tools,186,1
+Device Guard,185,1
+Dexter,536,6
+Dick,205,1
+DigiNotar,34,2
+Ding Xiaoyang,197,1
+Dingo,8,1
+Dingo,188,5
+Dingo J-spy,188,3
+DirectShow,261,2
+DirectShowMicrosoft,261,1
+Discord,22,1
+Discovery,3,2
+Discovery,9,1
+Discovery,52,1
+Discovery,198,1
+Disk Wiper,5,1
+Distributed Authoring and Versioning (,39,1
+Distributed Authoring and Versioning (WebDAV) protocol,187,1
+Divertor,15,1
+DoD,3,2
+DoD,9,2
+DoD,12,2
+DoJ,531,1
+DoT,184,1
+Domain Controllers,201,1
+Domain Name System,24,1
+Domain Name System,35,1
+Domain Name System,529,1
+Domain Protected Users Group,12,1
+DomainKeys Identified,2,1
+DomainKeys Identified Mail,42,1
+DomainTools,3,1
+DoppelDridex,191,1
+Dorkbot,45,9
+Dorusio,532,8
+Dorusio Wallet 2.1.0,532,1
+DorusioDaemon,532,2
+DorusioUpgrade.exe,532,1
+Double Dragon,201,1
+Download Center,3,1
+Dr.,25,1
+Dragonfly,9,1
+Dragonfly,12,1
+Dragonfly,39,3
+Dragonfly,187,3
+Dragonfly,191,2
+Dragonfly 2.0,187,1
+DragonflyBSD,37,1
+Dragos,3,1
+Dragos,185,2
+Dragos,209,4
+Dragos Inc,209,2
+DrayTek,9,2
+Draytek,201,1
+Dridex,18,2
+Dridex,44,1
+Dridex,205,32
+Dridex,213,10
+Dropbox,3,1
+Dropbox,22,1
+Dropbox,196,2
+Dropbox,197,2
+"Dropbox, Inc.",196,1
+Dropper,530,1
+Droptop GmbHResolutions,198,1
+Drovorub,191,1
+Drupal,9,1
+Drupal,531,3
+Drupal 8.5.1,531,1
+Drupwn,9,1
+"Drupwn
+",9,1
+Du,8,1
+Dual Gigabit WAN VPN Routers,9,2
+Dukes,21,1
+Duo,3,1
+Duo,193,6
+Duo MFA,193,1
+Duuzer,40,1
+Dynamic Link Library,9,1
+Dynamics,6,1
+Dyre,24,1
+Dyre,43,4
+E-Business Suite Release 11i,253,1
+E-Business Suite Release 12,253,1
+E5,201,2
+EA,2,1
+ECC203,185,1
+ECCENTRICBANDWAGON,3,2
+EINSTEIN,3,1
+ELECTRICFISH,3,3
+ELECTRUM,191,1
+EMET,531,1
+EMET 3.0,3,1
+EMR Letter.xls”,3,1
+EOL,3,1
+EOMT.ps1,22,1
+EPA,3,8
+EPA,200,2
+ESET,22,1
+ESET,33,1
+ESET,194,1
+ESET,205,1
+ESET,209,3
+ESTSecurity,3,1
+ESXi,0,1
+ESXi,2,4
+ESXi,16,1
+EWS,4,1
+Earth Vetala,529,1
+Eclypsium,198,1
+Ecuador,3,1
+Edge,22,1
+Edge,198,1
+Edtech,3,1
+Eduard Kovacs,205,1
+Education,13,1
+Egregor,531,1
+EldoS,5,1
+Electron,11,5
+Elliptic Curve Cryptography,533,1
+Embedded Open Type (EOT),257,1
+Emin Atac,550,1
+Emotet,24,1
+Emotet,35,19
+Emotet,191,9
+Emotet,198,1
+Emotet,200,55
+Emotet Malware,191,1
+Empire,24,1
+Empire,185,1
+Endpoint,198,1
+Endpoint Detection and Response (,205,1
+Energetic Bear,9,1
+Energetic Bear,12,1
+Energetic Bear,191,1
+Energy,3,1
+Energy,43,1
+Energy,191,1
+Energy Sector,9,7
+Energy Sector,20,2
+Energy Sector Organization,9,1
+Enhanced Mitigation Experience Toolkit,3,1
+Enhanced Mitigation Experience Toolkit,40,1
+Enhanced Mitigation Experience Toolkit 5.2,47,1
+Enterprise,194,1
+Equation Editor,531,1
+Equifax,201,1
+Equifax,215,1
+Equifax,536,1
+Eric Zimmerman,22,1
+Esilet,11,2
+Estonia,532,1
+EternalBlue,1,2
+EternalRomance,1,1
+Europay,3,1
+Europol,3,1
+Evasion,9,1
+Evil Corp,205,1
+Excel,3,4
+Excel,11,1
+Excel,17,1
+Excel,189,1
+Excel,198,2
+Excel,529,4
+Excel,544,3
+Excel,553,1
+Exchange,3,6
+Exchange,5,2
+Exchange,10,1
+Exchange,22,10
+Exchange,211,1
+Exchange,246,3
+Exchange,549,1
+Exchange Admin Center,22,1
+Exchange Online,12,1
+Exchange Online,22,1
+Exchange Online,201,4
+Exchange Online,204,3
+Exchange Server,3,3
+Exchange Server,4,1
+Exchange Server,5,1
+Exchange Server,9,2
+Exchange Server,10,3
+Exchange Server,12,1
+Exchange Server,22,7
+Exchange Server,39,1
+Exchange Server,187,1
+Exchange Server,549,1
+"Exchange Server
+
+
+",10,3
+Exchange Server 2010,22,1
+Exchange Server 2010,201,1
+Exchange Server 2013,12,1
+Exchange Server 2013,22,2
+Exchange Server 2013,201,1
+Exchange Server 2016,12,2
+Exchange Server 2016,22,1
+Exchange Server 2016,201,2
+Exchange Server 2019,12,1
+Exchange Server 2019,22,1
+Exchange Server 2019,201,2
+Exchange Server 2019,531,1
+Exchange Server Vulnerabilities Mitigations,22,1
+Exchange Servers,22,4
+ExchangeClientAccess,22,1
+ExchangeTransport,22,1
+Experian,536,1
+Exploit-DB,9,1
+Exploit-DB.[10][11,9,1
+Explorer,192,1
+ExplorerMicrosoft,40,1
+ExplorerMicrosoft,58,1
+ExplorerMicrosoft,184,2
+ExplorerWindows,232,1
+Expression Design,238,3
+Extended Binary Coded Decimal Interchange Code,3,1
+F5,3,9
+F5,8,5
+F5,9,6
+F5,196,1
+F5,531,1
+F5 BIG-IP,8,4
+F5 BIG-IP,9,3
+F5 BIG-IP:[1,8,1
+F5 Big-IP,196,1
+F5 Networks,3,1
+F5 Networks,196,1
+"F5 Networks, Inc.",8,1
+"F5 Networks, Inc.",9,1
+F5 VPNs,9,1
+FALLCHILL,3,7
+FALLCHILL,532,7
+FANCY BEAR,191,1
+FASTCash,3,18
+FASTCash 2.0,532,1
+FATF,30,6
+FBI,0,18
+FBI,1,29
+FBI,2,15
+FBI,3,106
+FBI,4,8
+FBI,5,6
+FBI,6,1
+FBI,7,20
+FBI,8,3
+FBI,9,52
+FBI,10,4
+FBI,11,6
+FBI,12,22
+FBI,13,7
+FBI,14,17
+FBI,15,31
+FBI,16,12
+FBI,17,13
+FBI,18,22
+FBI,20,40
+FBI,21,18
+FBI,22,1
+FBI,23,7
+FBI,24,20
+FBI,28,4
+FBI,30,3
+FBI,33,3
+FBI,36,5
+FBI,38,7
+FBI,39,9
+FBI,40,9
+FBI,42,6
+FBI,43,1
+FBI,44,1
+FBI,45,1
+FBI,184,8
+FBI,185,25
+FBI,186,1
+FBI,187,24
+FBI,189,4
+FBI,191,10
+FBI,192,15
+FBI,193,10
+FBI,194,6
+FBI,196,12
+FBI,197,2
+FBI,198,15
+FBI,200,5
+FBI,201,2
+FBI,202,2
+FBI,204,1
+FBI,205,6
+FBI,207,6
+FBI,209,1
+FBI,211,8
+FBI,212,1
+FBI,213,1
+FBI,216,1
+FBI,231,1
+FBI,529,10
+FBI,530,18
+FBI,531,9
+FBI,532,4
+FBI,537,1
+FBI CYWATCH,30,1
+FBI Cyber Division,3,1
+FBI Cyber Division,30,1
+FBI Field Office,2,2
+FBI Field Office,7,2
+FBI Field Office,13,1
+FBI Field Office,16,1
+FBI Field Office,185,1
+FBI Field Office,187,1
+FBI National Press Office,9,1
+FBI National Press Office,196,1
+FCDO,191,1
+FCEB,1,6
+FCEB,15,2
+FEVERDREAM,197,1
+FFIEC,3,1
+FFIEC,30,1
+FFIEC,532,1
+FINSPY,18,2
+"FRPC
+",9,1
+FS-ISAC,50,1
+FSB,9,6
+FSB,191,10
+FSB Center,191,1
+FSecure,22,1
+FTA,211,5
+FTC,2,2
+FTC,7,2
+FTC,536,2
+FTK Imager,22,10
+FTK Imager –,22,1
+FTK Imager.exe,22,2
+FTK Imager”,22,1
+Facebook,36,1
+FakeAV/Kazy,54,1
+FedEx,537,1
+Federal Bureau of Investigation,1,1
+Federal Bureau of Investigation,3,1
+Federal Bureau of Investigation,10,1
+Federal Bureau of Investigation,13,1
+Federal Bureau of Investigation,14,1
+Federal Bureau of Investigation,20,1
+Federal Bureau of Investigation,191,1
+Federal Bureau of Investigation,194,1
+Federal Bureau of Investigation,196,1
+Federal Bureau of Investigation,198,1
+Federal Bureau of Investigation,211,1
+Federal Bureau of Investigation[3,189,1
+Federal Civilian Executive Branch,1,1
+Federal Civilian Executive Branch,9,1
+Federal Civilian Executive Branch,188,2
+Federal Financial Institutions Examination Council,3,1
+Federal Financial Institutions Examination Council,30,1
+Federal Financial Institutions Examination Council,532,1
+Federal Government,9,22
+Federal Government,14,1
+Federal Government,15,1
+Federal Government,186,1
+Federal Government,191,1
+Federal Government Cybersecurity Incident and Vulnerability Response Playbooks,8,1
+Federal News Radio,54,1
+Federal Reserve,30,1
+Federation Service,201,2
+Fedora Project,37,1
+Fedoraproject,3,1
+Felipe Molina,42,1
+Fenrir,15,1
+Fenrir 0.9.0 - Log4Shell Release,15,1
+Feodo,44,1
+Field Office,22,1
+Fiesta,54,1
+File Transfer Protocol,3,1
+File Transfer Protocol,25,1
+File Transfer Protocol,201,1
+FileZilla,3,3
+FileZilla,22,1
+FileZilla,184,1
+Filezilla,9,1
+Filezilla,198,1
+FinCEN,8,1
+FinCEN,9,1
+FinCEN,30,5
+FinCEN,205,4
+FinCEN,532,1
+FinCEN Advisory FIN-2016-A005,9,1
+FinFisher,18,1
+Financial Crimes Enforcement Network,30,2
+Financial Crimes Enforcement Network,205,1
+Financial Sector Information Sharing and Analysis Center,50,1
+Finder,532,3
+FireEye,3,5
+FireEye,9,1
+FireEye,34,1
+FireEye,39,2
+FireEye,40,1
+FireEye,43,2
+FireEye,46,3
+FireEye,184,3
+FireEye,187,1
+FireEye,196,1
+FireEye,198,1
+FireEye,204,5
+FireEye,230,3
+FireEye,231,2
+FireEye,537,2
+FireEye Mandiant,32,4
+FireEye Mandiant,204,1
+FireWire,550,1
+Fireeye,9,1
+Firefox,9,2
+Firefox,22,1
+Firefox,25,1
+Firefox,35,1
+Firefox,42,1
+Firefox,45,1
+Firefox,65,1
+Firefox,184,1
+Firefox,198,1
+Firefox,201,1
+Firefox,203,1
+Firefox,215,2
+Firefox,216,1
+Firefox,545,1
+Firefox,554,3
+Firefox 2.0.0.18,554,1
+Firefox 3.0.4,554,1
+Firefox 32,215,1
+Firefox 34,215,1
+Firewall,24,1
+Fireworks,16,1
+Fireworks,24,1
+Fireworks,62,1
+Fireworks,63,1
+Flash,3,2
+Flash,16,14
+Flash,18,1
+Flash,24,15
+Flash,40,2
+Flash,47,13
+Flash,59,9
+Flash,62,14
+Flash,63,18
+Flash,65,2
+Flash,214,1
+Flash,240,6
+Flash,257,1
+Flash,540,2
+Flash,545,6
+Flash ActiveX,47,1
+Flash Media Server,52,3
+Flash Player,3,1
+Flash Player,16,2
+Flash Player,18,2
+Flash Player,24,4
+Flash Player,40,2
+Flash Player,47,1
+Flash Player,52,3
+Flash Player,59,4
+Flash Player,62,2
+Flash Player,63,6
+Flash Player,65,1
+Flash Player,214,1
+Flash Player,240,1
+Flash Player,257,5
+Flash Player,540,5
+Flash Player,545,1
+Flash Player 10,63,1
+Flash Player 10,257,1
+Flash Player 10.0.22.87,545,1
+Flash Player 10.0.32.18,65,1
+Flash Player 10.0.45.2,24,1
+Flash Player 10.0.45.2,63,1
+Flash Player 10.1.53.64,16,1
+Flash Player 10.1.82.76,16,1
+Flash Player 10.1.82.76,62,1
+Flash Player 10.1.85.3,62,1
+Flash Player 10.1.92.10,62,1
+Flash Player 10.1.95.1,62,1
+Flash Player 10.3.181.23,59,1
+Flash Player 10.3.185.23,59,2
+Flash Player 10.3.185.25,52,1
+Flash Player 6,257,4
+Flash Player 9.0.262,24,1
+Flash Player 9.0.262,63,1
+Flash Player ActiveX,257,1
+Flash PlayerAPSB11,52,1
+Flash PlayerAdobe,59,1
+Flash player,545,2
+FlashAdobe,62,1
+Florian Roth's,15,1
+Florian Roth’s,15,1
+Food and Agriculture,13,1
+Forbes,42,1
+Forbes,205,2
+ForcePoint,205,1
+Forefront,186,3
+Forefront Unified Access Gateway,184,2
+Forefront Unified Access Gateway,247,2
+Forefront Unified Access GatewayMicrosoft,184,1
+Forefront Unified Access GatewayMicrosoft Office,247,1
+Forefront United Access Gateway,237,2
+ForgeRock,10,4
+FormBook,6,3
+FormBook,18,1
+Formbook,6,3
+ForrmBook,6,1
+FortiClient,12,1
+FortiClient,187,1
+FortiClient VPN,39,1
+FortiClient VPN,187,1
+FortiGate,9,1
+FortiGate,12,1
+FortiGate,14,1
+FortiGuard SE,25,1
+FortiOS,0,1
+FortiOS,3,4
+FortiOS,9,6
+FortiOS,184,3
+FortiOS,202,1
+FortiOS 5.4,12,1
+FortiOS 5.4,202,1
+FortiOS 6.0.0,531,1
+FortiOS SSL,202,1
+FortiOS SSL VPN,202,1
+FortiOS VPN,202,1
+FortiProxy,9,4
+FortiProxy,10,1
+Forticlient,39,2
+Fortigate,3,2
+Fortinet,3,7
+Fortinet,8,1
+Fortinet,9,11
+Fortinet,10,2
+Fortinet,12,3
+Fortinet,25,2
+Fortinet,29,1
+Fortinet,37,1
+Fortinet,184,5
+Fortinet,187,1
+Fortinet,202,2
+Fortinet,531,6
+Fortinet FortiOS,184,1
+Fortnite,6,1
+Fortnite,25,1
+Foundation,48,1
+Fox-IT,205,2
+Fox-IT,231,2
+Fox-IT,537,2
+FoxPro 8.0 SP1,18,1
+FrameworkMicrosoft,40,1
+FrameworkMicrosoft,184,1
+FrameworkMicrosoft,200,1
+FrameworkMicrosoft,232,1
+France,42,1
+France,200,3
+FreeBSD,0,1
+Freehand MX,16,1
+Freehand MX,24,1
+Freehand MX,62,1
+Freehand MX,63,1
+Freemarker,188,1
+Friedex,205,1
+Fusion Middleware Middleware,201,1
+Fysbis,12,1
+G0065,197,1
+G5,201,2
+GA,532,3
+GAOracle,551,2
+GNU Bash,50,6
+GNU/Linux,22,1
+GOZ,231,2
+GRASSMARLIN,9,1
+"GRASSMARLIN,[11",9,2
+GRE,207,1
+GREASE,9,2
+GRU,191,5
+GRU,192,2
+GTsSS,191,9
+GTsST,191,9
+GTsST,192,1
+Gadolinium,197,1
+GameOver Zeus,43,5
+GameOver Zeus,212,5
+GameOver Zeus,231,2
+GameOver Zeus,537,1
+GandCrab,531,1
+Gartner,211,1
+Gateway,3,1
+Gateway,10,1
+Gateway,32,5
+Gateway 10.5,3,1
+Gateway 10.5,9,1
+Gateway Vulne,32,1
+Gecko,3,2
+General Public License,234,1
+General Staff Main Intelligence Directorate,192,1
+GeoTrust,215,1
+Geodo,44,1
+Geoff White,205,1
+Georgia,191,4
+Georgia,192,1
+Germany,191,1
+Germany,212,1
+Germany,532,1
+Get2,3,1
+GetDriveTypeW,24,1
+GetIpNetTable,24,1
+GetLogicalDrives,24,1
+GetWindowsDirectoryW,24,1
+Ghana,3,1
+Ghost,3,1
+Ghost,531,1
+Git,50,1
+GitHub,3,7
+GitHub,8,1
+GitHub,9,3
+GitHub,10,1
+GitHub,12,1
+GitHub,15,5
+GitHub,32,1
+GitHub,39,1
+GitHub,187,1
+GitHub,196,3
+GitHub,197,2
+GitHub,201,1
+GitHub,204,1
+GitHub,531,1
+GitHub,532,3
+"GitHub, Inc.",196,1
+GitLab,3,7
+Github,188,1
+Gitlab,3,1
+Global Administrator,12,1
+Global Administrator,204,2
+Global Administrator account,12,1
+Global Admins,201,1
+Gmail,35,1
+Go,21,1
+GoXML.exe,5,1
+Godzilla,3,2
+Godzilla,188,1
+Godzilla,530,1
+Gold,18,1
+Gold,201,2
+Gold Crestwood,191,1
+"Gold Opera
+",191,1
+GoldMax,191,1
+Google,3,2
+Google,6,1
+Google,9,1
+Google,21,1
+Google,35,1
+Google,47,1
+Google,191,1
+Google,204,1
+Google,215,2
+Google,529,1
+Google Chrome,9,1
+Google Chrome,215,1
+Google Documents,24,1
+Google Drive,3,1
+Google Drive,9,1
+Google Drive,24,1
+Google Internet Authority,215,1
+Google Online Security,56,1
+Google Update,529,1
+Google+,9,1
+GoogleDrive,22,1
+GootKit,6,1
+GootLoader,6,7
+GootLooader,6,1
+Government of Canada,191,1
+Gozi,6,1
+GraceWire,3,2
+Graph API,201,1
+Graz University of Technology,37,2
+GreenCrash,197,1
+Gregg Steinhafel,536,1
+Group 74,191,1
+Group Managed Service Accounts,12,1
+Guardians of Peace.[2,40,1
+Guest,12,1
+H-ISAC,24,3
+HC3,2,1
+HC3,24,1
+HDLC,3,1
+HERMES,24,1
+HHS,0,11
+HHS,2,8
+HHS,6,5
+HHS,24,21
+HIDDEN COBRA,3,2
+HIDDEN COBRA,9,1
+HOPLIGHT,3,6
+HP,37,1
+HP,44,1
+HPH,24,1
+HPH Sector,2,3
+HPH Sector,7,3
+HPH Sector,24,1
+HSSD,197,1
+HTTP,36,1
+HTran,34,17
+HUC Packet Transmitter,34,2
+HWP,9,3
+HackerOne,10,1
+Hafnium,22,1
+Haikou,197,1
+Hainan Province,197,1
+Hainan State Security Department,197,1
+Hainan Xiandun,197,2
+Hainan Xiandun Technology Development Company,197,1
+Hangul,40,1
+Hangul Word Processor,9,1
+HatMan,9,1
+HatMan,191,1
+Havex,9,22
+Havex,12,1
+Hawk,14,1
+Hawk,201,12
+"Hawk
+Hawk",201,1
+Health,13,1
+Health-ISAC,2,1
+Healthcare and Public Health,0,1
+Healthcare and Public Health,3,1
+Healthcare and Public Health,43,1
+Healthcare and Public Health (,6,1
+Hello Kitty/,185,1
+Hellsing,197,1
+"Help/Systems, Limited Liability Company",9,1
+HelpAssistant,9,1
+HelpAssistant,12,1
+Hermes,24,2
+HermeticWiper,194,6
+HermeticWizard,194,2
+Hikvision,3,4
+HitmanPro,22,1
+Hive,0,21
+HiveMind,239,1
+HomeLand Justice,5,4
+Homeland Justice,5,1
+Homeland Security,30,1
+Hong Kong,38,1
+Hong Kong,532,1
+Horizon,1,8
+Horizon,8,11
+Horizon,184,2
+Horizon,188,3
+Horizon Log4j,184,2
+Host Integration Server,184,3
+Hotfix,186,1
+Hotmail,35,1
+Hotpatch,3,1
+Hungary,532,1
+Huntress,15,1
+Hydra,9,1
+Hydra,39,1
+Hydra,187,1
+Hyper Text Transfer Protocol (HTTP)/Hyper Text Transfer Protocol Secure,201,1
+HyperBro,4,2
+HyperFlex HX,3,1
+Hyperflex Hx Data Platform 4.0(2A,3,1
+Hypertext Markup,3,1
+Hypertext Preprocessor,34,1
+Hypertext Processor,9,1
+Hypertext Transfer Protocol,25,1
+Hypertext Transfer Protocol,203,1
+Hypertext Transfer Protocol Secure,188,1
+Hypervisor Code Integrity,185,1
+IAD,207,1
+IBM,3,2
+IBM,27,1
+IBM,37,1
+IBM,40,1
+IBM,49,1
+IBM Security Intelligence,530,1
+IBM X-Force Exchange,40,1
+IC3,2,1
+IC3,18,3
+IC3,537,1
+ICANN,42,4
+ICS,9,4
+ICS,14,1
+ICS,15,1
+ICS,20,1
+ICS,39,1
+ICS,209,2
+IDS,3,2
+IE,552,1
+IE ActiveX,541,1
+IETF,52,1
+INFOSEC Institute,46,1
+INTERPOL,216,1
+IOC,3,2
+IOC,20,1
+IOC,39,7
+IOC,187,6
+IOC,197,2
+IOC,209,1
+IOCs,205,1
+IOS XE,9,1
+IOS XE,10,1
+IOS XE Software,10,1
+IOS XR Devices,20,1
+IPMI,44,1
+IPSec,50,1
+IRGC,3,6
+IRGC,184,21
+IRON TWILIGHT,191,1
+IRON VIKING,191,1
+ISA,59,2
+ISA Server,36,2
+ISA Server,261,2
+ISAMicrosoft,59,1
+ISAO,24,1
+ISA Server,36,1
+ISO 8583,3,2
+ISPs,207,2
+IcedID,17,1
+IcedTea,3,1
+IcedTea 2.3.1.Reports,9,1
+IcedTea6,9,1
+Identity Manager,188,1
+Immunity Canvas,9,1
+"Immunity Products, Limited Liability Company",9,1
+Impacket,4,11
+Impact,54,1
+India,3,1
+India,38,1
+India,532,1
+Indonesia,3,1
+Industrial Control System,48,1
+Industrial Control Systems,187,1
+Industrial Control Systems Network Protocol Parsers,185,1
+Industrial Controls Systems,209,1
+Industroyer,191,1
+Industroyer,192,1
+InfoPath.3,200,1
+Information Security and Payment Systems,3,1
+Information Technology,3,1
+Information Technology,43,1
+Information Technology Sector,3,1
+InformationDell,44,1
+InformationWeek DarkReading,20,1
+Ingress Tool Transfer,198,1
+Installer,532,6
+Instantis,3,1
+Intel,5,2
+Intel,37,1
+Intel,204,1
+Intelligence,12,1
+Intelligence Community,12,1
+International Standards Organization,3,2
+Internet Crime Complaint Center,18,1
+Internet Explorer,3,9
+Internet Explorer,9,9
+Internet Explorer,12,2
+Internet Explorer,16,2
+Internet Explorer,17,2
+Internet Explorer,19,2
+Internet Explorer,22,2
+Internet Explorer,24,2
+Internet Explorer,33,3
+Internet Explorer,35,1
+Internet Explorer,40,2
+Internet Explorer,42,1
+Internet Explorer,47,1
+Internet Explorer,49,2
+Internet Explorer,51,1
+Internet Explorer,54,1
+Internet Explorer,56,4
+Internet Explorer,58,1
+Internet Explorer,59,4
+Internet Explorer,61,2
+Internet Explorer,63,2
+Internet Explorer,64,3
+Internet Explorer,184,2
+Internet Explorer,186,2
+Internet Explorer,192,2
+Internet Explorer,198,1
+Internet Explorer,201,1
+Internet Explorer,236,6
+Internet Explorer,237,1
+Internet Explorer,240,2
+Internet Explorer,241,1
+Internet Explorer,246,2
+Internet Explorer,253,2
+Internet Explorer,254,4
+Internet Explorer,255,2
+Internet Explorer,257,1
+Internet Explorer,261,3
+Internet Explorer,540,2
+Internet Explorer,542,2
+Internet Explorer,543,2
+Internet Explorer,546,2
+Internet Explorer,548,2
+Internet Explorer,549,1
+Internet Explorer,552,4
+Internet Explorer,553,1
+Internet Explorer 7,263,1
+Internet Explorer 7,552,2
+Internet Explorer 7Enabling,552,1
+Internet Explorer Exploit,236,1
+Internet Explorer's,552,1
+Internet Explorer.[1,49,1
+Internet ExplorerAdobe (Macromedia) Flash Player 6,257,1
+Internet ExplorerFor,19,1
+Internet ExplorerMicrosoft,3,1
+Internet ExplorerMicrosoft,6,1
+Internet ExplorerMicrosoft,9,2
+Internet ExplorerMicrosoft,12,1
+Internet ExplorerMicrosoft,24,1
+Internet ExplorerMicrosoft,33,1
+Internet ExplorerMicrosoft,40,1
+Internet ExplorerMicrosoft,59,1
+Internet ExplorerMicrosoft,186,1
+Internet ExplorerMicrosoft,211,1
+Internet ExplorerMicrosoft,234,1
+Internet ExplorerMicrosoft,237,1
+Internet ExplorerMicrosoft,246,1
+Internet ExplorerMicrosoft,255,1
+Internet ExplorerMicrosoft,539,1
+Internet ExplorerMicrosoft,549,1
+Internet Service Provider,186,1
+Internet Service Providers,186,1
+Internet of Things,19,1
+InternetExplorer,22,1
+Interpol,216,2
+Invoke-PSImage,34,1
+Invoker Servlet,45,2
+Iran,3,6
+Iran,5,1
+Iran,9,3
+Iran,18,1
+Iran,20,3
+Iran,184,3
+Iranian Government,3,1
+Iranian Government,184,1
+Ireland,532,1
+IsaacWiper,194,2
+Islamic Rev,3,1
+Islamic Revolutionary Guard Corps,184,1
+Isotope,191,1
+Israel,532,1
+Italy,3,1
+Italy,6,1
+Italy,191,1
+Italy,200,2
+Italy,532,1
+Itanium,3,1
+Ivanti,184,11
+Ivanti Pulse Connect Secure,184,1
+Ivanti Pulse Secure,184,1
+Ivanti Pulse Secure’s,184,1
+J-spy,188,3
+JA3,184,3
+JBIG2,546,1
+JBIG2,548,1
+JBS Foods,13,1
+JBiFrost,34,1
+JBiFrost RAT,34,5
+JBoss,3,1
+JCDC,15,2
+JCDC,211,1
+JDK,3,3
+JDK,67,1
+JDK,217,1
+JDK 7)Java,3,1
+JDK 7)Java,9,1
+JDK 7u11,3,1
+JDK 7u17,9,1
+JMT Trader,532,6
+JMT Trading,532,3
+JMT Trading’s,532,1
+JMTCrashReporter,532,1
+JMTTrader,532,2
+JPCERT,43,1
+JPCERT/CC,43,1
+JRE 1.3.1_24If,217,1
+JRE 1.4.2_19SDK,217,1
+JRE 5.0 Update 17SDK,217,1
+JRE 6,3,1
+JRE 6 Update 11JDK,217,1
+JRE 7,3,1
+JRE 7)OpenJDK,3,1
+JRE 7)OpenJDK,9,1
+JREOracle,3,1
+JREOracle Java SE,3,1
+JWICS,3,1
+Japan,3,1
+Japan,9,1
+Japan,30,1
+Japan,42,1
+Japan,200,2
+Japan,532,1
+Java,3,17
+Java,9,25
+Java,15,4
+Java,34,1
+Java,45,3
+Java,49,25
+Java,54,4
+Java,184,2
+Java,217,2
+Java,235,25
+Java,530,1
+Java 5,9,2
+Java 5.0,9,2
+Java 6,9,2
+Java 6 Update 39,49,1
+Java 6 Update 41,235,1
+Java 6 Update 43,9,1
+Java 6.Use,9,1
+Java 6Consider,9,1
+Java 7,3,5
+Java 7,9,7
+Java 7,15,3
+Java 7,54,2
+Java 7 Update 10,3,2
+Java 7 Update 10,9,2
+Java 7 Update 10,49,1
+Java 7 Update 10,235,1
+Java 7 Update 11,3,1
+Java 7 Update 13,49,2
+Java 7 Update 15,235,1
+Java 7 Update 17,9,1
+Java 7 Update 7,9,1
+Java 7u11,3,1
+Java 8,15,3
+Java 8),15,1
+Java API Documentation Updater Tool,53,1
+Java Deployment Toolkit,3,1
+Java Deployment Toolkit,9,5
+Java FX,3,1
+Java Network Launching Protocol,3,1
+Java Network Launching Protocol,9,1
+Java Runtime Environment,217,1
+Java SE,3,3
+Java SE,53,3
+Java SE 7,9,1
+Java SE 7)Java,3,1
+Java SE 7)Java,9,1
+Java SE Critical Patch Update,235,1
+Java SE Critical Patch Update Advisory,49,1
+Java SE Critical Patch Update Advisory -,3,3
+Java SE Critical Patch Update Advisory -,54,1
+Java SE Critical Patch Update Advisory - April 2013,54,1
+Java SE Critical Patch Update Advisory Update,235,1
+Java SE Security,217,1
+Java Web Start,3,1
+Java Web Start,9,5
+Java Web Start,49,1
+Java Web Start,235,1
+JavaFX,3,1
+JavaOracle,3,1
+JavaOracle,9,1
+JavaScript,196,2
+JavaScript,205,1
+JavaScript Blacklist Framework,59,1
+JavaScript Blacklist Framework,240,1
+JavaScript Blacklist Framework,253,1
+JavaScript/Jscript Interpreter,196,1
+JavaWebCache,22,1
+Javadoc,53,7
+JexBoss,18,1
+Jira,201,1
+Joanap,3,9
+Joint Cyber Defense Collaborative,15,1
+Jonathan Zdziarski,230,1
+Joomla,234,9
+"Joomla
+",234,1
+Jordan,3,1
+Jumper,197,1
+Juniper,9,2
+Juniper,37,1
+Juniper,202,1
+Juniper JUNOS,207,1
+Justice Department,36,1
+K,46,2
+K11438344,8,1
+KAPE,22,8
+KAPE Collection Procedure,22,1
+KB44755 - Pulse Connect Secure,184,1
+KEGTAP,24,1
+KELA Cybersecurity Intelligence Center,191,1
+KGB,191,1
+KONNI,203,19
+KRBTGT,10,1
+KSC,5,1
+KW,5,1
+Kamerka,9,2
+Kansas,3,1
+Karaj,184,1
+Karakurt,9,43
+Karakurt Lair,9,1
+Kaseya,22,1
+Kaseya Limited,13,1
+Kaspersky,3,1
+Kaspersky,4,1
+Kaspersky Lab,43,2
+Kaspersky Lab,212,2
+Kaspersky Lab,216,1
+KdcSponge,530,2
+KeePass,9,2
+KeePass,198,1
+Kenya,3,1
+Kerberos,3,1
+Kerberos,9,2
+Kerberos,12,3
+Kerberos,14,2
+Kerberos,16,2
+Kerberos,17,2
+Kerberos,34,2
+Kerberos,191,2
+Kerberos,233,1
+Kerberos,530,1
+Kerberos KDC,49,1
+Kerberos Key Distribution Center,49,1
+Kerberos Ticket Granting Service,1,1
+Khalesi,198,1
+Kharkiv,191,1
+Kibana,14,1
+KillDisk,14,2
+KillDisk,191,1
+Killnet,191,6
+Kim,9,1
+Kimsuky,9,73
+Koadic,12,1
+Koala,9,1
+Koala,12,1
+Komodia,216,1
+Kovter,3,5
+Kovter,33,6
+Krebs,20,2
+Krebs on Security,20,1
+KrebsOnSecurity,20,3
+Kroll Artifact Parser,22,1
+Kryptonite Panda,197,1
+Kubernetes,191,2
+Kupay,532,3
+Kupay Wallet,532,6
+Kupay Wallet 9.0.1,532,1
+Kupay.exe,532,1
+KupayDaemon,532,1
+KupayUpgrade.exe,532,2
+Kuwait,3,1
+Kuwait Telecommunications Company,5,3
+L,5,1
+LATENTBOT,18,1
+LLVM,37,1
+LM Configuration Wizard,184,2
+LMC058,185,1
+LMC078,185,1
+LSA,196,1
+LSASS,5,1
+LSASS,9,1
+LSASS,14,1
+LSASS,34,1
+LSAroute,207,1
+LaZagne,529,3
+Lanka,38,1
+LankaSwedenTaiwanTunisiaMalware,3,1
+LanmanWorkstation,8,1
+Las Vegas,3,1
+Lateral Movement,3,1
+LaunchDaemon,532,6
+LaunchDaemons,532,3
+Layouts,531,1
+Lazarus,3,1
+Lazarus Group,3,1
+Lazarus Group,11,3
+Lazarus Group,30,1
+Lazarus Group,532,1
+Lazarus Group[1,40,1
+Lenovo,216,7
+Leopard)Safari 3,66,1
+Let’s Encrypt,532,1
+Level 3 Communications,20,1
+Level 3 Threat Research Labs,52,1
+Leviathan,197,1
+Leviathan,201,1
+LibreOffice,11,1
+Lightroom,16,1
+Lightroom,24,1
+Lightroom,62,1
+Lightroom,63,1
+Lightweight Directory Access Protocol,9,1
+Link Controller,202,1
+LinkedIn,3,1
+Linksys,207,2
+Linus Torvalds,196,1
+Linux,0,1
+Linux,3,4
+Linux,8,1
+Linux,9,2
+Linux,13,1
+Linux,34,1
+Linux,42,1
+Linux,44,1
+Linux,50,1
+Linux,51,1
+Linux,52,1
+Linux,59,2
+Linux,62,1
+Linux,186,1
+Linux,191,1
+Linux,192,3
+Linux,196,2
+Linux,214,1
+Linux,240,1
+Linux/UNIX,50,1
+Linux/Unix,9,1
+LinuxAdobe Flash Player 10.3.181.36,52,1
+LinuxAdobe Flash Player 11.1.115.37,3,1
+LinuxFlash Media Server 3.5.6,52,1
+Local Administrator Password Solution,13,1
+Local Administrator Password Solution,34,1
+Local Area Network Manager,34,1
+Local Government,13,1
+Local Security Authority Subsystem Service,1,1
+Local Security Authority Subsystem Service,16,1
+Local Security Authority Subsystem Service,184,1
+Local Security Authority Subsystem Service,191,1
+Local Security Authority Subsystem Service,196,1
+Lockbit 2.0,13,1
+Lockheed,187,1
+Lockheed Martin,3,1
+Locky,205,6
+Locky,212,3
+Log4J,1,1
+Log4J,15,2
+Log4Shell,1,9
+Log4Shell,8,12
+Log4Shell,9,1
+Log4Shell,10,1
+Log4Shell,15,17
+"Log4Shell
+",15,1
+Log4j,8,2
+Log4j,9,1
+Log4j,10,3
+Log4j,15,27
+Log4j,184,2
+LogMeIn,3,1
+LogMeIn,22,1
+LogMeIn,50,2
+LogonSessions,8,1
+Loki,18,1
+Loki,25,3
+Loki PWS,25,1
+LokiBot,6,9
+LokiBot,25,44
+LokiBot,531,1
+Lokibot,25,1
+LookingGlass Cyber,191,1
+Low Orbit Ion Cannon,239,1
+Luxembourg,532,1
+LyncInternet,232,1
+LyncMicrosoft,57,1
+LyncMicrosoft,184,1
+Lyngaas,9,1
+M.E. Doc,1,1
+M.E.Doc,1,2
+M.E.Doc,14,1
+"M2 MS17-010”[4]sid:42944,""OS",1,1
+M238,185,1
+M247,4,5
+M258,185,1
+M365,3,2
+M365,12,10
+M365,14,1
+M365,197,4
+M365,201,9
+M365 Unified Audit Logs,12,1
+M365/Azure AD,201,3
+MAC OS X,34,1
+MD5,5,1
+MD5,197,1
+MECHANICAL,9,2
+MERCURY,529,1
+MFA,0,1
+MFA,6,1
+MFA,9,2
+MFA,184,1
+MFA,193,7
+MFA,204,1
+MISP,3,1
+MITRE,4,1
+MITRE,6,2
+MITRE,9,4
+MITRE,23,1
+MITRE,24,2
+MITRE,25,1
+MITRE,43,1
+MITRE,191,2
+MITRE,196,1
+MITRE,198,3
+MITRE,200,1
+MITRE,201,1
+MITRE,203,2
+MITRE ATT&CK,8,1
+MITRE ATT&CK,191,7
+MITRE ATT&CK,201,1
+MITRE ATT&CK Tactics and Techniques,4,1
+MITRE ATT&CK Version 11: Software –,1,1
+MITRE ATT&CK for,185,1
+MITRE ATT&CK for,188,1
+MITRE ATT&CK for Enterprise,0,1
+MITRE ATT&CK for Enterprise,2,1
+MITRE ATT&CK for Enterprise,4,1
+MITRE ATT&CK for Enterprise,187,1
+MITRE ATT&CKs,198,1
+MITRE ATT&CK®,1,1
+MITRE ATT&CK®,2,1
+MITRE ATT&CK®,187,1
+MITRE Groups,12,6
+MITRE Software,12,4
+MOD,191,1
+MODICON Nano PLCs,185,1
+MOIS,529,1
+MOUSEISLAND,6,5
+MP1,551,2
+MP2Oracle,251,1
+MP3Oracle,67,1
+MP3Oracle,251,1
+MP3Oracle,551,1
+MP3Oracle WebLogic Server,551,1
+MS,5,3
+MS Windows,5,2
+MS-ISAC,1,1
+MS-ISAC,3,10
+MS-ISAC,6,1
+MS-ISAC,8,16
+MS-ISAC,17,1
+MS-ISAC,24,2
+MS-ISAC,25,3
+MS-ISAC,35,6
+MS-ISAC,185,1
+MS-ISAC,186,1
+MS-ISAC,194,1
+MS-ISAC,198,1
+MS-ISAC,200,7
+MS-ISAC,205,1
+MS-ISAC,211,1
+MS-ISAC Ransomware Guide,200,1
+MS-ISAC's,24,4
+MS-ISAC’s,35,1
+MS-NRPC,202,1
+MS-NRPC,531,1
+MS08,265,1
+MS08-067,265,1
+MS10-001,257,1
+MS10-042,3,1
+MS12-063,236,1
+MS14,229,1
+MS17,1,1
+MS17,42,1
+MS17-,42,1
+MS17-010,1,1
+MSI,532,9
+MSI Installer,532,2
+MSIE 7.0,200,1
+MSIE 8.0,20,1
+MSP,3,1
+MSP,211,9
+MSRC,3,2
+MSS,9,10
+MSS,22,1
+MSS,197,2
+MSS,201,2
+MSSQLErrorLog,22,1
+MSTIC,194,1
+MUDCARP,197,1
+MUMMY SPIDER,191,1
+Mabna,3,1
+Mac,191,1
+Mac,532,1
+Mac 2.0,206,1
+Mac OS,9,2
+Mac OS,62,1
+Mac OS X,3,1
+Mac OS X,22,1
+Mac OS X,42,1
+Mac OS X,49,1
+Mac OS X,50,2
+Mac OS X,66,5
+Mac OS X,69,3
+Mac OS X,206,2
+Mac OS X,260,5
+Mac OS X,267,8
+Mac OS X 10.4,66,1
+Mac OS X 10.5,66,1
+Mac OS X 10.6.8,206,1
+Mac OS X 10.6.8Mac,206,1
+Mac OS X Server,66,4
+Mac OS X Server,206,1
+Mac OS X Server,260,4
+Mac OS X Server,267,4
+Mac OS X Server 10.6.8,206,1
+Mac OS X v10.5.6,267,1
+Mac OS X v10.5.7,66,2
+Mac OS X v10.5.8,260,2
+Mac OS X v10.5.8 / Security Update 2009-003,260,2
+Mac OS X v10.6 Update 12,49,1
+"Mac OS X""/Applications/Adobe Reader 9",59,1
+"Mac OS X""/Applications/Adobe Reader 9",63,1
+"Mac OS X""/Applications/Adobe Reader 9",240,1
+Mac OS X.,50,1
+MacMicrosoft Security Bulletin,3,1
+MacOS,3,2
+MacOffice Excel,3,1
+MacOpen,3,2
+Mach-O,11,2
+Mach-O,532,1
+Macintosh,3,1
+Macintosh,17,3
+Macintosh,52,2
+Macintosh,59,3
+Macintosh,61,3
+Macintosh,198,2
+Macintosh,240,2
+Macintosh,540,2
+MacintoshAdobe Acrobat 8.2.6,59,1
+MacintoshAdobe Acrobat 9.4.4,59,1
+MacintoshAdobe Acrobat 9.4.6,240,1
+MacintoshAdobe Acrobat 9.5,540,1
+MacintoshAdobe Acrobat X,59,1
+MacintoshAdobe Flash Player 11.2.202.262,3,1
+MacintoshAdobe Reader 8.2.3,17,1
+MacintoshAdobe Reader 8.2.4,61,1
+MacintoshAdobe Reader 8.2.6,59,1
+MacintoshAdobe Reader 9.4.4,59,1
+MacintoshAdobe Reader 9.4.6,240,1
+MacintoshAdobe Reader 9.5,540,1
+MacintoshFlash Media Server 4.0.2,52,1
+MacintoshRoboHelp,52,1
+MacintoshShockwave Player 11.5.9.620,59,1
+Macromedia,257,2
+Mail,35,2
+Mail PassView,35,2
+MailboxImportServlet,186,1
+Main Center for Special Technologies,191,1
+Main Center of Special Technologies,191,1
+Main Centre for Special Technologies,192,1
+Main Special Service Center,191,1
+Maine,3,1
+Makop,3,1
+Malaysia,3,1
+Malta,3,1
+Malta,532,1
+Malware Remover,26,2
+MalwareBoaxxe,33,2
+MalwareKovter,33,1
+Malwarebytes,22,1
+Malwarebytes,42,2
+ManageEngine,3,4
+ManageEngine,10,2
+ManageEngine,530,7
+ManageEngine ADSelfService Plus,530,3
+ManageEngine Desktop Central,201,1
+ManageEngine ServiceDesk Plus,3,5
+ManageEngineLogs,22,1
+"Managed Network
+",211,1
+Managed Service Providers’,211,1
+Managed Services,211,1
+Managed Trusted Internet Protocol Services,9,1
+Mandiant,4,1
+Mandiant,6,1
+Mandiant,12,4
+Mandiant,185,2
+Mandiant,191,1
+Manuscrypt,11,3
+Mastercard,3,1
+Matsnu,44,1
+Maui,7,15
+Maze,3,1
+Maze,531,1
+McAfee,1,2
+McAfee,9,2
+McAfee,19,4
+McAfee,22,1
+McAfee,44,1
+McAfee,231,1
+McAfee Labs,212,1
+Me,3,1
+Me,231,1
+Media Center PC 6.0,200,1
+MedusaLocker,8,19
+Mega.nz,0,1
+Mega.nz,9,2
+MegaUpload,239,2
+Meh Chang,10,1
+Meltdown,37,3
+Memcached,52,2
+Memory Capture with FTK Imager.pdf,22,1
+MenuPass Group,201,1
+Menupass Team,43,1
+Message Server,206,1
+Message Servers,206,2
+Metasploit,3,1
+Metasploit,9,3
+Metasploit,34,2
+Metasploit,186,1
+Metasploit,233,1
+Mexico,3,1
+Mexico,191,1
+Michal,205,1
+MicroTic,207,1
+Microsift,529,2
+Microsoft,0,4
+Microsoft,1,20
+Microsoft,2,1
+Microsoft,3,140
+Microsoft,4,23
+Microsoft,5,3
+Microsoft,6,14
+Microsoft,8,9
+Microsoft,9,65
+Microsoft,10,77
+Microsoft,12,38
+Microsoft,14,2
+Microsoft,16,3
+Microsoft,17,8
+Microsoft,18,23
+Microsoft,19,3
+Microsoft,21,3
+Microsoft,22,27
+Microsoft,23,2
+Microsoft,24,9
+Microsoft,31,2
+Microsoft,33,17
+Microsoft,34,11
+Microsoft,35,2
+Microsoft,36,16
+Microsoft,37,6
+Microsoft,39,4
+Microsoft,40,32
+Microsoft,42,13
+Microsoft,43,3
+Microsoft,44,17
+Microsoft,45,7
+Microsoft,47,10
+Microsoft,48,1
+Microsoft,49,12
+Microsoft,50,2
+Microsoft,51,4
+Microsoft,54,2
+Microsoft,55,10
+Microsoft,56,27
+Microsoft,57,11
+Microsoft,58,13
+Microsoft,59,18
+Microsoft,60,8
+Microsoft,63,3
+Microsoft,64,6
+Microsoft,68,11
+Microsoft,184,17
+Microsoft,185,1
+Microsoft,186,13
+Microsoft,187,5
+Microsoft,189,2
+Microsoft,191,3
+Microsoft,192,22
+Microsoft,193,1
+Microsoft,194,6
+Microsoft,196,7
+Microsoft,197,2
+Microsoft,198,12
+Microsoft,200,18
+Microsoft,201,52
+Microsoft,202,7
+Microsoft,203,2
+Microsoft,204,17
+Microsoft,205,4
+Microsoft,206,12
+Microsoft,210,1
+Microsoft,211,12
+Microsoft,213,3
+Microsoft,214,10
+Microsoft,215,2
+Microsoft,216,4
+Microsoft,229,9
+Microsoft,230,6
+Microsoft,231,1
+Microsoft,232,9
+Microsoft,233,1
+Microsoft,234,10
+Microsoft,236,7
+Microsoft,237,17
+Microsoft,238,15
+Microsoft,240,2
+Microsoft,241,9
+Microsoft,244,8
+Microsoft,245,10
+Microsoft,246,9
+Microsoft,247,11
+Microsoft,250,11
+Microsoft,252,18
+Microsoft,254,30
+Microsoft,255,11
+Microsoft,257,7
+Microsoft,259,7
+Microsoft,261,24
+Microsoft,263,8
+Microsoft,265,5
+Microsoft,529,5
+Microsoft,530,1
+Microsoft,531,56
+Microsoft,532,1
+Microsoft,533,13
+Microsoft,534,10
+Microsoft,537,3
+Microsoft,538,11
+Microsoft,539,10
+Microsoft,542,10
+Microsoft,544,9
+Microsoft,547,10
+Microsoft,549,10
+Microsoft,550,22
+Microsoft,552,8
+Microsoft,553,7
+Microsoft 365,22,1
+Microsoft 365,204,1
+Microsoft Cloud,3,1
+Microsoft Cloud,201,1
+Microsoft Corporation,5,1
+Microsoft Corporation,196,1
+Microsoft DNS ServerIt,186,1
+Microsoft Equation Editor,531,1
+Microsoft Exchange,0,2
+Microsoft Exchange,3,9
+Microsoft Exchange,4,7
+Microsoft Exchange,5,2
+Microsoft Exchange,9,1
+Microsoft Exchange,10,4
+Microsoft Exchange,12,3
+Microsoft Exchange,14,2
+Microsoft Exchange,39,1
+Microsoft Exchange,184,18
+Microsoft Exchange,187,1
+Microsoft Exchange,196,3
+Microsoft Exchange,529,2
+Microsoft Exchange,531,2
+Microsoft Exchange On-Premises Mitigation Tool,3,2
+Microsoft Exchange Server,0,1
+Microsoft Exchange® Outlook Web Access,196,1
+Microsoft Internet Explorer,9,1
+Microsoft Office,1,2
+Microsoft Office,9,3
+Microsoft Office,20,1
+Microsoft Office,31,1
+Microsoft Office,34,1
+Microsoft Office,39,1
+Microsoft Office,42,1
+Microsoft Office,47,1
+Microsoft Office,64,1
+Microsoft Office,187,1
+Microsoft Office,196,2
+Microsoft Office,201,1
+Microsoft Office,212,1
+Microsoft Office,254,1
+Microsoft Office,531,1
+Microsoft Office Memory Corruption Vulnerability,531,1
+Microsoft Research Security and Defense Blog,49,1
+Microsoft Secure Score,204,3
+Microsoft Security,3,1
+Microsoft Security,198,1
+Microsoft Security,530,1
+Microsoft Security Blog,22,1
+Microsoft Security Intelligence,22,1
+Microsoft Security Research and Defense Blog,49,1
+Microsoft Security Response Center,15,1
+Microsoft Server Software,3,2
+Microsoft Software Restriction Policy,43,1
+Microsoft Software Restriction Policy,209,1
+Microsoft Support,36,1
+MicrosoftMicrosoft,9,1
+MicrosoftMicrosoft,186,1
+MicrosoftMicrosoft,206,1
+MicrosoftMicrosoft,252,1
+MicrosoftMicrosoft,254,1
+MicrosoftMicrosoft,255,1
+MicrosoftMicrosoft,257,1
+MicrosoftMicrosoft,259,1
+MicrosoftMicrosoft,544,1
+MicrosoftSoftware,51,1
+MicrosoftSoftware,230,1
+MikroTik,9,3
+Mikrotik,9,2
+Military Unit 71330,191,1
+Mimikatz,1,7
+Mimikatz,2,2
+Mimikatz,3,1
+Mimikatz,5,1
+Mimikatz,9,6
+Mimikatz,12,1
+Mimikatz,17,1
+Mimikatz,21,1
+Mimikatz,24,1
+Mimikatz,34,27
+Mimikatz,196,2
+Mimikatz,200,2
+Mimikatz,201,1
+Mimikatz,202,1
+Mimikatz,529,1
+Ministry of Defense,191,1
+Ministry of State Security,9,1
+Ministry of State Security,22,1
+Ministry of State Security,197,1
+Ministry of State Security,201,1
+Mirai,20,17
+Mithun,205,1
+Mobile Safari,230,1
+MobileIron,201,1
+MobileIron,202,2
+MobileIron,531,1
+MobileIron Blog,202,1
+MobileIron Core,531,1
+MobileIron Core &,202,1
+MobileIron Vu,531,1
+Mockbird,531,1
+Modbus,185,2
+Modbus,192,1
+Monero,531,1
+MoneroOcean,188,2
+MoneyPak,537,1
+Mori,529,4
+"Mori
+MuddyWater",529,1
+MountPoints2,550,1
+Movie Maker,254,2
+Mozambique,3,1
+Mozilla,9,1
+Mozilla,25,1
+Mozilla,35,2
+Mozilla,37,1
+Mozilla,65,1
+Mozilla,215,1
+Mozilla,545,1
+Mozilla,554,3
+Mozilla Firefox,215,1
+Mozilla Foundation,554,2
+MuddyWater,529,76
+MuddyWater APT,529,1
+Muhstik,531,1
+Multi-State Information Sharing & Analysis Center,35,1
+Multi-State Information Sharing and Analysis Center,211,1
+Multi-State Information Sharing and Analysis Center (,24,1
+Multipurpose Internet Mail Extensions,3,1
+NATO,191,2
+NCA,191,1
+NCC Group,15,2
+NCC Group,43,1
+NCCIC,1,7
+NCCIC,2,1
+NCCIC,3,17
+NCCIC,9,2
+NCCIC,20,1
+NCCIC,34,6
+NCCIC,35,3
+NCCIC,37,7
+NCCIC,38,1
+NCCIC,39,1
+NCCIC,40,1
+NCCIC,42,2
+NCCIC,43,12
+NCCIC,50,2
+NCCIC,187,3
+NCCIC,207,4
+NCCIC,209,14
+NCCIC.Educate,214,1
+NCCIC/US-CERT,39,1
+NCCIC/US-CERT,187,1
+NCCoE,211,1
+NCS,201,5
+NCSC,3,32
+NCSC,9,4
+NCSC,12,2
+NCSC,15,1
+NCSC,21,1
+NCSC,26,7
+NCSC,29,24
+NCSC,32,1
+NCSC,34,12
+NCSC,184,3
+NCSC,191,3
+NCSC,192,17
+NCSC,207,3
+NCSC,211,22
+NCSC,529,2
+NCSC,531,14
+NCSC Board,34,1
+NCSC-NL,189,3
+NCSC-NZ,189,2
+NCSC-NZ,211,2
+NCSC-UK,10,2
+NCSC-UK,13,6
+NCSC-UK,15,26
+NCSC-UK,189,2
+NCSC-UK,191,2
+NCSC-UK,211,1
+NCSC-UK,529,7
+NCSC-UK’s,13,1
+NCSC-UK’s,15,1
+NCSC-UK’s,191,1
+NCSC[10,3,1
+NETGEAR,9,3
+NETLOGON,16,2
+NEX,3,1
+NEX,185,2
+NGLite,530,2
+NGO,193,2
+NIAP,9,1
+NIST,0,2
+NIST,1,7
+NIST,2,2
+NIST,3,2
+NIST,7,1
+NIST,8,2
+NIST,9,5
+NIST,18,1
+NIST,20,1
+NIST,24,5
+NIST,31,6
+NIST,36,1
+NIST,49,1
+NIST,50,1
+NIST,184,1
+NIST,185,2
+NIST,187,2
+NIST,189,2
+NIST,192,1
+NIST,204,2
+NIST,205,1
+NIST,207,1
+NIST,211,3
+NIST,229,1
+NIST,234,1
+NIST,531,6
+NIST,533,1
+NJ501,185,1
+NJCCIC,6,2
+NMAP,21,1
+NMap,51,2
+NOBELIUM,191,1
+NOBELIUM,198,1
+NOTROBIN Bash,204,1
+NRC,8,1
+NRC,530,1
+NSA,1,1
+NSA,3,17
+NSA,4,7
+NSA,8,1
+NSA,9,19
+NSA,10,4
+NSA,11,2
+NSA,12,22
+NSA,13,2
+NSA,14,14
+NSA,15,26
+NSA,16,11
+NSA,17,9
+NSA,21,4
+NSA,32,4
+NSA,42,1
+NSA,43,1
+NSA,184,2
+NSA,185,8
+NSA,189,4
+NSA,191,5
+NSA,192,8
+NSA,194,1
+NSA,196,13
+NSA,197,1
+NSA,201,4
+NSA,204,1
+NSA,205,2
+NSA,207,1
+NSA,209,1
+NSA,211,6
+NSA,529,6
+NSA,531,10
+NSA,533,2
+NSS,9,2
+NT LAN Manager,34,1
+NTLMv2,36,1
+NVD,3,1
+NVD,9,1
+NVD,234,1
+NVIDIA Corporation,5,1
+NX-OS Software Devices,20,1
+NX1P2,185,1
+NXC5500,9,1
+NY,532,1
+NZ,9,3
+NZ,34,1
+NZ,191,1
+NZ,211,1
+NZ NCSC,10,1
+NZ NCSC,15,26
+NZ NCSC,191,1
+Najee Technology Hooshmand Fater LLC,184,1
+NameCheap Inc.,532,2
+"NameCheap, Inc.",11,5
+"NameCheap, Inc.",532,1
+NanoCore,6,6
+NanoCore,25,2
+Nanocore,6,2
+Nathan Kula’s,15,1
+Nation,19,1
+National Crime Agency,191,1
+National Cyber S,207,1
+National Cyber Security Cent,207,1
+National Cyber Security Centre,3,2
+National Cyber Security Centre,10,1
+National Cyber Security Centre,13,2
+National Cyber Security Centre,15,1
+National Cyber Security Centre,24,1
+National Cyber Security Centre,26,1
+National Cyber Security Centre,29,1
+National Cyber Security Centre,43,1
+National Cyber Security Centre,184,1
+National Cyber Security Centre,191,3
+National Cyber Security Centre,192,2
+National Cyber Security Centre,207,1
+National Cyber Security Centre,529,1
+National Cyber Security Centre,531,1
+National Cyber Security Centre New Zealand,191,1
+National Cybersecurity and Communications Integration Center,3,2
+National Cybersecurity and Communications Integration Center,35,1
+National Cybersecurity and Communications Integration Center,42,2
+National Football League,48,1
+National Institute for Standards and Technology,9,1
+National Institute for Standards and Technology,187,1
+National Institute for Standards and Technology,531,1
+National Institute of Standard and Technology,9,1
+National Institute of Standard and Technology,20,1
+National Institute of Standards and Technology,0,1
+National Institute of Standards and Technology,1,1
+National Institute of Standards and Technology,9,1
+National Institute of Standards and Technology,185,1
+National Institute of Standards and Technology,211,1
+National Institute of Standards and Technology,8,1
+National Security Agency,3,3
+National Security Agency,8,1
+National Security Agency,9,1
+National Security Agency,10,1
+National Security Agency,12,1
+National Security Agency,14,1
+National Security Agency,15,1
+National Security Agency,43,1
+National Security Agency,191,1
+National Security Agency,192,3
+National Security Agency,201,1
+National Security Agency,202,1
+National Security Agency,204,1
+National Security Agency,211,1
+National Security Agency,531,1
+National Security Systems,9,1
+Nbtscan,196,2
+Nefilim,3,1
+Nepal,3,1
+NetApp,37,1
+NetBIOS,189,1
+NetEarth One Inc.,11,1
+NetMap,15,1
+NetPass.exe,35,2
+NetScaler,9,14
+NetScaler,204,1
+NetScaler ADC,10,1
+NetScaler ADC,32,1
+NetScaler Gateway,9,4
+NetScaler Gateway,10,1
+NetScaler Gateway,32,4
+NetScaler Gateway,204,4
+NetScaler/ADC,201,1
+NetSupport,3,2
+NetSupport Manager,3,1
+NetSupport Manager RAT,3,1
+NetSupport RAT,3,1
+NetSupport Remote Access Tool,3,1
+NetWeaver,184,1
+NetWeaver 7.5,184,1
+NetWeaver AS,184,3
+NetWeaver AS Java,184,1
+NetWeaver AS Java 7.3,184,1
+NetWeaver Application Server Java,45,1
+Netapp,3,1
+Netgear,9,1
+Netherlands,189,2
+Netherlands,200,2
+Netherlands,532,1
+Netlab 360,52,1
+Netlogon,12,1
+Netlogon,14,1
+Netlogon,202,4
+Netlogon,531,4
+Netskope,25,2
+Netwal,3,1
+Netwalker,531,1
+Netwire,6,1
+Network Attached Storage,26,1
+NetworkMiner,9,1
+"NetworkMiner,[10",9,2
+Nevada,3,2
+New Jersey,3,1
+New Jersey Cybersecurity & Communications Integration,205,1
+New Jersey Cybersecurity & Communications Integration Cell,25,1
+New Jersey’s,6,2
+New Technology Local Area Network Manager,14,1
+New Technology Local Area Network Manager,16,1
+New York,3,2
+New York,532,1
+New York State,3,1
+New Zealand,0,1
+New Zealand,2,1
+New Zealand,3,3
+New Zealand,7,1
+New Zealand,8,1
+New Zealand,9,2
+New Zealand,10,7
+New Zealand,12,1
+New Zealand,13,1
+New Zealand,14,1
+New Zealand,15,2
+New Zealand,16,1
+New Zealand,17,2
+New Zealand,18,1
+New Zealand,30,1
+New Zealand,34,2
+New Zealand,46,1
+New Zealand,184,3
+New Zealand,186,1
+New Zealand,189,3
+New Zealand,191,14
+New Zealand,200,2
+New Zealand,211,10
+New Zealand,212,1
+New Zealand,529,1
+New Zealand,531,1
+New Zealand,532,1
+New Zealand National Cyber Security Centre,211,1
+New Zealand's,34,1
+New Zealand's,191,1
+"New Zealand,[2",211,1
+"New Zealand,[3][4",9,1
+"New Zealand,[5],[6",189,1
+New Zealand[6,191,1
+New Zealand’s,34,1
+New-MailboxExportRequest PowerShell,196,1
+Nginx,234,1
+Ngrok,1,11
+Ngrok,2,3
+Nicaragua,3,1
+Nick Brown,550,1
+Nick Browns,550,1
+Nigeria,3,1
+NirSoft,35,1
+Nirsoft SniffPass,9,2
+Nltest,198,1
+Nmap,9,3
+Nmap,531,3
+"Nmap
+",9,1
+Nmap Scripting Engine,15,1
+NoDriveTypeAutorun,550,1
+NoScript,65,1
+NoScript,545,1
+NoScript Firefox Extension,554,1
+NoScriptNoScript,9,1
+Nobelium,198,2
+NobleBaron,191,1
+Node.js,11,5
+Nordic Private Ind,43,1
+North Korea,3,5
+North Korea,7,1
+North Korea,9,2
+North Korea,18,1
+North Korea,30,11
+North Korea,532,4
+North Korea's,3,2
+North Korea's,532,2
+North Korean,532,1
+North Korea’s,3,4
+North Korea’s,11,4
+North Korea’s,30,2
+North Korea’s,40,1
+North Korea’s,532,1
+Norton,44,4
+NotPetya,1,13
+NotPetya,14,1
+NotPetya,191,3
+Notepad,550,3
+Notepad++,22,1
+NoticeDHS,1,1
+NoticeDHS,42,1
+NoticeDHS,187,1
+Novetta,3,1
+Novetta,40,4
+Nullsoft Scriptable Install System,529,1
+Nutanix,37,1
+O,5,1
+O365,9,2
+O365,18,5
+O365,22,1
+O365,201,3
+O365,204,19
+O=,5,1
+O=DigiCert Inc,5,1
+"O=VeriSign, Inc.",5,6
+ODNI,21,2
+ODNI,192,2
+OFAC,7,1
+OFAC,30,6
+OLE,18,2
+OLE,49,1
+OMRON,3,1
+OMRON,185,1
+OMRON Sysmac NJ,185,1
+ONG,20,1
+OPC UA,185,2
+OPC UA Applications,185,1
+OPC UA security,185,1
+OPCDE,206,4
+OS X,42,1
+OS X,240,1
+OS X Lion v10.7.2,206,2
+OS X Server 10.6.8Web,49,1
+OSX,44,1
+OSquery,532,1
+OS X,66,1
+OU,5,1
+OU=VeriSign Trust Network,5,3
+OVH,20,1
+OWA,39,2
+OWA,187,2
+OWA,196,1
+OWASP,9,3
+OWASP,20,1
+OWASP,34,1
+OWASP,234,1
+Office,1,1
+Office,3,11
+Office,9,3
+Office,10,1
+Office,11,1
+Office,12,3
+Office,17,3
+Office,24,2
+Office,31,2
+Office,34,2
+Office,36,3
+Office,40,2
+Office,42,2
+Office,47,2
+Office,56,4
+Office,58,1
+Office,59,5
+Office,186,2
+Office,192,2
+Office,196,2
+Office,198,3
+Office,205,2
+Office,213,1
+Office,234,1
+Office,237,1
+Office,241,1
+Office,244,3
+Office,245,3
+Office,246,2
+Office,247,2
+Office,250,3
+Office,252,2
+Office,254,2
+Office,255,3
+Office,261,2
+Office,529,1
+Office,531,7
+Office,542,2
+Office,549,1
+Office 2003,51,6
+Office 2003,201,1
+Office 2003 Web Components SP3,18,1
+Office 2003.Organizations,51,1
+Office 2007,56,1
+Office 2007,531,1
+Office 2010,18,1
+Office 2010,531,1
+Office 2013,531,1
+Office 365,6,1
+Office 365,9,1
+Office 365,12,2
+Office 365,18,2
+Office 365,21,1
+Office 365,34,1
+Office 365,196,1
+Office 365,201,2
+Office 365,204,4
+Office 365 Security Observations,204,1
+Office Compatibility Pack SP3,18,1
+Office Excel,254,1
+Office Producer,254,1
+Office Publisher,261,2
+Office PublisherMicrosoft,261,1
+Office Viewer,1,1
+Office Viewer,17,1
+Office Viewer,31,1
+Office Viewer,42,1
+Office Viewer,196,1
+Office Viewer,198,1
+Office VisioMicrosoft,549,1
+Office Web Apps Server 2010 SP2,18,1
+Office Web Components,206,2
+Office Word,9,1
+Office Word,544,3
+Office of Foreign Assets Control,7,1
+Office of Foreign Assets Control,30,1
+Office of the Director of National Intelligence,30,1
+Office of the Director of National Intelligence,192,2
+OfficeInternet,40,1
+OfficeInternet,192,1
+OfficeInternet Explorer,44,1
+OfficeInternet Explorer,214,1
+OfficeInternet Explorer,241,1
+OfficeInternet Explorer,542,1
+OfficeMicrosoft,3,2
+OfficeMicrosoft,6,1
+OfficeMicrosoft,8,1
+OfficeMicrosoft,9,1
+OfficeMicrosoft,24,1
+OfficeMicrosoft,36,1
+OfficeMicrosoft,40,1
+OfficeMicrosoft,55,1
+OfficeMicrosoft,56,1
+OfficeMicrosoft,57,1
+OfficeMicrosoft,58,1
+OfficeMicrosoft,59,1
+OfficeMicrosoft,184,1
+OfficeMicrosoft,186,1
+OfficeMicrosoft,200,1
+OfficeMicrosoft,211,1
+OfficeMicrosoft,232,1
+OfficeMicrosoft,246,1
+OfficeMicrosoft,252,1
+OfficeMicrosoft,261,1
+OfficeMicrosoft,538,1
+OfficeMicrosoft,539,1
+OfficeMicrosoft Server SoftwareMicrosoft,237,1
+OfficeRemote Desktop Connection Client,206,1
+Onapsis,45,2
+Onapsis,184,3
+Onapsis Inc.,206,1
+Onapsis Inc.[3,206,1
+OneDrive,3,2
+OneDrive,4,2
+OneDrive,12,1
+OneDrive,22,1
+OneDrive,196,2
+OneDrive,204,1
+OneHub,529,2
+OoB.Harden,20,1
+Open Platform Communications,209,1
+Open Platform Communications Unified Architecture (OPC UA,3,1
+OpenBSM,532,1
+OpenJDK,3,1
+OpenJDK 7,9,1
+OpenLDAP,10,1
+OpenOffice,11,1
+OpenSSH,50,1
+OpenSSH,198,1
+OpenSSL,3,1
+OpenSSL,44,5
+OpenSSL,535,2
+OpenSSL 0.9.8,535,1
+OpenSSL 1.0.0,535,1
+OpenSSL 1.0.1,44,2
+OpenSecurity Forums,3,3
+OpenVAS,233,1
+OpenVPN,198,1
+Opera,35,1
+Opera,203,1
+Oracle,3,16
+Oracle,9,6
+Oracle,14,2
+Oracle,37,1
+Oracle,49,3
+Oracle,53,8
+Oracle,54,10
+Oracle,67,8
+Oracle,192,6
+Oracle,201,5
+Oracle,235,4
+Oracle,251,6
+Oracle,253,7
+Oracle,258,6
+Oracle,541,7
+Oracle,551,7
+Oracle Corporation,196,1
+Oracle Database 11,192,1
+Oracle Database 11,251,1
+Oracle Database 11,541,2
+Orange Tsai,10,1
+OrganizationsNCCIC,3,1
+Orion,3,18
+Orion,12,1
+Orion,14,1
+Orion,191,3
+Orion,197,2
+Orion,201,4
+Orion Platform 2019.4 HF5,3,1
+Orion Platform 2020.2,3,1
+Orion Platform 2020.2 HF1,3,1
+Orion Platform 2020.2 RC1,3,1
+Orion Platform 2020.2 RC2,3,1
+Orion Platforms,3,1
+Orion Products,3,1
+Orz/,197,1
+Osiris,205,1
+OutDell,44,1
+Outlook,9,1
+Outlook,21,1
+Outlook,35,6
+Outlook,196,1
+Outlook,198,2
+Outlook,200,2
+Outlook,529,3
+Outlook Express,252,2
+Outlook Express,552,1
+Outlook ExpressMicrosoft,252,1
+Outlook Web Access,4,1
+Outlook Web Access,9,1
+Outlook Web Access,39,1
+Outlook Web Access,187,1
+Outlook Web App,3,1
+OutlookPSTOST,22,1
+Outside In Technology,192,1
+O’Brien,205,1
+PCS,184,2
+PCS Integrity Assurance,9,1
+PCSO,200,1
+PCWorld,20,1
+PDF,59,1
+PE32,42,2
+PHP,46,1
+PHP,187,1
+PHProxy,9,1
+PLA,201,4
+PLC,3,1
+PLC,9,2
+PLC,185,1
+PLCs,9,1
+PLUGX,43,12
+PLUGX/SOGU,43,1
+PLUGXPLUGX,43,1
+PLXsert,52,1
+POE,30,10
+POP3,45,1
+POS,536,10
+POS Software Applications,536,1
+POWERSTATS,529,5
+PRC,3,9
+PRC,9,12
+PRC,22,1
+PRC,197,2
+PRE-ATT&CK® Framework,9,1
+PRIMITIVE BEAR,191,2
+PSCP,2,1
+PSEXECSVC,9,1
+PackageActiveX,33,1
+Pakistan,3,1
+Palo Alto,3,3
+Palo Alto,530,1
+Palo Alto Networks,27,1
+Palo Alto Networks,185,1
+Palo Alto Networks,188,1
+Palo Alto Networks,200,1
+Palo Alto Networks,202,2
+Palo Alto Networks,530,2
+Palo Alto Networks,531,1
+Palo Alto Networks Unit,9,5
+Palo Alto.[12,3,1
+"Palo Alto.[3],[4",29,1
+Panama,3,1
+Panel,30,1
+Panel of Experts,30,1
+Parth D. Maniar,3,1
+Pastebin,229,2
+PawnStorm,191,1
+PayPal,35,1
+PeopleSoft Enterprise PeopleTools,192,1
+PeopleSoft Enterprise SCM,192,1
+People’s Republic of China,3,2
+People’s Republic of China,9,3
+People’s Republic of China,196,1
+Perimeter,8,2
+Periscope,197,2
+Perl,46,1
+Persistence,196,1
+Peru,3,1
+Petya,1,4
+Phantom,531,1
+Philippines,3,1
+Photo Station,9,5
+Photoshop,16,2
+Photoshop,24,2
+Photoshop,52,1
+Photoshop,62,2
+Photoshop,63,2
+Photoshop CS5,52,4
+Pinellas County Sheriff Office,200,1
+PingTest,9,1
+Pinksliplot,6,1
+Pioneer Kitten,9,1
+Plink,9,4
+Plink,196,1
+PoS Security,50,1
+PoisonIvy,201,1
+Poland,191,1
+Poland,532,1
+Pony/FAREIT,18,1
+PortSwigger,15,1
+Portable Document Format,546,1
+Portal,184,1
+Poslušný,205,1
+Post Office Protocol,204,1
+PowGoop,529,7
+Power Eraser,44,1
+Power EraserTrend,33,1
+PowerBI,12,1
+PowerBI,204,1
+PowerPC,9,2
+PowerPoint,11,1
+PowerPoint,44,2
+PowerPoint,547,4
+PowerShell,0,2
+PowerShell,1,3
+PowerShell,2,2
+PowerShell,3,21
+PowerShell,4,7
+PowerShell,8,2
+PowerShell,9,15
+PowerShell,10,1
+PowerShell,12,5
+PowerShell,14,2
+PowerShell,15,1
+PowerShell,21,2
+PowerShell,24,4
+PowerShell,34,21
+PowerShell,39,8
+PowerShell,40,2
+PowerShell,43,1
+PowerShell,185,1
+PowerShell,187,9
+PowerShell,189,1
+PowerShell,191,1
+PowerShell,193,1
+PowerShell,194,2
+PowerShell,196,12
+PowerShell,197,1
+PowerShell,200,2
+PowerShell,201,22
+PowerShell,203,1
+PowerShell,529,14
+PowerShell,531,1
+PowerShell,532,3
+PowerShell 5.0,12,1
+PowerShell Constrained Language,9,1
+PowerShell Empire,3,1
+PowerShell Empire,34,18
+PowerShell Empire,197,1
+PowerShell Empire,201,1
+PowerShell Logging,0,1
+PowerSploit,3,2
+PowerSploit,43,1
+PowerSploit,532,1
+PowerUp,532,1
+Powershell,4,1
+Powershell,196,1
+Powershell,200,1
+Preferences,63,1
+PreventionUS-CERT,537,1
+Privax,188,1
+Pro,22,2
+ProcDump,9,3
+"Process Discovery
+T1057",529,1
+ProcessBuilder,3,1
+ProcessBuilder,530,1
+Producer,254,1
+Producer 2003,254,2
+Professional,546,1
+Professional,548,1
+ProgramData,34,1
+ProgramData,529,1
+Progress Telerik,9,1
+"Project
+
+",9,1
+Project Hook,536,1
+Prolexic Security Engineering and Research Team,52,1
+Proofpoint,200,1
+Proofpoint,205,3
+Proofpoint Blog,191,2
+Protected Mode Internet Explorer,47,1
+Protected Process Light for Local Security Authority,1,1
+Protected Process Light for Local Security Authority,14,1
+Protected View,47,1
+Protonmail,9,1
+Protonmail,24,1
+ProxyLogon,10,1
+ProxyShell,3,2
+ProxyShell,10,2
+ProxyShell,184,6
+PsExec,1,3
+PsExec,9,5
+PsExec,187,3
+PsPing,8,1
+PuTTY,197,1
+PuTTY Link,9,1
+PuTTY Secure Copy Client,3,1
+Public Safety Canada,234,1
+Pulse,14,1
+Pulse,184,1
+Pulse,202,3
+Pulse,531,2
+Pulse Connect Secure,3,2
+Pulse Connect Secure,9,6
+Pulse Connect Secure,10,7
+Pulse Connect Secure,18,1
+Pulse Connect Secure,184,34
+Pulse Connect Secure,201,2
+Pulse Connect Secure,202,1
+Pulse Connect Secure,531,2
+Pulse Connect Secure 9.0R3/9.1R1,9,1
+Pulse Connect Secure VPN,531,1
+Pulse Connect Secure VPN Software,10,1
+Pulse Policy Secure,10,5
+Pulse Policy Secure,18,1
+Pulse Policy Secure,202,1
+Pulse Secure,3,10
+Pulse Secure,9,5
+Pulse Secure,10,8
+Pulse Secure,18,2
+Pulse Secure,29,1
+Pulse Secure,184,5
+Pulse Secure,196,3
+Pulse Secure Advisory SA44101,10,3
+Pulse Secure Collaboration,9,1
+Pulse Secure Connect,184,2
+Pulse Secure Connect,531,1
+Pulse Secure Connect VPN (CVE 2019-,531,1
+Pulse Secure Pulse Connect Secure,3,1
+Pulse Secure Pulse Connect Secure,10,1
+Pulse Secure SSL VPN,3,1
+Pulse Secure VPN,3,4
+Pulse Secure VPN,9,1
+Pulse Secure VPN,10,2
+Pulse Secure VPN,531,1
+Pulse Secure VPN Servers,9,1
+Pulse Secure VPN Vulnerability,10,1
+"Pulse Secure, LLC",196,1
+Pulse VPN,531,1
+Putty,197,1
+Putty Secure Shell,194,1
+PwC,9,1
+PwC/BAE Systems,43,1
+Pyongyang,30,2
+Python,4,2
+Python,9,7
+Python,39,1
+Python,46,1
+Python,187,1
+Python,196,5
+Python,529,2
+Python 2.7,39,2
+Python 2.7,187,1
+Python 2.7.Detect,187,1
+Python Software Foundation,196,1
+Python3,529,1
+Q.T. Bitcoin Trader,532,4
+QBot,6,1
+QN4869MD,43,1
+QNAP,9,8
+QNAP,26,7
+QNAP App Center,26,1
+QNAP NAS,26,2
+QNAP Technical Support,26,1
+QNX,19,5
+QNX Momentics,19,1
+QNX Momentics Development Suite,19,1
+"QNX Neutrino RTOS Certified Plus
+ ",19,1
+"QNX Neutrino RTOS for Medical Devices
+ ",19,1
+"QNX OS for Automotive Safety
+ ",19,1
+"QNX OS for Safety
+ ",19,1
+QNX RTOS,19,1
+QNX Real Time Operating System,19,1
+QSnatch,26,12
+QTS,9,3
+QTS 4.3.0,9,1
+QakBot,6,1
+Qakbot,6,9
+Qakbot,191,1
+Qakbot,200,1
+Qbot,6,1
+Qbot,44,1
+Qbot,200,1
+Quasar RAT,34,1
+Qubes,37,1
+Quebec,200,1
+Quedagh,191,1
+QuickTime,69,2
+QuickTime,210,10
+QuickTime 7,210,1
+QuickTime 7.5,69,1
+QuickTime 7.6,69,4
+QuickTime Atom,210,1
+QuickTime moov,210,1
+R2,3,6
+R2,18,3
+R2,49,4
+R2,201,6
+R2,531,2
+R2 SP1,18,1
+R2Microsoft,229,1
+R2Windows Server 2008Windows,534,1
+R88D-1SN10F-ECT,185,1
+RADIUS,9,2
+RAR,196,1
+RARLAB UnRAR,186,1
+RAS-4096 public,17,1
+RAT,43,1
+RC4,5,1
+RC4,9,1
+RC4,43,1
+RC4,50,3
+RC4,532,2
+RC4 128,5,1
+RD Gateway,533,1
+RD Gateway Server,533,1
+RDP,2,1
+RDP,3,2
+REDLEAVES,43,8
+REvil,10,1
+RFC,3,1
+RFJ,3,2
+RFJ,7,1
+RFJ,8,1
+RFJ,9,2
+RFJ,13,1
+RFJ,17,1
+RFJ,184,1
+RFJ,529,1
+RSA,209,1
+RT,49,1
+RT,229,1
+RT 8.1,531,1
+RT 8.1Microsoft,49,1
+RT 8.1Microsoft,229,1
+RV016 Multi-WAN VPN Router,9,1
+RV042 Dual WAN VPN Router,9,2
+RV042G Dual Gigabit WAN VPN Router,9,2
+RV082 Dual WAN VPN Router,9,1
+RV320,9,1
+RV320,201,4
+RV325,9,2
+RV325,201,4
+Ram Capture,22,1
+Ran Mosessco,205,1
+Ransomware-Locky,212,1
+Ransomware-Samas,212,1
+Rapid7 Limited Liability Company,9,1
+RawDisk3,5,1
+Razy,198,1
+Rclone,0,2
+Rclone,2,1
+Rclone,17,1
+RdClient,4,1
+Reader,16,7
+Reader,17,2
+Reader,22,13
+Reader,24,3
+Reader,47,1
+Reader,54,5
+Reader,59,5
+Reader,61,5
+Reader,62,3
+Reader,63,11
+Reader,240,8
+Reader,253,8
+Reader,540,5
+Reader,543,2
+Reader,545,2
+Reader,546,5
+Reader,548,3
+Reader X,59,1
+Reader X,240,2
+Reader X,540,1
+ReaderAdobe,59,1
+ReaderAdobe,240,1
+ReaderAdobe,540,1
+Readme.md,24,1
+Reconnaissance General Bureau,3,1
+Recorded Future,191,3
+Red Hat,50,4
+Red Hat,186,1
+Red Hat Enterprise Linux 6,186,1
+Reddit,3,1
+Reddit,229,1
+Redmond,5,1
+Redmond Magazine,230,1
+Regin,4,3
+Registry,3,1
+Registry,9,1
+Remcos,6,13
+Remote Access Trojans,3,1
+Remote Access Trojans,200,1
+Remote Desktop,50,5
+Remote Desktop Client,533,1
+Remote Desktop Connection,206,2
+Remote Desktop Protocol,0,1
+Remote Desktop Protocol,2,2
+Remote Desktop Protocol,3,3
+Remote Desktop Protocol,6,2
+Remote Desktop Protocol,8,1
+Remote Desktop Protocol,9,2
+Remote Desktop Protocol,13,1
+Remote Desktop Protocol,17,1
+Remote Desktop Protocol,20,2
+Remote Desktop Protocol,24,1
+Remote Desktop Protocol,34,1
+Remote Desktop Protocol,43,1
+Remote Desktop Protocol,191,2
+Remote Desktop Protocol,198,2
+Remote Desktop Protocol,200,1
+Remote Desktop Protocol (RDP,7,1
+Remote Desktop Protocol (RDP,10,1
+Remote Server Administration Tools,4,1
+Retail Place In-Season,253,1
+Retail Plan In-Season,253,1
+Reuters,42,1
+Reverse Shell,531,1
+Rewards for Justice,3,2
+Rewards for Justice,7,1
+Rewards for Justice,8,1
+Rewards for Justice,9,2
+Rewards for Justice,12,1
+Rewards for Justice,13,1
+Rewards for Justice,14,1
+Rewards for Justice,184,1
+Rewards for Justice,529,1
+Rewards for Justice Program,12,1
+Rewards for Justice Program,14,1
+Rivest Cipher 4,3,1
+Rivest Cypher 4,201,1
+Rob Fuller's,15,1
+RoboHelp,52,5
+RoboHelp Server 8,52,1
+RoboHelp Server 9,52,1
+Robocopy,2,1
+Robocopy,3,1
+Rod J. Rodenstein,201,1
+RogueKiller,22,1
+Roland Dela Paz,205,1
+Root,532,2
+Rootkit,3,1
+Roshal Archive Compressed,9,1
+Roth,15,1
+Router Scan,17,1
+RouterOS,9,1
+RouterScan,9,2
+RouterSploit,9,1
+Rozena,198,2
+Rundll32,196,1
+Rundll32,203,2
+Russia,6,1
+Russia,12,1
+Russia,18,1
+Russia,42,1
+Russia,191,18
+Russia,194,2
+Russia,205,1
+Russia,532,1
+Russian Federal Security Service,9,1
+Russian Federation,9,1
+Russian Foreign Intelligence Service,14,1
+Russian Foreign Intelligence Service,21,1
+Russian Foreign Intelligence Service,191,3
+Russian Foreign Intelligence Service,531,1
+Russian General Staff Main Intelligence Directorate,191,1
+Russian Ministry of Defense,191,2
+Rye,3,1
+Ryuk,3,1
+Ryuk,6,2
+Ryuk,24,29
+RyukReadMe,24,3
+S.,9,1
+S8VK,185,1
+SALTY SPIDER,191,3
+SAML,201,1
+SANS ISC,20,1
+SANS ISC InfoSec Forums,20,1
+SANTA CLARA,5,1
+SAP,45,20
+SAP,184,50
+SAP,206,17
+SAP Gateway,206,2
+SAP Note 1421005,206,1
+SAP Router,206,1
+SATCOM,192,26
+SBA,9,2
+SCADA,3,3
+SCADA,20,2
+SCADA,200,2
+SCULLY SPIDER,191,5
+SD-WAN WANOP,32,3
+SD-WAN WANOP,204,1
+SELINUX,9,1
+SELinux,13,1
+SENKI,52,1
+SHC,26,1
+SIEM,3,6
+SIEM,4,1
+SIEM,9,3
+SIEM,12,1
+SIEM,43,1
+SIEM,189,1
+SIEM,192,1
+SIEM,197,1
+SIEM,204,3
+SINGLEMALT,24,1
+SIPRNET,3,1
+SL3300,185,1
+SLCC2,43,1
+SLCC2,200,1
+SLTT,3,1
+SLTT,12,7
+SLTT,24,1
+SLTT,35,3
+SLTT,185,1
+SLTT,186,1
+SLTT,202,2
+SLTT,211,1
+SMA 100 series appliances,10,1
+SMBv1,1,2
+SMOKEY SPIDER,191,2
+SNAKEMACKEREL,191,1
+SNMP,41,2
+SNMP,207,1
+SNMP V3.Immediately,207,1
+SNMPv1,41,2
+SNMPv2,41,4
+SNMPv3,41,6
+SOHO,9,1
+SOHO Internet Gateway,207,2
+SP1,18,4
+SP1,201,2
+SP1,531,1
+SP2,3,1
+SP2,18,3
+SP2,201,3
+SP2,531,1
+SP3,18,2
+SP3,51,2
+SP3,201,3
+SP4,201,3
+SP5Oracle WebLogic Server,258,1
+SP6Oracle,3,1
+SP6Oracle,251,1
+SP6Oracle Data Service Integrator,67,1
+SP6Oracle WebLogic Portal,258,1
+SP6Oracle WebLogic Server,67,1
+SP6Oracle WebLogic Server,551,1
+SP7Oracle,3,1
+SP7Oracle,251,1
+SP7Oracle,551,1
+SP7Oracle WebLogic Portal,67,1
+SPE,30,3
+SPORTSBALL,22,1
+SQL Server,57,1
+SQL Server,186,2
+SQL Server,237,1
+SQL Server,549,2
+SQL Server 2000,18,1
+SQL Server 2000,201,1
+SQL ServerMicrosoft,186,1
+SQL ServerMicrosoft,211,1
+SQL ServerMicrosoft,237,1
+SQL ServerSSH,233,1
+SSH,7,1
+SSH,36,1
+SSH,207,2
+SSL 3.0,535,2
+SSLDecrypt,8,2
+ST,5,1
+STC,5,1
+STIX,43,1
+STIX,194,2
+STIX,197,1
+STRONTIUM,191,1
+SUNBURST,3,1
+SV1,20,1
+SVR,3,1
+SVR,21,6
+SVR,191,5
+SVR,197,1
+SVR,201,1
+SWIFT,3,6
+SWIFT,30,2
+SWIFT,34,1
+SYM16,44,4
+SYNful Knock,20,2
+SYSTEM32,9,1
+SYSTEM32,39,1
+SYSTEM32,43,1
+SYSTEM32,187,1
+SYSTEM32,209,1
+SYSVOL,16,2
+Safari,3,1
+Safari,9,3
+Safari,25,1
+Safari,35,1
+Safari,42,1
+Safari,49,1
+Safari,66,3
+Safari,235,1
+Safari 3.2.3,66,3
+Sality,191,3
+Salmiya,5,1
+Salsa20,1,1
+SamSam,3,6
+SamSam,212,1
+Samas,212,3
+Samba,26,1
+Sands Las Vegas Corporation,3,1
+Sandworm,192,3
+Sandworm Team,191,1
+Sanghavi,205,1
+Saudi Arabia,532,1
+Saudi Telecommunications Company,5,1
+ScannerNorton,33,1
+Schannel,229,2
+"Scheduled Task RuntimeBrokerService.exe,",1,1
+Schneider,185,3
+Schneider Electri,3,1
+Schneider Electric,9,1
+Schneider Electric,14,1
+Schneider Electric,185,5
+Schneider Electric Devices,185,1
+Schneider Electric PLCs,3,1
+Schneider Electric’s,9,2
+ScreenConnect,4,1
+ScreenConnect,22,1
+ScreenConnect,529,1
+ScreenUtil,39,1
+ScreenUtil,187,1
+SeaMonkey,65,1
+SeaMonkey,545,1
+SeaMonkey,554,4
+SeaMonkey 1.1.13,554,1
+SecComp,13,1
+Secret Service,50,1
+Secret Service Field Office,13,1
+Secret Service Field Office,16,1
+Secret Service Field Office,22,1
+Secret Service Field Office,191,1
+SecretsDump,9,1
+SecretsDump,39,1
+SecretsDump,187,1
+Sectigo,532,10
+Secure File Transfer Protocol,25,1
+Secure Shell,2,1
+Secure Shell,3,1
+Secure Shell,9,2
+Secure Shell,41,1
+Secure Shell,193,1
+Secure Shell,196,1
+Secure Shell (,197,1
+Secure Shell [,12,1
+Secure Shell [,202,1
+SecureMalwarebytesMcAfeeMicrosoft,33,1
+Secureworks,8,1
+Secureworks,186,1
+Secureworks,191,1
+Secureworks,205,1
+Secureworks,211,1
+Security Advisory APSA09,548,1
+Security Bulletin APSB09,22,1
+Security Bulletin APSB09,546,1
+Security Bulletin APSB10,543,1
+Security Bulletin APSB10-,253,1
+Security Bulletin APSB12-08,540,1
+Security Bulletin MS12-,236,1
+Security Bulletin MS12-063,236,1
+Security Bulletin MS13,9,2
+Security Center,207,1
+Security Essentials,531,1
+Security Research & Defense,16,1
+Security Research & Defense,33,1
+Security Research & Defense,63,1
+Security Week,205,1
+SecurityWeek,25,1
+Securityweek.com,9,2
+Sednit,191,1
+Seedworm,529,1
+SektionEins,230,1
+Sender Policy Framework,2,1
+Sender Policy Framework,42,1
+Sentinel,3,1
+Sentinel,14,1
+Sentinel,201,5
+SentinelLabs,194,2
+SentinelOne,22,1
+Sentry,201,1
+Sentry,531,1
+Seoul,9,1
+Server,186,1
+Server 2003,229,1
+Server 2008,3,2
+Server 2008,49,1
+Server 2008,229,1
+Server 2008,231,1
+Server 2008 R2,3,1
+Server 2008 R2,202,1
+Server 2008 R2,229,1
+Server 2008 R2,231,1
+Server 2008 SP2,18,1
+Server 2012,3,1
+Server 2012,49,1
+Server 2012,229,2
+Server 2012,231,1
+Server 2012 R2,2,1
+Server 2016,1,1
+Server 2016,14,1
+Server 2016,16,1
+Server 2016,191,1
+Server Core,3,3
+Server Core,201,6
+Server Message Block exploitation,200,1
+Server Software,237,1
+Server SoftwareMicrosoft,211,1
+ServerMicrosoft,261,1
+Service Pack,534,1
+Service Pack 3,51,1
+ServiceDesk,3,1
+ServiceDesk Plus,3,5
+SfyLabs,25,1
+Shadowserver,3,1
+SharePoint,3,1
+SharePoint,5,1
+SharePoint,12,5
+SharePoint,18,1
+SharePoint,531,11
+SharePoint 2010,531,1
+SharePoint 2013,531,1
+SharePoint Online,204,1
+SharePoint Server,553,1
+SharePoint Server 2010 SP2,18,1
+SharePoint ServerOffice,3,1
+SharePoint Services,3,2
+SharePoint ServicesMicrosoft,3,1
+Sharepoint,9,1
+Sharepoint,246,2
+Sharepoint,531,2
+SharepointMicrosoft,246,1
+SharpWMI,3,1
+Shellshock,50,1
+Shields Up,192,1
+Shields Up and,211,1
+Shlayer,3,3
+Shockwave,59,3
+Shockwave Player,3,1
+Shockwave Player,52,3
+Shockwave Player,59,4
+Shockwave Player 11.5.9.620,59,1
+Shockwave Player 11.6.0.626,52,1
+Shockwave Player 11.6.8.638,3,1
+Shockwave PlayerAPSB11,52,1
+Shockwave PlayerAdobe,59,1
+Shodan,3,1
+Shodan,9,9
+Shodan,201,1
+Shodan,233,1
+Shodan Limited Liability Company,9,1
+Siebel,541,1
+Siebel Suite,541,1
+Siemens,209,1
+Siemens,233,2
+Sigma,15,1
+Signal,9,1
+Signal,12,1
+Signal,14,1
+SignatureCISA,206,1
+Silent Signal’s,15,1
+Silverlight,9,1
+Silverlight,40,4
+Silverlight,58,1
+Silverlight,184,2
+Silverlight,186,2
+Silverlight,200,1
+SilverlightInternet,184,1
+SilverlightInternet Explorer,8,1
+SilverlightMicrosoft,58,1
+SilverlightMicrosoft,186,1
+SilverlightMicrosoft,232,1
+Simda,216,8
+Simple Mail Transport Protocol,3,1
+Simple Mail Transport Protocol,204,1
+Simple Network Management Protocol,2,1
+Singapore,3,1
+Singapore,211,2
+Singapore,531,1
+Singapore,532,1
+Singapore Cyber Security Agency,211,1
+Sitecore,10,1
+Sitecore Experience Platform Content Management Systems,10,1
+Sitecore XP,10,4
+Sitecore XP 7.5,3,1
+Sitecore XP 8.2 Update-7 is,3,1
+Skype,22,1
+Skype,529,2
+Slovenia,532,1
+Small Business Administration,9,1
+Small Business RV Series Routers,9,2
+Small Business RV320,9,1
+Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers,9,1
+Small Sieve,529,10
+Small Sieve beacons,529,1
+Small Sieve’s,529,1
+Smart Install,9,2
+Smart Install,207,2
+Smoke Bot,191,1
+Smoke Loader,191,5
+Snort,3,1
+Snort,8,1
+Snort,9,1
+Snort,25,1
+Snort,52,1
+Snort,188,1
+Society for Worldwide Interbank Financial Telecommunication,30,1
+Society for Worldwide Interbank Financial Telecommunication,34,1
+Sodinokibi/REvil,3,1
+Sofacy,191,1
+SoftPerfect Network Scanner,184,1
+Softerra LDAP Browser,9,1
+Software Update,66,1
+Software Update,69,1
+SoftwareMicrosoft,8,1
+SoftwareMicrosoft,9,1
+SoftwareMicrosoft,40,1
+SoftwareMicrosoft,55,1
+SoftwareMicrosoft,57,1
+SolarWinds,3,37
+SolarWinds,12,1
+SolarWinds,14,1
+SolarWinds,21,7
+SolarWinds,191,3
+SolarWinds,197,3
+SolarWinds,201,5
+SolarWinds Orion,3,19
+SolarWinds Orion,197,1
+SolarWinds Orion,201,2
+SolarWinds Orion Platform,3,1
+Solaris,52,1
+Solaris,59,2
+Solaris,62,1
+Solorigate,201,4
+SonarSource,186,2
+SonicWall,1,3
+SonicWall,9,1
+SonicWall,10,2
+SonicWall,187,3
+Sony,30,1
+Sony,40,1
+Sony Pictures,30,1
+Sony Pictures Entertainment,30,1
+Sophos,20,1
+Sophos,22,1
+Sophos,56,1
+Sophos,231,1
+Sophos / Naked Security,43,1
+Sophos / Naked Security,212,2
+SophosLabs,3,1
+Soudoers,3,1
+South Africa,3,1
+South Ko,6,1
+South Korea,3,1
+South Korea,9,3
+South Korea,40,1
+South Korea,532,1
+Spain,3,1
+Spain,42,1
+Spain,532,1
+Sparrow,3,2
+Sparrow,12,1
+Sparrow,14,1
+Sparrow,197,4
+Sparrow,201,34
+Spectre,37,7
+Spectre,204,2
+Splashtop,50,1
+Splashtop 2,50,1
+Splunk,201,3
+Stairwell,7,1
+Standard,546,1
+Standard,548,1
+Stardust,536,1
+Stardust Chollima,3,2
+Stardust Chollima,11,1
+Starwhale,529,1
+State,30,3
+Static Kitten,529,1
+Stefan Esser,230,1
+Stefan Viehböck,21,1
+StellarParticle,191,1
+Stopransomware.gov,9,2
+Stopransomware.gov,18,1
+Strategic Cyber LLC,196,1
+Strategies to Mitigate Cyber Security Incidents,13,1
+Subversion,50,1
+Sudo,3,1
+Sun,217,4
+Sun,251,1
+Sun,253,1
+Sun,541,1
+Sun,553,1
+Sun Product Suite,192,1
+Sun Product Suite,251,1
+Sun Products Suite,253,1
+Sun Security Blog,253,1
+Sunburst,3,1
+Superfish,216,10
+Superfish VisualDiscovery,216,7
+"Superfish, Inc.",216,1
+Supervisory Control and Data Acquisition,39,1
+SurfShark,4,5
+SvcEdge.exe,8,1
+Svchost,203,1
+Swallowtail,191,1
+Sweden,532,1
+Symantec,3,3
+Symantec,4,2
+Symantec,39,6
+Symantec,40,2
+Symantec,43,5
+Symantec,44,15
+Symantec,187,4
+Symantec,194,3
+Symantec,201,1
+Symantec,205,2
+Symantec,212,5
+Symantec,231,1
+Synology,37,1
+SysInternals,1,1
+SysInternals,8,1
+SysInternals LogonSessions,8,2
+Sysinternals,17,1
+Sysinternals Autoruns,3,1
+Sysinternals Autoruns,9,1
+Syslog,532,1
+Sysmac,3,1
+Sysmac,185,1
+Sysmon,0,1
+Sysmon,201,1
+System,1,1
+System,194,3
+System Center Configuration,51,1
+System Internals PSEXEC,43,1
+SystemBC,185,1
+Systems,3,7
+Systems,201,38
+Systems,531,8
+Systems Service Pack,201,1
+Systems Service Pack 1,3,1
+Systems Service Pack 1,12,2
+Systems Service Pack 1,201,10
+Systems Service Pack 1,202,2
+Systems Service Pack 1,531,2
+Systems Service Pack 1Windows,3,2
+Systems Service Pack 1Windows Server 2008,3,1
+Systems Service Pack 2,3,2
+Systems Service Pack 2,201,7
+Systems Service Pack 2,531,1
+Systems Service Pack 2Windows,3,1
+SystemsSYNful KnockIn,20,1
+SystemsWindows,3,1
+SystemsWindows Server 2008,3,1
+T1018,198,1
+T1033,198,1
+T1033,529,1
+T1049,529,1
+T1069,198,1
+T1082,198,1
+T1490,8,1
+T1490,17,1
+TA,3,1
+TA,207,1
+TA1,188,2
+TA2,188,8
+TA505,3,1
+TA505,205,1
+TA542,191,1
+TEMP.Mixmaster,191,1
+TFTPReview,207,1
+TG-4127,191,1
+TGT,3,1
+TM241,185,1
+TM251,185,1
+TOR,0,2
+TOR,9,1
+TPM v2.0.[11,12,1
+TRITON,3,1
+TRITON,9,24
+TSA,31,1
+Table XIX,3,1
+"Tactic
+",198,1
+Tactical Network Solutions,21,1
+TacticsWeb,46,1
+Taiwan,3,1
+Taiwan,42,1
+Talos,17,1
+Talos Group,205,1
+Tanzania,3,1
+Target,22,1
+Target,536,2
+Task Manager,34,1
+TeamSpy,9,1
+TeamSpy,12,1
+TeamViewer,3,1
+TeamViewer,9,5
+TeamViewer,200,9
+TeamViewer Client,9,1
+TeamViewerLogs,22,1
+Teams,3,2
+Teams,9,1
+Teams,12,1
+Teams,204,2
+TechTarget,191,1
+TechTarget,230,1
+Tedros Adhanom Ghebreyesus,3,1
+Telebots,191,1
+Telecommunications Company KSC,5,1
+Telegram,9,1
+Telegram,12,1
+Telegram,14,1
+Telegram,184,2
+Telegram,529,5
+Telegram,532,2
+Telegram API,529,1
+Telegram Bot,194,1
+Telegram Bot,529,3
+Telegram Channel,529,1
+Telerik,531,3
+Telerik UI,9,2
+Telerik UI,531,4
+Telerik User Interface,531,1
+Telework.gov,204,1
+Telnet,2,2
+Telnet,4,1
+Telnet,7,1
+Telnet,36,1
+Telnet,189,1
+Telnet,197,1
+Telnet,207,6
+Telnet,233,2
+TelnetReview,207,1
+Temp,197,2
+Temp.,191,1
+TeraCopy,22,1
+Terminal,532,3
+TerminateProcess,5,1
+Tesla,6,1
+Test-ProxyLogon.ps1,22,1
+The ACSC Partnership Program,531,1
+The Adobe Type Manager,47,1
+The American Society of Mechanical Engineers,3,1
+The Australian Cyber Security Centre,13,1
+The CERT Coordination Center,10,1
+The CERT Coordination Center,32,1
+The CERT Coordination Center,44,1
+The Canadian Cyber Incident Response Centre,234,1
+The Cobalt Strike Beacon,198,1
+The Command Prompt,203,1
+The Cybersecurity and Infrastructure Agency,32,1
+The Cybersecurity and Infrastructure Security Agency,3,2
+The Cybersecurity and Infrastructure Security Agency,8,2
+The Cybersecurity and Infrastructure Security Agency,9,4
+The Cybersecurity and Infrastructure Security Agency,15,1
+The Cybersecurity and Infrastructure Security Agency,17,1
+The Cybersecurity and Infrastructure Security Agency,18,1
+The Cybersecurity and Infrastructure Security Agency,23,1
+The Cybersecurity and Infrastructure Security Agency,31,1
+The Cybersecurity and Infrastructure Security Agency,184,1
+The Cybersecurity and Infrastructure Security Agency,188,1
+The Cybersecurity and Infrastructure Security Agency,192,1
+The Cybersecurity and Infrastructure Security Agency,198,2
+The Cybersecurity and Infrastructure Security Agency,203,1
+The Cybersecurity and Infrastructure Security Agency,204,2
+The Cybersecurity and Infrastructure Security Agency,206,1
+The Cybersecurity and Infrastructure Security Agency,533,1
+The Cybersecurity and Infrastructure Security Agency,534,1
+The Cybersecurity and Infrastructure Security Agency,1,1
+The Cybersecurity and Infrastructure Security Agency,202,1
+The Daixin Team,2,1
+The Department of Defense’s,30,1
+The Department of Energy,185,1
+The Department of Energy’s,30,1
+The Department of Homeland Security,3,2
+The Department of Justice,30,3
+The Department of the Treasury,30,1
+The Department of the Treasury’s,30,1
+The Dukes,191,1
+The EINSTEIN Program,3,1
+The FBI Legal Attaché’s,30,1
+The Federal Bureau of Investigation,0,1
+The Federal Bureau of Investigation,2,1
+The Federal Bureau of Investigation,5,1
+The Federal Bureau of Investigation,7,1
+The Federal Bureau of Investigation,8,1
+The Federal Bureau of Investigation,9,1
+The Federal Bureau of Investigation,11,1
+The Federal Bureau of Investigation,13,1
+The Federal Bureau of Investigation,18,1
+The Federal Bureau of Investigation,21,1
+The Federal Bureau of Investigation,185,1
+The Federal Bureau of Investigation,187,1
+The Federal Bureau of Investigation,193,1
+The Federal Bureau of Investigation,529,1
+The Federal Reserve Bank of New York,3,1
+The Food and Drug Administration,24,1
+The Integrity Checker Tool,184,1
+The Interfaces Group MIB,41,1
+The Invoker Servlet,45,1
+The Java Runtime Environment,217,1
+The Lazarus Group,11,1
+The Linux Foundation,191,1
+The MITRE Corporation,8,2
+The MITRE Corporation,9,2
+The MITRE Corporation,191,1
+The MITRE Corporation,196,2
+The MS-ISAC,3,1
+The Managed Services,211,2
+The Measurement Factory,186,4
+The Measurement Factory’s,186,1
+The NCC Group’s,15,1
+The NCCIC Code Analysis Team,1,1
+The National Cybersecurity and Communications Integration Center,3,1
+The National Cybersecurity and Communications Integration Center,9,1
+The National Cybersecurity and Communications Integration Center,43,1
+The National Cybersecurity and Communications Integration Center,209,1
+The National Institute of Standards and Technology,205,1
+The National Institute of Standards and Technology,234,1
+The National Security Agency,9,2
+The National Security Agency,10,1
+The National Security Agency,32,1
+The National Security Agency,196,1
+The National Security Agency,204,1
+The National Security Agency,205,1
+The National Security Agency,531,1
+The National Security Agency,533,1
+The NetSupport Manager Remote Access Tool,3,1
+The Network Working Group,186,1
+The Office of Foreign Assets Control’s,30,1
+The Onion Router,12,1
+The Onion Router,21,1
+The Onion Router,23,1
+The Onion Router,28,1
+The Onion Router,193,1
+The Onion Router (TOR,1,1
+The Open Group,196,1
+The Open Web Application Security Project,234,2
+The Pulse Security Check Tool,9,1
+The Ransomware Response Checklist,24,1
+The RouterSploit Framework,9,1
+The Russian Federal Security Service,191,2
+The Simple Network Management Protocol (SNMP,41,1
+The Spoofer Project,52,1
+The Sun Java Runtime Environment,217,1
+The Tor Project,28,2
+"The Traffic Management User Interface (TMUI), also referred to as the Configuration Utility",531,1
+The U.S. Department of State,3,1
+The U.S. Department of State’s,3,1
+The U.S. Department of State’s,7,1
+The U.S. Department of State’s,8,1
+The U.S. Department of State’s,9,1
+The U.S. Department of State’s,13,1
+The U.S. Department of State’s,17,1
+The U.S. Department of State’s,184,1
+The U.S. Department of State’s,529,1
+The U.S. Government,3,11
+The U.S. Government,9,1
+The U.S. Government,20,2
+The U.S. Government,22,1
+The U.S. Government,33,1
+The U.S. Government,38,1
+The U.S. Government,40,1
+The U.S. Government,43,2
+The U.S. Government,44,2
+The U.S. Government,45,2
+The U.S. Government,191,2
+The U.S. Government,197,1
+The U.S. Government,201,1
+The U.S. Government,207,1
+The U.S. Government,209,1
+The U.S. Government,213,1
+The U.S. Government,231,1
+The U.S. Government,532,2
+The U.S. Intelligence Community,201,1
+The UN Security Council,30,1
+The United Kingdom National Cyber Security Centre,34,1
+The United Kingdom's,192,1
+The United Kingdom's,211,1
+The United Kingdom’s,13,1
+The United States,30,3
+The United States,191,1
+The United States Department of Homeland Security,3,1
+The United States Department of Homeland Security,44,1
+The United States Department of Homeland Security,45,1
+The United States Department of Homeland Security,50,1
+The United States Department of Homeland Security,212,1
+The United States Department of Homeland Security,213,1
+The United States Department of Homeland Security,231,1
+The United States Government,3,2
+The United States Government,9,2
+The United States Government,12,2
+The United States Government,22,3
+The United States Government,202,2
+The United States’,529,1
+The XakNet Team,191,1
+The Xaknet Team,191,1
+The vCenter Server,3,1
+The xDedic Marketplace,200,1
+Themida,3,1
+Thesaurus Management System,253,1
+Thinkst Canary’s,15,1
+This SMB Worm Tool,48,1
+Thomas,205,1
+Threat Group-4127,191,1
+Thunderbird,35,1
+Thunderbird,216,1
+Thunderbird,554,4
+Tiger,66,2
+Tiger,260,1
+TightVNC,9,2
+Tiny,9,4
+Togo,3,1
+ToolOracle,53,1
+Tools,186,1
+ToolsMicrosoft,186,1
+ToolsMicrosoft,211,1
+ToolsMicrosoft,237,1
+ToolsMicrosoft,539,1
+Tor,1,1
+Tor,3,2
+Tor,9,1
+Tor,12,1
+Tor,14,1
+Tor,23,2
+Tor,28,85
+Tor,34,1
+Tor,192,1
+Toshliph,18,1
+TraderTraitor,11,11
+TrailBlazer,191,1
+TransUnion,536,1
+Transmission Control Protocol (TCP),9,1
+Transmission Control Protocol (TCP) ports 445,187,1
+Transmission Control Protocol (TCP) ports 445 or 139,39,1
+Transmission Control Protocol ports 445,9,1
+Transport Layer Security,7,1
+Transport Layer Security,9,1
+Transport Layer Security,196,1
+Transportation Security Agency,1,1
+Treasury,3,9
+Treasury,7,11
+Treasury,9,1
+Treasury,11,2
+Treasury,30,6
+Treasury,184,1
+Treasury,191,1
+Treasury,205,7
+Treasury,532,5
+Treasury Office of Cybersecurity and Critical Infrastructure Protection,3,1
+Treasury Office of Cybersecurity and Critical Infrastructure Protection,532,1
+Trend Micro,25,5
+Trend Micro,205,1
+Trend Micro,210,2
+Trend Micro,216,1
+Trend Micro HouseCall,44,1
+TrendMicro,22,1
+TrendMicro Scanner,44,1
+Trendmicro,192,1
+TriStation,9,6
+TrickBot,3,2
+TrickBot,6,11
+TrickBot,17,4
+TrickBot,24,21
+TrickBot,191,7
+TrickBot,198,57
+TrickBot Malware,191,1
+Trickbot,3,1
+Trickbot,6,1
+Trickbot,17,1
+Trickbot,200,1
+Tricon,3,1
+Tricon,9,5
+Tricon PLCs,9,1
+Triconex,3,1
+Triconex,9,4
+Triconex System,9,1
+Triconex Tricon,9,2
+Triconex Tricon PLCs,9,1
+Trident/7.0,200,1
+Tristation,9,1
+Triton,191,5
+Trivial File Transfer Protocol,2,1
+Trivial File Transfer Protocol (TFTP,207,1
+TrojanXswkitAvalanche,44,1
+Trojans,3,1
+Trojans,6,3
+Trojans,35,1
+Trojans,200,1
+Trojans,205,2
+Trusted Internet Connections,9,1
+Trusted Internet Connections,43,1
+Trusted Platform Module,12,1
+TrustedSec,204,2
+Trustwave Spiderlabs,50,1
+TsHi,9,2
+TsNIIKhM,9,6
+TsNIIKhM,191,6
+TsNIIKhM Applied Development Center,191,1
+Tsar Team,191,1
+Turkey,3,1
+Turkey,532,1
+Turla,191,1
+Turla Group,191,1
+Twitter,36,1
+Tyler Hudak’s,204,1
+Type Manager,47,3
+Type Manager Privilege escalation,47,1
+U.K.,192,1
+U.K.,207,1
+U.S,191,1
+U.S.,2,1
+U.S.,3,27
+U.S.,4,1
+U.S.,6,3
+U.S.,7,4
+U.S.,8,1
+U.S.,9,37
+U.S.,10,9
+U.S.,11,7
+U.S.,12,20
+U.S.,13,7
+U.S.,14,6
+U.S.,15,4
+U.S.,16,3
+U.S.,17,4
+U.S.,18,5
+U.S.,20,17
+U.S.,21,3
+U.S.,23,3
+U.S.,24,2
+U.S.,25,1
+U.S.,29,2
+U.S.,30,20
+U.S.,38,2
+U.S.,39,1
+U.S.,43,1
+U.S.,50,1
+U.S.,184,12
+U.S.,187,1
+U.S.,189,1
+U.S.,191,41
+U.S.,192,4
+U.S.,193,1
+U.S.,194,2
+U.S.,196,3
+U.S.,197,1
+U.S.,200,3
+U.S.,201,5
+U.S.,205,2
+U.S.,206,1
+U.S.,207,5
+U.S.,209,3
+U.S.,211,7
+U.S.,216,1
+U.S.,239,2
+U.S.,529,1
+U.S.,530,2
+U.S.,531,10
+U.S.,532,1
+U.S.,533,1
+U.S. Air Force,12,1
+U.S. Army,12,1
+U.S. Coast Guard,19,2
+U.S. Cyber Command,3,1
+U.S. Cyber Command,30,2
+U.S. Cyber Command,184,1
+U.S. DOJ,191,1
+U.S. Defense Industrial Base,191,1
+U.S. Department of Health and Human Services,2,1
+U.S. Department of Health and Human Services,7,1
+U.S. Department of Justice,9,2
+U.S. Department of the Treasury,30,1
+U.S. Department of the Treasury,191,1
+U.S. Energy Sector,9,2
+U.S. Environmental Protection Agency,19,1
+U.S. Government,3,3
+U.S. Government,4,1
+U.S. Government,6,1
+U.S. Government,9,3
+U.S. Government,18,5
+U.S. Government,40,1
+U.S. Government,187,1
+U.S. Government,198,1
+U.S. Government,201,1
+U.S. Government,214,2
+U.S. Government,531,1
+U.S. Navy,12,1
+U.S. Nuclear Regulatory Commission,19,2
+U.S. Secret Service,200,1
+U.S. Secret Service Field Office,1,1
+U.S. Secret Service Field Office,16,1
+U.S. Secret Service Field Office,17,1
+U.S. Space Force,12,1
+U.S.-Chi,197,1
+U.S.-China,196,1
+U.S.-based,3,1
+U.S.-based,9,3
+U.S.-based,16,1
+U.S.-based,18,2
+U.S.-based,198,1
+U.S.-based,209,1
+U.S.-cleared,530,1
+U.S.-designated,30,1
+U.S.-focused,209,1
+U3D,240,1
+UAG,8,4
+UAL,204,2
+UEFI Secure Boot,12,1
+UK,3,3
+UK,9,2
+UK,10,4
+UK,13,5
+UK,15,2
+UK,24,1
+UK,29,2
+UK,34,28
+UK,184,2
+UK,191,26
+UK,192,2
+UK,207,2
+UK,211,11
+UK,531,2
+UK Government,191,2
+UKGOV,3,1
+UN,3,1
+UN,30,6
+UN Panel of Experts,30,1
+UN Security Council,3,1
+UN Security Council,30,5
+UNC2198 ICEDID,6,1
+UNC2452,191,1
+UNC2727,191,1
+UNC3443,191,1
+UNC757,9,1
+UNCLASS,3,1
+UNIX,3,4
+UNIX,50,1
+UNIX,186,1
+UNIXAdobe Acrobat 8.2.3,17,1
+UNIXAdobe Acrobat 8.2.4,61,1
+UNIXAdobe Acrobat 9.3.3,17,1
+UNIXAdobe Acrobat 9.3.4,61,1
+UNIXAdobe Acrobat X,240,1
+UNIXAdobe Acrobat X,540,1
+UPS,537,1
+UPS Team,201,1
+US,0,1
+US,3,1
+US,5,6
+US,19,1
+US,20,1
+US,34,1
+US,42,1
+US,46,1
+US,191,2
+US,207,1
+US,214,1
+US,536,1
+US-CERT,1,1
+US-CERT,9,1
+US-CERT,36,2
+US-CERT,39,1
+US-CERT,41,1
+US-CERT,42,2
+US-CERT,43,2
+US-CERT,44,1
+US-CERT,45,2
+US-CERT,48,4
+US-CERT,51,1
+US-CERT,54,2
+US-CERT,186,2
+US-CERT,212,1
+US-CERT,214,2
+US-CERT,215,1
+US-CERT,230,2
+US-CERT,231,2
+US-CERT,234,1
+US-CERT,239,6
+US-CERT,265,2
+US-CERT,537,4
+US-CERT Technical Cyber Security Alert,265,1
+US-CERT Tip Choosing and Protecting Passwords,20,1
+US-CERT's,234,1
+US-CERT’s,42,1
+USCC,184,1
+USCC-CNMF,184,1
+USCG,8,1
+USCG,530,1
+USCYBERCOM,3,4
+USG,9,1
+USG,30,1
+USG FLEX series,9,1
+USSS,2,2
+USSS,7,4
+USSS,50,2
+USSS,184,2
+USSS,187,2
+USSS,200,1
+UWarrior,18,1
+Ubuntu,37,1
+Uganda,3,1
+Ukraine,3,1
+Ukraine,9,1
+Ukraine,191,11
+Ukraine,192,1
+Ukraine,194,14
+Ukraine,209,1
+Ukraine,532,1
+Ulf Frisk,37,1
+Unicode,3,1
+Unified Access Gateway,8,1
+Unified Audit Log,12,1
+Unified Extensible Firmware Interface (UEFI) Secure Boot,205,1
+Unified Extensible Firmware Interface or Basic Input/Output System [UEFI/BIOS,198,1
+Unified Messaging,22,1
+Uniform Resource Locator,203,1
+Uniform Resource Locator (URL) blocklist,31,1
+Union Crypto,532,3
+Union Crypto Trader,532,4
+UnionCryptoTrader,532,3
+UnionCryptoTrader.exe,532,1
+UnionCryptoUpdater,532,1
+Unit 26165,191,1
+Unit 74455,191,1
+United Kingdom,9,1
+United Kingdom,10,1
+United Kingdom,13,1
+United Kingdom,24,1
+United Kingdom,32,1
+United Kingdom,42,1
+United Kingdom,184,2
+United Kingdom,189,2
+United Kingdom,191,2
+United Kingdom,198,1
+United Kingdom,207,2
+United Kingdom,211,3
+United Kingdom,529,1
+United Kingdom's,191,2
+United Kingdom’s,10,1
+United Kingdom’s,191,1
+United Kingdom’s,192,1
+United States,3,1
+United States,9,1
+United States,13,3
+United States,29,1
+United States,48,1
+United States,189,3
+United States,211,2
+United States,216,1
+United States Coast Guard Cyber Command,8,1
+United States Coast Guard Cyber Command,530,1
+United States Secret Service,50,1
+Universal Plug and,20,1
+Unix,46,1
+Unix,196,1
+Upatre,43,2
+Upatre,212,2
+UpdateAdobe,16,1
+UpdateAdobe,17,1
+UpdateAdobe,253,1
+UpdateAdobe,543,1
+UpdateAdobe,546,1
+UpdateAdobe,548,1
+UpdateCheckSync,11,2
+Updater,532,3
+UpdatesAdobe,3,1
+Ursnif,6,9
+Uruguay,3,1
+V6.00,9,1
+VBObfus,3,1
+VBScript,3,3
+VBscript,49,1
+VDI-KMS,1,3
+VENEMOUS BEAR,191,1
+VENOMOUS BEAR,191,4
+VIPRE,22,1
+VIVACIOUSGIFT,3,1
+VMWare,1,1
+VMWare,14,1
+VMWare,188,4
+VMware,0,1
+VMware,1,14
+VMware,2,2
+VMware,3,3
+VMware,4,4
+VMware,8,20
+VMware,10,2
+VMware,184,6
+VMware,188,16
+VMware,531,2
+VMware Cloud Foundation,188,2
+VMware Workspace ONE Access,188,2
+VMware vSphere Client,10,1
+VMware.exe,4,1
+VNC,4,1
+VNCLogs,22,1
+VObfus,3,1
+VPNFilter,36,9
+VPNFilter,191,2
+VPNFilter,192,10
+VSAT,3,1
+VSAT Communications,192,1
+VSkimmer,536,1
+Valid Accounts,4,1
+Varonis,1,3
+Vega,187,1
+Veles,191,1
+Venomous Bear,191,1
+VeriSign Time Stamping Services CA,5,2
+"VeriSign, Inc.",5,2
+Verisign,215,1
+Version 3 authPriv,41,1
+Vice Society,185,28
+Victim 2,8,2
+Video ActiveX,263,3
+Vietnam,3,1
+Vigor2960,9,1
+Vigor300B,9,1
+Vigor3900,9,1
+Virtual Network Connection,9,1
+Virtual PC and,261,1
+Virtual Private Network,5,1
+Virtual Private Network,18,1
+Virtual Private Server,43,1
+VirtualAlloc,24,1
+VirtualAllocEx,196,1
+Virus Total,529,1
+VirusTotal,16,1
+VirusTotal,43,1
+VirusTotal,532,3
+Visa,3,1
+Vista,3,2
+Vista,4,1
+Vista,48,2
+Vista,231,2
+Vista,537,1
+Vista SP2,18,1
+VistaMicrosoft,3,1
+VistaWindows,534,1
+Visual Basic,3,1
+Visual Basic,6,1
+Visual Basic,23,1
+Visual Basic,201,1
+Visual Basic,205,1
+Visual Basic 6,553,1
+Visual Basic 6.0,18,1
+Visual Basic Application,203,1
+Visual Basic Script,9,1
+Visual Basic for Applications,252,3
+Visual Basic for Applications,529,1
+Visual Basic for Applicationsthird,252,1
+Visual C++,43,1
+Visual FoxPro 8.0,201,1
+Visual Studio,24,3
+Visual Studio,33,1
+Visual Studio,59,2
+Visual Studio,238,2
+Visual StudioMicrosoft,59,1
+Visual StudioMicrosoft,232,1
+Visual StudioMicrosoft,238,1
+Vjszy1lo,531,1
+Voice over Internet Protocol,52,1
+Volexity,3,2
+Volexity,22,3
+Volexity,186,4
+Volexity Blog,22,1
+Volexity Blog,198,1
+Volgmer,38,12
+VolgmerThe,38,1
+Volume Shadow,1,1
+Volume Shadow Copies,24,1
+Volume Shadow Copy,9,1
+Volume Shadow Copy Service,9,1
+VulnerabilityDHS,40,1
+VxWorks,233,2
+WCry,42,1
+WDigest,9,1
+WDigest,12,2
+WDigest,196,1
+WDigest Authentication,14,1
+WDigest Authentication,16,1
+WELLMESS,21,2
+WHO,3,3
+WHOIS,27,1
+WIZARD SPIDER,191,5
+WIZARD SPIDER’s,191,1
+WMI,1,1
+WMI,9,5
+WNR2000v3,9,1
+WNR2000v4,9,1
+WNR2000v5,9,1
+WOW64,200,1
+WPAD,42,1
+WS-Discovery,52,1
+WSO,46,2
+WSR-2533DHP3 firmware,3,1
+WSUS,51,1
+WTOP,54,1
+WWS,3,17
+WWS Sector,3,2
+WanaCrypt0r,42,1
+Wanna Decryptor,42,1
+WannaCry,42,2
+WannaCry 2.0,30,6
+WannaCry Ransomware,42,1
+WannaCrypt,42,1
+Washington,5,1
+Washington Post,42,1
+WatchGuard,192,6
+WaterISAC,3,1
+Web,25,1
+Web Application Service,18,1
+Web Components SP3,201,1
+Web Shell,197,1
+WebBrowserPassView,35,2
+WebBrowsers,22,1
+WebLogic Portal,551,3
+WebLogic Server,14,1
+WebLogic Server,201,1
+WebLogic Server,258,1
+WebLogic Server,551,1
+WebLogic Server 10.0,251,1
+WebLogic Server 10gR3,251,1
+WebLogic Server 11gR1,251,1
+Webpack,11,1
+Webroot,22,1
+Webshell,22,1
+WhatsApp,3,1
+WhatsApp,9,1
+WhatsApp,12,1
+WhatsApp,14,1
+WhatsApp,184,1
+WhisperGate,194,13
+White House,1,3
+White House,30,1
+White House,42,1
+White House,189,1
+White House,191,1
+White House,201,1
+White House,534,1
+Widget Connector macro,201,1
+"Wild Positron/Duuzer,[4",40,1
+Will Dormann’s,15,1
+William P. Barr,201,1
+Win,42,1
+Win10 1709,5,1
+Win32,198,3
+Win32/Conficker.,265,1
+Win64,3,1
+Win64,188,1
+Win7Elevate,9,2
+Win7Elevatve,9,1
+WinBox,9,3
+WinPEAS,3,1
+WinRAR,3,3
+WinRAR,4,2
+WinRAR,184,1
+WinRAR.exe,4,1
+WinRM,10,1
+WinRM,201,1
+WinSCP,198,1
+WinZip,9,1
+Winbox,2,1
+Winbox,7,1
+Winbox,36,1
+Winbox,197,1
+Windows,0,3
+Windows,1,17
+Windows,2,3
+Windows,3,65
+Windows,4,4
+Windows,5,4
+Windows,6,2
+Windows,8,12
+Windows,9,36
+Windows,10,5
+Windows,11,4
+Windows,12,7
+Windows,14,2
+Windows,16,1
+Windows,17,10
+Windows,19,1
+Windows,22,2
+Windows,24,6
+Windows,25,5
+Windows,31,2
+Windows,33,3
+Windows,34,9
+Windows,35,2
+Windows,36,3
+Windows,37,1
+Windows,39,5
+Windows,40,4
+Windows,42,4
+Windows,43,8
+Windows,44,3
+Windows,45,2
+Windows,47,9
+Windows,48,4
+Windows,49,5
+Windows,50,1
+Windows,51,1
+Windows,52,7
+Windows,54,1
+Windows,56,1
+Windows,58,2
+Windows,59,12
+Windows,61,4
+Windows,62,1
+Windows,63,1
+Windows,66,2
+Windows,68,2
+Windows,69,2
+Windows,184,6
+Windows,185,3
+Windows,186,5
+Windows,187,9
+Windows,191,3
+Windows,192,5
+Windows,193,4
+Windows,194,2
+Windows,196,9
+Windows,197,5
+Windows,198,3
+Windows,200,2
+Windows,201,2
+Windows,202,4
+Windows,203,3
+Windows,206,3
+Windows,210,10
+Windows,213,1
+Windows,216,2
+Windows,229,2
+Windows,237,1
+Windows,238,2
+Windows,240,6
+Windows,241,2
+Windows,244,2
+Windows,245,2
+Windows,246,2
+Windows,250,2
+Windows,254,2
+Windows,255,3
+Windows,257,3
+Windows,259,2
+Windows,261,6
+Windows,263,1
+Windows,265,3
+Windows,529,1
+Windows,530,3
+Windows,531,3
+Windows,532,33
+Windows,533,12
+Windows,534,1
+Windows,537,2
+Windows,540,4
+Windows,542,2
+Windows,544,3
+Windows,549,2
+Windows,550,15
+Windows,553,2
+Windows 10,1,3
+Windows 10,3,1
+Windows 10,14,1
+Windows 10,16,1
+Windows 10,34,2
+Windows 10,191,1
+Windows 10,196,2
+Windows 10,200,1
+Windows 10,201,34
+Windows 10,533,1
+Windows 10 Gold,18,1
+"Windows 10 Mobile’ and Outd…
+[10] Palo Alto Networks",200,1
+Windows 10.Disable,534,1
+Windows 11,12,2
+Windows 2000,3,1
+Windows 2000,48,2
+Windows 2000,257,1
+Windows 2000,534,1
+Windows 2000Windows,534,1
+Windows 7,3,4
+Windows 7,37,1
+Windows 7,200,6
+Windows 7,201,4
+Windows 7,204,7
+Windows 7,231,2
+Windows 7,531,1
+Windows 7,533,1
+Windows 7,534,1
+Windows 7,537,1
+Windows 7,550,1
+Windows 7 SP1,18,2
+Windows 7)Trend,231,1
+Windows 8,1,1
+Windows 8,3,1
+Windows 8,42,3
+Windows 8,231,1
+Windows 8,537,1
+Windows 8),537,1
+Windows 8.1,2,1
+Windows 8.1,3,1
+Windows 8.1,18,2
+Windows 8.1,34,1
+Windows 8.1,196,2
+Windows 8.1,201,2
+Windows 8.1,231,1
+Windows 8.1/Server 2012 R2,34,1
+Windows 8/8.1,3,1
+Windows 8/8.1,231,1
+Windows 95,3,1
+Windows 95,231,1
+Windows Active Directory,9,1
+Windows Backup Manager,60,2
+Windows Command Shell,4,3
+Windows Command Shell,9,1
+Windows Command Shell,14,1
+Windows Command Shell,23,1
+Windows Command Shell,196,1
+Windows Command Shell,200,1
+Windows Command Shell,201,1
+Windows Command Shell,529,1
+"Windows Command Shell
+",9,1
+Windows Command Shell Activity,4,3
+Windows DefaultAccount,1,1
+Windows Defender,0,2
+Windows Defender,1,6
+Windows Defender,5,4
+Windows Defender,194,1
+Windows Defender,196,1
+Windows Defender,198,1
+Windows Defender,529,2
+Windows Defender,531,1
+Windows Defender AntiSpyware Protection,0,1
+Windows Defender Credential Guard,1,1
+Windows Defender Credential Guard,12,3
+Windows Defender Credential Guard,14,1
+Windows Defender Credential Guard,16,1
+Windows Defender Credential Guard,191,1
+Windows Defender Exploit Guard,531,1
+Windows DefenderThe,5,1
+Windows Defender® Exploit Guard,196,1
+Windows Desktop Search,9,1
+Windows Domains,43,1
+Windows Domains,209,1
+Windows Embedded Open Type (EOT),257,1
+Windows Event,22,1
+Windows Event Logs,531,1
+Windows Exchange Server,3,1
+Windows Explorer,550,3
+Windows Firewall,35,1
+Windows Hardware Compatibility Program,34,1
+Windows Installer,25,1
+Windows Intune,51,1
+Windows Live Mail,252,2
+Windows Live MailMicrosoft,252,1
+Windows Mail,252,2
+Windows MailMicrosoft,252,1
+Windows Management Instrumentation,1,1
+Windows Management Instrumentation,3,1
+Windows Management Instrumentation,4,1
+Windows Management Instrumentation,9,2
+Windows Management Instrumentation,10,1
+Windows Management Instrumentation,24,1
+Windows Management Instrumentation,34,1
+Windows Management Instrumentation,185,1
+Windows Management Instrumentation,196,3
+Windows Management Instrumentation,201,1
+Windows Management Instrumentation,529,2
+Windows Management Instrumentation,530,1
+Windows Management Instrumentation (WMI,4,1
+Windows Management Instrumentation (WMI),3,1
+Windows NT,4,1
+Windows NT 10.0,3,2
+Windows NT 10.0,188,1
+Windows NT 5.1,20,1
+Windows NT 5.2,20,1
+Windows NT 6.1,3,1
+Windows NT 6.1,43,1
+Windows NT 6.1,200,1
+Windows NT 6.1,239,1
+Windows NT Directory Services,9,1
+Windows Netlogon Remote Protocol,202,1
+Windows Operating,44,1
+Windows Operating,185,1
+Windows Operating,214,1
+Windows Operating System,8,1
+Windows Operating System,193,1
+Windows Operating Systems (OSs,534,1
+Windows PKI Blog,3,1
+Windows Print Spooler,10,1
+Windows Print Spooler,193,1
+"Windows Print Spooler
+
+
+",10,1
+Windows Program,532,1
+Windows RT,18,1
+Windows RT 8.1,201,1
+Windows Registry,1,1
+Windows Registry,197,1
+Windows Registry Editor,34,1
+Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\AcroExch,61,1
+Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\AcroExch,548,1
+Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\AcroExch.,16,1
+Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\AcroExch.,17,1
+Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\AcroExch.,59,1
+Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\AcroExch.,253,1
+Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\AcroExch.,543,1
+Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\AcroExch.,546,1
+"Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\AcroExch.Document.7]""EditFlags""=hex:00,00,00,00Disable the display of PDF files",540,1
+Windows Remote,184,1
+Windows Remote Desktop Client,533,1
+Windows Remote Desktop Gateway (RD Gateway),533,1
+Windows Remote Management,3,1
+Windows Script File,529,1
+Windows Script Files,529,2
+Windows Security Center,9,1
+Windows Server,3,2
+Windows Server,9,3
+Windows Server,12,4
+Windows Server,34,1
+Windows Server,36,2
+Windows Server,37,2
+Windows Server,68,2
+Windows Server,186,3
+Windows Server,201,12
+Windows Server,202,3
+Windows Server,206,2
+Windows Server,255,2
+Windows Server,259,2
+Windows Server,261,2
+Windows Server,531,2
+Windows Server,533,2
+Windows Server,544,2
+Windows Server,549,1
+Windows Server 2003,3,1
+Windows Server 2003,9,1
+Windows Server 2003,42,2
+Windows Server 2003,43,1
+Windows Server 2003,230,7
+Windows Server 2003,231,1
+Windows Server 2003,263,1
+Windows Server 2003,534,1
+Windows Server 2003's End of Support,230,1
+Windows Server 2003.Organizations,230,1
+Windows Server 2003.[3,230,1
+Windows Server 2008,3,4
+Windows Server 2008,201,19
+Windows Server 2008,231,1
+Windows Server 2008,534,1
+Windows Server 2008,550,1
+Windows Server 2008 R2,12,2
+Windows Server 2008 R2,37,1
+Windows Server 2008 R2,201,7
+Windows Server 2008 R2,202,1
+Windows Server 2008 R2,204,4
+Windows Server 2008 R2,531,1
+Windows Server 2008 R2,534,1
+Windows Server 2008 R2 SP1,531,1
+Windows Server 2008 R2)FireEye,231,1
+Windows Server 2008 SP2,18,1
+Windows Server 2012,12,3
+Windows Server 2012,18,1
+Windows Server 2012,201,10
+Windows Server 2012,202,2
+Windows Server 2012,531,1
+Windows Server 2012,533,1
+Windows Server 2012 R2,196,1
+Windows Server 2012 R2,201,5
+Windows Server 2012 R2,202,1
+Windows Server 2012 R2,531,1
+Windows Server 2012R2,1,1
+Windows Server 2012R2,14,1
+Windows Server 2012R2,16,1
+Windows Server 2012R2,191,1
+Windows Server 2016,1,1
+Windows Server 2016,3,1
+Windows Server 2016,12,1
+Windows Server 2016,18,1
+Windows Server 2016,34,2
+Windows Server 2016,186,1
+Windows Server 2016,201,9
+Windows Server 2016,202,1
+Windows Server 2016,531,1
+Windows Server 2019,12,1
+Windows Server 2019,201,6
+Windows Server 2019,202,2
+Windows Server 2019,531,1
+Windows Server Message Block 1.0,17,1
+Windows Server Semi-Annual Branch,34,1
+Windows Server Update Services,3,7
+Windows Server Update Services,6,1
+Windows Server Update Services,8,1
+Windows Server Update Services,9,4
+Windows Server Update Services,12,1
+Windows Server Update Services,24,2
+Windows Server Update Services,33,2
+Windows Server Update Services,36,3
+Windows Server Update Services,40,2
+Windows Server Update Services,44,2
+Windows Server Update Services,51,1
+Windows Server Update Services,55,1
+Windows Server Update Services,56,1
+Windows Server Update Services,57,1
+Windows Server Update Services,58,1
+Windows Server Update Services,59,4
+Windows Server Update Services,60,1
+Windows Server Update Services,68,1
+Windows Server Update Services,184,3
+Windows Server Update Services,186,2
+Windows Server Update Services,192,3
+Windows Server Update Services,200,1
+Windows Server Update Services,206,2
+Windows Server Update Services,211,1
+Windows Server Update Services,214,1
+Windows Server Update Services,232,1
+Windows Server Update Services,234,1
+Windows Server Update Services,237,1
+Windows Server Update Services,238,1
+Windows Server Update Services,241,1
+Windows Server Update Services,244,2
+Windows Server Update Services,245,1
+Windows Server Update Services,246,1
+Windows Server Update Services,247,2
+Windows Server Update Services,250,1
+Windows Server Update Services,252,2
+Windows Server Update Services,254,1
+Windows Server Update Services,255,2
+Windows Server Update Services,257,1
+Windows Server Update Services,259,1
+Windows Server Update Services,261,3
+Windows Server Update Services,538,1
+Windows Server Update Services,539,1
+Windows Server Update Services,542,1
+Windows Server Update Services,544,1
+Windows Server Update Services,547,1
+Windows Server Update Services,549,2
+Windows Server Update Services,553,2
+"Windows Server Update Services
+",261,1
+"Windows Server Update Services
+
+
+",12,1
+"Windows Server Update Services
+
+
+",40,1
+"Windows Server Update Services
+
+
+",60,1
+"Windows Server Update Services
+
+
+",245,1
+"Windows Server Update Services
+
+
+",246,1
+"Windows Server Update Services
+
+
+",259,1
+"Windows Server Update Services
+
+
+",542,1
+"Windows Server Update Services
+
+
+",547,1
+Windows ServerMicrosoft,9,1
+Windows ServerMicrosoft,33,1
+Windows ServerMicrosoft,36,1
+Windows ServerMicrosoft,186,1
+Windows ServerMicrosoft,206,1
+Windows ServerMicrosoft,255,1
+Windows ServerMicrosoft,261,1
+Windows ServerMicrosoft,544,1
+Windows Systems,214,1
+Windows Task Scheduler,196,1
+Windows Update,9,1
+Windows Update,51,1
+Windows Update,236,1
+Windows Vista,3,2
+Windows Vista,24,1
+Windows Vista,49,2
+Windows Vista,229,1
+Windows Vista,231,4
+Windows Vista,534,1
+Windows Vista,550,1
+Windows Vista,552,1
+Windows Vista SP2,18,1
+Windows Volume Shadow Copies,17,1
+Windows XP,3,1
+Windows XP,34,1
+Windows XP,42,3
+Windows XP,51,11
+Windows XP,229,1
+Windows XP,231,4
+Windows XP,257,5
+Windows XP,534,1
+Windows XP SP2,3,2
+Windows XP SP2,231,1
+Windows XP Service Pack 3Windows XP Professional x64 Edition Service Pack 2Windows Server 2003,3,1
+Windows XP)Heimdalhttp://goz.heimdalsecurity.com/ (Microsoft Windows XP,231,1
+Windows XP)McAfeewww.mcafee.com,3,1
+Windows XP)Sophoshttps://www.sophos.com,3,1
+WindowsAdobe Reader X,59,1
+WindowsDefender,22,1
+WindowsInternet,184,1
+WindowsMicrosoft,3,4
+WindowsMicrosoft,6,1
+WindowsMicrosoft,9,2
+WindowsMicrosoft,12,1
+WindowsMicrosoft,24,1
+WindowsMicrosoft,36,1
+WindowsMicrosoft,40,2
+WindowsMicrosoft,55,1
+WindowsMicrosoft,56,1
+WindowsMicrosoft,57,1
+WindowsMicrosoft,58,1
+WindowsMicrosoft,59,2
+WindowsMicrosoft,184,1
+WindowsMicrosoft,192,1
+WindowsMicrosoft,200,1
+WindowsMicrosoft,211,1
+WindowsMicrosoft,232,1
+WindowsMicrosoft,234,1
+WindowsMicrosoft,237,1
+WindowsMicrosoft,238,1
+WindowsMicrosoft,241,1
+WindowsMicrosoft,244,1
+WindowsMicrosoft,245,1
+WindowsMicrosoft,246,1
+WindowsMicrosoft,250,1
+WindowsMicrosoft,254,1
+WindowsMicrosoft,261,1
+WindowsMicrosoft,538,1
+WindowsMicrosoft,539,1
+WindowsMicrosoft,542,1
+WindowsWindows Server,68,1
+Windowsgr,50,1
+WingBird,18,1
+Wininet,184,1
+WinsSchMgmt,48,2
+Wireshark,9,1
+Wireshark,34,1
+"Wireshark Foundation, Inc.",9,1
+"Wireshark,[9",9,2
+WizTree,9,1
+Word,3,2
+Word,6,1
+Word,9,4
+Word,11,1
+Word,18,3
+Word,34,1
+Word,35,1
+Word,39,2
+Word,187,2
+Word,189,2
+Word,194,1
+Word,198,1
+Word,200,2
+Word,203,2
+Word,529,1
+Word,553,1
+Word Automation Services,18,1
+Word for Mac,18,1
+WordOffice,3,1
+WordPad,205,1
+WordPress,46,1
+Workhorse,3,1
+Works,9,1
+Workspace ONE Access,188,6
+Workstation,209,1
+Workstation ManagementCreate,43,1
+WriteProcessMemory,24,1
+WriteProcessMemory,196,1
+Wsr-2533Dhp3-Bk,3,1
+Wu,197,1
+Wu Shurong,197,1
+X Window System,3,1
+X.509,215,1
+XLSX,43,1
+XMRig,1,5
+XMRig,531,1
+XP,3,2
+XP,4,1
+XP,48,2
+XP,231,1
+XP,537,1
+XPMicrosoft,263,1
+XPWindows,534,1
+XakNet,191,2
+Xml Form Builder,5,1
+Xorist,43,1
+Xorist,212,1
+YARA,22,1
+YARA,33,1
+YARA,39,2
+YARA,40,1
+YARA,48,2
+YARA,186,1
+YARA,187,1
+YARA,188,1
+YARA,197,2
+YARA,207,3
+YTTRIUM,191,1
+Yahoo,9,1
+Yahoo,35,1
+Yahoo,191,1
+Yara,24,1
+Yara,42,1
+Yara,530,1
+Yazd,184,2
+Yttrium,21,1
+ZCS,186,3
+ZDNet,25,1
+ZLD V4.60,9,2
+"ZLD V4.60
+NXC2500",9,1
+"ZLD V4.60
+VPN series",9,1
+ZLoader,17,1
+ZOHO ManageEngine ADSelfService Plus,530,1
+Zambia,3,1
+Zeppelin,185,2
+Zeppelin,187,21
+Zepto,205,1
+ZeroAccess,3,1
+ZeroAccess,54,2
+ZeroCleare,5,1
+ZeuS,3,3
+Zeus,3,1
+Zeus,43,1
+Zeus,212,1
+Zeus,231,2
+Zhu Yunmin,197,1
+Zimbra,14,1
+Zimbra,186,9
+Zimbra Collaboration Kepler,186,1
+Zimbra Collaboration Suite,186,1
+Zimbra Security Advisories,186,1
+Zimbra Security – News & Alerts,186,1
+Zip,22,1
+Zip,196,1
+Zip,200,1
+Zloader,191,1
+Zoho,3,8
+Zoho,10,1
+Zoho,201,1
+Zoho,530,4
+Zoho Corp,3,1
+"Zoho ManageEngine 
+
+
+",10,1
+Zoho ManageEngine ADSelfService Plus,3,1
+Zoho ManageEngine Desktop Central,201,2
+Zoom,3,2
+Zscaler,3,1
+Zscaler Blog,191,1
+ZuCaNo,3,1
+Zyxel,9,1
+a Border Gateway Protocol (,52,1
+a DMG Installer,532,2
+a Listening Implant,48,1
+a Message Server,206,1
+a Panel of Experts,30,1
+a Pulse Secure VPN Appliance,9,1
+a Pulse Secure VPN Appliance,531,1
+a Remote Desktop Gateway,50,1
+a Remote Desktop Protocol,9,1
+a SAP Gateway,206,1
+a Server Message Block (SMB) Worm Tool,48,1
+a Smart Install Exploitation Tool,207,1
+a Spearphishing Link [T1192],31,1
+amazon.com,4,1
+an Intrusion Detection System (IDS),207,1
+an MSI Installer,532,1
+anti-Mujahideen,5,1
+apt,9,1
+avsvmcloud[.]com,3,1
+bash,50,1
+c99,46,1
+cdmon,11,1
+cron,3,1
+cron,204,1
+crontab,196,1
+csvde,3,1
+dec2lha,44,1
+dell,44,3
+dropper peexe,11,1
+ePO 4.5 Patch 6,19,1
+ePO 4.x,19,2
+ePolicy Orchestrator 4.5.6,19,1
+ePolicy Orchestrator 4.6.5,19,1
+earlierAdobe,22,1
+earlierAdobe Acrobat,548,1
+earlierJDK,3,2
+earlierJDK,49,2
+earlierJDK,53,2
+earlierJDK,235,2
+earlierJavaFX,3,1
+earlierJavaFX 2.2.4,49,1
+earlierSDK,49,1
+earlierSDK,235,1
+earlierWeb,235,1
+g,251,1
+g,253,3
+g,541,1
+gMSA,12,1
+iControl REST,8,1
+iOS,230,8
+iOS 7.1.1,230,1
+iPhonesCisco,233,1
+iTunesBackup,22,1
+jmttrading[.]org,532,1
+kbrtgt,9,3
+kee.ps1,9,1
+krbtgt,12,6
+launchd,3,1
+log4cxx,3,1
+log4net,3,1
+macOS,3,2
+macOS,11,3
+macOS,532,5
+macOS X,532,17
+macOS X Program,532,1
+"macOS X Program
+The macOS version",532,5
+menuPass,43,1
+netsh,3,1
+ngrok,9,2
+"ngrok
+",9,1
+nmap,196,2
+nocase wide,209,7
+nocase wide ascii,209,2
+non-SAP applications,206,1
+non-U.S.,9,1
+non-Windows,9,1
+non-corporate owned,48,1
+non-federal entities,30,1
+officeFeedbackDHS,3,1
+orePO 4.6.6,19,1
+pdkinstall,531,1
+powershell dir,4,1
+prtspool,532,2
+psexec,4,1
+rclone,9,2
+rundll32.exe,3,1
+schtask,196,1
+scr.exe,9,2
+stopransomware.gov,0,1
+stopransomware.gov,8,1
+stopransomware.gov,185,1
+stopransomware.gov,187,1
+svchost,40,1
+the 1718 Committee,30,1
+the ATT&CK Framework,4,1
+the Active Directory,1,1
+the Active Directory,193,1
+the Active Directory (,9,1
+the Active Directory (AD),12,1
+the Active Template Library,33,1
+the Adwind RAT,34,1
+the American Standard Code for Information Interchange,3,1
+the Antimalware Scan Interface (AMSI),3,1
+the Antimalware Scan Interface (AMSI) on Windows 10,196,1
+the Atlassian Crow,531,1
+the Australian Cyber Security Centre,3,2
+the Australian Cyber Security Centre,6,1
+the Australian Cyber Security Centre,184,1
+the Australian Cyber Security Centre,211,1
+the Australian Cyber Security Centre,531,1
+the Australian Signals Directorate’s,192,1
+the Azure Portal,201,2
+the BIG-IP Traffic Management User Interface,9,1
+the Bangladesh Bank,30,1
+the Bangladesh Bank’s,30,1
+the Bank of Bangladesh,3,1
+the Baseboard Management Controller (BMC),44,1
+the C2.CapabilitiesSystem Enumeration,43,1
+the CERT Coordination Center,52,1
+the CTX269180 - CVE-2019-19781 Verification Tool,3,1
+the Canadian Centre for Cyber Security,184,1
+the Canadian Centre for Cyber Security,211,1
+the Canadian Cyber Incident Response Centre,3,1
+the Center for Internet Security’s,3,1
+the Centers for Disease Control and Prevention,3,1
+the Certificate Trust,215,1
+the Chinese Ministry of State Security,43,1
+the Chinese People’s Liberation Army,201,1
+the Coast Guard,8,2
+the Coast Guard,530,1
+the Command Shell,4,2
+the Common Vulnerability Scoring System,15,1
+the Computer Emergency Response Team New Zealand,15,1
+the Configuration Utility,531,1
+the Configuration Wizard,215,1
+the Cyber Security Agency,211,1
+the Cybersecurity Assessment Tool,30,1
+the Cybersecurity Requirements Center,185,1
+the Cybersecurity Requirements Center,191,1
+the Cybersecurity Requirements Center,192,1
+the Cybersecurity Requirements Center,529,1
+the Cybersecurity Security and Infrastructure Security Agency,28,1
+the Cybersecurity and Infrastructure Agency,3,1
+the Cybersecurity and Infrastructure Security Agency,0,1
+the Cybersecurity and Infrastructure Security Agency,3,4
+the Cybersecurity and Infrastructure Security Agency,4,1
+the Cybersecurity and Infrastructure Security Agency,5,1
+the Cybersecurity and Infrastructure Security Agency,6,1
+the Cybersecurity and Infrastructure Security Agency,8,1
+the Cybersecurity and Infrastructure Security Agency,9,7
+the Cybersecurity and Infrastructure Security Agency,10,2
+the Cybersecurity and Infrastructure Security Agency,11,1
+the Cybersecurity and Infrastructure Security Agency,12,1
+the Cybersecurity and Infrastructure Security Agency,13,1
+the Cybersecurity and Infrastructure Security Agency,14,1
+the Cybersecurity and Infrastructure Security Agency,16,1
+the Cybersecurity and Infrastructure Security Agency,18,1
+the Cybersecurity and Infrastructure Security Agency,20,2
+the Cybersecurity and Infrastructure Security Agency,21,1
+the Cybersecurity and Infrastructure Security Agency,24,1
+the Cybersecurity and Infrastructure Security Agency,25,1
+the Cybersecurity and Infrastructure Security Agency,30,1
+the Cybersecurity and Infrastructure Security Agency,43,1
+the Cybersecurity and Infrastructure Security Agency,184,2
+the Cybersecurity and Infrastructure Security Agency,185,2
+the Cybersecurity and Infrastructure Security Agency,186,1
+the Cybersecurity and Infrastructure Security Agency,187,1
+the Cybersecurity and Infrastructure Security Agency,192,1
+the Cybersecurity and Infrastructure Security Agency,194,1
+the Cybersecurity and Infrastructure Security Agency,197,1
+the Cybersecurity and Infrastructure Security Agency,200,2
+the Cybersecurity and Infrastructure Security Agency,201,2
+the Cybersecurity and Infrastructure Security Agency,204,2
+the Cybersecurity and Infrastructure Security Agency,205,1
+the Cybersecurity and Infrastructure Security Agency,211,1
+the Cybersecurity and Infrastructure Security Agency,529,1
+the Cybersecurity and Infrastructure Security Agency,530,1
+the Cybersecurity and Infrastructure Security Agency,532,1
+the Cybersecurity and Infrastructure Security Agency's,204,1
+the DHS National Cybersecurity Communications and Integration Center,40,1
+the DHS National Cybersecurity and Communications Integration Center,38,1
+the Daixin Team’s,2,1
+the Default System Managed Account,1,1
+the Defense Cyber Crime Center,4,1
+the Defense Industrial Base,196,1
+the Democratic People’s Republic of Korea,3,1
+the Democratic People’s Republic of Korea,30,1
+the Democratic People’s Republic of Korea,532,1
+the Department of Energy,9,1
+the Department of Health and Human Services,0,1
+the Department of Health and Human Services,2,1
+the Department of Health and Human Services,6,2
+the Department of Health and Human Services,7,1
+the Department of Health and Human Services,24,1
+the Department of Homeland Security,3,3
+the Department of Homeland Security,33,1
+the Department of Homeland Security,35,1
+the Department of Homeland Security,38,1
+the Department of Homeland Security,39,1
+the Department of Homeland Security,40,1
+the Department of Homeland Security,42,1
+the Department of Homeland Security,187,1
+the Department of Homeland Security,207,1
+the Department of Justice,3,2
+the Department of Justice,30,1
+the Department of Justice,213,1
+the Department of Justice,231,1
+the Department of State’s,9,1
+the Department of State’s,12,1
+the Department of State’s,14,1
+the Department of State’s,30,1
+the Department of Treasury,532,1
+the Department of the Treasury,3,2
+the Department of the Treasury,7,1
+the Department of the Treasury,8,1
+the Department of the Treasury,9,1
+the Department of the Treasury,30,2
+the Department of the Treasury,184,1
+the Department of the Treasury,205,1
+the Department of the Treasury’s,205,1
+the Domain Controller,9,1
+the Dorusio Wallet,532,1
+the EWS Application Programming Interface,4,1
+the EldoS Corporation,5,1
+the Email Security Gateway,196,1
+the Enhanced Mitigation Experience Toolkit,49,1
+the Enhanced Mitigation Experience Toolkit,56,1
+the Environment Protection Agency,3,1
+the Environmental Protection Agency,3,1
+the Environmental Protection Agency,200,1
+the Equation Editor,531,1
+the European Union,207,1
+the Exchange On-premises Mitigation Tool,22,1
+the Exchange Server,4,2
+the Exchange Server,22,3
+the FBI Cyber Watch,3,2
+the FBI Cyber Watch,40,1
+the FBI Field Office,185,1
+the FBI Internet Crime Complaint Center,18,1
+the FSB Center for Information Security,191,1
+the Federal Bureau of Investigation,1,2
+the Federal Bureau of Investigation,3,11
+the Federal Bureau of Investigation,4,1
+the Federal Bureau of Investigation,9,7
+the Federal Bureau of Investigation,12,2
+the Federal Bureau of Investigation,15,1
+the Federal Bureau of Investigation,16,1
+the Federal Bureau of Investigation,17,1
+the Federal Bureau of Investigation,18,1
+the Federal Bureau of Investigation,20,2
+the Federal Bureau of Investigation,21,1
+the Federal Bureau of Investigation,23,1
+the Federal Bureau of Investigation,24,1
+the Federal Bureau of Investigation,28,1
+the Federal Bureau of Investigation,30,1
+the Federal Bureau of Investigation,33,1
+the Federal Bureau of Investigation,36,1
+the Federal Bureau of Investigation,38,1
+the Federal Bureau of Investigation,39,1
+the Federal Bureau of Investigation,40,1
+the Federal Bureau of Investigation,42,1
+the Federal Bureau of Investigation,44,1
+the Federal Bureau of Investigation,45,1
+the Federal Bureau of Investigation,184,1
+the Federal Bureau of Investigation,185,1
+the Federal Bureau of Investigation,186,1
+the Federal Bureau of Investigation,187,1
+the Federal Bureau of Investigation,192,3
+the Federal Bureau of Investigation,197,1
+the Federal Bureau of Investigation,198,1
+the Federal Bureau of Investigation,200,1
+the Federal Bureau of Investigation,201,1
+the Federal Bureau of Investigation,202,1
+the Federal Bureau of Investigation,207,1
+the Federal Bureau of Investigation,213,1
+the Federal Bureau of Investigation,216,1
+the Federal Bureau of Investigation,231,1
+the Federal Bureau of Investigation,530,1
+the Federal Bureau of Investigation,532,1
+the Federal Energy Regulatory Commission,3,1
+the Federal Government,3,1
+the Federal Government,22,1
+the Federal Reserve Bank of New York,30,1
+the Federal Trade Commission,2,1
+the Federal Trade Commission,7,1
+the Federal Trade Commission,536,1
+the FinCEN Resource Center,205,1
+the Financial Crimes Enforcement Network,8,1
+the Financial Crimes Enforcement Network,9,1
+the Food and Agricultural Sector,18,1
+the Frutas RAT,34,1
+the GNU Bourne-Again Shell,50,1
+the Gamaredon Group,191,1
+the Google Chrome Web Store,9,1
+the Government of Albania,5,3
+the Government of Canada,191,2
+the Government of North Korea,30,1
+the Graphical User Interface (GUI),1,1
+the HHS Health Sector Cybersecurity Coordination Center,24,1
+the HPH Sector,2,3
+the HPH Sector,24,1
+the Health Information Sharing and Analysis Center,2,1
+the Health Sector Cybersecurity Coordination Center,2,1
+the House Permanent Select Committee on Intelligence,3,1
+the Hypertext Transfer Protocol (,184,1
+the Integrity Checker Tools,184,1
+the Intelligent Platform Management Interface,44,1
+the Intelligent Platform Management Interface (IPMI),44,1
+the Internet Crime Complaint Center,1,1
+the Internet Crime Complaint Center,43,1
+the Internet Crime Complaint Center,212,1
+the Internet Crime Complaint Center,537,1
+the Internet Engineering Task Force,186,1
+the Internet Engineering Task Force,215,1
+the Invoker Servlet,45,2
+the Iranian Government’s,184,1
+the Iranian Ministry of Intelligence and Security,529,1
+the Iranian Regime,184,1
+the Islamic Republic of Iran,3,1
+the Islamic Revolutionary Guard Corps,3,1
+the JBiFrost RAT,34,1
+the Java API Documentation Updater Tool,53,2
+the Java Deployment Toolkit,49,1
+the Java Deployment Toolkit,235,1
+the Java Runtime Environment,49,1
+the Java Runtime Environment,235,1
+the Java Security Manager,3,1
+the Java Security Manager,9,1
+the Javadoc Tool,53,2
+the JexBoss Exploit Kit,3,1
+the Joint Cyber Defense Collaborative,191,1
+the Joint Cyber Defense Collaborative,211,1
+the Karakurt Team,9,1
+the Kupay Wallet,532,1
+the Local Security Authority Subsystem Service,9,1
+the M365 Unified Access Log,201,1
+the MS-ISAC,3,1
+the MS-ISAC,185,8
+the MS-ISAC,186,13
+the Mabna Institute,3,2
+the Malware Remover,26,1
+the Managed Service Providers,211,1
+the Master Boot Record,48,1
+the Measurement Factory,186,2
+the Microsoft Enhanced Mitigation Experience Toolkit,3,1
+the Microsoft Enhanced Mitigation Experience Toolkit (EMET)EMET can be used to help prevent exploitation of the Flash vulnerabilities,47,1
+the Microsoft Safety Scanner,531,1
+the Microsoft Threat Intelligence Center,194,1
+the Multi-State Information Sharing & Analysis Center,8,1
+the Multi-State Information Sharing & Analysis Center,25,1
+the Multi-State Information Sharing & Analysis Center,200,1
+the Multi-State Information Sharing and Analysis Center,3,1
+the Multi-State Information Sharing and Analysis Center,185,1
+the Multi-State Information Sharing and Analysis Center,186,1
+the Multi-State Information Sharing and Analysis Center,200,1
+the NCSC-UK,13,2
+the NSA Cybersecurity Collaboration Center’s,4,1
+the NSA Cybersecurity Collaboration Center’s,9,1
+the NSA Cybersecurity Collaboration Center’s,191,1
+the NSA Cybersecurity Requirements Center,12,1
+the NSA Cybersecurity Requirements Center,16,1
+the NSA Cybersecurity Requirements Center,17,1
+the National Conference of State Legislatures,7,1
+the National Cyber Security Centre,191,1
+the National Cybersecurity Protection System,9,1
+the National Cybersecurity and Communications Integration Center,37,1
+the National Cybersecurity and Communications Integration Center,50,1
+the National Institute for Standards and Technology,189,1
+the National Institute of Standards and Technology,2,1
+the National Institute of Standards and Technology,3,1
+the National Institute of Standards and Technology.[1,3,1
+the National Institute of Standards and Technology’s,2,1
+the National Institute of Standards and Technology’s,30,1
+the National Security Agency,3,2
+the National Security Agency,4,1
+the National Security Agency,9,1
+the National Security Agency,13,1
+the National Security Agency,16,1
+the National Security Agency,17,1
+the National Security Agency,21,2
+the National Security Agency,184,1
+the National Security Agency,185,1
+the National Security Agency,192,1
+the National Security Agency,201,2
+the National Security Agency,529,1
+the National Security Agency’s,32,1
+the New Zealand National Cyber Security Centre,15,1
+the New Zealand National Cyber Security Centre,211,1
+the North Atlantic Treaty Organization,191,1
+the Office of the Director of National Intelligence,21,1
+the Onion Routing Protocol,28,1
+the Open DNS Resolver Project,186,2
+the PLUGX RAT,43,1
+the People's Republic of China,22,1
+the People’s Republic of China,9,1
+the PowerShell Empire,34,1
+the Public Power Cyber Incident Response Playbook,18,1
+the Pulse Secure Connect Integrity Tool,184,1
+the Pulse Secure Connect Integrity Tool Quick Start Guide and,184,1
+the Pulse Secure Connect Integrity Tool,184,1
+the Pulse Secure Connect Integrity Tool.,184,1
+the Pulse Secure Connect Integrity Tool,184,1
+the Pulse Secure Integrity Checker,184,1
+the Ransomware Response Checklist,18,1
+the Ransomware Response Checklist,24,1
+the Reconnaissance General Bureau,30,1
+the Republic of Korea,192,1
+the Russian Federation’s,207,1
+the Russian Foreign Intelligence Service,3,1
+the Russian Foreign Intelligence Service,12,1
+the Russian Foreign Intelligence Service,197,1
+the Russian Foreign Intelligence Service,201,1
+the Russian Government,191,1
+the SAP Solution Manager,184,1
+the SMB Protocol,198,1
+the Sands Las Vegas Corporation,3,1
+the Sands Las Vegas Corporation’s,3,1
+the Sandworm Team,14,2
+the Sandworm Team,191,1
+the Secret Service,50,2
+the Secure Socket Layer (SSL) 3.0,535,1
+the Security and Compliance Center,9,1
+the Security and Compliance Center,204,3
+the Server Message Block (SMB) Protocol,3,1
+the Server Message Block (SMB) Protocol,198,1
+the Service Provider,201,1
+the Siebel Option Pack,541,1
+the Software Engineering Institute,52,1
+the Software Engineering Institute’s,1,1
+the Southern District,3,1
+the Spoofer Project,52,1
+the State Department,192,1
+the State of Hawaii,3,1
+the State of Indiana,3,1
+the Sun Java Runtime Environment,217,2
+the Sun Java Runtime Environment,553,1
+the Task Scheduler,3,3
+the TeamViewer Client,9,1
+the Tor Project,28,1
+the Tor Project’s,28,1
+the Tricon PLC,9,1
+the U.S. Coast Guard,8,1
+the U.S. Cyber Command Cyber National Mission Force,9,1
+the U.S. Cyber Command Cyber National Mission Force,529,1
+the U.S. Cybersecurity and Infrastructure Security Agency,531,1
+the U.S. DOJ,191,1
+the U.S. Department of Homeland Security,234,1
+the U.S. Department of Justice,3,2
+the U.S. Department of Justice,9,1
+the U.S. Department of Justice,191,1
+the U.S. Department of Justice,192,1
+the U.S. Department of Justice,197,1
+the U.S. Department of Labor,3,1
+the U.S. Department of the Treasury,191,1
+the U.S. Federal Bureau of Investigation,531,1
+the U.S. Government,3,8
+the U.S. Government,7,1
+the U.S. Government,18,3
+the U.S. Government,20,1
+the U.S. Government,33,1
+the U.S. Government,40,1
+the U.S. Government,43,1
+the U.S. Government,191,2
+the U.S. Government,207,1
+the U.S. Government,209,1
+the U.S. Government,531,2
+the U.S. Government,532,1
+the U.S. Government's,1,1
+the U.S. Government's,42,1
+the U.S. Government's,43,1
+the U.S. Government’s,0,1
+the U.S. Government’s,3,1
+the U.S. Government’s,18,1
+the U.S. Intelligence Community,30,1
+the U.S. Justice Department,3,1
+the U.S. Secret Service,2,1
+the U.S. Secret Service,7,1
+the U.S. Secret Service,13,1
+the U.S. Secret Service,16,1
+the U.S. Secret Service,184,1
+the U.S. Secret Service,187,1
+the U.S. Secret Service,191,1
+the U.S. Treasury Department,11,1
+"the UK Foreign, Commonwealth, and Development Office",191,1
+the UK Government,13,1
+the UK Government,191,1
+the UK Government.[19][20,191,1
+the UK National Crime Agency,191,1
+the UN Security Council 1718 Committee,30,1
+the US-CERT Code Analysis Team,38,1
+the USCG NRC,8,1
+the Unified Audit Log,204,2
+the United Kingdom,0,1
+the United Kingdom,2,1
+the United Kingdom,3,3
+the United Kingdom,7,1
+the United Kingdom,8,1
+the United Kingdom,10,1
+the United Kingdom,12,1
+the United Kingdom,13,10
+the United Kingdom,14,1
+the United Kingdom,16,1
+the United Kingdom,17,2
+the United Kingdom,18,1
+the United Kingdom,21,1
+the United Kingdom,26,1
+the United Kingdom,29,1
+the United Kingdom,30,1
+the United Kingdom,34,1
+the United Kingdom,46,1
+the United Kingdom,184,3
+the United Kingdom,186,1
+the United Kingdom,191,1
+the United Kingdom,192,1
+the United Kingdom,207,1
+the United Kingdom,211,3
+the United Kingdom,529,3
+the United Kingdom,531,1
+the United Kingdom,532,1
+"the United Kingdom,[4",211,1
+"the United Kingdom,[5",9,1
+the United Kingdom.[8,189,1
+the United Kingdom[5,13,1
+the United Kingdom[7][8,191,1
+the United Kingdom’s,3,2
+the United Kingdom’s,13,1
+the United Kingdom’s,15,1
+the United Kingdom’s,26,1
+the United Kingdom’s,29,1
+the United Kingdom’s,184,1
+the United Kingdom’s,207,1
+the United Kingdom’s,529,1
+the United Kingdom’s,531,1
+the United Nations,3,1
+the United Nations (UN) DPRK Panel of Experts,3,1
+the United Nations Children’s Fund,3,1
+the United States,0,1
+the United States,1,1
+the United States,3,13
+the United States,4,1
+the United States,8,1
+the United States,9,4
+the United States,10,1
+the United States,13,10
+the United States,14,1
+the United States,18,2
+the United States,21,2
+the United States,26,1
+the United States,29,1
+the United States,30,8
+the United States,34,1
+the United States,40,1
+the United States,42,1
+the United States,50,1
+the United States,184,2
+the United States,186,1
+the United States,191,3
+the United States,192,1
+the United States,197,2
+the United States,200,1
+the United States,201,4
+the United States,206,1
+the United States,207,1
+the United States,209,1
+the United States,211,3
+the United States,212,1
+the United States,529,3
+the United States,531,1
+the United States,532,1
+the United States Computer Emergency Readiness Team,214,1
+the United States Cybersecurity and Infrastructure Security Agency,26,1
+the United States Department of Homeland Security,43,1
+the United States Government,3,4
+the United States Government,9,4
+the United States Government,12,2
+the United States Government,22,4
+the United States Government,192,1
+the United States Government,196,1
+the United States Government,202,2
+the United States Secret Service,17,1
+the United States',211,1
+"the United States,[1],[2],[3",189,1
+"the United States,[1][2][3",13,1
+"the United States,[3",3,1
+the United States.[1][2][3][4][5,34,1
+the United States.[4][5,531,1
+the United States.[5][6,211,1
+the United States.[6,9,1
+the United States[1][2][3,191,1
+the United States’,192,1
+the User Account Control,9,1
+the User Datagram Protocol,41,1
+the User Datagram Protocol (UDP),52,1
+the WWS Sector,3,1
+the Waledac Trojan,265,1
+the Water and Wastewater Systems Sector,191,1
+the White House,3,1
+the White House,21,1
+the White House,22,1
+the White House,42,1
+the White House,197,1
+the White House,201,1
+the Windows Command Shell,4,2
+the Windows Command Shell for Execution,9,1
+the Windows File Share Browser,9,1
+the Windows Help and Support Center,3,1
+the Windows Registry,3,1
+the Windows Remote Desktop Client,533,1
+the Workers’ Party of Korea,30,1
+the World Health Organization,3,1
+the XakNet Team,191,3
+the iOS App Store,230,1
+the macOS X JMT Trader,532,1
+the “Advanced Port Scanner”,5,1
+the “Daixin Team,2,1
+the “Karakurt Team”,9,1
+the Chinese Ministry of State Security,43,1
+the MITRE ATT&CK Framework,3,1
+the Pulse Secure Connect Integrity Tool,184,1
+this Activity Alert,34,1
+thunderbird,5,1
+trojan machoName,11,3
+trojan peexeName,11,1
+unrar,186,1
+vCenter Server,2,1
+vCenter Server,3,2
+vCenter Server,10,1
+vRealize Automation,188,1
+vRealize Suite Lifecycle Manager,188,1
+versionsAdobe AIR,16,1
+versionsAdobe AIR 1.5.2,65,1
+versionsAdobe Acrobat,63,1
+versionsAdobe Flash Player 9.0.159.0,545,1
+versionsAdobe Flash Player 9.0.277.0,16,1
+versionsAdobe Reader,16,1
+versionsAdobe Reader,63,1
+versionsAdobe Reader,543,1
+versionsAdobe Reader,545,1
+vpnfilter,36,1
+vssadmin,0,1
+vssadmin,24,2
+wget,34,1
+win.bat,5,1
+windows 7,48,2
+workstation,39,1
+x64 Edition Service Pack,3,2
+x86,43,1
+yum,9,1
+”Mozilla,216,1
