@@ -3,15 +3,18 @@ name = ""
 version = ""
 description = ""
 authors = [
-    {name = "Chris Armstrong", email = "cparmstr@ucsd.edu"},
+    {name = "Chris",email=""},
+    {name = "Karina",email=""},
+    {name = "Spencer",email=""},
 ]
 dependencies = [
     "jsonpath-ng>=1.5.3",
     "pandas>=1.5.1",
+    "pyarrow>=10.0.0",
 ]
 requires-python = ">=3.10"
 license = {text = "MIT"}
-[project.optional-dependencies]
+[tool.pdm.dev-dependencies]
 vim = [
     "black>=22.10.0",
     "isort>=5.10.1",
@@ -20,6 +23,8 @@ vim = [
     "ropevim>=0.8.1",
     "sourcery-cli>=0.13.0",
 ]
+requires-python = ">=3.10"
+license = {text = "MIT"}
 
 [build-system]
 requires = ["pdm-pep517>=1.0.0"]
@@ -27,4 +32,3 @@ build-backend = "pdm.pep517.api"
 
 [tool]
 [tool.pdm]
-[tool.pdm.dev-dependencies]
