@@ -94,7 +94,6 @@ for json_file_path in json_file_paths:
             )
             cpe_data["cve_id"] = cve_id
             cve_data_dict["cpes"].append(cpe_data)
-    break
 
 cve_data = (
     pd.DataFrame(cve_data_dict).drop(["refs", "cpes"], axis=1).reset_index(drop=True)
