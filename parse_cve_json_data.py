@@ -117,6 +117,7 @@ cve_cpes = (
 cve_references.to_csv("cve_references.csv", index=False)
 cve_cpes.to_csv("cpe_node_data.csv", index=False)
 cve_data.to_csv("cve_node_data.csv", index=False)
+
 cve_references.to_feather("cve_references.feather")
 cve_cpes.to_feather("cpe_node_data.feather")
 cve_data.to_feather("cve_node_data.feather")

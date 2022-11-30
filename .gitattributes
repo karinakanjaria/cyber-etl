@@ -1,3 +1,9 @@
+# Basic .gitattributes for a python repo.
+
+# Encrypt the repository
+# Include this line if the repository is local-private
+# *.* filter=git-crypt diff=git-crypt
+
 # Source files
 # ============
 *.pxd    text diff=python
