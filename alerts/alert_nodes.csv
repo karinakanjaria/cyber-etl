@@ -1,859 +1,859 @@
-alert_id,full_path,title,date
-AA22-321A,https://www.cisa.gov/ncas/alerts/aa22-321a,#StopRansomware: Hive Ransomware,"
+,alert_id,full_path,title,date
+0,AA22-321A,https://www.cisa.gov/ncas/alerts/aa22-321a,#StopRansomware: Hive Ransomware,"
                                 Original release date: November 17, 2022  | Last revised: November 18, 2022
                                             "
-AA22-320A,https://www.cisa.gov/ncas/alerts/aa22-320a,"Iranian Government-Sponsored APT Actors Compromise Federal Network, Deploy Crypto Miner, Credential Harvester","
+1,AA22-320A,https://www.cisa.gov/ncas/alerts/aa22-320a,"Iranian Government-Sponsored APT Actors Compromise Federal Network, Deploy Crypto Miner, Credential Harvester","
                                 Original release date: November 16, 2022  | Last revised: November 17, 2022
                                             "
-AA22-294A,https://www.cisa.gov/ncas/alerts/aa22-294a,#StopRansomware: Daixin Team,"
+2,AA22-294A,https://www.cisa.gov/ncas/alerts/aa22-294a,#StopRansomware: Daixin Team,"
                                 Original release date: October 21, 2022  | Last revised: October 26, 2022
                                             "
-AA22-279A,https://www.cisa.gov/ncas/alerts/aa22-279a,Top CVEs Actively Exploited By People’s Republic of China State-Sponsored Cyber Actors,"
+3,AA22-279A,https://www.cisa.gov/ncas/alerts/aa22-279a,Top CVEs Actively Exploited By People’s Republic of China State-Sponsored Cyber Actors,"
                                                 Original release date: October 06, 2022
                             "
-AA22-277A,https://www.cisa.gov/ncas/alerts/aa22-277a,Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization,"
+4,AA22-277A,https://www.cisa.gov/ncas/alerts/aa22-277a,Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization,"
                                 Original release date: October 04, 2022  | Last revised: October 05, 2022
                                             "
-AA22-265A,https://www.cisa.gov/ncas/alerts/aa22-265a,Control System Defense: Know the Opponent,"
+5,AA22-265A,https://www.cisa.gov/ncas/alerts/aa22-265a,Control System Defense: Know the Opponent,"
                                                 Original release date: September 22, 2022
                             "
-AA22-264A,https://www.cisa.gov/ncas/alerts/aa22-264a,Iranian State Actors Conduct Cyber Operations Against the Government of Albania,"
+6,AA22-264A,https://www.cisa.gov/ncas/alerts/aa22-264a,Iranian State Actors Conduct Cyber Operations Against the Government of Albania,"
                                 Original release date: September 21, 2022  | Last revised: September 23, 2022
                                             "
-AA22-257A,https://www.cisa.gov/ncas/alerts/aa22-257a,Iranian Islamic Revolutionary Guard Corps-Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations,"
+7,AA22-257A,https://www.cisa.gov/ncas/alerts/aa22-257a,Iranian Islamic Revolutionary Guard Corps-Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations,"
                                                 Original release date: September 14, 2022
                             "
-AA22-249A,https://www.cisa.gov/ncas/alerts/aa22-249a,#StopRansomware: Vice Society,"
+8,AA22-249A,https://www.cisa.gov/ncas/alerts/aa22-249a,#StopRansomware: Vice Society,"
                                 Original release date: September 06, 2022  | Last revised: September 08, 2022
                                             "
-AA22-228A,https://www.cisa.gov/ncas/alerts/aa22-228a,Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite,"
+9,AA22-228A,https://www.cisa.gov/ncas/alerts/aa22-228a,Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite,"
                                 Original release date: August 16, 2022  | Last revised: November 10, 2022
                                             "
-AA22-223A,https://www.cisa.gov/ncas/alerts/aa22-223a,#StopRansomware: Zeppelin Ransomware,"
+10,AA22-223A,https://www.cisa.gov/ncas/alerts/aa22-223a,#StopRansomware: Zeppelin Ransomware,"
                                                 Original release date: August 11, 2022
                             "
-AA22-216A,https://www.cisa.gov/ncas/alerts/aa22-216a,2021 Top Malware Strains,"
+11,AA22-216A,https://www.cisa.gov/ncas/alerts/aa22-216a,2021 Top Malware Strains,"
                                 Original release date: August 04, 2022  | Last revised: August 25, 2022
                                             "
-AA22-187A,https://www.cisa.gov/ncas/alerts/aa22-187a,North Korean State-Sponsored Cyber Actors Use Maui Ransomware to Target the Healthcare and Public Health Sector ,"
+12,AA22-187A,https://www.cisa.gov/ncas/alerts/aa22-187a,North Korean State-Sponsored Cyber Actors Use Maui Ransomware to Target the Healthcare and Public Health Sector ,"
                                 Original release date: July 06, 2022  | Last revised: July 07, 2022
                                             "
-AA22-181A,https://www.cisa.gov/ncas/alerts/aa22-181a,#StopRansomware: MedusaLocker ,"
+13,AA22-181A,https://www.cisa.gov/ncas/alerts/aa22-181a,#StopRansomware: MedusaLocker ,"
                                 Original release date: June 30, 2022  | Last revised: August 11, 2022
                                             "
-AA22-174A,https://www.cisa.gov/ncas/alerts/aa22-174a,Malicious Cyber Actors Continue to Exploit Log4Shell in VMware Horizon Systems,"
+14,AA22-174A,https://www.cisa.gov/ncas/alerts/aa22-174a,Malicious Cyber Actors Continue to Exploit Log4Shell in VMware Horizon Systems,"
                                 Original release date: June 23, 2022  | Last revised: July 18, 2022
                                             "
-AA22-158A,https://www.cisa.gov/ncas/alerts/aa22-158a,People’s Republic of China State-Sponsored Cyber Actors Exploit Network Providers and Devices,"
+15,AA22-158A,https://www.cisa.gov/ncas/alerts/aa22-158a,People’s Republic of China State-Sponsored Cyber Actors Exploit Network Providers and Devices,"
                                 Original release date: June 07, 2022  | Last revised: June 10, 2022
                                             "
-AA22-152A,https://www.cisa.gov/ncas/alerts/aa22-152a,Karakurt Data Extortion Group ,"
+16,AA22-152A,https://www.cisa.gov/ncas/alerts/aa22-152a,Karakurt Data Extortion Group ,"
                                 Original release date: June 01, 2022  | Last revised: June 02, 2022
                                             "
-AA22-138B,https://www.cisa.gov/ncas/alerts/aa22-138b,Threat Actors Chaining Unpatched VMware Vulnerabilities for Full System Control ,"
+17,AA22-138B,https://www.cisa.gov/ncas/alerts/aa22-138b,Threat Actors Chaining Unpatched VMware Vulnerabilities for Full System Control ,"
                                 Original release date: May 18, 2022  | Last revised: June 02, 2022
                                             "
-AA22-138A,https://www.cisa.gov/ncas/alerts/aa22-138a,Threat Actors Exploiting F5 BIG-IP CVE-2022-1388,"
+18,AA22-138A,https://www.cisa.gov/ncas/alerts/aa22-138a,Threat Actors Exploiting F5 BIG-IP CVE-2022-1388,"
                                 Original release date: May 18, 2022  | Last revised: October 12, 2022
                                             "
-AA22-137A,https://www.cisa.gov/ncas/alerts/aa22-137a,Weak Security Controls and Practices Routinely Exploited for Initial Access,"
+19,AA22-137A,https://www.cisa.gov/ncas/alerts/aa22-137a,Weak Security Controls and Practices Routinely Exploited for Initial Access,"
                                                 Original release date: May 17, 2022
                             "
-AA22-131A,https://www.cisa.gov/ncas/alerts/aa22-131a,Protecting Against Cyber Threats to Managed Service Providers and their Customers,"
+20,AA22-131A,https://www.cisa.gov/ncas/alerts/aa22-131a,Protecting Against Cyber Threats to Managed Service Providers and their Customers,"
                                                 Original release date: May 11, 2022
                             "
-AA22-117A,https://www.cisa.gov/ncas/alerts/aa22-117a,2021 Top Routinely Exploited Vulnerabilities,"
+21,AA22-117A,https://www.cisa.gov/ncas/alerts/aa22-117a,2021 Top Routinely Exploited Vulnerabilities,"
                                 Original release date: April 27, 2022  | Last revised: April 28, 2022
                                             "
-AA22-110A,https://www.cisa.gov/ncas/alerts/aa22-110a,Russian State-Sponsored and Criminal Cyber Threats to Critical Infrastructure,"
+22,AA22-110A,https://www.cisa.gov/ncas/alerts/aa22-110a,Russian State-Sponsored and Criminal Cyber Threats to Critical Infrastructure,"
                                 Original release date: April 20, 2022  | Last revised: May 09, 2022
                                             "
-AA22-108A,https://www.cisa.gov/ncas/alerts/aa22-108a,TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies ,"
+23,AA22-108A,https://www.cisa.gov/ncas/alerts/aa22-108a,TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies ,"
                                 Original release date: April 18, 2022  | Last revised: April 20, 2022
                                             "
-AA22-103A,https://www.cisa.gov/ncas/alerts/aa22-103a,APT Cyber Tools Targeting ICS/SCADA Devices,"
+24,AA22-103A,https://www.cisa.gov/ncas/alerts/aa22-103a,APT Cyber Tools Targeting ICS/SCADA Devices,"
                                 Original release date: April 13, 2022  | Last revised: May 25, 2022
                                             "
-AA22-083A,https://www.cisa.gov/ncas/alerts/aa22-083a,"Tactics, Techniques, and Procedures of Indicted State-Sponsored Russian Cyber Actors Targeting the Energy Sector","
+25,AA22-083A,https://www.cisa.gov/ncas/alerts/aa22-083a,"Tactics, Techniques, and Procedures of Indicted State-Sponsored Russian Cyber Actors Targeting the Energy Sector","
                                                 Original release date: March 24, 2022
                             "
-AA22-076A,https://www.cisa.gov/ncas/alerts/aa22-076a,Strengthening Cybersecurity of SATCOM Network Providers and Customers,"
+26,AA22-076A,https://www.cisa.gov/ncas/alerts/aa22-076a,Strengthening Cybersecurity of SATCOM Network Providers and Customers,"
                                 Original release date: March 17, 2022  | Last revised: May 10, 2022
                                             "
-AA22-074A,https://www.cisa.gov/ncas/alerts/aa22-074a,Russian State-Sponsored Cyber Actors Gain Network Access by Exploiting Default Multifactor Authentication Protocols and “PrintNightmare” Vulnerability,"
+27,AA22-074A,https://www.cisa.gov/ncas/alerts/aa22-074a,Russian State-Sponsored Cyber Actors Gain Network Access by Exploiting Default Multifactor Authentication Protocols and “PrintNightmare” Vulnerability,"
                                 Original release date: March 15, 2022  | Last revised: May 02, 2022
                                             "
-AA22-057A,https://www.cisa.gov/ncas/alerts/aa22-057a,Update: Destructive Malware Targeting Organizations in Ukraine,"
+28,AA22-057A,https://www.cisa.gov/ncas/alerts/aa22-057a,Update: Destructive Malware Targeting Organizations in Ukraine,"
                                 Original release date: February 26, 2022  | Last revised: April 28, 2022
                                             "
-AA22-055A,https://www.cisa.gov/ncas/alerts/aa22-055a,Iranian Government-Sponsored Actors Conduct Cyber Operations Against Global Government and Commercial Networks,"
+29,AA22-055A,https://www.cisa.gov/ncas/alerts/aa22-055a,Iranian Government-Sponsored Actors Conduct Cyber Operations Against Global Government and Commercial Networks,"
                                                 Original release date: February 24, 2022
                             "
-AA22-054A,https://www.cisa.gov/ncas/alerts/aa22-054a,New Sandworm Malware Cyclops Blink Replaces VPNFilter,"
+30,AA22-054A,https://www.cisa.gov/ncas/alerts/aa22-054a,New Sandworm Malware Cyclops Blink Replaces VPNFilter,"
                                                 Original release date: February 23, 2022
                             "
-AA22-047A,https://www.cisa.gov/ncas/alerts/aa22-047a,Russian State-Sponsored Cyber Actors Target Cleared Defense Contractor Networks to Obtain Sensitive U.S. Defense Information and Technology,"
+31,AA22-047A,https://www.cisa.gov/ncas/alerts/aa22-047a,Russian State-Sponsored Cyber Actors Target Cleared Defense Contractor Networks to Obtain Sensitive U.S. Defense Information and Technology,"
                                                 Original release date: February 16, 2022
                             "
-AA22-040A,https://www.cisa.gov/ncas/alerts/aa22-040a,2021 Trends Show Increased Globalized Threat of Ransomware,"
+32,AA22-040A,https://www.cisa.gov/ncas/alerts/aa22-040a,2021 Trends Show Increased Globalized Threat of Ransomware,"
                                 Original release date: February 09, 2022  | Last revised: February 10, 2022
                                             "
-AA22-011A,https://www.cisa.gov/ncas/alerts/aa22-011a,Understanding and Mitigating Russian State-Sponsored Cyber Threats to U.S. Critical Infrastructure  ,"
+33,AA22-011A,https://www.cisa.gov/ncas/alerts/aa22-011a,Understanding and Mitigating Russian State-Sponsored Cyber Threats to U.S. Critical Infrastructure  ,"
                                 Original release date: January 11, 2022  | Last revised: March 01, 2022
                                             "
-AA21-356A,https://www.cisa.gov/ncas/alerts/aa21-356a,Mitigating Log4Shell and Other Log4j-Related Vulnerabilities,"
+34,AA21-356A,https://www.cisa.gov/ncas/alerts/aa21-356a,Mitigating Log4Shell and Other Log4j-Related Vulnerabilities,"
                                 Original release date: December 22, 2021  | Last revised: December 23, 2021
                                             "
-AA21-336A,https://www.cisa.gov/ncas/alerts/aa21-336a,APT Actors Exploiting CVE-2021-44077 in Zoho ManageEngine ServiceDesk Plus,"
+35,AA21-336A,https://www.cisa.gov/ncas/alerts/aa21-336a,APT Actors Exploiting CVE-2021-44077 in Zoho ManageEngine ServiceDesk Plus,"
                                 Original release date: December 02, 2021  | Last revised: December 06, 2021
                                             "
-AA21-321A,https://www.cisa.gov/ncas/alerts/aa21-321a,Iranian Government-Sponsored APT Cyber Actors Exploiting Microsoft Exchange and Fortinet Vulnerabilities in Furtherance of Malicious Activities,"
+36,AA21-321A,https://www.cisa.gov/ncas/alerts/aa21-321a,Iranian Government-Sponsored APT Cyber Actors Exploiting Microsoft Exchange and Fortinet Vulnerabilities in Furtherance of Malicious Activities,"
                                 Original release date: November 17, 2021  | Last revised: November 19, 2021
                                             "
-AA21-291A,https://www.cisa.gov/ncas/alerts/aa21-291a,BlackMatter Ransomware ,"
+37,AA21-291A,https://www.cisa.gov/ncas/alerts/aa21-291a,BlackMatter Ransomware ,"
                                                 Original release date: October 18, 2021
                             "
-AA21-287A,https://www.cisa.gov/ncas/alerts/aa21-287a,Ongoing Cyber Threats to U.S. Water and Wastewater Systems,"
+38,AA21-287A,https://www.cisa.gov/ncas/alerts/aa21-287a,Ongoing Cyber Threats to U.S. Water and Wastewater Systems,"
                                 Original release date: October 14, 2021  | Last revised: October 25, 2021
                                             "
-AA21-265A,https://www.cisa.gov/ncas/alerts/aa21-265a,Conti Ransomware,"
+39,AA21-265A,https://www.cisa.gov/ncas/alerts/aa21-265a,Conti Ransomware,"
                                 Original release date: September 22, 2021  | Last revised: March 09, 2022
                                             "
-AA21-259A,https://www.cisa.gov/ncas/alerts/aa21-259a,APT Actors Exploiting Newly Identified Vulnerability in ManageEngine ADSelfService Plus,"
+40,AA21-259A,https://www.cisa.gov/ncas/alerts/aa21-259a,APT Actors Exploiting Newly Identified Vulnerability in ManageEngine ADSelfService Plus,"
                                 Original release date: September 16, 2021  | Last revised: November 22, 2021
                                             "
-AA21-243A,https://www.cisa.gov/ncas/alerts/aa21-243a,Ransomware Awareness for Holidays and Weekends,"
+41,AA21-243A,https://www.cisa.gov/ncas/alerts/aa21-243a,Ransomware Awareness for Holidays and Weekends,"
                                 Original release date: August 31, 2021  | Last revised: February 10, 2022
                                             "
-AA21-229A,https://www.cisa.gov/ncas/alerts/aa21-229a,BadAlloc Vulnerability Affecting BlackBerry QNX RTOS,"
+42,AA21-229A,https://www.cisa.gov/ncas/alerts/aa21-229a,BadAlloc Vulnerability Affecting BlackBerry QNX RTOS,"
                                 Original release date: August 17, 2021  | Last revised: August 23, 2021
                                             "
-AA21-209A,https://www.cisa.gov/ncas/alerts/aa21-209a,Top Routinely Exploited Vulnerabilities,"
+43,AA21-209A,https://www.cisa.gov/ncas/alerts/aa21-209a,Top Routinely Exploited Vulnerabilities,"
                                 Original release date: July 28, 2021  | Last revised: August 20, 2021
                                             "
-AA21-201A,https://www.cisa.gov/ncas/alerts/aa21-201a,"Chinese Gas Pipeline Intrusion Campaign, 2011 to 2013 ","
+44,AA21-201A,https://www.cisa.gov/ncas/alerts/aa21-201a,"Chinese Gas Pipeline Intrusion Campaign, 2011 to 2013 ","
                                 Original release date: July 20, 2021  | Last revised: July 21, 2021
                                             "
-AA21-200B,https://www.cisa.gov/ncas/alerts/aa21-200b,Chinese State-Sponsored Cyber Operations: Observed TTPs,"
+45,AA21-200B,https://www.cisa.gov/ncas/alerts/aa21-200b,Chinese State-Sponsored Cyber Operations: Observed TTPs,"
                                 Original release date: July 19, 2021  | Last revised: August 20, 2021
                                             "
-AA21-200A,https://www.cisa.gov/ncas/alerts/aa21-200a,"Tactics, Techniques, and Procedures of Indicted APT40 Actors Associated with China’s MSS Hainan State Security Department","
+46,AA21-200A,https://www.cisa.gov/ncas/alerts/aa21-200a,"Tactics, Techniques, and Procedures of Indicted APT40 Actors Associated with China’s MSS Hainan State Security Department","
                                 Original release date: July 19, 2021  | Last revised: July 20, 2021
                                             "
-AA21-148A,https://www.cisa.gov/ncas/alerts/aa21-148a,"Sophisticated Spearphishing Campaign Targets Government Organizations, IGOs, and NGOs","
+47,AA21-148A,https://www.cisa.gov/ncas/alerts/aa21-148a,"Sophisticated Spearphishing Campaign Targets Government Organizations, IGOs, and NGOs","
                                 Original release date: May 28, 2021  | Last revised: May 29, 2021
                                             "
-AA21-131A,https://www.cisa.gov/ncas/alerts/aa21-131a,DarkSide Ransomware: Best Practices for Preventing Business Disruption from Ransomware Attacks,"
+48,AA21-131A,https://www.cisa.gov/ncas/alerts/aa21-131a,DarkSide Ransomware: Best Practices for Preventing Business Disruption from Ransomware Attacks,"
                                 Original release date: May 11, 2021  | Last revised: July 08, 2021
                                             "
-AA21-116A,https://www.cisa.gov/ncas/alerts/aa21-116a,Russian Foreign Intelligence Service (SVR) Cyber Operations: Trends and Best Practices for Network Defenders,"
+49,AA21-116A,https://www.cisa.gov/ncas/alerts/aa21-116a,Russian Foreign Intelligence Service (SVR) Cyber Operations: Trends and Best Practices for Network Defenders,"
                                                 Original release date: April 26, 2021
                             "
-AA21-110A,https://www.cisa.gov/ncas/alerts/aa21-110a,Exploitation of Pulse Connect Secure Vulnerabilities,"
+50,AA21-110A,https://www.cisa.gov/ncas/alerts/aa21-110a,Exploitation of Pulse Connect Secure Vulnerabilities,"
                                 Original release date: April 20, 2021  | Last revised: August 24, 2021
                                             "
-AA21-077A,https://www.cisa.gov/ncas/alerts/aa21-077a,Detecting Post-Compromise Threat Activity Using the CHIRP IOC Detection Tool,"
+51,AA21-077A,https://www.cisa.gov/ncas/alerts/aa21-077a,Detecting Post-Compromise Threat Activity Using the CHIRP IOC Detection Tool,"
                                 Original release date: March 18, 2021  | Last revised: April 15, 2021
                                             "
-AA21-076A,https://www.cisa.gov/ncas/alerts/aa21-076a,TrickBot Malware,"
+52,AA21-076A,https://www.cisa.gov/ncas/alerts/aa21-076a,TrickBot Malware,"
                                 Original release date: March 17, 2021  | Last revised: May 20, 2021
                                             "
-AA21-062A,https://www.cisa.gov/ncas/alerts/aa21-062a,Mitigate Microsoft Exchange Server Vulnerabilities,"
+53,AA21-062A,https://www.cisa.gov/ncas/alerts/aa21-062a,Mitigate Microsoft Exchange Server Vulnerabilities,"
                                 Original release date: March 03, 2021  | Last revised: July 19, 2021
                                             "
-AA21-055A,https://www.cisa.gov/ncas/alerts/aa21-055a,Exploitation of Accellion File Transfer Appliance,"
+54,AA21-055A,https://www.cisa.gov/ncas/alerts/aa21-055a,Exploitation of Accellion File Transfer Appliance,"
                                 Original release date: February 24, 2021  | Last revised: June 17, 2021
                                             "
-AA21-048A,https://www.cisa.gov/ncas/alerts/aa21-048a,AppleJeus: Analysis of North Korea’s Cryptocurrency Malware ,"
+55,AA21-048A,https://www.cisa.gov/ncas/alerts/aa21-048a,AppleJeus: Analysis of North Korea’s Cryptocurrency Malware ,"
                                 Original release date: February 17, 2021  | Last revised: April 15, 2021
                                             "
-AA21-042A,https://www.cisa.gov/ncas/alerts/aa21-042a,Compromise of U.S. Water Treatment Facility ,"
+56,AA21-042A,https://www.cisa.gov/ncas/alerts/aa21-042a,Compromise of U.S. Water Treatment Facility ,"
                                 Original release date: February 11, 2021  | Last revised: February 12, 2021
                                             "
-AA21-008A,https://www.cisa.gov/ncas/alerts/aa21-008a,Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments  ,"
+57,AA21-008A,https://www.cisa.gov/ncas/alerts/aa21-008a,Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments  ,"
                                 Original release date: January 08, 2021  | Last revised: April 15, 2021
                                             "
-AA20-352A,https://www.cisa.gov/ncas/alerts/aa20-352a,"Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations","
+58,AA20-352A,https://www.cisa.gov/ncas/alerts/aa20-352a,"Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations","
                                 Original release date: December 17, 2020  | Last revised: April 15, 2021
                                             "
-AA20-345A,https://www.cisa.gov/ncas/alerts/aa20-345a,Cyber Actors Target K-12 Distance Learning Education to Cause Disruptions and Steal Data ,"
+59,AA20-345A,https://www.cisa.gov/ncas/alerts/aa20-345a,Cyber Actors Target K-12 Distance Learning Education to Cause Disruptions and Steal Data ,"
                                                 Original release date: December 10, 2020
                             "
-AA20-336A,https://www.cisa.gov/ncas/alerts/aa20-336a,Advanced Persistent Threat Actors Targeting U.S. Think Tanks,"
+60,AA20-336A,https://www.cisa.gov/ncas/alerts/aa20-336a,Advanced Persistent Threat Actors Targeting U.S. Think Tanks,"
                                                 Original release date: December 01, 2020
                             "
-AA20-304A,https://www.cisa.gov/ncas/alerts/aa20-304a,Iranian Advanced Persistent Threat Actor Identified Obtaining Voter Registration Data,"
+61,AA20-304A,https://www.cisa.gov/ncas/alerts/aa20-304a,Iranian Advanced Persistent Threat Actor Identified Obtaining Voter Registration Data,"
                                 Original release date: October 30, 2020  | Last revised: November 03, 2020
                                             "
-AA20-302A,https://www.cisa.gov/ncas/alerts/aa20-302a,Ransomware Activity Targeting the Healthcare and Public Health Sector,"
+62,AA20-302A,https://www.cisa.gov/ncas/alerts/aa20-302a,Ransomware Activity Targeting the Healthcare and Public Health Sector,"
                                 Original release date: October 28, 2020  | Last revised: November 02, 2020
                                             "
-AA20-301A,https://www.cisa.gov/ncas/alerts/aa20-301a,North Korean Advanced Persistent Threat Focus: Kimsuky,"
+63,AA20-301A,https://www.cisa.gov/ncas/alerts/aa20-301a,North Korean Advanced Persistent Threat Focus: Kimsuky,"
                                                 Original release date: October 27, 2020
                             "
-AA20-296B,https://www.cisa.gov/ncas/alerts/aa20-296b,Iranian Advanced Persistent Threat Actors Threaten Election-Related Systems,"
+64,AA20-296B,https://www.cisa.gov/ncas/alerts/aa20-296b,Iranian Advanced Persistent Threat Actors Threaten Election-Related Systems,"
                                                 Original release date: October 22, 2020
                             "
-AA20-296A,https://www.cisa.gov/ncas/alerts/aa20-296a,Russian State-Sponsored Advanced Persistent Threat Actor Compromises U.S. Government Targets,"
+65,AA20-296A,https://www.cisa.gov/ncas/alerts/aa20-296a,Russian State-Sponsored Advanced Persistent Threat Actor Compromises U.S. Government Targets,"
                                 Original release date: October 22, 2020  | Last revised: December 01, 2020
                                             "
-AA20-283A,https://www.cisa.gov/ncas/alerts/aa20-283a,"APT Actors Chaining Vulnerabilities Against SLTT, Critical Infrastructure, and Elections Organizations","
+66,AA20-283A,https://www.cisa.gov/ncas/alerts/aa20-283a,"APT Actors Chaining Vulnerabilities Against SLTT, Critical Infrastructure, and Elections Organizations","
                                 Original release date: October 09, 2020  | Last revised: October 24, 2020
                                             "
-AA20-280A,https://www.cisa.gov/ncas/alerts/aa20-280a,Emotet Malware,"
+67,AA20-280A,https://www.cisa.gov/ncas/alerts/aa20-280a,Emotet Malware,"
                                 Original release date: October 06, 2020  | Last revised: October 24, 2020
                                             "
-AA20-275A,https://www.cisa.gov/ncas/alerts/aa20-275a,Potential for China Cyber Response to Heightened U.S.–China Tensions,"
+68,AA20-275A,https://www.cisa.gov/ncas/alerts/aa20-275a,Potential for China Cyber Response to Heightened U.S.–China Tensions,"
                                 Original release date: October 01, 2020  | Last revised: October 20, 2020
                                             "
-AA20-266A,https://www.cisa.gov/ncas/alerts/aa20-266a,LokiBot Malware ,"
+69,AA20-266A,https://www.cisa.gov/ncas/alerts/aa20-266a,LokiBot Malware ,"
                                 Original release date: September 22, 2020  | Last revised: October 24, 2020
                                             "
-AA20-259A,https://www.cisa.gov/ncas/alerts/aa20-259a,Iran-Based Threat Actor Exploits VPN Vulnerabilities,"
+70,AA20-259A,https://www.cisa.gov/ncas/alerts/aa20-259a,Iran-Based Threat Actor Exploits VPN Vulnerabilities,"
                                                 Original release date: September 15, 2020
                             "
-AA20-258A,https://www.cisa.gov/ncas/alerts/aa20-258a,Chinese Ministry of State Security-Affiliated Cyber Threat Actor Activity,"
+71,AA20-258A,https://www.cisa.gov/ncas/alerts/aa20-258a,Chinese Ministry of State Security-Affiliated Cyber Threat Actor Activity,"
                                 Original release date: September 14, 2020  | Last revised: October 24, 2020
                                             "
-AA20-245A,https://www.cisa.gov/ncas/alerts/aa20-245a,Technical Approaches to Uncovering and Remediating Malicious Activity,"
+72,AA20-245A,https://www.cisa.gov/ncas/alerts/aa20-245a,Technical Approaches to Uncovering and Remediating Malicious Activity,"
                                 Original release date: September 01, 2020  | Last revised: September 24, 2020
                                             "
-AA20-239A,https://www.cisa.gov/ncas/alerts/aa20-239a,FASTCash 2.0: North Korea's BeagleBoyz Robbing Banks,"
+73,AA20-239A,https://www.cisa.gov/ncas/alerts/aa20-239a,FASTCash 2.0: North Korea's BeagleBoyz Robbing Banks,"
                                 Original release date: August 26, 2020  | Last revised: October 24, 2020
                                             "
-AA20-227A,https://www.cisa.gov/ncas/alerts/aa20-227a,Phishing Emails Used to Deploy KONNI Malware,"
+74,AA20-227A,https://www.cisa.gov/ncas/alerts/aa20-227a,Phishing Emails Used to Deploy KONNI Malware,"
                                 Original release date: August 14, 2020  | Last revised: October 24, 2020
                                             "
-AA20-225A,https://www.cisa.gov/ncas/alerts/aa20-225a,Malicious Cyber Actor Spoofing COVID-19 Loan Relief Webpage via Phishing Emails,"
+75,AA20-225A,https://www.cisa.gov/ncas/alerts/aa20-225a,Malicious Cyber Actor Spoofing COVID-19 Loan Relief Webpage via Phishing Emails,"
                                 Original release date: August 12, 2020  | Last revised: August 14, 2020
                                             "
-AA20-209A,https://www.cisa.gov/ncas/alerts/aa20-209a,Potential Legacy Risk from Malware Targeting QNAP NAS Devices,"
+76,AA20-209A,https://www.cisa.gov/ncas/alerts/aa20-209a,Potential Legacy Risk from Malware Targeting QNAP NAS Devices,"
                                 Original release date: July 27, 2020  | Last revised: August 06, 2020
                                             "
-AA20-206A,https://www.cisa.gov/ncas/alerts/aa20-206a,Threat Actor Exploitation of F5 BIG-IP CVE-2020-5902   ,"
+77,AA20-206A,https://www.cisa.gov/ncas/alerts/aa20-206a,Threat Actor Exploitation of F5 BIG-IP CVE-2020-5902   ,"
                                                 Original release date: July 24, 2020
                             "
-AA20-205A,https://www.cisa.gov/ncas/alerts/aa20-205a,NSA and CISA Recommend Immediate Actions to Reduce Exposure Across Operational Technologies and Control Systems,"
+78,AA20-205A,https://www.cisa.gov/ncas/alerts/aa20-205a,NSA and CISA Recommend Immediate Actions to Reduce Exposure Across Operational Technologies and Control Systems,"
                                 Original release date: July 23, 2020  | Last revised: October 24, 2020
                                             "
-AA20-198A,https://www.cisa.gov/ncas/alerts/aa20-198a,Malicious Cyber Actor Use of Network Tunneling and Spoofing to Obfuscate Geolocation,"
+79,AA20-198A,https://www.cisa.gov/ncas/alerts/aa20-198a,Malicious Cyber Actor Use of Network Tunneling and Spoofing to Obfuscate Geolocation,"
                                 Original release date: July 16, 2020  | Last revised: October 24, 2020
                                             "
-AA20-195A,https://www.cisa.gov/ncas/alerts/aa20-195a,Critical Vulnerability in SAP NetWeaver AS Java,"
+80,AA20-195A,https://www.cisa.gov/ncas/alerts/aa20-195a,Critical Vulnerability in SAP NetWeaver AS Java,"
                                                 Original release date: July 13, 2020
                             "
-AA20-183A,https://www.cisa.gov/ncas/alerts/aa20-183a,Defending Against Malicious Cyber Activity Originating from Tor ,"
+81,AA20-183A,https://www.cisa.gov/ncas/alerts/aa20-183a,Defending Against Malicious Cyber Activity Originating from Tor ,"
                                 Original release date: July 01, 2020  | Last revised: August 02, 2021
                                             "
-AA20-182A,https://www.cisa.gov/ncas/alerts/aa20-182a,EINSTEIN Data Trends – 30-day Lookback ,"
+82,AA20-182A,https://www.cisa.gov/ncas/alerts/aa20-182a,EINSTEIN Data Trends – 30-day Lookback ,"
                                                 Original release date: June 30, 2020
                             "
-AA20-133A,https://www.cisa.gov/ncas/alerts/aa20-133a,Top 10 Routinely Exploited Vulnerabilities,"
+83,AA20-133A,https://www.cisa.gov/ncas/alerts/aa20-133a,Top 10 Routinely Exploited Vulnerabilities,"
                                                 Original release date: May 12, 2020
                             "
-AA20-126A,https://www.cisa.gov/ncas/alerts/aa20-126a,APT Groups Target Healthcare and Essential Services,"
+84,AA20-126A,https://www.cisa.gov/ncas/alerts/aa20-126a,APT Groups Target Healthcare and Essential Services,"
                                 Original release date: May 05, 2020  | Last revised: January 25, 2022
                                             "
-AA20-120A,https://www.cisa.gov/ncas/alerts/aa20-120a,Microsoft Office 365 Security Recommendations ,"
+85,AA20-120A,https://www.cisa.gov/ncas/alerts/aa20-120a,Microsoft Office 365 Security Recommendations ,"
                                                 Original release date: April 29, 2020
                             "
-AA20-107A,https://www.cisa.gov/ncas/alerts/aa20-107a,Continued Threat Actor Exploitation Post Pulse Secure VPN Patching,"
+86,AA20-107A,https://www.cisa.gov/ncas/alerts/aa20-107a,Continued Threat Actor Exploitation Post Pulse Secure VPN Patching,"
                                 Original release date: April 16, 2020  | Last revised: October 24, 2020
                                             "
-AA20-106A,https://www.cisa.gov/ncas/alerts/aa20-106a,Guidance on the North Korean Cyber Threat,"
+87,AA20-106A,https://www.cisa.gov/ncas/alerts/aa20-106a,Guidance on the North Korean Cyber Threat,"
                                 Original release date: April 15, 2020  | Last revised: June 23, 2020
                                             "
-AA20-099A,https://www.cisa.gov/ncas/alerts/aa20-099a,COVID-19 Exploited by Malicious Cyber Actors,"
+88,AA20-099A,https://www.cisa.gov/ncas/alerts/aa20-099a,COVID-19 Exploited by Malicious Cyber Actors,"
                                                 Original release date: April 08, 2020
                             "
-AA20-073A,https://www.cisa.gov/ncas/alerts/aa20-073a,Enterprise VPN Security,"
+89,AA20-073A,https://www.cisa.gov/ncas/alerts/aa20-073a,Enterprise VPN Security,"
                                 Original release date: March 13, 2020  | Last revised: April 15, 2020
                                             "
-AA20-049A,https://www.cisa.gov/ncas/alerts/aa20-049a,Ransomware Impacting Pipeline Operations  ,"
+90,AA20-049A,https://www.cisa.gov/ncas/alerts/aa20-049a,Ransomware Impacting Pipeline Operations  ,"
                                 Original release date: February 18, 2020  | Last revised: October 24, 2020
                                             "
-AA20-031A,https://www.cisa.gov/ncas/alerts/aa20-031a,Detecting Citrix CVE-2019-19781,"
+91,AA20-031A,https://www.cisa.gov/ncas/alerts/aa20-031a,Detecting Citrix CVE-2019-19781,"
                                 Original release date: January 31, 2020  | Last revised: May 21, 2020
                                             "
-AA20-020A,https://www.cisa.gov/ncas/alerts/aa20-020a,"Critical Vulnerability in Citrix Application Delivery Controller, Gateway, and SD-WAN WANOP ","
+92,AA20-020A,https://www.cisa.gov/ncas/alerts/aa20-020a,"Critical Vulnerability in Citrix Application Delivery Controller, Gateway, and SD-WAN WANOP ","
                                 Original release date: January 20, 2020  | Last revised: May 21, 2020
                                             "
-AA20-014A,https://www.cisa.gov/ncas/alerts/aa20-014a,Critical Vulnerabilities in Microsoft Windows Operating Systems,"
+93,AA20-014A,https://www.cisa.gov/ncas/alerts/aa20-014a,Critical Vulnerabilities in Microsoft Windows Operating Systems,"
                                                 Original release date: January 14, 2020
                             "
-AA20-010A,https://www.cisa.gov/ncas/alerts/aa20-010a,Continued Exploitation of Pulse Secure VPN Vulnerability,"
+94,AA20-010A,https://www.cisa.gov/ncas/alerts/aa20-010a,Continued Exploitation of Pulse Secure VPN Vulnerability,"
                                 Original release date: January 10, 2020  | Last revised: April 15, 2020
                                             "
-AA20-006A,https://www.cisa.gov/ncas/alerts/aa20-006a,Potential for Iranian Cyber Response to U.S. Military Strike in Baghdad,"
+95,AA20-006A,https://www.cisa.gov/ncas/alerts/aa20-006a,Potential for Iranian Cyber Response to U.S. Military Strike in Baghdad,"
                                 Original release date: January 06, 2020  | Last revised: October 24, 2020
                                             "
-AA19-339A,https://www.cisa.gov/ncas/alerts/aa19-339a,Dridex Malware,"
+96,AA19-339A,https://www.cisa.gov/ncas/alerts/aa19-339a,Dridex Malware,"
                                 Original release date: December 05, 2019  | Last revised: June 30, 2020
                                             "
-AA19-290A,https://www.cisa.gov/ncas/alerts/aa19-290a,Microsoft Ending Support for Windows 7 and Windows Server 2008 R2,"
+97,AA19-290A,https://www.cisa.gov/ncas/alerts/aa19-290a,Microsoft Ending Support for Windows 7 and Windows Server 2008 R2,"
                                 Original release date: October 17, 2019  | Last revised: October 18, 2019
                                             "
-AA19-168A,https://www.cisa.gov/ncas/alerts/AA19-168A,Microsoft Operating Systems BlueKeep Vulnerability,"
+98,AA19-168A,https://www.cisa.gov/ncas/alerts/AA19-168A,Microsoft Operating Systems BlueKeep Vulnerability,"
                                                 Original release date: June 17, 2019
                             "
-AA19-122A,https://www.cisa.gov/ncas/alerts/AA19-122A,New Exploits for Unsecure SAP Systems,"
+99,AA19-122A,https://www.cisa.gov/ncas/alerts/AA19-122A,New Exploits for Unsecure SAP Systems,"
                                 Original release date: May 02, 2019  | Last revised: May 03, 2019
                                             "
-AA19-024A,https://www.cisa.gov/ncas/alerts/AA19-024A,DNS Infrastructure Hijacking Campaign,"
+100,AA19-024A,https://www.cisa.gov/ncas/alerts/AA19-024A,DNS Infrastructure Hijacking Campaign,"
                                 Original release date: January 24, 2019  | Last revised: February 13, 2019
                                             "
-AA18-337A,https://www.cisa.gov/ncas/alerts/AA18-337A,SamSam Ransomware,"
+101,AA18-337A,https://www.cisa.gov/ncas/alerts/AA18-337A,SamSam Ransomware,"
                                                 Original release date: December 03, 2018
                             "
-TA18-331A,https://www.cisa.gov/ncas/alerts/TA18-331A,3ve – Major Online Ad Fraud Operation,"
+102,TA18-331A,https://www.cisa.gov/ncas/alerts/TA18-331A,3ve – Major Online Ad Fraud Operation,"
                                                 Original release date: November 27, 2018
                             "
-AA18-284A,https://www.cisa.gov/ncas/alerts/AA18-284A,Publicly Available Tools Seen in Cyber Incidents Worldwide,"
+103,AA18-284A,https://www.cisa.gov/ncas/alerts/AA18-284A,Publicly Available Tools Seen in Cyber Incidents Worldwide,"
                                 Original release date: October 11, 2018  | Last revised: June 30, 2020
                                             "
-TA18-276B,https://www.cisa.gov/ncas/alerts/TA18-276B,Advanced Persistent Threat Activity Exploiting Managed Service Providers,"
+104,TA18-276B,https://www.cisa.gov/ncas/alerts/TA18-276B,Advanced Persistent Threat Activity Exploiting Managed Service Providers,"
                                 Original release date: October 03, 2018  | Last revised: June 30, 2020
                                             "
-TA18-276A,https://www.cisa.gov/ncas/alerts/TA18-276A,Using Rigorous Credential Control to Mitigate Trusted Network Exploitation,"
+105,TA18-276A,https://www.cisa.gov/ncas/alerts/TA18-276A,Using Rigorous Credential Control to Mitigate Trusted Network Exploitation,"
                                                 Original release date: October 03, 2018
                             "
-TA18-275A,https://www.cisa.gov/ncas/alerts/TA18-275A,HIDDEN COBRA – FASTCash Campaign,"
+106,TA18-275A,https://www.cisa.gov/ncas/alerts/TA18-275A,HIDDEN COBRA – FASTCash Campaign,"
                                 Original release date: October 02, 2018  | Last revised: December 21, 2018
                                             "
-TA18-201A,https://www.cisa.gov/ncas/alerts/TA18-201A,Emotet Malware,"
+107,TA18-201A,https://www.cisa.gov/ncas/alerts/TA18-201A,Emotet Malware,"
                                 Original release date: July 20, 2018  | Last revised: January 23, 2020
                                             "
-TA18-149A,https://www.cisa.gov/ncas/alerts/TA18-149A,HIDDEN COBRA – Joanap Backdoor Trojan and Brambul Server Message Block Worm,"
+108,TA18-149A,https://www.cisa.gov/ncas/alerts/TA18-149A,HIDDEN COBRA – Joanap Backdoor Trojan and Brambul Server Message Block Worm,"
                                 Original release date: May 29, 2018  | Last revised: May 31, 2018
                                             "
-TA18-145A,https://www.cisa.gov/ncas/alerts/TA18-145A,Cyber Actors Target Home and Office Routers and Networked Devices Worldwide,"
+109,TA18-145A,https://www.cisa.gov/ncas/alerts/TA18-145A,Cyber Actors Target Home and Office Routers and Networked Devices Worldwide,"
                                 Original release date: May 25, 2018  | Last revised: June 07, 2018
                                             "
-TA18-141A,https://www.cisa.gov/ncas/alerts/TA18-141A,Side-Channel Vulnerability Variants 3a and 4,"
+110,TA18-141A,https://www.cisa.gov/ncas/alerts/TA18-141A,Side-Channel Vulnerability Variants 3a and 4,"
                                 Original release date: May 21, 2018  | Last revised: May 22, 2018
                                             "
-TA18-106A,https://www.cisa.gov/ncas/alerts/TA18-106A,Russian State-Sponsored Cyber Actors Targeting Network Infrastructure Devices,"
+111,TA18-106A,https://www.cisa.gov/ncas/alerts/TA18-106A,Russian State-Sponsored Cyber Actors Targeting Network Infrastructure Devices,"
                                 Original release date: April 16, 2018  | Last revised: April 20, 2018
                                             "
-TA18-086A,https://www.cisa.gov/ncas/alerts/TA18-086A,Brute Force Attacks Conducted by Cyber Actors ,"
+112,TA18-086A,https://www.cisa.gov/ncas/alerts/TA18-086A,Brute Force Attacks Conducted by Cyber Actors ,"
                                 Original release date: March 27, 2018  | Last revised: May 06, 2020
                                             "
-TA18-074A,https://www.cisa.gov/ncas/alerts/TA18-074A,Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors,"
+113,TA18-074A,https://www.cisa.gov/ncas/alerts/TA18-074A,Russian Government Cyber Activity Targeting Energy and Other Critical Infrastructure Sectors,"
                                 Original release date: March 15, 2018  | Last revised: March 16, 2018
                                             "
-TA18-004A,https://www.cisa.gov/ncas/alerts/TA18-004A,Meltdown and Spectre Side-Channel Vulnerability Guidance,"
+114,TA18-004A,https://www.cisa.gov/ncas/alerts/TA18-004A,Meltdown and Spectre Side-Channel Vulnerability Guidance,"
                                 Original release date: January 04, 2018  | Last revised: May 01, 2018
                                             "
-TA17-318B,https://www.cisa.gov/ncas/alerts/TA17-318B,HIDDEN COBRA – North Korean Trojan: Volgmer,"
+115,TA17-318B,https://www.cisa.gov/ncas/alerts/TA17-318B,HIDDEN COBRA – North Korean Trojan: Volgmer,"
                                 Original release date: November 14, 2017  | Last revised: November 22, 2017
                                             "
-TA17-318A,https://www.cisa.gov/ncas/alerts/TA17-318A,HIDDEN COBRA – North Korean Remote Administration Tool: FALLCHILL,"
+116,TA17-318A,https://www.cisa.gov/ncas/alerts/TA17-318A,HIDDEN COBRA – North Korean Remote Administration Tool: FALLCHILL,"
                                 Original release date: November 14, 2017  | Last revised: November 22, 2017
                                             "
-TA17-293A,https://www.cisa.gov/ncas/alerts/TA17-293A,Advanced Persistent Threat Activity Targeting Energy and Other Critical Infrastructure Sectors,"
+117,TA17-293A,https://www.cisa.gov/ncas/alerts/TA17-293A,Advanced Persistent Threat Activity Targeting Energy and Other Critical Infrastructure Sectors,"
                                 Original release date: October 20, 2017  | Last revised: March 15, 2018
                                             "
-TA17-181A,https://www.cisa.gov/ncas/alerts/TA17-181A,Petya Ransomware ,"
+118,TA17-181A,https://www.cisa.gov/ncas/alerts/TA17-181A,Petya Ransomware ,"
                                 Original release date: July 01, 2017  | Last revised: February 15, 2018
                                             "
-TA17-164A,https://www.cisa.gov/ncas/alerts/TA17-164A,HIDDEN COBRA – North Korea’s DDoS Botnet Infrastructure,"
+119,TA17-164A,https://www.cisa.gov/ncas/alerts/TA17-164A,HIDDEN COBRA – North Korea’s DDoS Botnet Infrastructure,"
                                 Original release date: June 13, 2017  | Last revised: August 23, 2017
                                             "
-TA17-163A,https://www.cisa.gov/ncas/alerts/TA17-163A,CrashOverride Malware,"
+120,TA17-163A,https://www.cisa.gov/ncas/alerts/TA17-163A,CrashOverride Malware,"
                                 Original release date: June 12, 2017  | Last revised: July 20, 2021
                                             "
-TA17-156A,https://www.cisa.gov/ncas/alerts/TA17-156A,Reducing the Risk of SNMP Abuse,"
+121,TA17-156A,https://www.cisa.gov/ncas/alerts/TA17-156A,Reducing the Risk of SNMP Abuse,"
                                                 Original release date: June 05, 2017
                             "
-TA17-132A,https://www.cisa.gov/ncas/alerts/TA17-132A,Indicators Associated With WannaCry Ransomware,"
+122,TA17-132A,https://www.cisa.gov/ncas/alerts/TA17-132A,Indicators Associated With WannaCry Ransomware,"
                                 Original release date: May 12, 2017  | Last revised: June 07, 2018
                                             "
-TA17-117A,https://www.cisa.gov/ncas/alerts/TA17-117A,Intrusions Affecting Multiple Victims Across Multiple Sectors,"
+123,TA17-117A,https://www.cisa.gov/ncas/alerts/TA17-117A,Intrusions Affecting Multiple Victims Across Multiple Sectors,"
                                 Original release date: April 27, 2017  | Last revised: December 20, 2018
                                             "
-TA17-075A,https://www.cisa.gov/ncas/alerts/TA17-075A,HTTPS Interception Weakens TLS Security,"
+124,TA17-075A,https://www.cisa.gov/ncas/alerts/TA17-075A,HTTPS Interception Weakens TLS Security,"
                                                 Original release date: March 16, 2017
                             "
-TA16-336A,https://www.cisa.gov/ncas/alerts/TA16-336A,Avalanche (crimeware-as-a-service infrastructure),"
+125,TA16-336A,https://www.cisa.gov/ncas/alerts/TA16-336A,Avalanche (crimeware-as-a-service infrastructure),"
                                 Original release date: December 01, 2016  | Last revised: December 14, 2016
                                             "
-TA16-288A,https://www.cisa.gov/ncas/alerts/TA16-288A,Heightened DDoS Threat Posed by Mirai and Other Botnets,"
+126,TA16-288A,https://www.cisa.gov/ncas/alerts/TA16-288A,Heightened DDoS Threat Posed by Mirai and Other Botnets,"
                                 Original release date: October 14, 2016  | Last revised: October 17, 2017
                                             "
-TA16-250A,https://www.cisa.gov/ncas/alerts/TA16-250A,The Increasing Threat to Network Infrastructure Devices and Recommended Mitigations,"
+127,TA16-250A,https://www.cisa.gov/ncas/alerts/TA16-250A,The Increasing Threat to Network Infrastructure Devices and Recommended Mitigations,"
                                 Original release date: September 06, 2016  | Last revised: September 28, 2016
                                             "
-TA16-187A,https://www.cisa.gov/ncas/alerts/TA16-187A,Symantec and Norton Security Products Contain Critical Vulnerabilities,"
+128,TA16-187A,https://www.cisa.gov/ncas/alerts/TA16-187A,Symantec and Norton Security Products Contain Critical Vulnerabilities,"
                                                 Original release date: July 05, 2016
                             "
-TA16-144A,https://www.cisa.gov/ncas/alerts/TA16-144A,WPAD Name Collision Vulnerability,"
+129,TA16-144A,https://www.cisa.gov/ncas/alerts/TA16-144A,WPAD Name Collision Vulnerability,"
                                 Original release date: May 23, 2016  | Last revised: October 06, 2016
                                             "
-TA16-132A,https://www.cisa.gov/ncas/alerts/TA16-132A,Exploitation of SAP Business Applications,"
+130,TA16-132A,https://www.cisa.gov/ncas/alerts/TA16-132A,Exploitation of SAP Business Applications,"
                                 Original release date: May 11, 2016  | Last revised: September 29, 2016
                                             "
-TA16-105A,https://www.cisa.gov/ncas/alerts/TA16-105A,Apple Ends Support for QuickTime for Windows; New Vulnerabilities Announced,"
+131,TA16-105A,https://www.cisa.gov/ncas/alerts/TA16-105A,Apple Ends Support for QuickTime for Windows; New Vulnerabilities Announced,"
                                 Original release date: April 14, 2016  | Last revised: September 29, 2016
                                             "
-TA16-091A,https://www.cisa.gov/ncas/alerts/TA16-091A,Ransomware and Recent Variants,"
+132,TA16-091A,https://www.cisa.gov/ncas/alerts/TA16-091A,Ransomware and Recent Variants,"
                                 Original release date: March 31, 2016  | Last revised: September 29, 2016
                                             "
-TA15-337A,https://www.cisa.gov/ncas/alerts/TA15-337A,Dorkbot,"
+133,TA15-337A,https://www.cisa.gov/ncas/alerts/TA15-337A,Dorkbot,"
                                 Original release date: December 03, 2015  | Last revised: September 29, 2016
                                             "
-TA15-314A,https://www.cisa.gov/ncas/alerts/TA15-314A,Compromised Web Servers and Web Shells - Threat Awareness and Guidance ,"
+134,TA15-314A,https://www.cisa.gov/ncas/alerts/TA15-314A,Compromised Web Servers and Web Shells - Threat Awareness and Guidance ,"
                                 Original release date: November 10, 2015  | Last revised: August 09, 2017
                                             "
-TA15-286A,https://www.cisa.gov/ncas/alerts/TA15-286A,Dridex P2P Malware,"
+135,TA15-286A,https://www.cisa.gov/ncas/alerts/TA15-286A,Dridex P2P Malware,"
                                 Original release date: October 13, 2015  | Last revised: September 29, 2016
                                             "
-TA15-240A,https://www.cisa.gov/ncas/alerts/TA15-240A,Controlling Outbound DNS Access,"
+136,TA15-240A,https://www.cisa.gov/ncas/alerts/TA15-240A,Controlling Outbound DNS Access,"
                                 Original release date: August 28, 2015  | Last revised: September 29, 2016
                                             "
-TA15-213A,https://www.cisa.gov/ncas/alerts/TA15-213A,Recent Email Phishing Campaigns – Mitigation and Response Recommendations,"
+137,TA15-213A,https://www.cisa.gov/ncas/alerts/TA15-213A,Recent Email Phishing Campaigns – Mitigation and Response Recommendations,"
                                 Original release date: August 01, 2015  | Last revised: September 29, 2016
                                             "
-TA15-195A,https://www.cisa.gov/ncas/alerts/TA15-195A,Adobe Flash and Microsoft Windows Vulnerabilities,"
+138,TA15-195A,https://www.cisa.gov/ncas/alerts/TA15-195A,Adobe Flash and Microsoft Windows Vulnerabilities,"
                                 Original release date: July 14, 2015  | Last revised: September 29, 2016
                                             "
-TA15-120A,https://www.cisa.gov/ncas/alerts/TA15-120A,Securing End-to-End Communications,"
+139,TA15-120A,https://www.cisa.gov/ncas/alerts/TA15-120A,Securing End-to-End Communications,"
                                 Original release date: April 30, 2015  | Last revised: September 29, 2016
                                             "
-TA15-119A,https://www.cisa.gov/ncas/alerts/TA15-119A,Top 30 Targeted High Risk Vulnerabilities,"
+140,TA15-119A,https://www.cisa.gov/ncas/alerts/TA15-119A,Top 30 Targeted High Risk Vulnerabilities,"
                                 Original release date: April 29, 2015  | Last revised: September 29, 2016
                                             "
-TA15-105A,https://www.cisa.gov/ncas/alerts/TA15-105A,Simda Botnet,"
+141,TA15-105A,https://www.cisa.gov/ncas/alerts/TA15-105A,Simda Botnet,"
                                 Original release date: April 15, 2015  | Last revised: September 29, 2016
                                             "
-TA15-103A,https://www.cisa.gov/ncas/alerts/TA15-103A,DNS Zone Transfer AXFR Requests May Leak Domain Information,"
+142,TA15-103A,https://www.cisa.gov/ncas/alerts/TA15-103A,DNS Zone Transfer AXFR Requests May Leak Domain Information,"
                                 Original release date: April 13, 2015  | Last revised: September 29, 2016
                                             "
-TA15-098A,https://www.cisa.gov/ncas/alerts/TA15-098A,AAEH,"
+143,TA15-098A,https://www.cisa.gov/ncas/alerts/TA15-098A,AAEH,"
                                 Original release date: April 09, 2015  | Last revised: September 30, 2016
                                             "
-TA15-051A,https://www.cisa.gov/ncas/alerts/TA15-051A,Lenovo Superfish Adware Vulnerable to HTTPS Spoofing,"
+144,TA15-051A,https://www.cisa.gov/ncas/alerts/TA15-051A,Lenovo Superfish Adware Vulnerable to HTTPS Spoofing,"
                                 Original release date: February 20, 2015  | Last revised: September 30, 2016
                                             "
-TA14-353A,https://www.cisa.gov/ncas/alerts/TA14-353A,Targeted Destructive Malware,"
+145,TA14-353A,https://www.cisa.gov/ncas/alerts/TA14-353A,Targeted Destructive Malware,"
                                 Original release date: December 19, 2014  | Last revised: January 03, 2020
                                             "
-TA14-329A,https://www.cisa.gov/ncas/alerts/TA14-329A,Regin Malware,"
+146,TA14-329A,https://www.cisa.gov/ncas/alerts/TA14-329A,Regin Malware,"
                                 Original release date: November 25, 2014  | Last revised: September 30, 2016
                                             "
-TA14-323A,https://www.cisa.gov/ncas/alerts/TA14-323A,Microsoft Windows Kerberos KDC Remote Privilege Escalation Vulnerability ,"
+147,TA14-323A,https://www.cisa.gov/ncas/alerts/TA14-323A,Microsoft Windows Kerberos KDC Remote Privilege Escalation Vulnerability ,"
                                 Original release date: November 19, 2014  | Last revised: September 30, 2016
                                             "
-TA14-318B,https://www.cisa.gov/ncas/alerts/TA14-318B,Microsoft Windows OLE Automation Array Remote Code Execution Vulnerability ,"
+148,TA14-318B,https://www.cisa.gov/ncas/alerts/TA14-318B,Microsoft Windows OLE Automation Array Remote Code Execution Vulnerability ,"
                                 Original release date: November 14, 2014  | Last revised: September 30, 2016
                                             "
-TA14-318A,https://www.cisa.gov/ncas/alerts/TA14-318A,Microsoft Secure Channel (Schannel) Vulnerability (CVE-2014-6321) ,"
+149,TA14-318A,https://www.cisa.gov/ncas/alerts/TA14-318A,Microsoft Secure Channel (Schannel) Vulnerability (CVE-2014-6321) ,"
                                 Original release date: November 14, 2014  | Last revised: September 30, 2016
                                             "
-TA14-317A,https://www.cisa.gov/ncas/alerts/TA14-317A,Apple iOS 'Masque Attack' Technique,"
+150,TA14-317A,https://www.cisa.gov/ncas/alerts/TA14-317A,Apple iOS 'Masque Attack' Technique,"
                                 Original release date: November 13, 2014  | Last revised: September 30, 2016
                                             "
-TA14-310A,https://www.cisa.gov/ncas/alerts/TA14-310A,Microsoft Ending Support for Windows Server 2003 Operating System,"
+151,TA14-310A,https://www.cisa.gov/ncas/alerts/TA14-310A,Microsoft Ending Support for Windows Server 2003 Operating System,"
                                 Original release date: November 10, 2014  | Last revised: September 30, 2016
                                             "
-TA14-300A,https://www.cisa.gov/ncas/alerts/TA14-300A,Phishing Campaign Linked with “Dyre” Banking Malware,"
+152,TA14-300A,https://www.cisa.gov/ncas/alerts/TA14-300A,Phishing Campaign Linked with “Dyre” Banking Malware,"
                                 Original release date: October 27, 2014  | Last revised: September 30, 2016
                                             "
-TA14-295A,https://www.cisa.gov/ncas/alerts/TA14-295A,Crypto Ransomware,"
+153,TA14-295A,https://www.cisa.gov/ncas/alerts/TA14-295A,Crypto Ransomware,"
                                 Original release date: October 22, 2014  | Last revised: September 30, 2016
                                             "
-TA14-290A,https://www.cisa.gov/ncas/alerts/TA14-290A,SSL 3.0 Protocol Vulnerability and POODLE Attack,"
+154,TA14-290A,https://www.cisa.gov/ncas/alerts/TA14-290A,SSL 3.0 Protocol Vulnerability and POODLE Attack,"
                                 Original release date: October 17, 2014  | Last revised: September 30, 2016
                                             "
-TA14-268A,https://www.cisa.gov/ncas/alerts/TA14-268A,"GNU Bourne-Again Shell (Bash) ‘Shellshock’ Vulnerability (CVE-2014-6271, CVE-2014-7169, CVE-2014-7186, CVE-2014-7187, CVE-2014-6277 and CVE 2014-6278) ","
+155,TA14-268A,https://www.cisa.gov/ncas/alerts/TA14-268A,"GNU Bourne-Again Shell (Bash) ‘Shellshock’ Vulnerability (CVE-2014-6271, CVE-2014-7169, CVE-2014-7186, CVE-2014-7187, CVE-2014-6277 and CVE 2014-6278) ","
                                 Original release date: September 25, 2014  | Last revised: September 30, 2016
                                             "
-TA14-212A,https://www.cisa.gov/ncas/alerts/TA14-212A,Backoff Point-of-Sale Malware,"
+156,TA14-212A,https://www.cisa.gov/ncas/alerts/TA14-212A,Backoff Point-of-Sale Malware,"
                                 Original release date: July 31, 2014  | Last revised: September 30, 2016
                                             "
-TA14-150A,https://www.cisa.gov/ncas/alerts/TA14-150A,GameOver Zeus P2P Malware,"
+157,TA14-150A,https://www.cisa.gov/ncas/alerts/TA14-150A,GameOver Zeus P2P Malware,"
                                 Original release date: June 02, 2014  | Last revised: September 30, 2016
                                             "
-TA14-098A,https://www.cisa.gov/ncas/alerts/TA14-098A,OpenSSL 'Heartbleed' vulnerability (CVE-2014-0160),"
+158,TA14-098A,https://www.cisa.gov/ncas/alerts/TA14-098A,OpenSSL 'Heartbleed' vulnerability (CVE-2014-0160),"
                                 Original release date: April 08, 2014  | Last revised: October 05, 2016
                                             "
-TA14-069A,https://www.cisa.gov/ncas/alerts/TA14-069A-0,Microsoft Ending Support for Windows XP and Office 2003,"
+159,TA14-069A,https://www.cisa.gov/ncas/alerts/TA14-069A-0,Microsoft Ending Support for Windows XP and Office 2003,"
                                 Original release date: March 10, 2014  | Last revised: June 18, 2014
                                             "
-TA14-017A,https://www.cisa.gov/ncas/alerts/TA14-017A,UDP-Based Amplification Attacks,"
+160,TA14-017A,https://www.cisa.gov/ncas/alerts/TA14-017A,UDP-Based Amplification Attacks,"
                                 Original release date: January 17, 2014  | Last revised: December 18, 2019
                                             "
-TA14-013A,https://www.cisa.gov/ncas/alerts/TA14-013A,NTP Amplification Attacks Using CVE-2013-5211,"
+161,TA14-013A,https://www.cisa.gov/ncas/alerts/TA14-013A,NTP Amplification Attacks Using CVE-2013-5211,"
                                 Original release date: January 13, 2014  | Last revised: October 06, 2016
                                             "
-TA14-002A,https://www.cisa.gov/ncas/alerts/TA14-002A,Malware Targeting Point of Sale Systems,"
+162,TA14-002A,https://www.cisa.gov/ncas/alerts/TA14-002A,Malware Targeting Point of Sale Systems,"
                                 Original release date: January 02, 2014  | Last revised: October 06, 2016
                                             "
-TA13-317A,https://www.cisa.gov/ncas/alerts/TA13-317A,Microsoft Updates for Multiple Vulnerabilities,"
+163,TA13-317A,https://www.cisa.gov/ncas/alerts/TA13-317A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: November 13, 2013  | Last revised: October 07, 2016
                                             "
-TA13-309A,https://www.cisa.gov/ncas/alerts/TA13-309A,CryptoLocker Ransomware Infections,"
+164,TA13-309A,https://www.cisa.gov/ncas/alerts/TA13-309A,CryptoLocker Ransomware Infections,"
                                 Original release date: November 05, 2013  | Last revised: October 07, 2016
                                             "
-TA13-288A,https://www.cisa.gov/ncas/alerts/TA13-288A,Microsoft Updates for Multiple Vulnerabilities,"
+165,TA13-288A,https://www.cisa.gov/ncas/alerts/TA13-288A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: October 15, 2013  | Last revised: October 07, 2016
                                             "
-TA13-253A,https://www.cisa.gov/ncas/alerts/TA13-253A,Microsoft Updates for Multiple Vulnerabilities,"
+166,TA13-253A,https://www.cisa.gov/ncas/alerts/TA13-253A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: September 10, 2013  | Last revised: October 07, 2016
                                             "
-TA13-225A,https://www.cisa.gov/ncas/alerts/TA13-225A,Microsoft Updates for Multiple Vulnerabilities,"
+167,TA13-225A,https://www.cisa.gov/ncas/alerts/TA13-225A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: August 13, 2013  | Last revised: October 07, 2016
                                             "
-TA13-207A,https://www.cisa.gov/ncas/alerts/TA13-207A,Risks of Using the Intelligent Platform Management Interface (IPMI),"
+168,TA13-207A,https://www.cisa.gov/ncas/alerts/TA13-207A,Risks of Using the Intelligent Platform Management Interface (IPMI),"
                                 Original release date: July 26, 2013  | Last revised: October 07, 2016
                                             "
-TA13-193A,https://www.cisa.gov/ncas/alerts/TA13-193A,Exploit Tool Targets Vulnerabilities in McAfee ePolicy Orchestrator (ePO),"
+169,TA13-193A,https://www.cisa.gov/ncas/alerts/TA13-193A,Exploit Tool Targets Vulnerabilities in McAfee ePolicy Orchestrator (ePO),"
                                 Original release date: July 12, 2013  | Last revised: October 07, 2016
                                             "
-TA13-190A,https://www.cisa.gov/ncas/alerts/TA13-190A,Microsoft Updates for Multiple Vulnerabilities,"
+170,TA13-190A,https://www.cisa.gov/ncas/alerts/TA13-190A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: July 09, 2013  | Last revised: October 07, 2016
                                             "
-TA13-175A,https://www.cisa.gov/ncas/alerts/TA13-175A,Risks of Default Passwords on the Internet,"
+171,TA13-175A,https://www.cisa.gov/ncas/alerts/TA13-175A,Risks of Default Passwords on the Internet,"
                                 Original release date: June 24, 2013  | Last revised: October 07, 2016
                                             "
-TA13-169A,https://www.cisa.gov/ncas/alerts/TA13-169A,Oracle Releases Updates for Javadoc and Other Java SE Vulnerabilities,"
+172,TA13-169A,https://www.cisa.gov/ncas/alerts/TA13-169A,Oracle Releases Updates for Javadoc and Other Java SE Vulnerabilities,"
                                 Original release date: June 18, 2013  | Last revised: October 07, 2016
                                             "
-TA13-168A,https://www.cisa.gov/ncas/alerts/TA13-168A,Microsoft Updates for Multiple Vulnerabilities,"
+173,TA13-168A,https://www.cisa.gov/ncas/alerts/TA13-168A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: June 17, 2013  | Last revised: October 19, 2016
                                             "
-TA13-141A,https://www.cisa.gov/ncas/alerts/TA13-141A,"Washington, DC Radio Station Web Site Compromises","
+174,TA13-141A,https://www.cisa.gov/ncas/alerts/TA13-141A,"Washington, DC Radio Station Web Site Compromises","
                                 Original release date: May 20, 2013  | Last revised: October 19, 2016
                                             "
-TA13-134A,https://www.cisa.gov/ncas/alerts/TA13-134A,Microsoft Updates for Multiple Vulnerabilities,"
+175,TA13-134A,https://www.cisa.gov/ncas/alerts/TA13-134A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: May 14, 2013  | Last revised: October 19, 2016
                                             "
-TA13-107A,https://www.cisa.gov/ncas/alerts/TA13-107A,Oracle Has Released Multiple Updates for Java SE,"
+176,TA13-107A,https://www.cisa.gov/ncas/alerts/TA13-107A,Oracle Has Released Multiple Updates for Java SE,"
                                 Original release date: April 17, 2013  | Last revised: October 19, 2016
                                             "
-TA13-100A,https://www.cisa.gov/ncas/alerts/TA13-100A,Microsoft Updates for Multiple Vulnerabilities,"
+177,TA13-100A,https://www.cisa.gov/ncas/alerts/TA13-100A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: April 10, 2013  | Last revised: October 19, 2016
                                             "
-TA13-088A,https://www.cisa.gov/ncas/alerts/TA13-088A,DNS Amplification Attacks,"
+178,TA13-088A,https://www.cisa.gov/ncas/alerts/TA13-088A,DNS Amplification Attacks,"
                                 Original release date: March 29, 2013  | Last revised: June 04, 2019
                                             "
-TA13-071A,https://www.cisa.gov/ncas/alerts/TA13-071A,Microsoft Updates for Multiple Vulnerabilities,"
+179,TA13-071A,https://www.cisa.gov/ncas/alerts/TA13-071A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: March 12, 2013  | Last revised: October 19, 2016
                                             "
-TA13-064A,https://www.cisa.gov/ncas/alerts/TA13-064A,Oracle Java Contains Multiple Vulnerabilities,"
+180,TA13-064A,https://www.cisa.gov/ncas/alerts/TA13-064A,Oracle Java Contains Multiple Vulnerabilities,"
                                 Original release date: March 05, 2013  | Last revised: October 19, 2016
                                             "
-TA13-051A,https://www.cisa.gov/ncas/alerts/TA13-051A,Oracle Java Multiple Vulnerabilities,"
+181,TA13-051A,https://www.cisa.gov/ncas/alerts/TA13-051A,Oracle Java Multiple Vulnerabilities,"
                                 Original release date: February 20, 2013  | Last revised: October 19, 2016
                                             "
-TA13-043B,https://www.cisa.gov/ncas/alerts/TA13-043B,Microsoft Updates for Multiple Vulnerabilities,"
+182,TA13-043B,https://www.cisa.gov/ncas/alerts/TA13-043B,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: February 12, 2013  | Last revised: October 19, 2016
                                             "
-TA13-043A,https://www.cisa.gov/ncas/alerts/TA13-043A,Adobe Updates for Multiple Vulnerabilities,"
+183,TA13-043A,https://www.cisa.gov/ncas/alerts/TA13-043A,Adobe Updates for Multiple Vulnerabilities,"
                                 Original release date: February 12, 2013  | Last revised: October 19, 2016
                                             "
-TA13-032A,https://www.cisa.gov/ncas/alerts/TA13-032A,Oracle Java Multiple Vulnerabilities,"
+184,TA13-032A,https://www.cisa.gov/ncas/alerts/TA13-032A,Oracle Java Multiple Vulnerabilities,"
                                 Original release date: February 01, 2013  | Last revised: October 19, 2016
                                             "
-TA13-024A,https://www.cisa.gov/ncas/alerts/TA13-024A,Content Management Systems Security and Associated Risks,"
+185,TA13-024A,https://www.cisa.gov/ncas/alerts/TA13-024A,Content Management Systems Security and Associated Risks,"
                                 Original release date: January 24, 2013  | Last revised: October 19, 2016
                                             "
-TA13-015A,https://www.cisa.gov/ncas/alerts/TA13-015A,Microsoft Releases Update for Internet Explorer Vulnerability CVE-2012-4792,"
+186,TA13-015A,https://www.cisa.gov/ncas/alerts/TA13-015A,Microsoft Releases Update for Internet Explorer Vulnerability CVE-2012-4792,"
                                 Original release date: January 15, 2013  | Last revised: February 06, 2013
                                             "
-TA13-010A,https://www.cisa.gov/ncas/alerts/TA13-010A,Oracle Java 7 Security Manager Bypass Vulnerability,"
+187,TA13-010A,https://www.cisa.gov/ncas/alerts/TA13-010A,Oracle Java 7 Security Manager Bypass Vulnerability,"
                                 Original release date: January 10, 2013  | Last revised: February 06, 2013
                                             "
-TA13-008A,https://www.cisa.gov/ncas/alerts/TA13-008A,Microsoft Updates for Multiple Vulnerabilities,"
+188,TA13-008A,https://www.cisa.gov/ncas/alerts/TA13-008A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: January 08, 2013  | Last revised: February 06, 2013
                                             "
-TA12-346A,https://www.cisa.gov/ncas/alerts/TA12-346A,Microsoft Updates for Multiple Vulnerabilities,"
+189,TA12-346A,https://www.cisa.gov/ncas/alerts/TA12-346A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: December 12, 2012  | Last revised: January 24, 2013
                                             "
-TA12-318A,https://www.cisa.gov/ncas/alerts/TA12-318A,Microsoft Updates for Multiple Vulnerabilities,"
+190,TA12-318A,https://www.cisa.gov/ncas/alerts/TA12-318A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: November 13, 2012  | Last revised: January 24, 2013
                                             "
-TA12-283A,https://www.cisa.gov/ncas/alerts/TA12-283A,Microsoft Updates for Multiple Vulnerabilities,"
+191,TA12-283A,https://www.cisa.gov/ncas/alerts/TA12-283A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: October 09, 2012  | Last revised: January 24, 2013
                                             "
-TA12-265A,https://www.cisa.gov/ncas/alerts/TA12-265A,Microsoft Releases Patch for Internet Explorer Exploit,"
+192,TA12-265A,https://www.cisa.gov/ncas/alerts/TA12-265A,Microsoft Releases Patch for Internet Explorer Exploit,"
                                 Original release date: September 21, 2012  | Last revised: January 24, 2013
                                             "
-TA12-262A,https://www.cisa.gov/ncas/alerts/TA12-262A,Microsoft Security Advisory for Internet Explorer Exploit,"
+193,TA12-262A,https://www.cisa.gov/ncas/alerts/TA12-262A,Microsoft Security Advisory for Internet Explorer Exploit,"
                                 Original release date: September 18, 2012  | Last revised: January 24, 2013
                                             "
-TA12-255A,https://www.cisa.gov/ncas/alerts/TA12-255A,Microsoft Updates for Multiple Vulnerabilities,"
+194,TA12-255A,https://www.cisa.gov/ncas/alerts/TA12-255A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: September 11, 2012  | Last revised: January 24, 2013
                                             "
-TA12-251A,https://www.cisa.gov/ncas/alerts/TA12-251A,Microsoft Update For Minimum Certificate Key Length,"
+195,TA12-251A,https://www.cisa.gov/ncas/alerts/TA12-251A,Microsoft Update For Minimum Certificate Key Length,"
                                 Original release date: September 07, 2012  | Last revised: January 24, 2013
                                             "
-TA12-240A,https://www.cisa.gov/ncas/alerts/TA12-240A,Oracle Java 7 Security Manager Bypass Vulnerability,"
+196,TA12-240A,https://www.cisa.gov/ncas/alerts/TA12-240A,Oracle Java 7 Security Manager Bypass Vulnerability,"
                                 Original release date: August 27, 2012  | Last revised: January 23, 2013
                                             "
-TA12-227A,https://www.cisa.gov/ncas/alerts/TA12-227A,Microsoft Updates for Multiple Vulnerabilities,"
+197,TA12-227A,https://www.cisa.gov/ncas/alerts/TA12-227A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: August 14, 2012  | Last revised: January 24, 2013
                                             "
-TA12-192A,https://www.cisa.gov/ncas/alerts/TA12-192A,Microsoft Updates for Multiple Vulnerabilities,"
+198,TA12-192A,https://www.cisa.gov/ncas/alerts/TA12-192A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: July 10, 2012  | Last revised: January 24, 2013
                                             "
-TA12-174A,https://www.cisa.gov/ncas/alerts/TA12-174A,Microsoft XML Core Services Attack Activity,"
+199,TA12-174A,https://www.cisa.gov/ncas/alerts/TA12-174A,Microsoft XML Core Services Attack Activity,"
                                 Original release date: June 22, 2012  | Last revised: January 24, 2013
                                             "
-TA12-164A,https://www.cisa.gov/ncas/alerts/TA12-164A,Microsoft Updates for Multiple Vulnerabilities,"
+200,TA12-164A,https://www.cisa.gov/ncas/alerts/TA12-164A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: June 12, 2012  | Last revised: January 24, 2013
                                             "
-TA12-129A,https://www.cisa.gov/ncas/alerts/TA12-129A,Microsoft Updates for Multiple Vulnerabilities,"
+201,TA12-129A,https://www.cisa.gov/ncas/alerts/TA12-129A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: May 08, 2012  | Last revised: January 24, 2013
                                             "
-TA12-101B,https://www.cisa.gov/ncas/alerts/TA12-101B,Adobe Reader and Acrobat Security Updates and Architectural Improvements,"
+202,TA12-101B,https://www.cisa.gov/ncas/alerts/TA12-101B,Adobe Reader and Acrobat Security Updates and Architectural Improvements,"
                                 Original release date: April 10, 2012  | Last revised: January 24, 2013
                                             "
-TA12-101A,https://www.cisa.gov/ncas/alerts/TA12-101A,Microsoft Updates for Multiple Vulnerabilities,"
+203,TA12-101A,https://www.cisa.gov/ncas/alerts/TA12-101A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: April 10, 2012  | Last revised: January 24, 2013
                                             "
-TA12-073A,https://www.cisa.gov/ncas/alerts/TA12-073A,Microsoft Updates for Multiple Vulnerabilities,"
+204,TA12-073A,https://www.cisa.gov/ncas/alerts/TA12-073A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: March 13, 2012  | Last revised: January 24, 2013
                                             "
-TA12-045A,https://www.cisa.gov/ncas/alerts/TA12-045A,Microsoft Updates for Multiple Vulnerabilities,"
+205,TA12-045A,https://www.cisa.gov/ncas/alerts/TA12-045A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: February 14, 2012  | Last revised: January 24, 2013
                                             "
-TA12-024A,https://www.cisa.gov/ncas/alerts/TA12-024A,"""Anonymous"" DDoS Activity","
+206,TA12-024A,https://www.cisa.gov/ncas/alerts/TA12-024A,"""Anonymous"" DDoS Activity","
                                 Original release date: January 24, 2012  | Last revised: January 24, 2013
                                             "
-TA12-010A,https://www.cisa.gov/ncas/alerts/TA12-010A,Microsoft Updates for Multiple Vulnerabilities,"
+207,TA12-010A,https://www.cisa.gov/ncas/alerts/TA12-010A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: January 10, 2012  | Last revised: January 24, 2013
                                             "
-TA12-006A,https://www.cisa.gov/ncas/alerts/TA12-006A,Wi-Fi Protected Setup (WPS) Vulnerable to Brute-Force Attack,"
+208,TA12-006A,https://www.cisa.gov/ncas/alerts/TA12-006A,Wi-Fi Protected Setup (WPS) Vulnerable to Brute-Force Attack,"
                                 Original release date: January 06, 2012  | Last revised: January 23, 2013
                                             "
-TA11-350A,https://www.cisa.gov/ncas/alerts/TA11-350A,Adobe Updates for Multiple Vulnerabilities,"
+209,TA11-350A,https://www.cisa.gov/ncas/alerts/TA11-350A,Adobe Updates for Multiple Vulnerabilities,"
                                 Original release date: December 16, 2011  | Last revised: January 24, 2013
                                             "
-TA11-347A,https://www.cisa.gov/ncas/alerts/TA11-347A,Microsoft Updates for Multiple Vulnerabilities,"
+210,TA11-347A,https://www.cisa.gov/ncas/alerts/TA11-347A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: December 13, 2011  | Last revised: January 24, 2013
                                             "
-TA11-312A,https://www.cisa.gov/ncas/alerts/TA11-312A,Microsoft Updates for Multiple Vulnerabilities,"
+211,TA11-312A,https://www.cisa.gov/ncas/alerts/TA11-312A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: November 08, 2011  | Last revised: January 24, 2013
                                             "
-TA11-286A,https://www.cisa.gov/ncas/alerts/TA11-286A,Apple Updates for Multiple Vulnerabilities,"
+212,TA11-286A,https://www.cisa.gov/ncas/alerts/TA11-286A,Apple Updates for Multiple Vulnerabilities,"
                                 Original release date: October 13, 2011  | Last revised: January 24, 2013
                                             "
-TA11-284A,https://www.cisa.gov/ncas/alerts/TA11-284A,Microsoft Updates for Multiple Vulnerabilities,"
+213,TA11-284A,https://www.cisa.gov/ncas/alerts/TA11-284A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: October 11, 2011  | Last revised: January 24, 2013
                                             "
-TA11-256A,https://www.cisa.gov/ncas/alerts/TA11-256A,Microsoft Updates for Multiple Vulnerabilities,"
+214,TA11-256A,https://www.cisa.gov/ncas/alerts/TA11-256A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: September 13, 2011  | Last revised: January 24, 2013
                                             "
-TA11-222A,https://www.cisa.gov/ncas/alerts/TA11-222A,Adobe Updates for Multiple Vulnerabilities,"
+215,TA11-222A,https://www.cisa.gov/ncas/alerts/TA11-222A,Adobe Updates for Multiple Vulnerabilities,"
                                 Original release date: August 10, 2011  | Last revised: January 24, 2013
                                             "
-TA11-221A,https://www.cisa.gov/ncas/alerts/TA11-221A,Microsoft Updates for Multiple Vulnerabilities,"
+216,TA11-221A,https://www.cisa.gov/ncas/alerts/TA11-221A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: August 09, 2011  | Last revised: January 24, 2013
                                             "
-TA11-201A,https://www.cisa.gov/ncas/alerts/TA11-201A,Oracle Updates for Multiple Vulnerabilities,"
+217,TA11-201A,https://www.cisa.gov/ncas/alerts/TA11-201A,Oracle Updates for Multiple Vulnerabilities,"
                                 Original release date: July 20, 2011  | Last revised: January 24, 2013
                                             "
-TA11-200A,https://www.cisa.gov/ncas/alerts/TA11-200A,Security Recommendations to Prevent Cyber Intrusions,"
+218,TA11-200A,https://www.cisa.gov/ncas/alerts/TA11-200A,Security Recommendations to Prevent Cyber Intrusions,"
                                 Original release date: July 19, 2011  | Last revised: October 24, 2012
                                             "
-TA11-193A,https://www.cisa.gov/ncas/alerts/TA11-193A,Microsoft Updates for Multiple Vulnerabilities,"
+219,TA11-193A,https://www.cisa.gov/ncas/alerts/TA11-193A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: July 12, 2011  | Last revised: January 24, 2013
                                             "
-TA11-166A,https://www.cisa.gov/ncas/alerts/TA11-166A,Adobe Updates for Multiple Vulnerabilities,"
+220,TA11-166A,https://www.cisa.gov/ncas/alerts/TA11-166A,Adobe Updates for Multiple Vulnerabilities,"
                                 Original release date: June 15, 2011  | Last revised: January 24, 2013
                                             "
-TA11-165A,https://www.cisa.gov/ncas/alerts/TA11-165A,Microsoft Updates for Multiple Vulnerabilities,"
+221,TA11-165A,https://www.cisa.gov/ncas/alerts/TA11-165A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: June 14, 2011  | Last revised: January 24, 2013
                                             "
-TA11-130A,https://www.cisa.gov/ncas/alerts/TA11-130A,Microsoft Updates for Multiple Vulnerabilities,"
+222,TA11-130A,https://www.cisa.gov/ncas/alerts/TA11-130A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: May 10, 2011  | Last revised: January 24, 2013
                                             "
-TA11-102A,https://www.cisa.gov/ncas/alerts/TA11-102A,Microsoft Updates for Multiple Vulnerabilities,"
+223,TA11-102A,https://www.cisa.gov/ncas/alerts/TA11-102A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: April 12, 2011  | Last revised: January 24, 2013
                                             "
-TA11-067A,https://www.cisa.gov/ncas/alerts/TA11-067A,Microsoft Updates for Multiple Vulnerabilities,"
+224,TA11-067A,https://www.cisa.gov/ncas/alerts/TA11-067A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: March 08, 2011  | Last revised: January 24, 2013
                                             "
-TA11-039A,https://www.cisa.gov/ncas/alerts/TA11-039A,Microsoft Updates for Multiple Vulnerabilities,"
+225,TA11-039A,https://www.cisa.gov/ncas/alerts/TA11-039A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: February 08, 2011  | Last revised: January 24, 2013
                                             "
-TA11-011A,https://www.cisa.gov/ncas/alerts/TA11-011A,Microsoft Updates for Multiple Vulnerabilities,"
+226,TA11-011A,https://www.cisa.gov/ncas/alerts/TA11-011A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: January 11, 2011  | Last revised: January 24, 2013
                                             "
-TA10-348A,https://www.cisa.gov/ncas/alerts/TA10-348A,Microsoft Updates for Multiple Vulnerabilities,"
+227,TA10-348A,https://www.cisa.gov/ncas/alerts/TA10-348A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: December 14, 2010  | Last revised: January 24, 2013
                                             "
-TA10-313A,https://www.cisa.gov/ncas/alerts/TA10-313A,Microsoft Updates for Multiple Vulnerabilities,"
+228,TA10-313A,https://www.cisa.gov/ncas/alerts/TA10-313A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: November 09, 2010  | Last revised: January 24, 2013
                                             "
-TA10-287A,https://www.cisa.gov/ncas/alerts/TA10-287A,Oracle Updates for Multiple Vulnerabilities,"
+229,TA10-287A,https://www.cisa.gov/ncas/alerts/TA10-287A,Oracle Updates for Multiple Vulnerabilities,"
                                 Original release date: October 14, 2010  | Last revised: January 23, 2013
                                             "
-TA10-285A,https://www.cisa.gov/ncas/alerts/TA10-285A,Microsoft Updates for Multiple Vulnerabilities,"
+230,TA10-285A,https://www.cisa.gov/ncas/alerts/TA10-285A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: October 12, 2010  | Last revised: January 24, 2013
                                             "
-TA10-279A,https://www.cisa.gov/ncas/alerts/TA10-279A,Adobe Reader and Acrobat Affected by Multiple Vulnerabilities,"
+231,TA10-279A,https://www.cisa.gov/ncas/alerts/TA10-279A,Adobe Reader and Acrobat Affected by Multiple Vulnerabilities,"
                                 Original release date: October 06, 2010  | Last revised: January 24, 2013
                                             "
-TA10-263A,https://www.cisa.gov/ncas/alerts/TA10-263A,Adobe Flash Vulnerabilities,"
+232,TA10-263A,https://www.cisa.gov/ncas/alerts/TA10-263A,Adobe Flash Vulnerabilities,"
                                 Original release date: September 20, 2010  | Last revised: January 24, 2013
                                             "
-TA10-257A,https://www.cisa.gov/ncas/alerts/TA10-257A,Microsoft Updates for Multiple Vulnerabilities,"
+233,TA10-257A,https://www.cisa.gov/ncas/alerts/TA10-257A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: September 14, 2010  | Last revised: January 24, 2013
                                             "
-TA10-238A,https://www.cisa.gov/ncas/alerts/TA10-238A,Microsoft Windows Insecurely Loads Dynamic Libraries,"
+234,TA10-238A,https://www.cisa.gov/ncas/alerts/TA10-238A,Microsoft Windows Insecurely Loads Dynamic Libraries,"
                                 Original release date: August 26, 2010  | Last revised: January 24, 2013
                                             "
-TA10-231A,https://www.cisa.gov/ncas/alerts/TA10-231A,Adobe Reader and Acrobat Vulnerabilities,"
+235,TA10-231A,https://www.cisa.gov/ncas/alerts/TA10-231A,Adobe Reader and Acrobat Vulnerabilities,"
                                 Original release date: August 19, 2010  | Last revised: January 24, 2013
                                             "
-TA10-223A,https://www.cisa.gov/ncas/alerts/TA10-223A,Adobe Flash and AIR Vulnerabilities,"
+236,TA10-223A,https://www.cisa.gov/ncas/alerts/TA10-223A,Adobe Flash and AIR Vulnerabilities,"
                                 Original release date: August 11, 2010  | Last revised: January 24, 2013
                                             "
-TA10-222A,https://www.cisa.gov/ncas/alerts/TA10-222A,Microsoft Updates for Multiple Vulnerabilities,"
+237,TA10-222A,https://www.cisa.gov/ncas/alerts/TA10-222A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: August 10, 2010  | Last revised: January 24, 2013
                                             "
-TA10-194B,https://www.cisa.gov/ncas/alerts/TA10-194B,Oracle Updates for Multiple Vulnerabilities,"
+238,TA10-194B,https://www.cisa.gov/ncas/alerts/TA10-194B,Oracle Updates for Multiple Vulnerabilities,"
                                 Original release date: July 13, 2010  | Last revised: January 24, 2013
                                             "
-TA10-194A,https://www.cisa.gov/ncas/alerts/TA10-194A,Microsoft Updates for Multiple Vulnerabilities,"
+239,TA10-194A,https://www.cisa.gov/ncas/alerts/TA10-194A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: July 13, 2010  | Last revised: January 24, 2013
                                             "
-TA10-162A,https://www.cisa.gov/ncas/alerts/TA10-162A,Adobe Flash and AIR Vulnerabilities,"
+240,TA10-162A,https://www.cisa.gov/ncas/alerts/TA10-162A,Adobe Flash and AIR Vulnerabilities,"
                                 Original release date: June 11, 2010  | Last revised: January 24, 2013
                                             "
-TA10-159B,https://www.cisa.gov/ncas/alerts/TA10-159B,Microsoft Updates for Multiple Vulnerabilities,"
+241,TA10-159B,https://www.cisa.gov/ncas/alerts/TA10-159B,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: June 08, 2010  | Last revised: January 24, 2013
                                             "
-TA10-159A,https://www.cisa.gov/ncas/alerts/TA10-159A,"Adobe Flash, Reader, and Acrobat Vulnerability","
+242,TA10-159A,https://www.cisa.gov/ncas/alerts/TA10-159A,"Adobe Flash, Reader, and Acrobat Vulnerability","
                                 Original release date: June 08, 2010  | Last revised: January 24, 2013
                                             "
-TA10-131A,https://www.cisa.gov/ncas/alerts/TA10-131A,Microsoft Updates for Multiple Vulnerabilities,"
+243,TA10-131A,https://www.cisa.gov/ncas/alerts/TA10-131A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: May 11, 2010  | Last revised: January 24, 2013
                                             "
-TA10-103C,https://www.cisa.gov/ncas/alerts/TA10-103C,Adobe Reader and Acrobat Vulnerabilities,"
+244,TA10-103C,https://www.cisa.gov/ncas/alerts/TA10-103C,Adobe Reader and Acrobat Vulnerabilities,"
                                 Original release date: April 13, 2010  | Last revised: January 24, 2013
                                             "
-TA10-103B,https://www.cisa.gov/ncas/alerts/TA10-103B,Oracle Updates for Multiple Vulnerabilities,"
+245,TA10-103B,https://www.cisa.gov/ncas/alerts/TA10-103B,Oracle Updates for Multiple Vulnerabilities,"
                                 Original release date: April 13, 2010  | Last revised: January 24, 2013
                                             "
-TA10-089A,https://www.cisa.gov/ncas/alerts/TA10-089A,Microsoft Internet Explorer Vulnerabilities,"
+246,TA10-089A,https://www.cisa.gov/ncas/alerts/TA10-089A,Microsoft Internet Explorer Vulnerabilities,"
                                 Original release date: March 30, 2010  | Last revised: January 24, 2013
                                             "
-TA10-068A,https://www.cisa.gov/ncas/alerts/TA10-068A,Microsoft Updates for Multiple Vulnerabilities,"
+247,TA10-068A,https://www.cisa.gov/ncas/alerts/TA10-068A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: March 09, 2010  | Last revised: January 24, 2013
                                             "
-TA10-040A,https://www.cisa.gov/ncas/alerts/TA10-040A,Microsoft Updates for Multiple Vulnerabilities,"
+248,TA10-040A,https://www.cisa.gov/ncas/alerts/TA10-040A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: February 09, 2010  | Last revised: January 24, 2013
                                             "
-TA10-021A,https://www.cisa.gov/ncas/alerts/TA10-021A,Microsoft Internet Explorer Vulnerabilities,"
+249,TA10-021A,https://www.cisa.gov/ncas/alerts/TA10-021A,Microsoft Internet Explorer Vulnerabilities,"
                                 Original release date: January 21, 2010  | Last revised: January 30, 2013
                                             "
-TA10-013A,https://www.cisa.gov/ncas/alerts/TA10-013A,Adobe Reader and Acrobat Vulnerabilities,"
+250,TA10-013A,https://www.cisa.gov/ncas/alerts/TA10-013A,Adobe Reader and Acrobat Vulnerabilities,"
                                 Original release date: January 13, 2010  | Last revised: January 24, 2013
                                             "
-TA10-012B,https://www.cisa.gov/ncas/alerts/TA10-012B,Microsoft Windows EOT Font and Adobe Flash Player 6 Vulnerabilities,"
+251,TA10-012B,https://www.cisa.gov/ncas/alerts/TA10-012B,Microsoft Windows EOT Font and Adobe Flash Player 6 Vulnerabilities,"
                                 Original release date: January 12, 2010  | Last revised: January 24, 2013
                                             "
-TA10-012A,https://www.cisa.gov/ncas/alerts/TA10-012A,Oracle Updates for Multiple Vulnerabilities,"
+252,TA10-012A,https://www.cisa.gov/ncas/alerts/TA10-012A,Oracle Updates for Multiple Vulnerabilities,"
                                 Original release date: January 12, 2010  | Last revised: January 24, 2013
                                             "
-TA09-343A,https://www.cisa.gov/ncas/alerts/TA09-343A,Adobe Flash Vulnerabilities Affect Flash Player and Adobe AIR,"
+253,TA09-343A,https://www.cisa.gov/ncas/alerts/TA09-343A,Adobe Flash Vulnerabilities Affect Flash Player and Adobe AIR,"
                                 Original release date: December 09, 2009  | Last revised: January 24, 2013
                                             "
-TA09-342A,https://www.cisa.gov/ncas/alerts/TA09-342A,Microsoft Updates for Multiple Vulnerabilities,"
+254,TA09-342A,https://www.cisa.gov/ncas/alerts/TA09-342A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: December 08, 2009  | Last revised: January 24, 2013
                                             "
-TA09-314A,https://www.cisa.gov/ncas/alerts/TA09-314A,Microsoft Updates for Multiple Vulnerabilities,"
+255,TA09-314A,https://www.cisa.gov/ncas/alerts/TA09-314A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: November 10, 2009  | Last revised: January 24, 2013
                                             "
-TA09-294A,https://www.cisa.gov/ncas/alerts/TA09-294A,Oracle Updates for Multiple Vulnerabilities,"
+256,TA09-294A,https://www.cisa.gov/ncas/alerts/TA09-294A,Oracle Updates for Multiple Vulnerabilities,"
                                 Original release date: October 21, 2009  | Last revised: January 24, 2013
                                             "
-TA09-286B,https://www.cisa.gov/ncas/alerts/TA09-286B,Adobe Reader and Acrobat Vulnerabilities,"
+257,TA09-286B,https://www.cisa.gov/ncas/alerts/TA09-286B,Adobe Reader and Acrobat Vulnerabilities,"
                                 Original release date: October 13, 2009  | Last revised: January 24, 2013
                                             "
-TA09-286A,https://www.cisa.gov/ncas/alerts/TA09-286A,Microsoft Updates for Multiple Vulnerabilities,"
+258,TA09-286A,https://www.cisa.gov/ncas/alerts/TA09-286A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: October 13, 2009  | Last revised: January 24, 2013
                                             "
-TA09-251A,https://www.cisa.gov/ncas/alerts/TA09-251A,Microsoft Updates for Multiple Vulnerabilities,"
+259,TA09-251A,https://www.cisa.gov/ncas/alerts/TA09-251A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: September 08, 2009  | Last revised: January 23, 2013
                                             "
-TA09-223A,https://www.cisa.gov/ncas/alerts/TA09-223A,Microsoft Updates for Multiple Vulnerabilities,"
+260,TA09-223A,https://www.cisa.gov/ncas/alerts/TA09-223A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: August 11, 2009  | Last revised: January 24, 2013
                                             "
-TA09-218A,https://www.cisa.gov/ncas/alerts/TA09-218A,Apple Updates for Multiple Vulnerabilities,"
+261,TA09-218A,https://www.cisa.gov/ncas/alerts/TA09-218A,Apple Updates for Multiple Vulnerabilities,"
                                 Original release date: August 06, 2009  | Last revised: January 24, 2013
                                             "
-TA09-209A,https://www.cisa.gov/ncas/alerts/TA09-209A,"Microsoft Windows, Internet Explorer, and Active Template Library (ATL) Vulnerabilities","
+262,TA09-209A,https://www.cisa.gov/ncas/alerts/TA09-209A,"Microsoft Windows, Internet Explorer, and Active Template Library (ATL) Vulnerabilities","
                                 Original release date: July 28, 2009  | Last revised: January 24, 2013
                                             "
-TA09-204A,https://www.cisa.gov/ncas/alerts/TA09-204A,Adobe Flash Vulnerability Affects Flash Player and Other Adobe Products,"
+263,TA09-204A,https://www.cisa.gov/ncas/alerts/TA09-204A,Adobe Flash Vulnerability Affects Flash Player and Other Adobe Products,"
                                 Original release date: July 23, 2009  | Last revised: January 24, 2013
                                             "
-TA09-195A,https://www.cisa.gov/ncas/alerts/TA09-195A,Microsoft Updates for Multiple Vulnerabilities,"
+264,TA09-195A,https://www.cisa.gov/ncas/alerts/TA09-195A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: July 14, 2009  | Last revised: January 24, 2013
                                             "
-TA09-187A,https://www.cisa.gov/ncas/alerts/TA09-187A,Microsoft Video ActiveX Control Vulnerability,"
+265,TA09-187A,https://www.cisa.gov/ncas/alerts/TA09-187A,Microsoft Video ActiveX Control Vulnerability,"
                                 Original release date: July 06, 2009  | Last revised: January 24, 2013
                                             "
-TA09-161A,https://www.cisa.gov/ncas/alerts/TA09-161A,Adobe Acrobat and Reader Vulnerabilities,"
+266,TA09-161A,https://www.cisa.gov/ncas/alerts/TA09-161A,Adobe Acrobat and Reader Vulnerabilities,"
                                 Original release date: June 10, 2009  | Last revised: January 24, 2013
                                             "
-TA09-160A,https://www.cisa.gov/ncas/alerts/TA09-160B,Microsoft Updates for Multiple Vulnerabilities,"
+267,TA09-160A,https://www.cisa.gov/ncas/alerts/TA09-160B,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: June 09, 2009  | Last revised: January 24, 2013
                                             "
-TA09-133B,https://www.cisa.gov/ncas/alerts/TA09-133B,Adobe Reader and Acrobat JavaScript Vulnerabilities,"
+268,TA09-133B,https://www.cisa.gov/ncas/alerts/TA09-133B,Adobe Reader and Acrobat JavaScript Vulnerabilities,"
                                 Original release date: May 13, 2009  | Last revised: January 24, 2013
                                             "
-TA09-133A,https://www.cisa.gov/ncas/alerts/TA09-133A,Apple Updates for Multiple Vulnerabilities,"
+269,TA09-133A,https://www.cisa.gov/ncas/alerts/TA09-133A,Apple Updates for Multiple Vulnerabilities,"
                                 Original release date: May 13, 2009  | Last revised: January 23, 2013
                                             "
-TA09-132A,https://www.cisa.gov/ncas/alerts/TA09-132A,Microsoft PowerPoint Multiple Vulnerabilities,"
+270,TA09-132A,https://www.cisa.gov/ncas/alerts/TA09-132A,Microsoft PowerPoint Multiple Vulnerabilities,"
                                 Original release date: May 12, 2009  | Last revised: January 24, 2013
                                             "
-TA09-105A,https://www.cisa.gov/ncas/alerts/TA09-105A,Oracle Updates for Multiple Vulnerabilities,"
+271,TA09-105A,https://www.cisa.gov/ncas/alerts/TA09-105A,Oracle Updates for Multiple Vulnerabilities,"
                                 Original release date: April 15, 2009  | Last revised: January 24, 2013
                                             "
-TA09-104A,https://www.cisa.gov/ncas/alerts/TA09-104A,Microsoft Updates for Multiple Vulnerabilities,"
+272,TA09-104A,https://www.cisa.gov/ncas/alerts/TA09-104A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: April 14, 2009  | Last revised: January 24, 2013
                                             "
-TA09-088A,https://www.cisa.gov/ncas/alerts/TA09-088A,Conficker Worm Targets Microsoft Windows Systems,"
+273,TA09-088A,https://www.cisa.gov/ncas/alerts/TA09-088A,Conficker Worm Targets Microsoft Windows Systems,"
                                 Original release date: March 29, 2009  | Last revised: January 24, 2013
                                             "
-TA09-069A,https://www.cisa.gov/ncas/alerts/TA09-069A,Microsoft Updates for Multiple Vulnerabilities,"
+274,TA09-069A,https://www.cisa.gov/ncas/alerts/TA09-069A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: March 10, 2009  | Last revised: January 24, 2013
                                             "
-TA09-051A,https://www.cisa.gov/ncas/alerts/TA09-051A,Adobe Acrobat and Reader Vulnerability,"
+275,TA09-051A,https://www.cisa.gov/ncas/alerts/TA09-051A,Adobe Acrobat and Reader Vulnerability,"
                                 Original release date: February 20, 2009  | Last revised: January 24, 2013
                                             "
-TA09-041A,https://www.cisa.gov/ncas/alerts/TA09-041A,Microsoft Updates for Multiple Vulnerabilities,"
+276,TA09-041A,https://www.cisa.gov/ncas/alerts/TA09-041A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: February 10, 2009  | Last revised: January 24, 2013
                                             "
-TA09-022A,https://www.cisa.gov/ncas/alerts/TA09-022A,Apple QuickTime Updates for Multiple Vulnerabilities,"
+277,TA09-022A,https://www.cisa.gov/ncas/alerts/TA09-022A,Apple QuickTime Updates for Multiple Vulnerabilities,"
                                 Original release date: January 22, 2009  | Last revised: January 24, 2013
                                             "
-TA09-020A,https://www.cisa.gov/ncas/alerts/TA09-020A,Microsoft Windows Does Not Disable AutoRun Properly,"
+278,TA09-020A,https://www.cisa.gov/ncas/alerts/TA09-020A,Microsoft Windows Does Not Disable AutoRun Properly,"
                                 Original release date: January 20, 2009  | Last revised: April 05, 2013
                                             "
-TA09-015A,https://www.cisa.gov/ncas/alerts/TA09-015A,Oracle Updates for Multiple Vulnerabilities,"
+279,TA09-015A,https://www.cisa.gov/ncas/alerts/TA09-015A,Oracle Updates for Multiple Vulnerabilities,"
                                 Original release date: January 15, 2009  | Last revised: January 24, 2013
                                             "
-TA09-013A,https://www.cisa.gov/ncas/alerts/TA09-013A,Microsoft Updates for Multiple SMB Protocol Vulnerabilities,"
+280,TA09-013A,https://www.cisa.gov/ncas/alerts/TA09-013A,Microsoft Updates for Multiple SMB Protocol Vulnerabilities,"
                                 Original release date: January 13, 2009  | Last revised: April 05, 2013
                                             "
-TA08-352A,https://www.cisa.gov/ncas/alerts/TA08-352A,Microsoft Internet Explorer Data Binding Vulnerability,"
+281,TA08-352A,https://www.cisa.gov/ncas/alerts/TA08-352A,Microsoft Internet Explorer Data Binding Vulnerability,"
                                 Original release date: December 17, 2008  | Last revised: October 24, 2012
                                             "
-TA08-350A,https://www.cisa.gov/ncas/alerts/TA08-350A,Apple Updates for Multiple Vulnerabilities,"
+282,TA08-350A,https://www.cisa.gov/ncas/alerts/TA08-350A,Apple Updates for Multiple Vulnerabilities,"
                                 Original release date: December 15, 2008  | Last revised: October 19, 2016
                                             "
-TA08-344A,https://www.cisa.gov/ncas/alerts/TA08-344A,Microsoft Updates for Multiple Vulnerabilities,"
+283,TA08-344A,https://www.cisa.gov/ncas/alerts/TA08-344A,Microsoft Updates for Multiple Vulnerabilities,"
                                 Original release date: December 09, 2008  | Last revised: October 19, 2016
                                             "
-TA08-340A,https://www.cisa.gov/ncas/alerts/TA08-340A,Sun Java Updates for Multiple Vulnerabilities,"
+284,TA08-340A,https://www.cisa.gov/ncas/alerts/TA08-340A,Sun Java Updates for Multiple Vulnerabilities,"
                                 Original release date: December 05, 2008  | Last revised: October 05, 2016
                                             "
-TA08-319A,https://www.cisa.gov/ncas/alerts/TA08-319A,Mozilla Updates for Multiple Vulnerabilities,"
+285,TA08-319A,https://www.cisa.gov/ncas/alerts/TA08-319A,Mozilla Updates for Multiple Vulnerabilities,"
                                 Original release date: November 14, 2008  | Last revised: October 07, 2016
                                             "
