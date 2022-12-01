@@ -5,10 +5,30 @@ from pathlib import Path
 import jsonpath_ng as jq
 import jsonpath_ng.ext as jqe
 import pandas as pd
+import requests
 
-# JSONPATH!
-range_of_cve = "0:"  # 0: means from zero to the end
-json_file_paths = Path("./data").glob("nvdcve-1.1-*.json.gz")
+range_of_cve = "*"  # "0:10"  # 0: means from zero to the end
+data_path = Path("./data")
+cve_filename_stub = "nvdcve-1.1-"
+
+# Get all the CVE JSON Data
+years_to_grab = range(2002, 2023)
+for year in years_to_grab:
+    filename = f"{cve_filename_stub}{year}.json.gz"
+    url = f"https://nvd.nist.gov/feeds/json/cve/1.1/{filename}"
+    cve_file_path = data_path / filename
+    if not cve_file_path.exists():
+        nist_response = requests.get(url)
+        if nist_response.status_code == 200:
+            with open(cve_file_path, "wb") as cve_file:
+                cve_file.write(nist_response.content)
+                print(f"Downloaded {filename} successfully.", end="\r", flush=True)
+        else:
+            print(f"Unable to get the CVE data for {year}")
+print("Download effort complete.")
+
+# List of all the CVE JSON data we could download
+json_file_paths = data_path.glob(f"{cve_filename_stub}*.json.gz")
 
 # JSON Path Queries
 path_cve_items = jq.parse(f"$.CVE_Items.[{range_of_cve}]")
@@ -113,10 +133,10 @@ cve_cpes = (
     .reset_index(drop=True)
 )
 
-cve_references.to_csv("cve_references.csv", index=False)
-cve_cpes.to_csv("cpe_node_data.csv", index=False)
-cve_data.to_csv("cve_node_data.csv", index=False)
+cve_references.to_csv(data_path / "cve_references.csv", index=False)
+cve_cpes.to_csv(data_path / "cpe_node_data.csv", index=False)
+cve_data.to_csv(data_path / "cve_node_data.csv", index=False)
 
-cve_references.to_feather("cve_references.feather")
-cve_cpes.to_feather("cpe_node_data.feather")
-cve_data.to_feather("cve_node_data.feather")
+cve_references.to_feather(data_path / "cve_references.feather")
+cve_cpes.to_feather(data_path / "cpe_node_data.feather")
+cve_data.to_feather(data_path / "cve_node_data.feather")
