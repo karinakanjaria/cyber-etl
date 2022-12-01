@@ -1,0 +1,3686 @@
+Id,label,type
+0,stopransomware.gov,ORG
+1,The Federal Bureau of Investigation,ORG
+2,FBI,ORG
+3,the Cybersecurity and Infrastructure Security Agency,ORG
+4,CISA,ORG
+5,the Department of Health and Human Services,ORG
+6,HHS,ORG
+7,MITRE ATT&CK for Enterprise,PRODUCT
+8,Hive,PRODUCT
+9,Communications,ORG
+10,Healthcare and Public Health,ORG
+11,Remote Desktop Protocol,PRODUCT
+12,FortiOS,PRODUCT
+13,Microsoft Exchange,ORG
+14,Microsoft Exchange Server,ORG
+15,Windows,ORG
+16,Windows Defender,PRODUCT
+17,Rclone,PRODUCT
+18,Microsoft,ORG
+19,Linux,PRODUCT
+20,VMware,ORG
+21,ESXi,PRODUCT
+22,FreeBSD,PRODUCT
+23,TOR,ORG
+24,Hive,ORG
+25,Windows Defender AntiSpyware Protection,PRODUCT
+26,PowerShell,PRODUCT
+27,Mega.nz,ORG
+28,vssadmin,PRODUCT
+29,MFA,ORG
+30,PowerShell Logging,PRODUCT
+31,Sysmon,PRODUCT
+32,Australia,GPE
+33,Canada,GPE
+34,New Zealand,GPE
+35,the United Kingdom,GPE
+36,the United States,GPE
+37,Cybersecurity and Infrastructure Security Agency,ORG
+38,the U.S. Government’s,ORG
+39,National Institute of Standards and Technology,ORG
+40,NIST,ORG
+41,US,GPE
+42,Federal Civilian Executive Branch,ORG
+43,FCEB,ORG
+44,Log4Shell,PRODUCT
+45,Horizon,PRODUCT
+46,XMRig,ORG
+47,Ngrok,ORG
+48,the Federal Bureau of Investigation,ORG
+49,Iranian,NORP
+50,DC,ORG
+51,MITRE ATT&CK®,PRODUCT
+52,XMRig,PRODUCT
+53,Ngrok,PRODUCT
+54,BASE64,PRODUCT
+55,VMWare,ORG
+56,VDI-KMS,PRODUCT
+57,PsExec,PRODUCT
+58,Mimikatz,PRODUCT
+59,the Graphical User Interface (GUI),PRODUCT
+60,the Active Directory,ORG
+61,Local Security Authority Subsystem Service,ORG
+62,Log4J,PRODUCT
+63,"Scheduled Task RuntimeBrokerService.exe,",PRODUCT
+64,Windows,PRODUCT
+65,Windows Registry,PRODUCT
+66,System,PRODUCT
+67,Credential Guard,PRODUCT
+68,PsExec,ORG
+69,Mimikatz,ORG
+70,CyWatch,ORG
+71,Windows 10,PRODUCT
+72,Windows Server 2016,PRODUCT
+73,Windows DefaultAccount,PRODUCT
+74,the Default System Managed Account,PRODUCT
+75,Kerberos Ticket Granting Service,ORG
+76,Windows 8,PRODUCT
+77,Server 2016,PRODUCT
+78,Windows Defender Credential Guard,PRODUCT
+79,Windows Server 2012R2,PRODUCT
+80,Protected Process Light for Local Security Authority,PRODUCT
+81,MITRE ATT&CK Version 11: Software –,PRODUCT
+82,Department of Health and Human Services,ORG
+83,the “Daixin Team,ORG
+84,U.S.,GPE
+85,CSA,ORG
+86,Daixin,PRODUCT
+87,the HPH Sector,GPE
+88,IC3,ORG
+89,The Daixin Team,ORG
+90,Daixin Team,ORG
+91,HPH Sector,ORG
+92,Daixin,ORG
+93,Secure Shell,PRODUCT
+94,vCenter Server,PRODUCT
+95,ESXi,ORG
+96,the Daixin Team’s,ORG
+97,Babuk Locker,PRODUCT
+98,Daixin,PERSON
+99,Daxin,ORG
+100,Telnet,PRODUCT
+101,Winbox,PRODUCT
+102,the Federal Trade Commission,ORG
+103,FTC,ORG
+104,U.S. Department of Health and Human Services,ORG
+105,the National Institute of Standards and Technology’s,ORG
+106,FBI Field Office,ORG
+107,the U.S. Secret Service,ORG
+108,USSS,ORG
+109,the Health Sector Cybersecurity Coordination Center,ORG
+110,HC3,ORG
+111,Daixin Group,ORG
+112,CrowdStrike,ORG
+113,the Health Information Sharing and Analysis Center,ORG
+114,Health-ISAC,ORG
+115,People’s Republic of China,GPE
+116,PRC,GPE
+117,the National Security Agency,ORG
+118,NSA,ORG
+119,Federal Bureau of Investigation,ORG
+120,China,GPE
+121,Information Technology Sector,ORG
+122,Defense Industrial Base (DIB) Sector,ORG
+123,Chinese,NORP
+124,Pulse Connect Secure,PRODUCT
+125,Atlassian,ORG
+126,Apache,ORG
+127,Apache Log4j2 2.0,PRODUCT
+128,log4net,PRODUCT
+129,log4cxx,PRODUCT
+130,Apache Logging,PRODUCT
+131,Pulse Secure Pulse Connect Secure,PRODUCT
+132,GitLab,ORG
+133,Hotpatch,PRODUCT
+134,Workhorse,PRODUCT
+135,Gitlab,ORG
+136,Confluence Server,PRODUCT
+137,Data Center,PRODUCT
+138,Windows Exchange Server,PRODUCT
+139,Exchange,ORG
+140,F5,PRODUCT
+141,F5 Networks,PRODUCT
+142,The vCenter Server,PRODUCT
+143,Citrix Application Delivery Controller,PRODUCT
+144,Gateway 10.5,PRODUCT
+145,the CTX269180 - CVE-2019-19781 Verification Tool,PRODUCT
+146,Citrix,ORG
+147,Gateway,PRODUCT
+148,Cisco,ORG
+149,HyperFlex HX,PRODUCT
+150,Hyperflex Hx Data Platform 4.0(2A,PRODUCT
+151,Buffalo,ORG
+152,WSR-2533DHP3 firmware,PRODUCT
+153,Wsr-2533Dhp3-Bk,PRODUCT
+154,Atlassian Data Center,ORG
+155,Atlassian Jira Data Center,ORG
+156,Hikvision,ORG
+157,Sitecore XP 7.5,PRODUCT
+158,Sitecore XP 8.2 Update-7 is,PRODUCT
+159,NVD,ORG
+160,Apache APISIX,PRODUCT
+161,Zoho ManageEngine ADSelfService Plus,PRODUCT
+162,ManageEngine,ORG
+163,Zoho Corp,ORG
+164,ADSelfService Plus,PRODUCT
+165,Exchange Server,PRODUCT
+166,Table XIX,PRODUCT
+167,Microsoft Exchange On-Premises Mitigation Tool,ORG
+168,Apache HTTP Server 2.4.49,PRODUCT
+169,Apache 2.4.49,PRODUCT
+170,Apache HTTP Server 2.4.50,PRODUCT
+171,Fedoraproject,ORG
+172,Oracle,ORG
+173,Instantis,ORG
+174,Netapp,ORG
+175,Impacket,PRODUCT
+176,CovalentStealer,PRODUCT
+177,MITRE ATT&CK Tactics and Techniques,PRODUCT
+178,the EWS Application Programming Interface,PRODUCT
+179,Windows Command Shell,PRODUCT
+180,Command Shell,PRODUCT
+181,WinRAR,PRODUCT
+182,Windows Command Shell Activity,PRODUCT
+183,Python,PRODUCT
+184,China Chopper,PRODUCT
+185,the Exchange Server,PRODUCT
+186,HyperBro,PRODUCT
+187,Impacket,ORG
+188,Windows Management Instrumentation (WMI,PRODUCT
+189,the Command Shell,PRODUCT
+190,Outlook Web Access,PRODUCT
+191,M247,PRODUCT
+192,SurfShark,ORG
+193,EWS,ORG
+194,OneDrive,PRODUCT
+195,the ATT&CK Framework,PRODUCT
+196,Windows Management Instrumentation,PRODUCT
+197,the Windows Command Shell,PRODUCT
+198,WinRAR.exe,PRODUCT
+199,VMware.exe,PRODUCT
+200,Valid Accounts,PRODUCT
+201,M247,ORG
+202,Remote Server Administration Tools,PRODUCT
+203,psexec,ORG
+204,RdClient,PRODUCT
+205,VNC,PRODUCT
+206,ScreenConnect,PRODUCT
+207,U.S. Government,ORG
+208,DIB,ORG
+209,the Defense Cyber Crime Center,ORG
+210,DC3,ORG
+211,Active Directory—,PRODUCT
+212,SIEM,ORG
+213,Powershell,PRODUCT
+214,Telnet,ORG
+215,MITRE,ORG
+216,the NSA Cybersecurity Collaboration Center’s,ORG
+217,Mandiant,ORG
+218,PowerShell,ORG
+219,powershell dir,PRODUCT
+220,CA,ORG
+221,amazon.com,ORG
+222,TRITON,PRODUCT
+223,Triconex,ORG
+224,Tricon,PRODUCT
+225,Schneider Electric PLCs,ORG
+226,OMRON,ORG
+227,Sysmac,ORG
+228,NEX,ORG
+229,Open Platform Communications Unified Architecture (OPC UA,PRODUCT
+230,Shodan,ORG
+231,Ukraine,GPE
+232,HDLC,PRODUCT
+233,PLC,PRODUCT
+234,VSAT,PRODUCT
+235,SCADA,ORG
+236,the United States Government,ORG
+237,National Security Agency,ORG
+238,Cybersecurity and Infrastructure Security Agen,ORG
+239,Russian,NORP
+240,Chinese Gas Pipeli,ORG
+241,APT Cyber Tools Ta,ORG
+242,The American Society of Mechanical Engineers,ORG
+243,Schneider Electri,ORG
+244,the Government of Albania,ORG
+245,Albanian,NORP
+246,anti-Mujahideen,PERSON
+247,ZeroCleare,PRODUCT
+248,HomeLand Justice,ORG
+249,Homeland Justice,ORG
+250,Albanian Government,ORG
+251,Albania,GPE
+252,Iran,GPE
+253,SharePoint,PRODUCT
+254,CmdLets,ORG
+255,Virtual Private Network,PRODUCT
+256,the “Advanced Port Scanner”,PRODUCT
+257,LSASS,PRODUCT
+258,win.bat,PRODUCT
+259,GoXML.exe,PRODUCT
+260,Disk Wiper,PRODUCT
+261,Cyber Hygiene Services,ORG
+262,Commercial,ORG
+263,Akamai,ORG
+264,Telecommunications Company KSC,ORG
+265,Saudi Telecommunications Company,ORG
+266,STC,ORG
+267,Xml Form Builder,PRODUCT
+268,RC4,PRODUCT
+269,thunderbird,PRODUCT
+270,MD5,PRODUCT
+271,RC4 128,PRODUCT
+272,Base64,PRODUCT
+273,Intel,ORG
+274,80386,PRODUCT
+275,MS,ORG
+276,KW,ORG
+277,Salmiya,ORG
+278,Kuwait Telecommunications Company,ORG
+279,KSC,ORG
+280,O=DigiCert Inc,ORG
+281,Adobe,ORG
+282,RawDisk3,PRODUCT
+283,EldoS,ORG
+284,the EldoS Corporation,ORG
+285,MS Windows,PRODUCT
+286,VeriSign Time Stamping Services CA,ORG
+287,"O=VeriSign, Inc.",ORG
+288,ST,ORG
+289,California,GPE
+290,L,ORG
+291,SANTA CLARA,GPE
+292,O,ORG
+293,NVIDIA Corporation,ORG
+294,CN=NVIDIA Corporation,ORG
+295,OU=VeriSign Trust Network,ORG
+296,"VeriSign, Inc.",ORG
+297,Washington,GPE
+298,Redmond,GPE
+299,O=,ORG
+300,Microsoft Corporation,ORG
+301,CN,ORG
+302,OU,ORG
+303,Defender,PRODUCT
+304,TerminateProcess,PRODUCT
+305,Windows DefenderThe,PRODUCT
+306,Win10 1709,PRODUCT
+307,U.S. Cyber Command,ORG
+308,USCC,ORG
+309,CNMF,ORG
+310,the Department of the Treasury,ORG
+311,Treasury,ORG
+312,the Australian Cyber Security Centre,ORG
+313,ACSC,ORG
+314,the Canadian Centre for Cyber Security,ORG
+315,CCCS,ORG
+316,the United Kingdom’s,GPE
+317,National Cyber Security Centre,ORG
+318,NCSC,ORG
+319,the Iranian Government’s,ORG
+320,Islamic Revolutionary Guard Corps,ORG
+321,IRGC,ORG
+322,Iranian Government,ORG
+323,the Iranian Regime,ORG
+324,Fortinet,PRODUCT
+325,Microsoft Exchange,PRODUCT
+326,APT,ORG
+327,Horizon Log4j,PRODUCT
+328,Australian,NORP
+329,Canadian,NORP
+330,United Kingdom,GPE
+331,Najee Technology Hooshmand Fater LLC,ORG
+332,Karaj,GPE
+333,Afkar System Yazd Company,ORG
+334,Yazd,GPE
+335,Fortinet FortiOS,PRODUCT
+336,ProxyShell,PRODUCT
+337,UK,GPE
+338,Fortinet,ORG
+339,BitLocker,PRODUCT
+340,Log4j,PRODUCT
+341,SoftPerfect Network Scanner,PRODUCT
+342,CacheTask,PRODUCT
+343,Wininet,PRODUCT
+344,Telegram,ORG
+345,WhatsApp,ORG
+346,Windows Remote,PRODUCT
+347,FileZilla,PRODUCT
+348,24/7 CyWatch,ORG
+349,The U.S. Department of State’s,ORG
+350,Rewards for Justice,ORG
+351,RFJ,ORG
+352,USCC-CNMF,ORG
+353,DoT,ORG
+354,the Multi-State Information Sharing and Analysis Center,ORG
+355,MS-ISAC,ORG
+356,Vice Society,ORG
+357,the MS-ISAC,ORG
+358,MITRE ATT&CK for,PRODUCT
+359,Hello Kitty/,PRODUCT
+360,Zeppelin,PRODUCT
+361,SystemBC,PRODUCT
+362,Empire,PRODUCT
+363,Cobalt Strike,PRODUCT
+364,Windows Management Instrumentation,ORG
+365,Zeppelin,ORG
+366,Windows Operating,PRODUCT
+367,the FBI Field Office,ORG
+368,CISA Cybersecurity Advisor,ORG
+369,CISA Regional Offices,ORG
+370,SLTT,ORG
+371,ZCS,ORG
+372,Zimbra Collaboration Suite,PRODUCT
+373,SonarSource,ORG
+374,Zimbra,ORG
+375,Volexity,ORG
+376,ZCS,PRODUCT
+377,RARLAB UnRAR,PRODUCT
+378,UNIX,PRODUCT
+379,unrar,PRODUCT
+380,Metasploit,PRODUCT
+381,YARA,ORG
+382,Zimbra Security – News & Alerts,ORG
+383,Zimbra Security Advisories,ORG
+384,Federal Government,ORG
+385,Secureworks,ORG
+386,MailboxImportServlet,PRODUCT
+387,Zimbra Collaboration Kepler,PRODUCT
+388,Hotfix,PRODUCT
+389,Delphi,ORG
+390,Vega,PRODUCT
+391,SonicWall,ORG
+392,National Institute for Standards and Technology,ORG
+393,CISA-Multi-State Information Sharing and Analysis Center,ORG
+394,Bitcoin,ORG
+395,Trojans,PRODUCT
+396,Agent Tesla,PRODUCT
+397,AZORult,PRODUCT
+398,Formbook,PRODUCT
+399,Ursnif,PRODUCT
+400,LokiBot,PRODUCT
+401,MOUSEISLAND,PRODUCT
+402,NanoCore,PRODUCT
+403,Qakbot,PRODUCT
+404,Remcos,PRODUCT
+405,TrickBot,PRODUCT
+406,GootLoader,PRODUCT
+407,Eurasian,NORP
+408,Russia,GPE
+409,Soviet,NORP
+410,Conti,PRODUCT
+411,COVID-19,PRODUCT
+412,FormBook,PRODUCT
+413,ForrmBook,PRODUCT
+414,Gozi,PRODUCT
+415,Ursnif,ORG
+416,Fortnite,PRODUCT
+417,MOUSEISLAND,GPE
+418,Word,PRODUCT
+419,Nanocore,PRODUCT
+420,Qakbot,ORG
+421,QBot,PRODUCT
+422,Pinksliplot,PRODUCT
+423,Qbot,ORG
+424,Remcos,ORG
+425,Ryuk,PRODUCT
+426,Healthcare and Public Health (,ORG
+427,Trickbot,PRODUCT
+428,GootKit,PRODUCT
+429,Google,ORG
+430,New Jersey’s,GPE
+431,Cybersecurity & Communications Integration Cell,ORG
+432,NJCCIC,ORG
+433,GootLooader,ORG
+434,BlackBerry,ORG
+435,GootLoader,ORG
+436,Tesla,ORG
+437,South Ko,GPE
+438,Office 365,PRODUCT
+439,Italian,NORP
+440,Italy,GPE
+441,MS-ISAC,PRODUCT
+442,UNC2198 ICEDID,PRODUCT
+443,Netwire,PRODUCT
+444,AsyncRAT,PRODUCT
+445,Arkansas,GPE
+446,QakBot,PRODUCT
+447,Maui,GPE
+448,North Korean,NORP
+449,Office of Foreign Assets Control,ORG
+450,OFAC,ORG
+451,North Korea,GPE
+452,Maui,ORG
+453,Advanced Encryption Standard,PRODUCT
+454,SSH,PRODUCT
+455,Transport Layer Security,PRODUCT
+456,the National Conference of State Legislatures,ORG
+457,Remote Desktop Protocol (RDP,PRODUCT
+458,the U.S. Government,ORG
+459,Stairwell,ORG
+460,the Financial Crimes Enforcement Network,ORG
+461,FinCEN,ORG
+462,MedusaLocker,PRODUCT
+463,MedusaLocker,ORG
+464,LanmanWorkstation,PRODUCT
+465,T1490,PRODUCT
+466,National Institute of Standards and Technology,ORG
+467,The Cybersecurity and Infrastructure Security Agency,ORG
+468,United States Coast Guard Cyber Command,ORG
+469,CGCYBER,ORG
+470,Unified Access Gateway,PRODUCT
+471,UAG,PRODUCT
+472,MITRE ATT&CK,PRODUCT
+473,Apache®,PRODUCT
+474,Apache Log4j Vulnerability Guidance,PRODUCT
+475,SysInternals LogonSessions,PRODUCT
+476,Victim 2,PRODUCT
+477,SysInternals,ORG
+478,LogonSessions,PRODUCT
+479,Du,PRODUCT
+480,PsPing,PRODUCT
+481,SvcEdge.exe,PRODUCT
+482,Linux,ORG
+483,Dingo,ORG
+484,the Coast Guard,ORG
+485,the U.S. Coast Guard,ORG
+486,USCG,ORG
+487,NRC,ORG
+488,Coast Guard Cyber Command,ORG
+489,the USCG NRC,ORG
+490,GitHub,ORG
+491,Australian Signals Directorate,ORG
+492,ASD,ORG
+493,C2,PRODUCT
+494,The MITRE Corporation,ORG
+495,CI,ORG
+496,RouterSploit,PRODUCT
+497,RouterScan,PRODUCT
+498,The RouterSploit Framework,PRODUCT
+499,SOHO,ORG
+500,MikroTik,ORG
+501,RADIUS,ORG
+502,Juniper,ORG
+503,PuTTY Link,PRODUCT
+504,Plink,PRODUCT
+505,FBI National Press Office,ORG
+506,Smart Install,PRODUCT
+507,Cisco IOS Software,ORG
+508,Cisco IOS XE Software,ORG
+509,CISCO,ORG
+510,IOS XE,PRODUCT
+511,Small Business RV Series Routers,PRODUCT
+512,RV042 Dual WAN VPN Router,PRODUCT
+513,RV042G Dual Gigabit WAN VPN Router,PRODUCT
+514,RV016 Multi-WAN VPN Router,PRODUCT
+515,RV082 Dual WAN VPN Router,PRODUCT
+516,Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers,PRODUCT
+517,RV320,PRODUCT
+518,RV325,PRODUCT
+519,Dual Gigabit WAN VPN Routers,PRODUCT
+520,Small Business RV320,PRODUCT
+521,Nmap,ORG
+522,Citrix,PRODUCT
+523,The National Security Agency,ORG
+524,Citrix Gateway,PRODUCT
+525,NetScaler,ORG
+526,NetScaler Gateway,PRODUCT
+527,DrayTek,ORG
+528,Vigor2960,PRODUCT
+529,Vigor3900,PRODUCT
+530,Vigor300B,PRODUCT
+531,D-Link,PRODUCT
+532,PingTest,PRODUCT
+533,FortiOS,ORG
+534,FortiProxy,ORG
+535,FortiProxy,PRODUCT
+536,1.2.8,PRODUCT
+537,Mikrotik,ORG
+538,WinBox,PRODUCT
+539,RouterOS,PRODUCT
+540,Netgear,ORG
+541,NETGEAR,ORG
+542,WNR2000v3,PRODUCT
+543,WNR2000v4,PRODUCT
+544,WNR2000v5,PRODUCT
+545,Pulse Secure,PRODUCT
+546,Pulse Secure VPN,PRODUCT
+547,a Pulse Secure VPN Appliance,PRODUCT
+548,the Windows File Share Browser,PRODUCT
+549,Pulse Secure Collaboration,PRODUCT
+550,PCS Integrity Assurance,PRODUCT
+551,Pulse Secure,ORG
+552,The Pulse Security Check Tool,PRODUCT
+553,Pulse Connect Secure 9.0R3/9.1R1,PRODUCT
+554,QNAP,ORG
+555,Photo Station,PRODUCT
+556,QTS,ORG
+557,QTS 4.3.0,PRODUCT
+558,Photo Station,ORG
+559,Zyxel,ORG
+560,USG,ORG
+561,ATP series,PRODUCT
+562,ZLD V4.60,PRODUCT
+563,USG FLEX series,PRODUCT
+564,"ZLD V4.60
+VPN series",PRODUCT
+565,"ZLD V4.60
+NXC2500",PRODUCT
+566,NXC5500,PRODUCT
+567,V6.00,PRODUCT
+568,Karakurt,GPE
+569,the Karakurt Team,ORG
+570,Karakurt Lair,ORG
+571,Karakurt,ORG
+572,FortiGate,PRODUCT
+573,Windows Server,PRODUCT
+574,Karakurt,NORP
+575,AnyDesk,PRODUCT
+576,7zip,PRODUCT
+577,rclone,ORG
+578,the “Karakurt Team”,ORG
+579,Protonmail,ORG
+580,Apache Logging Service,PRODUCT
+581,Filezilla,ORG
+582,rclone,PRODUCT
+583,Stopransomware.gov,ORG
+584,FinCEN Advisory FIN-2016-A005,ORG
+585,Advisory to Financial Institutions on Cyber-Events and Cyber-Enabled Crime,ORG
+586,Workspace ONE Access,PRODUCT
+587,Identity Manager,PRODUCT
+588,vRealize Automation,PRODUCT
+589,VMware Cloud Foundation,ORG
+590,vRealize Suite Lifecycle Manager,PRODUCT
+591,VMware Workspace ONE Access,PRODUCT
+592,J-spy,PRODUCT
+593,Dingo J-spy,PRODUCT
+594,TA2,PRODUCT
+595,Freemarker,ORG
+596,TA1,PRODUCT
+597,Bash,PRODUCT
+598,TA1,ORG
+599,TA2,ORG
+600,Horizon,ORG
+601,MoneroOcean,PRODUCT
+602,Hypertext Transfer Protocol Secure,PRODUCT
+603,Snort,PRODUCT
+604,Godzilla,PERSON
+605,German,NORP
+606,Privax,ORG
+607,Windows NT 10.0,PRODUCT
+608,Win64,PRODUCT
+609,Github,ORG
+610,Palo Alto Networks,ORG
+611,the Multi-State Information Sharing & Analysis Center,ORG
+612,"F5 Networks, Inc.",ORG
+613,F5 BIG-IP,PRODUCT
+614,iControl REST,PRODUCT
+615,F5 BIG-IP:[1,PRODUCT
+616,BIG-IP,PRODUCT
+617,F5,ORG
+618,K11438344,PRODUCT
+619,Perimeter,PRODUCT
+620,SSLDecrypt,PRODUCT
+621,Federal Government Cybersecurity Incident and Vulnerability Response Playbooks,ORG
+622,"the United States,[1],[2],[3",GPE
+623,"New Zealand,[5],[6",GPE
+624,the United Kingdom.[8,GPE
+625,NetBIOS,PRODUCT
+626,Excel,PRODUCT
+627,the National Institute for Standards and Technology,ORG
+628,United States,GPE
+629,Federal Bureau of Investigation[3,ORG
+630,Canadian Centre for Cyber Security,ORG
+631,CERT NZ[7,ORG
+632,Netherlands,GPE
+633,White House,ORG
+634,NCSC-NL,ORG
+635,NCSC-NZ,ORG
+636,CERT-NZ,ORG
+637,NCSC-UK,ORG
+638,NZ,GPE
+639,the New Zealand National Cyber Security Centre,ORG
+640,the United States',ORG
+641,the Joint Cyber Defense Collaborative,ORG
+642,JCDC,ORG
+643,Shields Up and,ORG
+644,MSP,ORG
+645,CNI,ORG
+646,CISA 24/7 Operations Center,ORG
+647,NCCoE,ORG
+648,UK,ORG
+649,Gartner,ORG
+650,The United Kingdom's,GPE
+651,"Department of Digital, Culture, Media, and Sport",ORG
+652,DCMS,ORG
+653,Managed Services,ORG
+654,The Managed Services,ORG
+655,the Managed Service Providers,ORG
+656,"Managed Network
+",ORG
+657,Managed Service Providers’,ORG
+658,Australian Cyber Security Centre,ORG
+659,United Kingdom’s,GPE
+660,ProxyLogon,PRODUCT
+661,Zoho,ORG
+662,ProxyShell,ORG
+663,"Exchange Server
+
+
+",PRODUCT
+664,VMware vSphere Client,PRODUCT
+665,Accellion File Transfer Appliance,PRODUCT
+666,Windows Print Spooler,PRODUCT
+667,Sitecore,ORG
+668,ForgeRock,ORG
+669,"Windows Print Spooler
+
+
+",PRODUCT
+670,IOS XE Software,ORG
+671,Accellion,ORG
+672,Active Directory,PRODUCT
+673,OpenLDAP,PRODUCT
+674,KRBTGT,ORG
+675,WinRM,PRODUCT
+676,NZ NCSC,ORG
+677,Apache Log4j,PRODUCT
+678,Sitecore XP,PRODUCT
+679,Sitecore Experience Platform Content Management Systems,PRODUCT
+680,Cloud Foundation,ORG
+681,Allied Networks,ORG
+682,SMA 100 series appliances,PRODUCT
+683,"Zoho ManageEngine 
+
+
+",PRODUCT
+684,ManageEngine,PRODUCT
+685,Confluence Server Webwork,PRODUCT
+686,Chinese Ministry of State Security,ORG
+687,NetScaler ADC,PRODUCT
+688,Pulse Secure VPN Vulnerability,PRODUCT
+689,Pulse Connect Secure VPN Software,PRODUCT
+690,Office,ORG
+691,the United States[1][2][3,GPE
+692,New Zealand[6,GPE
+693,the United Kingdom[7][8,GPE
+694,Biden,PERSON
+695,Ukrainian,NORP
+696,Australian Cyber Security Centre’s,ORG
+697,National Cyber Security Centre New Zealand,ORG
+698,NotPetya,PRODUCT
+699,The Russian Federal Security Service,ORG
+700,FSB,ORG
+701,Center 16,ORG
+702,Russian Foreign Intelligence Service,ORG
+703,SVR,ORG
+704,Russian General Staff Main Intelligence Directorate,ORG
+705,GRU,ORG
+706,Main Special Service Center,ORG
+707,GTsSS,ORG
+708,Main Center for Special Technologies,ORG
+709,GTsST,ORG
+710,Russian Ministry of Defense,ORG
+711,Central Scientific Institute of Chemistry and Mechanics,ORG
+712,TsNIIKhM,ORG
+713,KGB,ORG
+714,BERSERK BEAR,PRODUCT
+715,Crouching Yeti,PRODUCT
+716,Dragonfly,PRODUCT
+717,Energetic Bear,PRODUCT
+718,Temp.,PRODUCT
+719,Isotope,PRODUCT
+720,Energy,ORG
+721,the Water and Wastewater Systems Sector,ORG
+722,Military Unit 71330,ORG
+723,BERSERK BEAR,ORG
+724,MITRE ATT&CK,ORG
+725,Dragonfly,ORG
+726,the FSB Center for Information Security,ORG
+727,Center 18,ORG
+728,the U.S. Department of Justice,ORG
+729,DOJ,ORG
+730,FSB Center,ORG
+731,the U.S. DOJ,ORG
+732,GoldMax,PRODUCT
+733,TrailBlazer,PRODUCT
+734,the Government of Canada,ORG
+735,the UK Government,ORG
+736,SolarWinds,ORG
+737,Orion,PRODUCT
+738,APT29,PRODUCT
+739,COZY BEAR,PRODUCT
+740,CozyDuke,PRODUCT
+741,Dark Halo,PRODUCT
+742,The Dukes,PRODUCT
+743,NOBELIUM,PRODUCT
+744,NobleBaron,ORG
+745,StellarParticle,ORG
+746,UNC2452,PRODUCT
+747,YTTRIUM,ORG
+748,85th Main Special Service Center,ORG
+749,Unit 26165,ORG
+750,Drovorub,PRODUCT
+751,The U.S. Government,ORG
+752,UK Government,ORG
+753,Kubernetes,PRODUCT
+754,APT28,ORG
+755,FANCY BEAR,ORG
+756,Group 74,ORG
+757,IRON TWILIGHT,ORG
+758,PawnStorm,ORG
+759,Sednit,PRODUCT
+760,SNAKEMACKEREL,ORG
+761,Sofacy,PRODUCT
+762,STRONTIUM,ORG
+763,Swallowtail,PRODUCT
+764,TG-4127,PRODUCT
+765,Threat Group-4127,PRODUCT
+766,Tsar Team,ORG
+767,Main Center of Special Technologies,ORG
+768,Unit 74455,ORG
+769,NATO,ORG
+770,the UK Government.[19][20,ORG
+771,BlackEnergy,PRODUCT
+772,KillDisk,PRODUCT
+773,CrashOverride,PRODUCT
+774,Industroyer,PRODUCT
+775,VPNFilter,PRODUCT
+776,Georgian,NORP
+777,ELECTRUM,ORG
+778,IRON VIKING,ORG
+779,Quedagh,ORG
+780,the Sandworm Team,ORG
+781,Telebots,ORG
+782,Sandworm Team,ORG
+783,Ministry of Defense,ORG
+784,MOD,ORG
+785,the U.S. Department of the Treasury,ORG
+786,Triton,PRODUCT
+787,HatMan,PRODUCT
+788,"the UK Foreign, Commonwealth, and Development Office",ORG
+789,FCDO,ORG
+790,TsNIIKhM Applied Development Center,ORG
+791,Veles,PRODUCT
+792,Triton,ORG
+793,PRIMITIVE BEAR,ORG
+794,PRIMITIVE BEAR,PRODUCT
+795,the Gamaredon Group,ORG
+796,VENOMOUS BEAR,PRODUCT
+797,the North Atlantic Treaty Organization,ORG
+798,Venomous Bear,PRODUCT
+799,non-Russian,NORP
+800,VENOMOUS BEAR,ORG
+801,Mac,PRODUCT
+802,Turla,ORG
+803,Killnet,ORG
+804,The Xaknet Team,ORG
+805,CoomingProject,ORG
+806,the Russian Government,ORG
+807,Killnet,PRODUCT
+808,MUMMY SPIDER,ORG
+809,Emotet,PRODUCT
+810,WIZARD SPIDER’s,PRODUCT
+811,Gold Crestwood,ORG
+812,TA542,PRODUCT
+813,TEMP.Mixmaster,PRODUCT
+814,UNC3443,PRODUCT
+815,Emotet Malware,PRODUCT
+816,TrickBot Malware,PRODUCT
+817,SALTY SPIDER,ORG
+818,Sality,PRODUCT
+819,Kharkiv,GPE
+820,Sality,ORG
+821,SCULLY SPIDER,ORG
+822,DanaBot,PRODUCT
+823,DoppelDridex,PRODUCT
+824,Zloader,PRODUCT
+825,Danabot,PRODUCT
+826,Germany,GPE
+827,Poland,GPE
+828,Mexico,GPE
+829,"Gold Opera
+",PRODUCT
+830,SMOKEY SPIDER,PRODUCT
+831,Smoke Loader,PRODUCT
+832,Smoke Bot,PRODUCT
+833,WIZARD SPIDER,ORG
+834,UNC2727,PRODUCT
+835,The XakNet Team,ORG
+836,XakNet,ORG
+837,the XakNet Team,ORG
+838,NCSC-UK’s,ORG
+839,Kerberos,ORG
+840,U.S. Defense Industrial Base,ORG
+841,U.S,GPE
+842,24/7 Operations Center,ORG
+843,Secret Service Field Office,ORG
+844,the National Cyber Security Centre,ORG
+845,the UK National Crime Agency,ORG
+846,NCA,ORG
+847,ATT&CK,ORG
+848,The Linux Foundation,ORG
+849,New Zealand's,GPE
+850,United Kingdom's,GPE
+851,National Crime Agency,ORG
+852,Yahoo,ORG
+853,GRU,PRODUCT
+854,85th,PRODUCT
+855,GTsSS,PRODUCT
+856,Georgia,GPE
+857,The United States,GPE
+858,Government of Canada,ORG
+859,U.S. Department of the Treasury,ORG
+860,U.S. DOJ,ORG
+861,Turla Group,ORG
+862,VENEMOUS BEAR,PERSON
+863,KELA Cybersecurity Intelligence Center,ORG
+864,Recorded Future,ORG
+865,CrowdStrike Blog,ORG
+866,Proofpoint Blog,ORG
+867,Zscaler Blog,ORG
+868,TechTarget,ORG
+869,LookingGlass Cyber,ORG
+870,the Cybersecurity Requirements Center,ORG
+871,GTsST,PRODUCT
+872,the U.S. Treasury Department,ORG
+873,Lazarus Group,ORG
+874,APT38,ORG
+875,BlueNoroff,ORG
+876,Stardust Chollima,ORG
+877,macOS,PRODUCT
+878,AppleJeus,PRODUCT
+879,North Korea’s,GPE
+880,The Lazarus Group,ORG
+881,TraderTraitor,PRODUCT
+882,Node.js,PRODUCT
+883,Electron,PRODUCT
+884,TraderTraitor,ORG
+885,CryptAIS,ORG
+886,Webpack,PRODUCT
+887,UpdateCheckSync,PRODUCT
+888,macOS,ORG
+889,Windows,GPE
+890,Manuscrypt,PRODUCT
+891,Mach-O,PRODUCT
+892,Apple,ORG
+893,DAFOM,ORG
+894,"NameCheap, Inc.",ORG
+895,Electron,ORG
+896,CMHD64V5R8,PRODUCT
+897,AlticGO,PRODUCT
+898,AlticGO,ORG
+899,Esilet,PRODUCT
+900,CreAI Deck,PRODUCT
+901,NetEarth One Inc.,ORG
+902,dropper peexe,PERSON
+903,"10DENCEHISPAHARD, S.L.Created",GPE
+904,cdmon,ORG
+905,10DENCEHISPAHARD,GPE
+906,trojan machoName,PERSON
+907,trojan peexeName,PERSON
+908,Office,PRODUCT
+909,PowerPoint,PRODUCT
+910,LibreOffice,PRODUCT
+911,OpenOffice,PRODUCT
+912,The Department of Energy,ORG
+913,DOE,ORG
+914,Schneider,ORG
+915,ASRock,ORG
+916,MODICON Nano PLCs,PRODUCT
+917,TM251,PRODUCT
+918,TM241,PRODUCT
+919,M258,PRODUCT
+920,M238,PRODUCT
+921,LMC058,PRODUCT
+922,LMC078,PRODUCT
+923,OMRON Sysmac NJ,ORG
+924,NX1P2,PRODUCT
+925,SL3300,PRODUCT
+926,ECC203,PRODUCT
+927,NJ501,PRODUCT
+928,1300,PRODUCT
+929,S8VK,PRODUCT
+930,R88D-1SN10F-ECT,PRODUCT
+931,AsrDrv103.sys,PRODUCT
+932,Schneider Electric Devices,ORG
+933,Schneider Electric,ORG
+934,CODESYS,PRODUCT
+935,Modbus,PRODUCT
+936,OPC UA,PRODUCT
+937,OPC UA security,PRODUCT
+938,Device Guard,PRODUCT
+939,Hypervisor Code Integrity,PRODUCT
+940,Industrial Control Systems Network Protocol Parsers,PRODUCT
+941,ASRock,PRODUCT
+942,OPC UA Applications,PRODUCT
+943,Dragos,PERSON
+944,Dragos,ORG
+945,the Department of Energy,ORG
+946,Russian Federal Security Service,ORG
+947,Russian Federation,ORG
+948,Central Scientific Research Institute of Chemistry and Mechanics,ORG
+949,Havex,PRODUCT
+950,ICS,PRODUCT
+951,Schneider Electric’s,ORG
+952,Triconex Tricon,PRODUCT
+953,the Department of State’s,ORG
+954,DOS,ORG
+955,Signal,ORG
+956,Tor,ORG
+957,Berserk Bear,PRODUCT
+958,TeamSpy,PRODUCT
+959,Koala,PRODUCT
+960,Energy Sector,ORG
+961,ICS,ORG
+962,Energy Sector Organization,ORG
+963,Triconex Tricon PLCs,PRODUCT
+964,U.S.-based,GPE
+965,U.S. Energy Sector,ORG
+966,TRITON,ORG
+967,National Institute of Standard and Technology,ORG
+968,Havex,ORG
+969,Sysinternals Autoruns,PRODUCT
+970,Outlook,PRODUCT
+971,WMI,PRODUCT
+972,scr.exe,PRODUCT
+973,Hydra,PRODUCT
+974,SecretsDump,PRODUCT
+975,CrackMapExec,PRODUCT
+976,Microsoft Office,ORG
+977,Transmission Control Protocol ports 445,PRODUCT
+978,WDigest,PRODUCT
+979,LSASS,ORG
+980,Virtual Network Connection,ORG
+981,Evasion,PRODUCT
+982,TriStation,PRODUCT
+983,Triconex System,ORG
+984,Tristation,PRODUCT
+985,TsHi,PRODUCT
+986,PowerPC,PRODUCT
+987,Tricon PLCs,PRODUCT
+988,Python,ORG
+989,PLCs,PRODUCT
+990,the Tricon PLC,PRODUCT
+991,the State Department,ORG
+992,SATCOM,ORG
+993,Shields Up,ORG
+994,Office of the Director of National Intelligence,ORG
+995,ODNI,ORG
+996,VSAT Communications,PRODUCT
+997,Duo MFA,PRODUCT
+998,NGO,ORG
+999,Duo,ORG
+1000,Duo,PRODUCT
+1001,Windows Operating System,ORG
+1002,Active Directory Domain Services,PRODUCT
+1003,Active Directory user accounts,PRODUCT
+1004,The Onion Router,PRODUCT
+1005,WhisperGate,PRODUCT
+1006,HermeticWiper,PRODUCT
+1007,IsaacWiper,PRODUCT
+1008,HermeticWizard,PRODUCT
+1009,CaddyWiper,PRODUCT
+1010,the Microsoft Threat Intelligence Center,ORG
+1011,MSTIC,ORG
+1012,SentinelLabs,PRODUCT
+1013,STIX,ORG
+1014,SentinelLabs,ORG
+1015,Broadcom Software,ORG
+1016,ESET,ORG
+1017,Broadcom,ORG
+1018,Symantec,ORG
+1019,Apache,PRODUCT
+1020,Enterprise,ORG
+1021,System,ORG
+1022,WhisperGate,ORG
+1023,Putty Secure Shell,PRODUCT
+1024,Telegram Bot,PRODUCT
+1025,STIX,PRODUCT
+1026,the U.S. Cyber Command Cyber National Mission Force,ORG
+1027,MuddyWater,ORG
+1028,Earth Vetala,PRODUCT
+1029,MERCURY,ORG
+1030,Static Kitten,PRODUCT
+1031,Seedworm,PRODUCT
+1032,the Iranian Ministry of Intelligence and Security,ORG
+1033,MOIS,ORG
+1034,PowGoop,PRODUCT
+1035,Small Sieve,PRODUCT
+1036,Canopy,PRODUCT
+1037,Starwhale,PRODUCT
+1038,Mori,PRODUCT
+1039,POWERSTATS,PRODUCT
+1040,MuddyWater APT,ORG
+1041,PowGoop,ORG
+1042,Canopy/Starwhale,PRODUCT
+1043,Google Update,PRODUCT
+1044,Nullsoft Scriptable Install System,PRODUCT
+1045,MuddyWater,PRODUCT
+1046,Microsift,ORG
+1047,Outlook,ORG
+1048,Small Sieve’s,PRODUCT
+1049,Telegram API,PRODUCT
+1050,"Canopy
+MuddyWater",PRODUCT
+1051,Windows Script File,PRODUCT
+1052,Cooperation,ORG
+1053,Visual Basic for Applications,PRODUCT
+1054,Windows Script Files,PRODUCT
+1055,"Mori
+MuddyWater",PRODUCT
+1056,Domain Name System,PRODUCT
+1057,Virus Total,PRODUCT
+1058,OneHub,ORG
+1059,ConnectWise,PRODUCT
+1060,LaZagne,ORG
+1061,Browser64,PRODUCT
+1062,Daniel Bohannon’s,PERSON
+1063,Microsift,PRODUCT
+1064,LaZagne,PRODUCT
+1065,T1033,PRODUCT
+1066,T1049,PRODUCT
+1067,Skype,ORG
+1068,"Process Discovery
+T1057",PRODUCT
+1069,ProgramData,PRODUCT
+1070,Small Sieve beacons,PRODUCT
+1071,Telegram,PRODUCT
+1072,The United States’,GPE
+1073,Telegram Channel,PRODUCT
+1074,CommandHandler,PRODUCT
+1075,Python3,PRODUCT
+1076,Cyclops Blink,PRODUCT
+1077,General Staff Main Intelligence Directorate,ORG
+1078,Main Centre for Special Technologies,ORG
+1079,Cisco Talos,ORG
+1080,Sandworm,PRODUCT
+1081,the Republic of Korea,GPE
+1082,Trendmicro,ORG
+1083,WatchGuard,PRODUCT
+1084,WatchGuard,ORG
+1085,Tor,PRODUCT
+1086,the United States’,GPE
+1087,Department of Homeland Security,ORG
+1088,DHS,ORG
+1089,the Australian Signals Directorate’s,ORG
+1090,U.K.,GPE
+1091,M365 Unified Audit Logs,PRODUCT
+1092,CDCs,ORG
+1093,Department of Defense,ORG
+1094,DoD,ORG
+1095,Intelligence Community,ORG
+1096,CDC,ORG
+1097,U.S. Army,ORG
+1098,U.S. Air Force,ORG
+1099,U.S. Navy,ORG
+1100,U.S. Space Force,ORG
+1101,Intelligence,ORG
+1102,FortiClient,PRODUCT
+1103,the Active Directory (AD),PRODUCT
+1104,M365,ORG
+1105,SharePoint,ORG
+1106,M365,PRODUCT
+1107,BloodHound,PRODUCT
+1108,Sparrow,PRODUCT
+1109,Guest,PRODUCT
+1110,HelpAssistant,PRODUCT
+1111,DefaultAccount,PRODUCT
+1112,krbtgt,ORG
+1113,the Russian Foreign Intelligence Service,ORG
+1114,Kerberos,PRODUCT
+1115,Group Managed Service Accounts,ORG
+1116,gMSA,ORG
+1117,CredGuard,PRODUCT
+1118,Trusted Platform Module,PRODUCT
+1119,UEFI Secure Boot,PRODUCT
+1120,Windows 11,PRODUCT
+1121,TPM v2.0.[11,PRODUCT
+1122,Unified Audit Log,PRODUCT
+1123,Exchange Online,PRODUCT
+1124,Azure AD,PRODUCT
+1125,Teams,PRODUCT
+1126,PowerBI,PRODUCT
+1127,PowerShell 5.0,PRODUCT
+1128,Global Administrator account,PRODUCT
+1129,Azure AD’s,PRODUCT
+1130,Global Administrator,PRODUCT
+1131,Domain Protected Users Group,ORG
+1132,CISA Alert AA20-120A,PRODUCT
+1133,Rewards for Justice Program,ORG
+1134,Department,ORG
+1135,the NSA Cybersecurity Requirements Center,ORG
+1136,Defense Industrial Base,ORG
+1137,MITRE Groups,ORG
+1138,MITRE Software,ORG
+1139,Fysbis,ORG
+1140,Koadic,ORG
+1141,"the United States,[1][2][3",GPE
+1142,the United Kingdom[5,GPE
+1143,Food and Agriculture,ORG
+1144,The Australian Cyber Security Centre,ORG
+1145,The United Kingdom’s,GPE
+1146,the NCSC-UK,ORG
+1147,Health,ORG
+1148,BlackMatter,ORG
+1149,Lockbit 2.0,PRODUCT
+1150,Colonial Pipeline Company,ORG
+1151,JBS Foods,ORG
+1152,Kaseya Limited,ORG
+1153,Education,ORG
+1154,Local Government,ORG
+1155,Local Administrator Password Solution,PRODUCT
+1156,SELinux,PRODUCT
+1157,AppArmor,PRODUCT
+1158,SecComp,PRODUCT
+1159,Action Fraud,ORG
+1160,Strategies to Mitigate Cyber Security Incidents,ORG
+1161,FortiGate,ORG
+1162,WebLogic Server,PRODUCT
+1163,Kibana,ORG
+1164,Pulse,ORG
+1165,M.E.Doc,ORG
+1166,Netlogon,PRODUCT
+1167,APT28,PRODUCT
+1168,the Sandworm Team,PRODUCT
+1169,BlackEnergy 3,PRODUCT
+1170,CrashOveride,PRODUCT
+1171,BlackEnergy,ORG
+1172,Sentinel,PRODUCT
+1173,Hawk,PRODUCT
+1174,Azure Reporting Tool,PRODUCT
+1175,CISA Alert Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments,ORG
+1176,New Technology Local Area Network Manager,ORG
+1177,WDigest Authentication,PRODUCT
+1178,the Computer Emergency Response Team New Zealand,ORG
+1179,CERT NZ,ORG
+1180,Joint Cyber Defense Collaborative,ORG
+1181,Java,PRODUCT
+1182,the Common Vulnerability Scoring System,PRODUCT
+1183,"Log4Shell
+",PRODUCT
+1184,Java 8),PRODUCT
+1185,Apache Log4j Security Vulnerabilities,PRODUCT
+1186,Java 8,PRODUCT
+1187,Java 7,PRODUCT
+1188,CERT,ORG
+1189,Rob Fuller's,PERSON
+1190,The NCC Group’s,ORG
+1191,Nathan Kula’s,PERSON
+1192,Will Dormann’s,PERSON
+1193,Canary Token,PRODUCT
+1194,Thinkst Canary’s,ORG
+1195,Canary Tokens,PRODUCT
+1196,Burpsuite Pro,PRODUCT
+1197,Silent Signal’s,PRODUCT
+1198,PortSwigger,ORG
+1199,NetMap,ORG
+1200,Nmap Scripting Engine,PRODUCT
+1201,Divertor,ORG
+1202,Florian Roth's,PERSON
+1203,Fenrir 0.9.0 - Log4Shell Release,PRODUCT
+1204,Roth,PERSON
+1205,Fenrir,PRODUCT
+1206,2.12.3,PRODUCT
+1207,NCC Group,ORG
+1208,Amazon AWS,ORG
+1209,Curated Intelligence,ORG
+1210,Florian Roth’s,PERSON
+1211,Huntress,ORG
+1212,Microsoft Security Response Center,ORG
+1213,Sigma,ORG
+1214,ManageEngine ServiceDesk Plus,PRODUCT
+1215,ServiceDesk Plus,PRODUCT
+1216,Windows Management Instrumentation (WMI),PRODUCT
+1217,ServiceDesk,ORG
+1218,Godzilla,ORG
+1219,Godzilla,PRODUCT
+1220,csvde,PRODUCT
+1221,ProcessBuilder,PRODUCT
+1222,BufferedReader,PRODUCT
+1223,Gecko,PRODUCT
+1224,TGT,PRODUCT
+1225,Fortigate,PRODUCT
+1226,WinPEAS,PRODUCT
+1227,SharpWMI,PRODUCT
+1228,Windows Remote Management,ORG
+1229,BlackMatter,PRODUCT
+1230,DarkSide,ORG
+1231,VirusTotal,ORG
+1232,SYSVOL,PRODUCT
+1233,NETLOGON,PRODUCT
+1234,SYSVOL,ORG
+1235,U.S. Secret Service Field Office,ORG
+1236,the Cybersecurity and Infrastructure Agency,ORG
+1237,the Environmental Protection Agency,ORG
+1238,EPA,ORG
+1239,WWS,ORG
+1240,the WWS Sector,ORG
+1241,WWS Sector,ORG
+1242,Ghost,PRODUCT
+1243,ZuCaNo,PRODUCT
+1244,Maine,GPE
+1245,SCADA,PRODUCT
+1246,Nevada,GPE
+1247,New Jersey,GPE
+1248,Makop,PRODUCT
+1249,Kansas,GPE
+1250,the Environment Protection Agency,ORG
+1251,WaterISAC,ORG
+1252,The U.S. Department of State,ORG
+1253,American Water Works Association,ORG
+1254,the United States Secret Service,ORG
+1255,IcedID,PRODUCT
+1256,ZLoader,PRODUCT
+1257,Router Scan,PRODUCT
+1258,Sysinternals,PRODUCT
+1259,Windows Server Message Block 1.0,PRODUCT
+1260,Active Directory Domain Controller,PRODUCT
+1261,RAS-4096 public,PRODUCT
+1262,Windows Volume Shadow Copies,PRODUCT
+1263,Office Viewer,PRODUCT
+1264,Advisory,ORG
+1265,Cisco Talos,PERSON
+1266,Talos,PERSON
+1267,ManageEngine ADSelfService Plus,PRODUCT
+1268,U.S.-cleared,GPE
+1269,Dropper,PRODUCT
+1270,NGLite,PRODUCT
+1271,KdcSponge,PRODUCT
+1272,Microsoft Security,ORG
+1273,ZOHO ManageEngine ADSelfService Plus,PRODUCT
+1274,IBM Security Intelligence,ORG
+1275,Java,ORG
+1276,Yara,PERSON
+1277,Palo Alto,GPE
+1278,DarkSide,PRODUCT
+1279,the Food and Agricultural Sector,ORG
+1280,Internet Crime Complaint Center,ORG
+1281,American,NORP
+1282,the Public Power Cyber Incident Response Playbook,PRODUCT
+1283,the Ransomware Response Checklist,PRODUCT
+1284,the FBI Internet Crime Complaint Center,ORG
+1285,QNX Real Time Operating System,PRODUCT
+1286,BadAlloc,PRODUCT
+1287,QNX RTOS,PRODUCT
+1288,Nation,ORG
+1289,QNX,PRODUCT
+1290,Internet of Things,PRODUCT
+1291,QNX Momentics Development Suite,PRODUCT
+1292,QNX Momentics,PRODUCT
+1293,"QNX Neutrino RTOS Certified Plus
+ ",PRODUCT
+1294,"QNX Neutrino RTOS for Medical Devices
+ ",PRODUCT
+1295,"QNX OS for Automotive Safety
+ ",PRODUCT
+1296,"QNX OS for Safety
+ ",PRODUCT
+1297,U.S. Coast Guard,ORG
+1298,U.S. Nuclear Regulatory Commission,ORG
+1299,Blackberry,ORG
+1300,U.S. Environmental Protection Agency,ORG
+1301,the U.S. Cybersecurity and Infrastructure Security Agency,ORG
+1302,the U.S. Federal Bureau of Investigation,ORG
+1303,Telerik,ORG
+1304,Pulse,PRODUCT
+1305,the United States.[4][5,GPE
+1306,Pulse Connect Secure VPN,PRODUCT
+1307,Pulse VPN,PRODUCT
+1308,Singapore,GPE
+1309,the Atlassian Crow,PRODUCT
+1310,Pulse Secure Connect VPN (CVE 2019-,PRODUCT
+1311,Pulse Secure Connect,PRODUCT
+1312,DoJ,ORG
+1313,Apt41,ORG
+1314,Crypt3,PRODUCT
+1315,Phantom,PRODUCT
+1316,Vjszy1lo,PRODUCT
+1317,FortiOS 6.0.0,PRODUCT
+1318,"The Traffic Management User Interface (TMUI), also referred to as the Configuration Utility",PRODUCT
+1319,the Configuration Utility,PRODUCT
+1320,Appliance,PRODUCT
+1321,MobileIron Core,PRODUCT
+1322,Connector,PRODUCT
+1323,Sentry,ORG
+1324,Exchange Server 2019,PRODUCT
+1325,GandCrab,PRODUCT
+1326,Confluence Data Center,PRODUCT
+1327,Microsoft Office Memory Corruption Vulnerability,PRODUCT
+1328,Microsoft Equation Editor,PRODUCT
+1329,Equation Editor,PRODUCT
+1330,EMET,PRODUCT
+1331,Windows Defender Exploit Guard,PRODUCT
+1332,the Equation Editor,PRODUCT
+1333,Security Essentials,PRODUCT
+1334,the Microsoft Safety Scanner,PRODUCT
+1335,Office 2007,PRODUCT
+1336,Office 2010,PRODUCT
+1337,Office 2013,PRODUCT
+1338,pdkinstall,PRODUCT
+1339,Crowd,ORG
+1340,Crowd Data Center,ORG
+1341,Crowd,PRODUCT
+1342,Drupal,ORG
+1343,Muhstik,ORG
+1344,Drupal 8.5.1,PRODUCT
+1345,Dan Sharvit,PERSON
+1346,Telerik User Interface,PRODUCT
+1347,Reverse Shell,PRODUCT
+1348,Netwalker,PRODUCT
+1349,Blue,ORG
+1350,Mockbird,PRODUCT
+1351,Monero,PRODUCT
+1352,Telerik UI,PRODUCT
+1353,Application Windows,PRODUCT
+1354,Bishop Fox,PERSON
+1355,Layouts,PRODUCT
+1356,Sharepoint,PRODUCT
+1357,SharePoint 2013,PRODUCT
+1358,SP1,PRODUCT
+1359,SharePoint 2010,PRODUCT
+1360,SP2,PRODUCT
+1361,Maze,PRODUCT
+1362,Egregor,PRODUCT
+1363,Windows 7,PRODUCT
+1364,Systems Service Pack 1,PRODUCT
+1365,8.1,PRODUCT
+1366,RT 8.1,PRODUCT
+1367,Systems,ORG
+1368,10 1607,PRODUCT
+1369,ARM64,PRODUCT
+1370,Windows Server 2008 R2,PRODUCT
+1371,R2,PRODUCT
+1372,Systems Service Pack 2,PRODUCT
+1373,MS-NRPC,PRODUCT
+1374,MobileIron,ORG
+1375,Netlogon,ORG
+1376,Windows Event Logs,PRODUCT
+1377,Windows Server 2019,PRODUCT
+1378,Windows Server 2012 R2,PRODUCT
+1379,Windows Server 2012,PRODUCT
+1380,Windows Server 2008 R2 SP1,PRODUCT
+1381,The ACSC Partnership Program,ORG
+1382,MobileIron Vu,PRODUCT
+1383,APT10,PRODUCT
+1384,ONG,ORG
+1385,Windows NT 5.2,PRODUCT
+1386,SV1,PRODUCT
+1387,.NET CLR 1.1.4322,PRODUCT
+1388,.NET CLR 2.0.50727,PRODUCT
+1389,MSIE 8.0,PRODUCT
+1390,Windows NT 5.1,PRODUCT
+1391,.NET CLR 3.0.4506.2152,PRODUCT
+1392,.NET CLR 3.5.30729,PRODUCT
+1393,the Defense Industrial Base,ORG
+1394,F5 Big-IP,PRODUCT
+1395,U.S.-China,GPE
+1396,D3FEND,PRODUCT
+1397,OWA,PRODUCT
+1398,"Pulse Secure, LLC",ORG
+1399,Apache Software Foundation,ORG
+1400,F5 Networks,ORG
+1401,Strategic Cyber LLC,ORG
+1402,"GitHub, Inc.",ORG
+1403,JavaScript,PRODUCT
+1404,Oracle Corporation,ORG
+1405,Python Software Foundation,ORG
+1406,Unix,PRODUCT
+1407,The Open Group,ORG
+1408,Linus Torvalds,PERSON
+1409,Dropbox,PRODUCT
+1410,"Dropbox, Inc.",ORG
+1411,365,PRODUCT
+1412,Windows Defender® Exploit Guard,PRODUCT
+1413,Microsoft Exchange® Outlook Web Access,PRODUCT
+1414,the Email Security Gateway,PRODUCT
+1415,Persistence,PRODUCT
+1416,JavaScript/Jscript Interpreter,PRODUCT
+1417,schtask,PRODUCT
+1418,crontab,PRODUCT
+1419,Windows Task Scheduler,PRODUCT
+1420,China Chopper shell,PRODUCT
+1421,CreateRemoteThread,PRODUCT
+1422,VirtualAllocEx,PRODUCT
+1423,WriteProcessMemory,PRODUCT
+1424,Local Security Authority Subsystem Service,PRODUCT
+1425,Windows 8.1,PRODUCT
+1426,LSA,ORG
+1427,7-Zip,PRODUCT
+1428,Zip,PRODUCT
+1429,RAR,PRODUCT
+1430,the Antimalware Scan Interface (AMSI) on Windows 10,PRODUCT
+1431,Rundll32,PRODUCT
+1432,Nbtscan,PRODUCT
+1433,nmap,PRODUCT
+1434,New-MailboxExportRequest PowerShell,PRODUCT
+1435,FireEye,PRODUCT
+1436,APT41,PRODUCT
+1437,APT40,PRODUCT
+1438,BRONZE MOHAWK,PRODUCT
+1439,FEVERDREAM,PRODUCT
+1440,G0065,PRODUCT
+1441,Gadolinium,PRODUCT
+1442,GreenCrash,PRODUCT
+1443,Hellsing,PRODUCT
+1444,Kryptonite Panda,PRODUCT
+1445,Leviathan,PRODUCT
+1446,MUDCARP,PRODUCT
+1447,Periscope,PRODUCT
+1448,Temp,PRODUCT
+1449,.,PRODUCT
+1450,Jumper,PRODUCT
+1451,Haikou,GPE
+1452,Hainan Province,GPE
+1453,APT40,ORG
+1454,Hainan Xiandun Technology Development Company,ORG
+1455,Hainan Xiandun,ORG
+1456,Wu Shurong,PERSON
+1457,Ministry of State Security,ORG
+1458,MSS,ORG
+1459,Hainan State Security Department,ORG
+1460,HSSD,ORG
+1461,Ding Xiaoyang,PERSON
+1462,Zhu Yunmin,PERSON
+1463,Cheng Qingmin,PERSON
+1464,CNE,ORG
+1465,Wu,PERSON
+1466,Putty,PRODUCT
+1467,Orz/,PRODUCT
+1468,PowerShell Empire,PRODUCT
+1469,Web Shell,PRODUCT
+1470,Dropbox,ORG
+1471,Secure Shell (,PRODUCT
+1472,PuTTY,PRODUCT
+1473,U.S.-Chi,GPE
+1474,Constant Contact,ORG
+1475,Nobelium,ORG
+1476,"Cozy Bear).[2,3",PRODUCT
+1477,Cobalt Strike Beacon,PRODUCT
+1478,The Cobalt Strike Beacon,PRODUCT
+1479,"Constant Contact, Inc.",ORG
+1480,Macintosh,ORG
+1481,Rozena,PRODUCT
+1482,Beacon,PRODUCT
+1483,Win32,PRODUCT
+1484,Razy,PRODUCT
+1485,Khalesi,PRODUCT
+1486,Cobalt Strike C2,PRODUCT
+1487,Droptop GmbHResolutions,ORG
+1488,Cobalt Strike,ORG
+1489,Endpoint,PRODUCT
+1490,365 Defense,PRODUCT
+1491,Volexity Blog,ORG
+1492,NOBELIUM,ORG
+1493,The Cybersecurity and Infrastructure Security Agency,ORG
+1494,Volume Shadow,PRODUCT
+1495,Salsa20,PRODUCT
+1496,The Onion Router (TOR,PRODUCT
+1497,the Software Engineering Institute’s,ORG
+1498,Department of Energy,ORG
+1499,Transportation Security Agency,ORG
+1500,Colonial Pipeline,ORG
+1501,Varonis,PERSON
+1502,McAfee,ORG
+1503,Dukes,ORG
+1504,CozyBear,PRODUCT
+1505,Yttrium,PRODUCT
+1506,the White House,ORG
+1507,SolarWinds,PRODUCT
+1508,NMAP,PRODUCT
+1509,WELLMESS,PRODUCT
+1510,Go,PRODUCT
+1511,the Office of the Director of National Intelligence,ORG
+1512,CSE,ORG
+1513,Ivanti,ORG
+1514,the Pulse Secure Connect Integrity Tool,PRODUCT
+1515,Ivanti Pulse Connect Secure,PRODUCT
+1516,the Pulse Secure Connect Integrity Tool,PRODUCT
+1517,KB44755 - Pulse Connect Secure,PRODUCT
+1518,the Pulse Secure Connect Integrity Tool,PRODUCT
+1519,FireEye,ORG
+1520,Chrome,PRODUCT
+1521,Firefox,PRODUCT
+1522,JA3,PRODUCT
+1523,the Pulse Secure Connect Integrity Tool Quick Start Guide and,PRODUCT
+1524,the Pulse Secure Connect Integrity Tool.,PRODUCT
+1525,Ivanti Pulse Secure’s,PRODUCT
+1526,the Pulse Secure Integrity Checker,PRODUCT
+1527,The Integrity Checker Tool,PRODUCT
+1528,PCS,PRODUCT
+1529,the Integrity Checker Tools,PRODUCT
+1530,Ivanti Pulse Secure,ORG
+1531,PCS,ORG
+1532,the Pulse Secure Connect Integrity Tool,PRODUCT
+1533,CHIRP,PRODUCT
+1534,Alert,PRODUCT
+1535,Azure,PRODUCT
+1536,CHIRP Overview,PRODUCT
+1537,Windows Registry,ORG
+1538,IOC,ORG
+1539,CHIRP,ORG
+1540,SolarWinds Orion,PRODUCT
+1541,CISA Alerts,PRODUCT
+1542,AA20-352A,PRODUCT
+1543,AA21-008A.,PRODUCT
+1544,Ingress Tool Transfer,PRODUCT
+1545,the Server Message Block (SMB) Protocol,PRODUCT
+1546,Unified Extensible Firmware Interface or Basic Input/Output System [UEFI/BIOS,PRODUCT
+1547,TrickBot,ORG
+1548,Filezilla,PRODUCT
+1549,OpenSSH,PRODUCT
+1550,OpenVPN,PRODUCT
+1551,WinSCP,PRODUCT
+1552,KeePass,ORG
+1553,Internet Explorer,PRODUCT
+1554,Edge,PRODUCT
+1555,Discovery,ORG
+1556,"Tactic
+",PRODUCT
+1557,T1018,PRODUCT
+1558,T1069,PRODUCT
+1559,T1082,PRODUCT
+1560,Nltest,ORG
+1561,the SMB Protocol,PRODUCT
+1562,Eclypsium,ORG
+1563,MITRE ATT&CKs,PRODUCT
+1564,the People's Republic of China,GPE
+1565,Exchange Servers,PRODUCT
+1566,Exchange Online,ORG
+1567,Microsoft 365,ORG
+1568,O365,ORG
+1569,Exchange,PRODUCT
+1570,Unified Messaging,PRODUCT
+1571,Microsoft Security Intelligence,ORG
+1572,DearCry,PRODUCT
+1573,Field Office,ORG
+1574,Test-ProxyLogon.ps1,PRODUCT
+1575,the Exchange On-premises Mitigation Tool,PRODUCT
+1576,Exchange Server,ORG
+1577,EOMT.ps1,PRODUCT
+1578,China Chopper Webshell,PRODUCT
+1579,Exchange Servers,ORG
+1580,ASPX,ORG
+1581,Webshell,PRODUCT
+1582,SPORTSBALL,ORG
+1583,the Federal Government,ORG
+1584,FTK Imager,PRODUCT
+1585,AccessData,ORG
+1586,Ram Capture,PRODUCT
+1587,Belkasoft,ORG
+1588,Windows Event,PRODUCT
+1589,Kroll Artifact Parser,PRODUCT
+1590,The United States Government,ORG
+1591,Memory Capture with FTK Imager.pdf,PRODUCT
+1592,FTK Imager.exe,PRODUCT
+1593,KAPE Collection Procedure,PRODUCT
+1594,KAPE,PRODUCT
+1595,FTK Imager”,PRODUCT
+1596,Capture Memory,PRODUCT
+1597,FTK Imager –,PRODUCT
+1598,Target,ORG
+1599,KAPE,ORG
+1600,Bitdefender,ORG
+1601,ComboFix,ORG
+1602,FSecure,ORG
+1603,HitmanPro,ORG
+1604,Malwarebytes,ORG
+1605,RogueKiller,ORG
+1606,SentinelOne,ORG
+1607,Sophos,ORG
+1608,TrendMicro,ORG
+1609,VIPRE,ORG
+1610,Webroot,ORG
+1611,WindowsDefender,PRODUCT
+1612,Ammyy,ORG
+1613,AsperaConnect,ORG
+1614,BoxDrive,ORG
+1615,CiscoJabber,ORG
+1616,CloudStorage,ORG
+1617,ConfluenceLogs,ORG
+1618,Discord,ORG
+1619,ExchangeClientAccess,ORG
+1620,ExchangeTransport,ORG
+1621,FileZilla,ORG
+1622,GoogleDrive,ORG
+1623,iTunesBackup,ORG
+1624,JavaWebCache,PRODUCT
+1625,Kaseya,PRODUCT
+1626,LogMeIn,PRODUCT
+1627,Notepad++,PRODUCT
+1628,OutlookPSTOST,ORG
+1629,ScreenConnect,ORG
+1630,TeamViewerLogs,PRODUCT
+1631,TeraCopy,PRODUCT
+1632,VNCLogs,ORG
+1633,ChromeExtensions,PRODUCT
+1634,InternetExplorer,PRODUCT
+1635,WebBrowsers,PRODUCT
+1636,ApacheAccessLog,PRODUCT
+1637,ManageEngineLogs,PRODUCT
+1638,MSSQLErrorLog,PRODUCT
+1639,Exchange Server 2010,PRODUCT
+1640,Exchange Server 2013,PRODUCT
+1641,Exchange Server 2016,PRODUCT
+1642,Exchange Server Vulnerabilities Mitigations,PRODUCT
+1643,Exchange Admin Center,ORG
+1644,Microsoft Security Blog,ORG
+1645,Hafnium,ORG
+1646,Eric Zimmerman,PERSON
+1647,DearCry Ransomware,PRODUCT
+1648,"New Zealand,[2",GPE
+1649,"the United Kingdom,[4",GPE
+1650,the United States.[5][6,GPE
+1651,FTA,ORG
+1652,Accellion FTA,ORG
+1653,the Cyber Security Agency,ORG
+1654,Center for Internet Security,ORG
+1655,New Zealand National Cyber Security Centre,ORG
+1656,Singapore Cyber Security Agency,ORG
+1657,Multi-State Information Sharing and Analysis Center,ORG
+1658,the Department of Treasury,ORG
+1659,the Democratic People’s Republic of Korea,GPE
+1660,North Korean,GPE
+1661,FASTCash 2.0,PRODUCT
+1662,North Korea's,GPE
+1663,AppleJeus,ORG
+1664,Argentina,GPE
+1665,Belgium,GPE
+1666,Brazil,GPE
+1667,Denmark,GPE
+1668,Estonia,GPE
+1669,Hong Kong,GPE
+1670,Hungary,GPE
+1671,India,GPE
+1672,Ireland,GPE
+1673,Israel,GPE
+1674,Japan,GPE
+1675,Luxembourg,GPE
+1676,Malta,GPE
+1677,Saudi Arabia,GPE
+1678,Slovenia,GPE
+1679,South Korea,GPE
+1680,Spain,GPE
+1681,Sweden,GPE
+1682,Turkey,GPE
+1683,Celas Trade Pro,PRODUCT
+1684,Q.T. Bitcoin Trader,PRODUCT
+1685,FALLCHILL,PRODUCT
+1686,Celas LLC,ORG
+1687,Celas,ORG
+1688,Sectigo,ORG
+1689,Comodo,ORG
+1690,an MSI Installer,PRODUCT
+1691,MSI Installer,PRODUCT
+1692,MSI,ORG
+1693,CelasTradePro.exe,PRODUCT
+1694,"macOS X Program
+The macOS version",PRODUCT
+1695,DMG Installer,PRODUCT
+1696,CelasTradePro,PRODUCT
+1697,LaunchDaemons,PRODUCT
+1698,Finder,PRODUCT
+1699,Terminal,PRODUCT
+1700,Updater,PRODUCT
+1701,LaunchDaemon,PRODUCT
+1702,JMT Trading,ORG
+1703,jmttrading[.]org,ORG
+1704,JMT Trading’s,ORG
+1705,macOS X,PRODUCT
+1706,JMT Trader,PRODUCT
+1707,Let’s Encrypt,ORG
+1708,Installer,PRODUCT
+1709,CrashReporter.exe,PRODUCT
+1710,ADVObfuscation,PRODUCT
+1711,JMTCrashReporter,PRODUCT
+1712,a DMG Installer,PRODUCT
+1713,JMTTrader,PRODUCT
+1714,CrashReporter,PRODUCT
+1715,.CrashReporter,PRODUCT
+1716,CelasTradePro,ORG
+1717,the macOS X JMT Trader,PRODUCT
+1718,C2,ORG
+1719,Union Crypto,ORG
+1720,VirusTotal,PRODUCT
+1721,UnionCryptoTrader,PRODUCT
+1722,UnionCryptoTrader.exe,PRODUCT
+1723,Blackbird Bitcoin Arbitrage.[8,PRODUCT
+1724,Union Crypto Trader,ORG
+1725,Blackbird Bitcoin Arbitrage,PRODUCT
+1726,.unioncryptoupdater,PRODUCT
+1727,Root,PRODUCT
+1728,Union Crypto,PRODUCT
+1729,JMT Trader,ORG
+1730,FALLCHILL,ORG
+1731,Union Crypto Trader,PRODUCT
+1732,UnionCryptoUpdater,PRODUCT
+1733,Kupay Wallet,PRODUCT
+1734,"CrownCloud US, LLC",ORG
+1735,New York,GPE
+1736,NY,GPE
+1737,KupayUpgrade.exe,PRODUCT
+1738,Kupay.exe,PRODUCT
+1739,Copay,PRODUCT
+1740,Atlanta,GPE
+1741,BitPay,ORG
+1742,Kupay,PRODUCT
+1743,CheckUpdate,PRODUCT
+1744,Kupay Wallet 9.0.1,PRODUCT
+1745,KupayDaemon,PRODUCT
+1746,CoinGoTrade,ORG
+1747,CoinGoTrade[.]com,ORG
+1748,NameCheap Inc.,ORG
+1749,ASN,ORG
+1750,GA,GPE
+1751,CoinGoTrade,PRODUCT
+1752,CoinGoTradeUpgradeDaemon,PRODUCT
+1753,prtspool,PRODUCT
+1754,Dorusio,ORG
+1755,the Dorusio Wallet,PRODUCT
+1756,DorusioUpgrade.exe,PRODUCT
+1757,Dorusio,PRODUCT
+1758,DorusioDaemon,PRODUCT
+1759,the Kupay Wallet,PRODUCT
+1760,Dorusio Wallet 2.1.0,PRODUCT
+1761,/Library/Application Support,ORG
+1762,Kupay,ORG
+1763,Ants2Whale,PRODUCT
+1764,Windows Program,PRODUCT
+1765,macOS X Program,PRODUCT
+1766,Ants2WhaleHelper,PRODUCT
+1767,Federal Financial Institutions Examination Council,ORG
+1768,FFIEC,ORG
+1769,Syslog,PRODUCT
+1770,OpenBSM,PRODUCT
+1771,OSquery,PRODUCT
+1772,PowerSploit,PRODUCT
+1773,PowerUp,PRODUCT
+1774,Treasury Office of Cybersecurity and Critical Infrastructure Protection,ORG
+1775,Department of the Treasury,ORG
+1776,Department of Justice,ORG
+1777,Command and Scripting Interpreter,PRODUCT
+1778,TeamViewer,PRODUCT
+1779,Pinellas County Sheriff Office,ORG
+1780,PCSO,ORG
+1781,U.S. Secret Service,ORG
+1782,Remote Access Trojans,PRODUCT
+1783,TeamViewer,ORG
+1784,The xDedic Marketplace,ORG
+1785,Azure Active Directory,PRODUCT
+1786,Solorigate,PRODUCT
+1787,O365,PRODUCT
+1788,Advanced Threat Protection,PRODUCT
+1789,Azure Sentinel,PRODUCT
+1790,Azure,ORG
+1791,Aviary,PRODUCT
+1792,Splunk,PRODUCT
+1793,M365/Azure AD,PRODUCT
+1794,G5,PRODUCT
+1795,E5,PRODUCT
+1796,Sparrow,ORG
+1797,"Hawk
+Hawk",PRODUCT
+1798,Hawk,ORG
+1799,Active Directory Federation Services,PRODUCT
+1800,Domain Controllers,PRODUCT
+1801,SAML,ORG
+1802,the Service Provider,PRODUCT
+1803,Microsoft Cloud,ORG
+1804,Azure/M365,PRODUCT
+1805,the Azure Portal,PRODUCT
+1806,the M365 Unified Access Log,PRODUCT
+1807,CRT,ORG
+1808,Sysmon,ORG
+1809,Federation Service,ORG
+1810,ADFS,ORG
+1811,Azure Sentinel.).[10,PRODUCT
+1812,Global Admins,ORG
+1813,Azure AD Graph,PRODUCT
+1814,Graph API,PRODUCT
+1815,Aviary Dashboard,PRODUCT
+1816,Alert,ORG
+1817,Orion Platform 2019.4 HF5,PRODUCT
+1818,Orion Platform 2020.2 RC1,PRODUCT
+1819,Orion Platform 2020.2 RC2,PRODUCT
+1820,Orion Platform 2020.2,PRODUCT
+1821,Orion Platform 2020.2 HF1,PRODUCT
+1822,Outlook Web App,PRODUCT
+1823,avsvmcloud[.]com,ORG
+1824,Canonical Name record,ORG
+1825,RFC,ORG
+1826,SolarWinds Orion,ORG
+1827,SolarWinds Orion Platform,PRODUCT
+1828,JWICS,ORG
+1829,Orion Products,PRODUCT
+1830,Orion Platforms,PRODUCT
+1831,Sunburst,PRODUCT
+1832,Amazon,ORG
+1833,SUNBURST,ORG
+1834,Lockheed Martin,ORG
+1835,Nefilim,PRODUCT
+1836,AKO,PRODUCT
+1837,Sodinokibi/REvil,PRODUCT
+1838,ZeuS,PRODUCT
+1839,Shlayer,PRODUCT
+1840,MacOS,PRODUCT
+1841,Flash,PRODUCT
+1842,MacOS,ORG
+1843,EOL,ORG
+1844,Edtech,ORG
+1845,The MS-ISAC,ORG
+1846,Visual Basic,PRODUCT
+1847,Acunetix,ORG
+1848,Acunetix,PRODUCT
+1849,Acunetix Scanning,ORG
+1850,OWASP,ORG
+1851,Cyber Division,ORG
+1852,BazarLoader,PRODUCT
+1853,BazarBackdoor)—as,PRODUCT
+1854,Dyre,PRODUCT
+1855,Anchor,PRODUCT
+1856,Readme.md,PRODUCT
+1857,BazarBackdoor,PRODUCT
+1858,Bazar,PRODUCT
+1859,Google Drive,PRODUCT
+1860,Google Documents,PRODUCT
+1861,BazarLocker,PRODUCT
+1862,KEGTAP,PRODUCT
+1863,BEERBOT,PRODUCT
+1864,SINGLEMALT,PRODUCT
+1865,Ryuk,ORG
+1866,Hermes,PRODUCT
+1867,HERMES,PRODUCT
+1868,Bloodhound,PRODUCT
+1869,Volume Shadow Copies,PRODUCT
+1870,RyukReadMe,ORG
+1871,Protonmail,PRODUCT
+1872,RyukReadMe,PRODUCT
+1873,GetIpNetTable,PRODUCT
+1874,Windows Vista,PRODUCT
+1875,CreateToolhelp32Snapshot,PRODUCT
+1876,GetLogicalDrives,PRODUCT
+1877,GetDriveTypeW,PRODUCT
+1878,GetWindowsDirectoryW,PRODUCT
+1879,VirtualAlloc,PRODUCT
+1880,vssadmin,ORG
+1881,HPH,ORG
+1882,Multi-State Information Sharing and Analysis Center (,ORG
+1883,H-ISAC,ORG
+1884,the HHS Health Sector Cybersecurity Coordination Center,ORG
+1885,ISAO,ORG
+1886,The Ransomware Response Checklist,PRODUCT
+1887,MS-ISAC's,ORG
+1888,The Food and Drug Administration,ORG
+1889,HC3,PRODUCT
+1890,Firewall,PRODUCT
+1891,"Centralized Cyber Incident Reporting
+",ORG
+1892,Kimsuky,ORG
+1893,HIDDEN COBRA,ORG
+1894,Korean,NORP
+1895,South Korean,NORP
+1896,Seoul,GPE
+1897,inter-Korean,NORP
+1898,Kimsuky,PERSON
+1899,BabyShark,PRODUCT
+1900,Kimsuky,PRODUCT
+1901,the Windows Command Shell for Execution,PRODUCT
+1902,Visual Basic Script,PRODUCT
+1903,the Google Chrome Web Store,ORG
+1904,Google+,ORG
+1905,Boot,PRODUCT
+1906,GREASE,PRODUCT
+1907,Hangul Word Processor,PRODUCT
+1908,Registry,ORG
+1909,HWP,ORG
+1910,Hypertext Processor,PRODUCT
+1911,Win7Elevate,PRODUCT
+1912,the User Account Control,PRODUCT
+1913,Dynamic Link Library,PRODUCT
+1914,Windows Security Center,ORG
+1915,Win7Elevatve,PRODUCT
+1916,ProcDump,PRODUCT
+1917,Chrome Web Store,PRODUCT
+1918,MECHANICAL,PRODUCT
+1919,Nirsoft SniffPass,PRODUCT
+1920,PHProxy,PRODUCT
+1921,Discovery,PRODUCT
+1922,"Collection
+Kimsuky",PRODUCT
+1923,Mac OS,ORG
+1924,Mac OS,PRODUCT
+1925,TeamViewer Client,PRODUCT
+1926,the TeamViewer Client,PRODUCT
+1927,CYWARE Social,ORG
+1928,Babyshark,PRODUCT
+1929,Securityweek.com,ORG
+1930,PwC,ORG
+1931,Kim,PERSON
+1932,Palo Alto Networks Unit,ORG
+1933,McAfee,PERSON
+1934,anti-American,NORP
+1935,F5 VPNs,PRODUCT
+1936,ASP.NET AJAX,PRODUCT
+1937,Progress Telerik,ORG
+1938,Berserk Bear,PERSON
+1939,Energetic Bear,PERSON
+1940,Turkish,NORP
+1941,FortiOS 5.4,PRODUCT
+1942,AppLocker,PRODUCT
+1943,Secure Shell [,PRODUCT
+1944,MobileIron,PRODUCT
+1945,FortiOS VPN,PRODUCT
+1946,FortiOS SSL VPN,PRODUCT
+1947,FortiOS SSL,PRODUCT
+1948,MobileIron Core &,PRODUCT
+1949,Windows Netlogon Remote Protocol,PRODUCT
+1950,Active Directory.[3,PRODUCT
+1951,Citrix ADC,PRODUCT
+1952,Link Controller,PRODUCT
+1953,Pulse Policy Secure,PRODUCT
+1954,Server 2008 R2,PRODUCT
+1955,MobileIron Blog,ORG
+1956,Emotet,ORG
+1957,MSIE 7.0,PRODUCT
+1958,Windows NT 6.1,PRODUCT
+1959,WOW64,PRODUCT
+1960,Trident/7.0,PRODUCT
+1961,SLCC2,PRODUCT
+1962,.NET CLR 3.0.30729,PRODUCT
+1963,Media Center PC 6.0,PRODUCT
+1964,.NET4.0C,PRODUCT
+1965,.NET4.0E,PRODUCT
+1966,InfoPath.3,PRODUCT
+1967,.NET CLR,PRODUCT
+1968,Server Message Block exploitation,PRODUCT
+1969,non-U.S.,NORP
+1970,Proofpoint,ORG
+1971,France,GPE
+1972,MS-ISAC Ransomware Guide,ORG
+1973,Quebec,GPE
+1974,"Windows 10 Mobile’ and Outd…
+[10] Palo Alto Networks",PRODUCT
+1975,The U.S. Intelligence Community,ORG
+1976,the Chinese People’s Liberation Army,ORG
+1977,PLA,ORG
+1978,APT10,ORG
+1979,Equifax,ORG
+1980,Shodan,PRODUCT
+1981,"Beacon
+",PRODUCT
+1982,PoisonIvy,PRODUCT
+1983,China Chopper Web Shell,PRODUCT
+1984,File Transfer Protocol,PRODUCT
+1985,UPS Team,ORG
+1986,Adobe Flash Player,PRODUCT
+1987,Command and Control (,ORG
+1988,APT3,PRODUCT
+1989,Rivest Cypher 4,PRODUCT
+1990,MenuPass Group,ORG
+1991,Codoso,PRODUCT
+1992,Deep Panda,PRODUCT
+1993,Hyper Text Transfer Protocol (HTTP)/Hyper Text Transfer Protocol Secure,PRODUCT
+1994,Double Dragon,PRODUCT
+1995,NetScaler/ADC,PRODUCT
+1996,Zoho ManageEngine Desktop Central,PRODUCT
+1997,SP3,PRODUCT
+1998,Gold,PRODUCT
+1999,Office 2003,PRODUCT
+2000,Web Components SP3,PRODUCT
+2001,SQL Server 2000,PRODUCT
+2002,SP4,PRODUCT
+2003,BizTalk Server,PRODUCT
+2004,Commerce Server 2002,PRODUCT
+2005,Visual FoxPro 8.0,PRODUCT
+2006,Analytics,PRODUCT
+2007,Windows Server 2008,PRODUCT
+2008,Server Core,PRODUCT
+2009,Sentry,PRODUCT
+2010,ColdFusion 11 Update 13,PRODUCT
+2011,Coherence,PRODUCT
+2012,Fusion Middleware Middleware,PRODUCT
+2013,Jira,ORG
+2014,Widget Connector macro,PRODUCT
+2015,ManageEngine Desktop Central,PRODUCT
+2016,Windows RT 8.1,PRODUCT
+2017,Systems Service Pack,PRODUCT
+2018,NCS,ORG
+2019,Draytek,ORG
+2020,Congressional Research Services,ORG
+2021,Council on Foreign Relations,ORG
+2022,Rod J. Rodenstein,PERSON
+2023,William P. Barr,PERSON
+2024,Lokibot,PRODUCT
+2025,Loki PWS,PRODUCT
+2026,Loki,PRODUCT
+2027,Android,PRODUCT
+2028,Trend Micro,ORG
+2029,FortiGuard SE,ORG
+2030,Netskope,ORG
+2031,Windows Installer,PRODUCT
+2032,SfyLabs,ORG
+2033,Android,ORG
+2034,Check Point,ORG
+2035,Dr.,ORG
+2036,Web,ORG
+2037,LokiBot,ORG
+2038,Hypertext Transfer Protocol,PRODUCT
+2039,Secure File Transfer Protocol,PRODUCT
+2040,Safari,PRODUCT
+2041,Chromium,PRODUCT
+2042,Mozilla,ORG
+2043,Active Directory,ORG
+2044,ZDNet,ORG
+2045,SecurityWeek,ORG
+2046,New Jersey Cybersecurity & Communications Integration Cell,GPE
+2047,Pioneer Kitten,ORG
+2048,UNC757,ORG
+2049,Citrix NetScaler,PRODUCT
+2050,Nmap,PRODUCT
+2051,ngrok,PRODUCT
+2052,Lightweight Directory Access Protocol,PRODUCT
+2053,ChunkyTuna,PRODUCT
+2054,Tiny,PRODUCT
+2055,Transmission Control Protocol (TCP),PRODUCT
+2056,Chopper,PRODUCT
+2057,"FRPC
+",PRODUCT
+2058,"Chisel
+",PRODUCT
+2059,"ngrok
+",PRODUCT
+2060,"Nmap
+",PRODUCT
+2061,Angry IP Scanner,PRODUCT
+2062,"Drupwn
+",PRODUCT
+2063,Drupwn,PRODUCT
+2064,Chisel,PRODUCT
+2065,NetScaler,PRODUCT
+2066,"Windows Command Shell
+",PRODUCT
+2067,the Local Security Authority Subsystem Service,PRODUCT
+2068,Windows NT Directory Services,PRODUCT
+2069,Volume Shadow Copy,PRODUCT
+2070,kee.ps1,PRODUCT
+2071,WizTree,PRODUCT
+2072,Softerra LDAP Browser,PRODUCT
+2073,Google Chrome,PRODUCT
+2074,TightVNC,PRODUCT
+2075,PSEXECSVC,PRODUCT
+2076,Windows Active Directory,PRODUCT
+2077,the National Cybersecurity Protection System,ORG
+2078,the People’s Republic of China,GPE
+2079,Roshal Archive Compressed,PRODUCT
+2080,PRE-ATT&CK® Framework,PRODUCT
+2081,CVE,ORG
+2082,Pulse Secure VPN Servers,PRODUCT
+2083,Exploit-DB.[10][11,PRODUCT
+2084,"China Chopper Web Shell
+
+
+",PRODUCT
+2085,Exploit-DB,PRODUCT
+2086,Citrix Application Delivery Controllers,PRODUCT
+2087,a Remote Desktop Protocol,PRODUCT
+2088,U.S. Department of Justice,ORG
+2089,"New Zealand,[3][4",GPE
+2090,"the United Kingdom,[5",GPE
+2091,the United States.[6,GPE
+2092,WinZip,PRODUCT
+2093,Linux/Unix,ORG
+2094,Volume Shadow Copy Service,ORG
+2095,the Active Directory (,PRODUCT
+2096,the Domain Controller,PRODUCT
+2097,kbrtgt,ORG
+2098,SYSTEM32,PRODUCT
+2099,PowerShell Constrained Language,PRODUCT
+2100,non-Windows,ORG
+2101,Windows Server 2003,PRODUCT
+2102,SELINUX,PRODUCT
+2103,yum,ORG
+2104,apt,PRODUCT
+2105,Managed Trusted Internet Protocol Services,ORG
+2106,Trusted Internet Connections,ORG
+2107,the Security and Compliance Center,ORG
+2108,USCYBERCOM,ORG
+2109,ELECTRICFISH,PRODUCT
+2110,BeagleBoyz,ORG
+2111,Lazarus,ORG
+2112,Bluenoroff,ORG
+2113,Stardust Chollima,PRODUCT
+2114,FASTCash,ORG
+2115,the United Nations (UN) DPRK Panel of Experts,ORG
+2116,UN Security Council,ORG
+2117,UN,ORG
+2118,FASTCash,PRODUCT
+2119,BeagleBoyz,PRODUCT
+2120,Chile,GPE
+2121,SWIFT,PRODUCT
+2122,the Bank of Bangladesh,ORG
+2123,The Federal Reserve Bank of New York,ORG
+2124,International Standards Organization,ORG
+2125,Reconnaissance General Bureau,ORG
+2126,Kaspersky,ORG
+2127,ESTSecurity,ORG
+2128,Bangladesh,GPE
+2129,Bosnia and Herzegovina,GPE
+2130,Bulgaria,GPE
+2131,Costa Rica,GPE
+2132,Ecuador,GPE
+2133,Ghana,GPE
+2134,Indonesia,GPE
+2135,Jordan,GPE
+2136,Kenya,GPE
+2137,Kuwait,GPE
+2138,Malaysia,GPE
+2139,Mozambique,GPE
+2140,Nepal,GPE
+2141,Nicaragua,GPE
+2142,Nigeria,GPE
+2143,Pakistan,GPE
+2144,Panama,GPE
+2145,Peru,GPE
+2146,Philippines,GPE
+2147,South Africa,GPE
+2148,Taiwan,GPE
+2149,Tanzania,GPE
+2150,Togo,GPE
+2151,Uganda,GPE
+2152,Uruguay,GPE
+2153,Vietnam,GPE
+2154,Zambia,GPE
+2155,TA505,ORG
+2156,VBScript,PRODUCT
+2157,the Task Scheduler,PRODUCT
+2158,Hypertext Markup,PRODUCT
+2159,cron,PRODUCT
+2160,launchd,PRODUCT
+2161,Sudo,PRODUCT
+2162,Soudoers,PRODUCT
+2163,Rootkit,PRODUCT
+2164,rundll32.exe,PRODUCT
+2165,ECCENTRICBANDWAGON,PRODUCT
+2166,SWIFT,ORG
+2167,the Windows Registry,ORG
+2168,CROWDEDFLOUNDER,PRODUCT
+2169,Themida,PRODUCT
+2170,HOPLIGHT,PRODUCT
+2171,VIVACIOUSGIFT,PRODUCT
+2172,RDP,PRODUCT
+2173,the American Standard Code for Information Interchange,PRODUCT
+2174,Unicode,PRODUCT
+2175,Multipurpose Internet Mail Extensions,PRODUCT
+2176,COPPERHEDGE,PRODUCT
+2177,Extended Binary Coded Decimal Interchange Code,PRODUCT
+2178,Detours Library,ORG
+2179,ISO 8583,PRODUCT
+2180,Information Security and Payment Systems,ORG
+2181,FBI Cyber Division,ORG
+2182,Visual Basic Application,PRODUCT
+2183,KONNI,PRODUCT
+2184,CertUtil,PRODUCT
+2185,Uniform Resource Locator,PRODUCT
+2186,The Command Prompt,PRODUCT
+2187,KONNI,ORG
+2188,ComSysApp,ORG
+2189,Svchost,PRODUCT
+2190,Opera,PRODUCT
+2191,Small Business Administration,ORG
+2192,SBA,ORG
+2193,the United States Cybersecurity and Infrastructure Security Agency,ORG
+2194,QSnatch,PRODUCT
+2195,Network Attached Storage,ORG
+2196,QNAP NAS,PRODUCT
+2197,QNAP,PRODUCT
+2198,Samba,PRODUCT
+2199,SHC,ORG
+2200,Malware Remover,PRODUCT
+2201,QNAP App Center,ORG
+2202,App Center,ORG
+2203,QNAP Technical Support,ORG
+2204,the Malware Remover,PRODUCT
+2205,the BIG-IP Traffic Management User Interface,PRODUCT
+2206,National Security Systems,ORG
+2207,NSS,ORG
+2208,Kamerka,PRODUCT
+2209,"Core Impact,[6",PRODUCT
+2210,Immunity Canvas,PRODUCT
+2211,non-U.S.,ORG
+2212,NIAP,ORG
+2213,"Wireshark,[9",ORG
+2214,"NetworkMiner,[10",ORG
+2215,"GRASSMARLIN,[11",ORG
+2216,Shodan Limited Liability Company,ORG
+2217,Rapid7 Limited Liability Company,ORG
+2218,"Help/Systems, Limited Liability Company",ORG
+2219,Canvas,ORG
+2220,"Immunity Products, Limited Liability Company",ORG
+2221,Wireshark,ORG
+2222,"Wireshark Foundation, Inc.",ORG
+2223,Lyngaas,ORG
+2224,S.,GPE
+2225,Israeli,NORP
+2226,Fireeye,PRODUCT
+2227,NetworkMiner,PRODUCT
+2228,GRASSMARLIN,PRODUCT
+2229,WHOIS,ORG
+2230,IBM,ORG
+2231,SAP,ORG
+2232,LM Configuration Wizard,PRODUCT
+2233,the Hypertext Transfer Protocol (,PRODUCT
+2234,NetWeaver,PRODUCT
+2235,NetWeaver AS Java 7.3,PRODUCT
+2236,NetWeaver 7.5,PRODUCT
+2237,NetWeaver AS Java,PRODUCT
+2238,the SAP Solution Manager,PRODUCT
+2239,NetWeaver AS,PRODUCT
+2240,Portal,PRODUCT
+2241,Onapsis,ORG
+2242,the Cybersecurity Security and Infrastructure Security Agency,ORG
+2243,the Tor Project,ORG
+2244,the Onion Routing Protocol,PRODUCT
+2245,the Tor Project’s,ORG
+2246,9040,PRODUCT
+2247,The Tor Project,ORG
+2248,EINSTEIN,PRODUCT
+2249,IDS,PRODUCT
+2250,IDS,ORG
+2251,The EINSTEIN Program,PRODUCT
+2252,NetSupport Manager RAT,PRODUCT
+2253,The NetSupport Manager Remote Access Tool,PRODUCT
+2254,Palo Alto,ORG
+2255,NetSupport,PRODUCT
+2256,Zscaler,ORG
+2257,NetSupport Manager,PRODUCT
+2258,Kovter,PRODUCT
+2259,the Center for Internet Security’s,ORG
+2260,Cortex XDR™,PRODUCT
+2261,NetSupport RAT,PRODUCT
+2262,NetSupport Remote Access Tool,PRODUCT
+2263,OLE,PRODUCT
+2264,Apache Struts,PRODUCT
+2265,Pony/FAREIT,PRODUCT
+2266,Vista SP2,PRODUCT
+2267,Server 2008 SP2,PRODUCT
+2268,Windows 7 SP1,PRODUCT
+2269,FINSPY,PRODUCT
+2270,LATENTBOT,PRODUCT
+2271,Dridex,PRODUCT
+2272,JexBoss,PRODUCT
+2273,Office 2003 Web Components SP3,PRODUCT
+2274,BizTalk Server 2002,PRODUCT
+2275,FoxPro 8.0 SP1,PRODUCT
+2276,9.0 SP2,PRODUCT
+2277,Visual Basic 6.0,PRODUCT
+2278,Windows Vista SP2,PRODUCT
+2279,Windows Server 2008 SP2,PRODUCT
+2280,R2 SP1,PRODUCT
+2281,Windows RT,PRODUCT
+2282,Windows 10 Gold,PRODUCT
+2283,1511,PRODUCT
+2284,1607,PRODUCT
+2285,Flash Player,PRODUCT
+2286,.NET Framework 2.0,PRODUCT
+2287,3.5,PRODUCT
+2288,FINSPY,ORG
+2289,FinFisher,PRODUCT
+2290,WingBird,PRODUCT
+2291,Word for Mac,PRODUCT
+2292,Office Compatibility Pack SP3,PRODUCT
+2293,Word Automation Services,PRODUCT
+2294,SharePoint Server 2010 SP2,PRODUCT
+2295,Office Web Apps Server 2010 SP2,PRODUCT
+2296,Toshliph,PRODUCT
+2297,UWarrior,PRODUCT
+2298,Application Delivery Controller,PRODUCT
+2299,Citrix SDWAN WANOP,PRODUCT
+2300,Web Application Service,ORG
+2301,Cyber Task Force,ORG
+2302,"Palo Alto.[3],[4",GPE
+2303,the Cybersecurity and Infrastructure Security Agency's,ORG
+2304,Office 365 Security Observations,PRODUCT
+2305,the Unified Audit Log,PRODUCT
+2306,SharePoint Online,PRODUCT
+2307,UAL,ORG
+2308,Post Office Protocol,PRODUCT
+2309,Simple Mail Transport Protocol,PRODUCT
+2310,Microsoft Secure Score,ORG
+2311,Microsoft Secure Score,PRODUCT
+2312,DC,PRODUCT
+2313,Apache Guacamole,PRODUCT
+2314,Connection Proxies,PRODUCT
+2315,OpenSecurity Forums,ORG
+2316,BishopFox,ORG
+2317,Pulse Secure SSL VPN,PRODUCT
+2318,State,ORG
+2319,Homeland Security,ORG
+2320,DPRK,GPE
+2321,1718 Sanctions Committee,ORG
+2322,DPRK,ORG
+2323,Panel of Experts,ORG
+2324,WannaCry 2.0,PRODUCT
+2325,U.S.-designated,GPE
+2326,the Reconnaissance General Bureau,ORG
+2327,1718 Committee Panel of Experts’,ORG
+2328,POE,ORG
+2329,Pyongyang,GPE
+2330,Sony Pictures,ORG
+2331,Sony Pictures Entertainment,ORG
+2332,SPE,ORG
+2333,the Bangladesh Bank,ORG
+2334,Society for Worldwide Interbank Financial Telecommunication,ORG
+2335,Bangladesh Bank’s,ORG
+2336,the Federal Reserve Bank of New York,ORG
+2337,the Bangladesh Bank’s,ORG
+2338,Federal Reserve,ORG
+2339,The Department of the Treasury,ORG
+2340,Sony,ORG
+2341,Bangladesh Bank,ORG
+2342,non-federal entities,ORG
+2343,The Department of Energy’s,ORG
+2344,FATF,ORG
+2345,Financial Crimes Enforcement Network,ORG
+2346,The Department of the Treasury’s,ORG
+2347,the Government of North Korea,ORG
+2348,the Workers’ Party of Korea,ORG
+2349,the UN Security Council 1718 Committee,ORG
+2350,The Department of Justice,ORG
+2351,the Department of Justice,ORG
+2352,the U.S. Intelligence Community,ORG
+2353,FBI CYWATCH,ORG
+2354,The FBI Legal Attaché’s,ORG
+2355,The Department of Defense’s,ORG
+2356,The Office of Foreign Assets Control’s,ORG
+2357,the Cybersecurity Assessment Tool,PRODUCT
+2358,UN Panel of Experts,ORG
+2359,The UN Security Council,ORG
+2360,1718 Sanctions Committee on the DPRK,ORG
+2361,a Panel of Experts,ORG
+2362,Panel,ORG
+2363,the 1718 Committee,ORG
+2364,CovidLock,PRODUCT
+2365,the World Health Organization,ORG
+2366,WHO,ORG
+2367,City,GPE
+2368,COVID,ORG
+2369,UKGOV,ORG
+2370,Tedros Adhanom Ghebreyesus,PERSON
+2371,EMR Letter.xls”,PRODUCT
+2372,Get2,PRODUCT
+2373,GraceWire,PRODUCT
+2374,"the United States,[3",GPE
+2375,NCSC[10,ORG
+2376,Palo Alto.[12,PRODUCT
+2377,Zoom,PRODUCT
+2378,DomainTools,ORG
+2379,Parth D. Maniar,PERSON
+2380,SophosLabs,ORG
+2381,Reddit,ORG
+2382,MISP,ORG
+2383,the Centers for Disease Control and Prevention,ORG
+2384,Spanish,NORP
+2385,Netwal,ORG
+2386,Telework.gov,ORG
+2387,a Spearphishing Link [T1192],PRODUCT
+2388,Uniform Resource Locator (URL) blocklist,PRODUCT
+2389,TSA,ORG
+2390,TrustedSec,ORG
+2391,Tyler Hudak’s,PERSON
+2392,NOTROBIN Bash,PRODUCT
+2393,Linux,NORP
+2394,FireEye Mandiant,PRODUCT
+2395,SD-WAN WANOP,PRODUCT
+2396,The Cybersecurity and Infrastructure Agency,ORG
+2397,CTX267027,PRODUCT
+2398,The CERT Coordination Center,ORG
+2399,CERT/CC,ORG
+2400,the National Security Agency’s,ORG
+2401,CTX269180 –,PRODUCT
+2402,Citrix ADC,ORG
+2403,Citrix Blog,ORG
+2404,-,PRODUCT
+2405,Gateway Vulne,PRODUCT
+2406,ADC,PRODUCT
+2407,Elliptic Curve Cryptography,PRODUCT
+2408,CryptoAPI,PRODUCT
+2409,RD Gateway,PRODUCT
+2410,Windows Remote Desktop Client,PRODUCT
+2411,Remote Desktop Client,PRODUCT
+2412,RD Gateway Server,PRODUCT
+2413,Windows Remote Desktop Gateway (RD Gateway),PRODUCT
+2414,the Windows Remote Desktop Client,PRODUCT
+2415,CISA Insights,ORG
+2416,CISA Insight,ORG
+2417,HackerOne,ORG
+2418,Meh Chang,PERSON
+2419,Orange Tsai,PERSON
+2420,Bad Packets,ORG
+2421,REvil,PRODUCT
+2422,Pulse Secure Advisory SA44101,PRODUCT
+2423,the Islamic Republic of Iran,GPE
+2424,the Islamic Revolutionary Guard Corps,ORG
+2425,New York State,GPE
+2426,Rye,GPE
+2427,Sands Las Vegas Corporation,ORG
+2428,the Sands Las Vegas Corporation,ORG
+2429,Las Vegas,GPE
+2430,Bloomberg,ORG
+2431,the Sands Las Vegas Corporation’s,ORG
+2432,the House Permanent Select Committee on Intelligence,ORG
+2433,the U.S. Justice Department,ORG
+2434,the Mabna Institute,ORG
+2435,the U.S. Department of Labor,ORG
+2436,the Federal Energy Regulatory Commission,ORG
+2437,the State of Hawaii,GPE
+2438,the State of Indiana,GPE
+2439,the United Nations,ORG
+2440,the United Nations Children’s Fund,ORG
+2441,the MITRE ATT&CK Framework,PRODUCT
+2442,the Antimalware Scan Interface (AMSI),PRODUCT
+2443,AuditD,PRODUCT
+2444,.NET,PRODUCT
+2445,Lateral Movement,PRODUCT
+2446,UNCLASS,ORG
+2447,SIPRNET,ORG
+2448,Iranians,NORP
+2449,Islamic Rev,ORG
+2450,CIG,ORG
+2451,the Department of the Treasury’s,ORG
+2452,IOCs,ORG
+2453,Dridex,ORG
+2454,WordPad,PRODUCT
+2455,Cridex,PRODUCT
+2456,Bugat,PRODUCT
+2457,BitPaymer,PRODUCT
+2458,Friedex,PRODUCT
+2459,Locky,PRODUCT
+2460,Zepto,PRODUCT
+2461,Osiris,PRODUCT
+2462,Evil Corp,ORG
+2463,The National Institute of Standards and Technology,ORG
+2464,Endpoint Detection and Response (,ORG
+2465,Unified Extensible Firmware Interface (UEFI) Secure Boot,PRODUCT
+2466,the FinCEN Resource Center,ORG
+2467,New Jersey Cybersecurity & Communications Integration,ORG
+2468,Alert Logic,ORG
+2469,Avast Blog,ORG
+2470,Brett Stone-Gross,PERSON
+2471,Brewster,PERSON
+2472,Thomas,PERSON
+2473,Forbes,ORG
+2474,Chandler,PERSON
+2475,Andy,PERSON
+2476,Fox-IT,ORG
+2477,Eduard Kovacs,PERSON
+2478,Security Week,ORG
+2479,Geoff White,PERSON
+2480,O’Brien,PERSON
+2481,Dick,PERSON
+2482,Poslušný,PERSON
+2483,Michal,PERSON
+2484,Roland Dela Paz,PERSON
+2485,Ran Mosessco,PERSON
+2486,ForcePoint,ORG
+2487,Sanghavi,PERSON
+2488,Mithun,GPE
+2489,Talos Group,ORG
+2490,Cisco Blogs,ORG
+2491,ComputerWorld,ORG
+2492,AR19-133A,PRODUCT
+2493,BlueKeep,PRODUCT
+2494,Windows Operating Systems (OSs,PRODUCT
+2495,Service Pack,PRODUCT
+2496,Windows 2000Windows,PRODUCT
+2497,VistaWindows,PRODUCT
+2498,XPWindows,PRODUCT
+2499,7Windows Server 2003Windows,PRODUCT
+2500,R2Windows Server 2008Windows,PRODUCT
+2501,Windows 2000,PRODUCT
+2502,Windows XP,PRODUCT
+2503,Windows 10.Disable,PRODUCT
+2504,10KBLAZE,PRODUCT
+2505,SAP Gateway,PRODUCT
+2506,ACLThe SAP Gateway,PRODUCT
+2507,non-SAP applications,ORG
+2508,OPCDE,ORG
+2509,SAP Router,PRODUCT
+2510,a SAP Gateway,PRODUCT
+2511,Message Servers,PRODUCT
+2512,a Message Server,PRODUCT
+2513,SignatureCISA,ORG
+2514,Onapsis Inc.[3,ORG
+2515,OPCDE,PRODUCT
+2516,Message Server,PRODUCT
+2517,821875,PRODUCT
+2518,SAP Note 1421005,PRODUCT
+2519,Comae Technologies,ORG
+2520,Onapsis Inc.,ORG
+2521,The National Cybersecurity and Communications Integration Center,ORG
+2522,NCCIC,ORG
+2523,Crowdstrike,ORG
+2524,The Department of Homeland Security,ORG
+2525,National Cybersecurity and Communications Integration Center,ORG
+2526,the JexBoss Exploit Kit,PRODUCT
+2527,JBoss,ORG
+2528,SamSam,PRODUCT
+2529,the National Institute of Standards and Technology.[1,ORG
+2530,officeFeedbackDHS,ORG
+2531,the Department of Homeland Security,ORG
+2532,3ve,ORG
+2533,Boaxxe/Miuref,ORG
+2534,Border Gateway Protocol,PRODUCT
+2535,MalwareBoaxxe,PRODUCT
+2536,Boaxxe,PRODUCT
+2537,MalwareKovter,PRODUCT
+2538,Chromium Embedded Framework,PRODUCT
+2539,Boaxxe/Miuref,PRODUCT
+2540,SecureMalwarebytesMcAfeeMicrosoft,ORG
+2541,ScannerNorton,ORG
+2542,Power EraserTrend,PRODUCT
+2543,the United States.[1][2][3][4][5,GPE
+2544,JBiFrost,PRODUCT
+2545,this Activity Alert,PRODUCT
+2546,the JBiFrost RAT,PRODUCT
+2547,the Adwind RAT,PRODUCT
+2548,the Frutas RAT,PRODUCT
+2549,Task Manager,PRODUCT
+2550,Wireshark,PRODUCT
+2551,JBiFrost RAT,PRODUCT
+2552,Adwind RAT,PRODUCT
+2553,Quasar RAT,PRODUCT
+2554,MAC OS X,PRODUCT
+2555,Windows Registry Editor,PRODUCT
+2556,The United Kingdom National Cyber Security Centre,ORG
+2557,"China Chopper 
+",PRODUCT
+2558,China Chopper,ORG
+2559,ColdFusion,PRODUCT
+2560,China Chopper’s,PRODUCT
+2561,wget,PRODUCT
+2562,Hypertext Preprocessor,PRODUCT
+2563,Local Area Network Manager,PRODUCT
+2564,NT LAN Manager,PRODUCT
+2565,Dutch,NORP
+2566,DigiNotar,ORG
+2567,BadRabbit,PRODUCT
+2568,Windows 8.1/Server 2012 R2,PRODUCT
+2569,Windows Hardware Compatibility Program,ORG
+2570,Windows Server Semi-Annual Branch,PRODUCT
+2571,Azure Advanced Threat Protection,ORG
+2572,the PowerShell Empire,PRODUCT
+2573,Invoke-PSImage,PRODUCT
+2574,APT19,PRODUCT
+2575,HUC Packet Transmitter,PRODUCT
+2576,HTran,PRODUCT
+2577,HTran,ORG
+2578,New Zealand’s,GPE
+2579,NCSC Board,ORG
+2580,Information Technology,ORG
+2581,netsh,PRODUCT
+2582,Robocopy,PRODUCT
+2583,PuTTY Secure Copy Client,PRODUCT
+2584,the National Institute of Standards and Technology,ORG
+2585,Antimalware Scan Interface,PRODUCT
+2586,Sender Policy Framework,PRODUCT
+2587,DomainKeys Identified,PRODUCT
+2588,PSCP,PRODUCT
+2589,EA,ORG
+2590,DA,ORG
+2591,Trivial File Transfer Protocol,PRODUCT
+2592,Simple Network Management Protocol,PRODUCT
+2593,Server 2012 R2,PRODUCT
+2594,TA,ORG
+2595,AIX,PRODUCT
+2596,8583,PRODUCT
+2597,X Window System,PRODUCT
+2598,Europay,ORG
+2599,Mastercard,ORG
+2600,Visa,ORG
+2601,OrganizationsNCCIC,ORG
+2602,Multi-State Information Sharing & Analysis Center,ORG
+2603,PayPal,ORG
+2604,NetPass.exe,PRODUCT
+2605,WebBrowserPassView,PRODUCT
+2606,Mail PassView,PRODUCT
+2607,NirSoft,ORG
+2608,Mail,PRODUCT
+2609,Thunderbird,PRODUCT
+2610,Hotmail,PRODUCT
+2611,Gmail,PRODUCT
+2612,Windows Firewall,PRODUCT
+2613,Domain Name System,ORG
+2614,MS-ISAC’s,ORG
+2615,Joanap,PRODUCT
+2616,Brambul,PRODUCT
+2617,the FBI Cyber Watch,ORG
+2618,ArgentinaBelgiumBrazilCambodiaChinaColombiaEgyptIndiaIranJordanPakistanSaudi,GPE
+2619,ArabiaSpainSri,GPE
+2620,LankaSwedenTaiwanTunisiaMalware,GPE
+2621,Rivest Cipher 4,PRODUCT
+2622,Brambul,PERSON
+2623,Novetta,ORG
+2624,HTTP,PRODUCT
+2625,vpnfilter,PRODUCT
+2626,Justice Department,ORG
+2627,Spectre,PRODUCT
+2628,3A,PRODUCT
+2629,4,PRODUCT
+2630,the European Union,ORG
+2631,ISPs,ORG
+2632,the Russian Federation’s,GPE
+2633,Trivial File Transfer Protocol (TFTP,PRODUCT
+2634,SSH,ORG
+2635,a Smart Install Exploitation Tool,PRODUCT
+2636,TelnetReview,ORG
+2637,TFTPReview,PRODUCT
+2638,SNMP V3.Immediately,PRODUCT
+2639,Security Center,ORG
+2640,Cisco IOS,PRODUCT
+2641,Linksys,ORG
+2642,SOHO Internet Gateway,PRODUCT
+2643,Comcast,ORG
+2644,GRE,ORG
+2645,an Intrusion Detection System (IDS),PRODUCT
+2646,SNMP,ORG
+2647,LSAroute,ORG
+2648,Juniper JUNOS,PRODUCT
+2649,MicroTic,PRODUCT
+2650,National Cyber Security Cent,ORG
+2651,National Cyber S,ORG
+2652,IAD,ORG
+2653,US,ORG
+2654,the Southern District,GPE
+2655,Mabna,ORG
+2656,LinkedIn,ORG
+2657,Industrial Control Systems,ORG
+2658,Cyber Kill Chain,PRODUCT
+2659,Lockheed,ORG
+2660,PHP,ORG
+2661,Transmission Control Protocol (TCP) ports 445,PRODUCT
+2662,Python 2.7,PRODUCT
+2663,ScreenUtil,PRODUCT
+2664,Dragonfly 2.0,PRODUCT
+2665,%AppData% folder,ORG
+2666,OWA,ORG
+2667,Blackberry Enterprise Server,ORG
+2668,FortiClient VPN,PRODUCT
+2669,Python 2.7.Detect,PRODUCT
+2670,NCCIC/US-CERT,ORG
+2671,Distributed Authoring and Versioning (WebDAV) protocol,ORG
+2672,NoticeDHS,ORG
+2673,the National Cybersecurity and Communications Integration Center,ORG
+2674,Meltdown,PRODUCT
+2675,Ulf Frisk,PERSON
+2676,2018NutanixJanuary,ORG
+2677,Graz University of Technology,ORG
+2678,Debian,ORG
+2679,Fedora Project,ORG
+2680,DragonflyBSD,ORG
+2681,LLVM,ORG
+2682,NetApp,ORG
+2683,Qubes,ORG
+2684,Synology,ORG
+2685,Nutanix,ORG
+2686,Ubuntu,ORG
+2687,HP,ORG
+2688,Volgmer,PRODUCT
+2689,the DHS National Cybersecurity and Communications Integration Center,ORG
+2690,VolgmerThe,PRODUCT
+2691,Lanka,GPE
+2692,the US-CERT Code Analysis Team,ORG
+2693,Volgmer,ORG
+2694,HIDDEN COBRA,PRODUCT
+2695,Transmission Control Protocol (TCP) ports 445 or 139,PRODUCT
+2696,Backdoor.,PRODUCT
+2697,Forticlient,PRODUCT
+2698,Forticlient,ORG
+2699,Supervisory Control and Data Acquisition,ORG
+2700,US-CERT,ORG
+2701,workstation,ORG
+2702,AV,ORG
+2703,Blackberry Enterprise Server,PRODUCT
+2704,Distributed Authoring and Versioning (,ORG
+2705,the U.S. Government's,ORG
+2706,Petya,PRODUCT
+2707,The NCCIC Code Analysis Team,ORG
+2708,SMBv1,PRODUCT
+2709,MS17,PRODUCT
+2710,EternalBlue,PRODUCT
+2711,EternalRomance,PRODUCT
+2712,DetailsNCCIC,ORG
+2713,SysInternals,PRODUCT
+2714,NotPetya,ORG
+2715,M.E.Doc,PRODUCT
+2716,M.E. Doc,PRODUCT
+2717,"M2 MS17-010”[4]sid:42944,""OS",PRODUCT
+2718,MS17-010,PRODUCT
+2719,the Internet Crime Complaint Center,ORG
+2720,WMI,ORG
+2721,DeltaCharlie,PRODUCT
+2722,the DHS National Cybersecurity Communications and Integration Center,ORG
+2723,Lazarus Group[1,ORG
+2724,Guardians of Peace.[2,ORG
+2725,"Wild Positron/Duuzer,[4",PRODUCT
+2726,Hangul,ORG
+2727,VulnerabilityDHS,ORG
+2728,Silverlight,PRODUCT
+2729,svchost,ORG
+2730,Enhanced Mitigation Experience Toolkit,PRODUCT
+2731,IBM X-Force Exchange,ORG
+2732,AlienVault,ORG
+2733,Duuzer,PERSON
+2734,CrashOverRide,PRODUCT
+2735,Industrial Controls Systems,ORG
+2736,Dragos,PRODUCT
+2737,U.S.-focused,GPE
+2738,Open Platform Communications,PRODUCT
+2739,Siemens,ORG
+2740,Dragos Inc,ORG
+2741,nocase wide,PERSON
+2742,nocase wide ascii,ORG
+2743,nocase wide,ORG
+2744,Microsoft Software Restriction Policy,ORG
+2745,RSA,ORG
+2746,ACE,PRODUCT
+2747,Windows Domains,PRODUCT
+2748,Workstation,PRODUCT
+2749,The Simple Network Management Protocol (SNMP,PRODUCT
+2750,SNMPv3,PRODUCT
+2751,SNMPv1,PRODUCT
+2752,SNMPv2,PRODUCT
+2753,the User Datagram Protocol,PRODUCT
+2754,Version 3 authPriv,PRODUCT
+2755,The Interfaces Group MIB,ORG
+2756,WCry,PRODUCT
+2757,Wanna Decryptor,PRODUCT
+2758,WannaCry,PRODUCT
+2759,Yara,ORG
+2760,WannaCry Ransomware,PRODUCT
+2761,Felipe Molina,PERSON
+2762,PE32,PRODUCT
+2763,MS17-,PRODUCT
+2764,WannaCrypt,PRODUCT
+2765,DomainKeys Identified Mail,PRODUCT
+2766,US-CERT’s,ORG
+2767,WanaCrypt0r,PRODUCT
+2768,Reuters,ORG
+2769,Win,PRODUCT
+2770,Washington Post,ORG
+2771,the Chinese Ministry of State Security,ORG
+2772,PLUGX/SOGU,PRODUCT
+2773,REDLEAVES,PRODUCT
+2774,PLUGX,PRODUCT
+2775,REDLEAVES,ORG
+2776,Visual C++,PRODUCT
+2777,the C2.CapabilitiesSystem Enumeration,PRODUCT
+2778,x86,PRODUCT
+2779,QN4869MD,PRODUCT
+2780,PLUGXPLUGX,PRODUCT
+2781,the PLUGX RAT,PRODUCT
+2782,RAT,PRODUCT
+2783,PLUGX,ORG
+2784,DetectionNCCIC,ORG
+2785,Japanese,NORP
+2786,Nordic,NORP
+2787,System Internals PSEXEC,PRODUCT
+2788,Virtual Private Server,PRODUCT
+2789,Workstation ManagementCreate,ORG
+2790,ASA,ORG
+2791,menuPass,PRODUCT
+2792,Menupass Team,ORG
+2793,Nordic Private Ind,ORG
+2794,CyLance,ORG
+2795,PwC/BAE Systems,ORG
+2796,JPCERT/CC,ORG
+2797,JPCERT,ORG
+2798,XLSX,PRODUCT
+2799,the Chinese Ministry of State Security,ORG
+2800,Avalanche,PRODUCT
+2801,The United States Department of Homeland Security,ORG
+2802,Avalanche,ORG
+2803,Matsnu,PRODUCT
+2804,Feodo,PRODUCT
+2805,Geodo,PRODUCT
+2806,TrojanXswkitAvalanche,PRODUCT
+2807,Qbot,PRODUCT
+2808,Norton,ORG
+2809,Power Eraser,PRODUCT
+2810,Trend Micro HouseCall,ORG
+2811,TrendMicro Scanner,PRODUCT
+2812,Brian Krebs’,PERSON
+2813,Mirai,PRODUCT
+2814,Krebs,ORG
+2815,French,NORP
+2816,OVH,ORG
+2817,Krebs on Security,ORG
+2818,Bashlite,PRODUCT
+2819,Level 3 Communications,ORG
+2820,Mirai,ORG
+2821,US-CERT Tip Choosing and Protecting Passwords,ORG
+2822,Universal Plug and,PRODUCT
+2823,KrebsOnSecurity,ORG
+2824,PCWorld,ORG
+2825,ArsTechnica,ORG
+2826,InformationWeek DarkReading,ORG
+2827,SANS ISC InfoSec Forums,ORG
+2828,SANS ISC,ORG
+2829,SystemsSYNful KnockIn,PRODUCT
+2830,SYNful Knock,PRODUCT
+2831,Adaptive Security Appliance (ASA)A Cisco ASA,PRODUCT
+2832,ASA,PRODUCT
+2833,Brokers,ORG
+2834,Cisco ASA,ORG
+2835,AAA,ORG
+2836,OoB.Harden,ORG
+2837,NX-OS Software Devices,PRODUCT
+2838,IOS XR Devices,PRODUCT
+2839,2208Symantec,ORG
+2840,ASPack,PRODUCT
+2841,OSX,ORG
+2842,PowerPoint,ORG
+2843,SYM16,PRODUCT
+2844,dec2lha,PRODUCT
+2845,OS X,PRODUCT
+2846,WPAD,ORG
+2847,Mac OS X,PRODUCT
+2848,ICANN,ORG
+2849,the Invoker Servlet,PRODUCT
+2850,NetWeaver Application Server Java,PRODUCT
+2851,The Invoker Servlet,PRODUCT
+2852,Invoker Servlet,PRODUCT
+2853,1445998,PRODUCT
+2854,Onapsis,PRODUCT
+2855,QuickTime,PRODUCT
+2856,QuickTime moov,PRODUCT
+2857,QuickTime Atom,PRODUCT
+2858,QuickTime 7,PRODUCT
+2859,Samas,PRODUCT
+2860,Canadian Cyber Incident Response Centre,ORG
+2861,CCIRC,ORG
+2862,Xorist,PRODUCT
+2863,CryptorBit,PRODUCT
+2864,CryptoLocker,PRODUCT
+2865,Ransomware-Locky,PRODUCT
+2866,Ransomware-Samas,PRODUCT
+2867,Upatre,PRODUCT
+2868,GameOver Zeus,PRODUCT
+2869,Zeus,PRODUCT
+2870,Kaspersky Lab,ORG
+2871,Sophos / Naked Security,ORG
+2872,CryptoWall,ORG
+2873,CryptoDefence,PRODUCT
+2874,Cryptolocker,ORG
+2875,McAfee Labs,ORG
+2876,SamSam,PERSON
+2877,Dorkbot,PRODUCT
+2878,POP3,PRODUCT
+2879,Autorun­,PRODUCT
+2880,Autorun,PRODUCT
+2881,PHP,PRODUCT
+2882,Perl,ORG
+2883,WSO,PRODUCT
+2884,C99,PRODUCT
+2885,B374,PRODUCT
+2886,K,PRODUCT
+2887,TacticsWeb,PRODUCT
+2888,WordPress,ORG
+2889,CMS,ORG
+2890,INFOSEC Institute,ORG
+2891,c99,PRODUCT
+2892,Windows Systems,PRODUCT
+2893,the United States Computer Emergency Readiness Team,ORG
+2894,NCCIC.Educate,ORG
+2895,ActionScript 3,PRODUCT
+2896,BitmapData,PRODUCT
+2897,Adobe Type Manager,PRODUCT
+2898,The Adobe Type Manager,PRODUCT
+2899,Type Manager,PRODUCT
+2900,Reader,PRODUCT
+2901,Protected Mode Internet Explorer,PRODUCT
+2902,Protected View,PRODUCT
+2903,APSB15-,PRODUCT
+2904,Bulletins,PRODUCT
+2905,Bulletin,PRODUCT
+2906,the Microsoft Enhanced Mitigation Experience Toolkit (EMET)EMET can be used to help prevent exploitation of the Flash vulnerabilities,PRODUCT
+2907,Attack Surface Reduction,PRODUCT
+2908,Flash ActiveX,PRODUCT
+2909,Type Manager Privilege escalation,PRODUCT
+2910,Enhanced Mitigation Experience Toolkit 5.2,PRODUCT
+2911,X.509,PRODUCT
+2912,the Certificate Trust,PRODUCT
+2913,the Configuration Wizard,PRODUCT
+2914,Google Chrome,ORG
+2915,Verisign,ORG
+2916,Google Internet Authority,ORG
+2917,GeoTrust,ORG
+2918,Firefox 32,PRODUCT
+2919,Firefox 34,PRODUCT
+2920,Chrome,ORG
+2921,the Internet Engineering Task Force,ORG
+2922,Mozilla Firefox,ORG
+2923,OpenSSL,ORG
+2924,the Canadian Cyber Incident Response Centre,ORG
+2925,MacOpen,PRODUCT
+2926,MacOffice Excel,PRODUCT
+2927,MacMicrosoft Security Bulletin,ORG
+2928,WordOffice,ORG
+2929,SharePoint ServerOffice,PRODUCT
+2930,JREOracle Java SE,PRODUCT
+2931,JREOracle,ORG
+2932,Simda,ORG
+2933,Interpol,ORG
+2934,Simda,PRODUCT
+2935,Cyber Defense Institute,ORG
+2936,INTERPOL,ORG
+2937,Windows 95,PRODUCT
+2938,Me,PRODUCT
+2939,XP,PRODUCT
+2940,Vista,PRODUCT
+2941,7,PRODUCT
+2942,8Microsoft Server 2003,PRODUCT
+2943,Server 2008,PRODUCT
+2944,Server 2012,PRODUCT
+2945,Europol,ORG
+2946,VObfus,PRODUCT
+2947,VBObfus,PRODUCT
+2948,Beebone,PRODUCT
+2949,Changeup,PRODUCT
+2950,AAEH,PRODUCT
+2951,Cryptolocker,PRODUCT
+2952,ZeroAccess,PRODUCT
+2953,Cutwail,PRODUCT
+2954,Shadowserver,ORG
+2955,Windows XP)McAfeewww.mcafee.com,PRODUCT
+2956,Windows XP SP2,PRODUCT
+2957,Windows XP)Sophoshttps://www.sophos.com,PRODUCT
+2958,Windows 8/8.1,PRODUCT
+2959,Lenovo,ORG
+2960,Superfish VisualDiscovery,PRODUCT
+2961,Superfish,PRODUCT
+2962,Komodia,ORG
+2963,"Superfish, Inc.",ORG
+2964,”Mozilla,ORG
+2965,a Server Message Block (SMB) Worm Tool,PRODUCT
+2966,This SMB Worm Tool,PRODUCT
+2967,a Listening Implant,PRODUCT
+2968,National Football League,ORG
+2969,windows 7,PRODUCT
+2970,the Master Boot Record,PRODUCT
+2971,WinsSchMgmt,ORG
+2972,Foundation,ORG
+2973,non-corporate owned,ORG
+2974,Industrial Control System,ORG
+2975,Windows NT,PRODUCT
+2976,Regin,PRODUCT
+2977,8,PRODUCT
+2978,8.1Microsoft,PRODUCT
+2979,Kerberos Key Distribution Center,PRODUCT
+2980,Kerberos KDC,PRODUCT
+2981,Microsoft Research Security and Defense Blog,ORG
+2982,Microsoft Security Research and Defense Blog,ORG
+2983,RT,PRODUCT
+2984,RT 8.1Microsoft,PRODUCT
+2985,Internet Explorer.[1,PRODUCT
+2986,the Enhanced Mitigation Experience Toolkit,PRODUCT
+2987,VBscript,PRODUCT
+2988,Server 2003,PRODUCT
+2989,R2Microsoft,PRODUCT
+2990,2000,PRODUCT
+2991,Schannel,PRODUCT
+2992,MS14,PRODUCT
+2993,Pastebin,ORG
+2994,iOS,ORG
+2995,iOS 7.1.1,PRODUCT
+2996,Stefan Esser,PERSON
+2997,SektionEins,ORG
+2998,Jonathan Zdziarski,PERSON
+2999,the iOS App Store,ORG
+3000,Mobile Safari,PRODUCT
+3001,iOS,PRODUCT
+3002,App Store,ORG
+3003,MicrosoftSoftware,ORG
+3004,Windows Server 2003.[3,PRODUCT
+3005,Windows Server 2003.Organizations,PRODUCT
+3006,Redmond Magazine,ORG
+3007,Windows Server 2003's End of Support,PRODUCT
+3008,Dyre,ORG
+3009,the United States Department of Homeland Security,ORG
+3010,CryptoDefense,PRODUCT
+3011,Cryptowall,PRODUCT
+3012,CryptoDefense,ORG
+3013,the Secure Socket Layer (SSL) 3.0,PRODUCT
+3014,SSL 3.0,PRODUCT
+3015,OpenSSL,PRODUCT
+3016,OpenSSL 1.0.0,PRODUCT
+3017,OpenSSL 0.9.8,PRODUCT
+3018,GNU Bash,PRODUCT
+3019,the GNU Bourne-Again Shell,PRODUCT
+3020,Linux/UNIX,ORG
+3021,Mac OS X.,PRODUCT
+3022,bash,PRODUCT
+3023,OpenSSH,ORG
+3024,Git,PRODUCT
+3025,Subversion,PRODUCT
+3026,CVSS Impact Subscore 10,PRODUCT
+3027,Shellshock,PRODUCT
+3028,Red Hat,ORG
+3029,Ars Technica,ORG
+3030,Red Hat,PRODUCT
+3031,United States Secret Service,ORG
+3032,Financial Sector Information Sharing and Analysis Center,ORG
+3033,FS-ISAC,ORG
+3034,Trustwave Spiderlabs,ORG
+3035,Backoff,PRODUCT
+3036,the Secret Service,ORG
+3037,Backoff,ORG
+3038,Remote Desktop,PRODUCT
+3039,Chrome Remote Desktop,PRODUCT
+3040,Splashtop 2,PRODUCT
+3041,Secret Service,ORG
+3042,Windowsgr,PRODUCT
+3043,a Remote Desktop Gateway,PRODUCT
+3044,IPSec,ORG
+3045,PoS Security,ORG
+3046,Splashtop,ORG
+3047,LogMeIn,ORG
+3048,GOZ,PRODUCT
+3049,Windows XP)Heimdalhttp://goz.heimdalsecurity.com/ (Microsoft Windows XP,PRODUCT
+3050,Windows 7)Trend,PRODUCT
+3051,Windows Server 2008 R2)FireEye,PRODUCT
+3052,GOZ,ORG
+3053,CryptoLocker,ORG
+3054,OpenSSL 1.0.1,PRODUCT
+3055,Service Pack 3,PRODUCT
+3056,Windows Update,PRODUCT
+3057,Windows Server Update Services,PRODUCT
+3058,WSUS,ORG
+3059,System Center Configuration,ORG
+3060,Windows Intune,ORG
+3061,Office 2003.Organizations,PRODUCT
+3062,the User Datagram Protocol (UDP),PRODUCT
+3063,Voice over Internet Protocol,PRODUCT
+3064,Christian Rossow,PERSON
+3065,Christian,PERSON
+3066,the CERT Coordination Center,ORG
+3067,the Software Engineering Institute,ORG
+3068,Akamai Technologies',ORG
+3069,Prolexic Security Engineering and Research Team,ORG
+3070,PLXsert,ORG
+3071,Level 3 Threat Research Labs,ORG
+3072,Corero Network Security,ORG
+3073,Netlab 360,PRODUCT
+3074,SENKI,ORG
+3075,WS-Discovery,PRODUCT
+3076,a Border Gateway Protocol (,PRODUCT
+3077,Customer Provider Edge,PRODUCT
+3078,the Spoofer Project,ORG
+3079,IETF,ORG
+3080,Corero,ORG
+3081,The Spoofer Project,ORG
+3082,Memcached,PRODUCT
+3083,NMap,PRODUCT
+3084,POS,ORG
+3085,Dexter,PRODUCT
+3086,Stardust,PRODUCT
+3087,POS Software Applications,ORG
+3088,Experian,ORG
+3089,TransUnion,ORG
+3090,AnnualCreditReport.com,ORG
+3091,Gregg Steinhafel,PERSON
+3092,Project Hook,PRODUCT
+3093,VSkimmer,PRODUCT
+3094,OfficeInternet Explorer,PRODUCT
+3095,Windows Server Update Services,ORG
+3096,FedEx,ORG
+3097,UPS,ORG
+3098,MoneyPak,ORG
+3099,PreventionUS-CERT,ORG
+3100,Windows 8),PRODUCT
+3101,Windows Operating System,PRODUCT
+3102,ComponentsMicrosoft,ORG
+3103,.NET FrameworkMicrosoft,PRODUCT
+3104,SoftwareMicrosoft,ORG
+3105,OfficeMicrosoft,ORG
+3106,SilverlightInternet Explorer,PRODUCT
+3107,the Intelligent Platform Management Interface (IPMI),PRODUCT
+3108,the Intelligent Platform Management Interface,PRODUCT
+3109,the Baseboard Management Controller (BMC),PRODUCT
+3110,BMC,PRODUCT
+3111,Dan Farmer,PERSON
+3112,IPMI,ORG
+3113,BMC,ORG
+3114,OutDell,ORG
+3115,DRACIBM,ORG
+3116,InformationDell,ORG
+3117,dell,ORG
+3118,Dan Farmer's,PERSON
+3119,ePO 4.x,PRODUCT
+3120,ePO 4.5 Patch 6,PRODUCT
+3121,ePolicy Orchestrator 4.5.6,PRODUCT
+3122,Internet ExplorerFor,PRODUCT
+3123,ePolicy Orchestrator 4.6.5,PRODUCT
+3124,orePO 4.6.6,PRODUCT
+3125,WindowsMicrosoft,ORG
+3126,FrameworkMicrosoft,ORG
+3127,SilverlightMicrosoft,PRODUCT
+3128,Visual StudioMicrosoft,PRODUCT
+3129,LyncInternet,PRODUCT
+3130,ExplorerWindows,PRODUCT
+3131,VxWorks,ORG
+3132,Carna Botnet,PRODUCT
+3133,SQL ServerSSH,PRODUCT
+3134,iPhonesCisco,PRODUCT
+3135,DD-WRT,PRODUCT
+3136,OpenVAS,PRODUCT
+3137,earlierJDK,PRODUCT
+3138,Javadoc,ORG
+3139,Java SE,PRODUCT
+3140,the Javadoc Tool,PRODUCT
+3141,Javadoc,PRODUCT
+3142,ToolOracle,ORG
+3143,Java API Documentation Updater Tool,PRODUCT
+3144,the Java API Documentation Updater Tool,PRODUCT
+3145,Internet ExplorerMicrosoft,PRODUCT
+3146,Adobe Reader,PRODUCT
+3147,Acrobat,PRODUCT
+3148,Fiesta,PRODUCT
+3149,Impact,PRODUCT
+3150,FakeAV/Kazy,PRODUCT
+3151,Cabinet,PRODUCT
+3152,APSB10,PRODUCT
+3153,Java SE Critical Patch Update Advisory -,PRODUCT
+3154,WTOP,ORG
+3155,Federal News Radio,ORG
+3156,Adobe Security Bulletin,ORG
+3157,Java SE Critical Patch Update Advisory - April 2013,PRODUCT
+3158,WindowsInternet,PRODUCT
+3159,ExplorerMicrosoft,ORG
+3160,LyncMicrosoft,PRODUCT
+3161,JDK,PRODUCT
+3162,earlierJavaFX,PRODUCT
+3163,JavaFX,PRODUCT
+3164,JRE 7,PRODUCT
+3165,JRE 6,PRODUCT
+3166,Java FX,PRODUCT
+3167,ClientMicrosoft,ORG
+3168,Antimalware,ORG
+3169,the Open DNS Resolver Project,ORG
+3170,the Measurement Factory,ORG
+3171,Autonomous System,ORG
+3172,DNSInspect,PRODUCT
+3173,The Measurement Factory’s,ORG
+3174,BIND9,PRODUCT
+3175,Server,PRODUCT
+3176,Internet Service Providers,ORG
+3177,The Network Working Group,ORG
+3178,Internet Service Provider,ORG
+3179,Microsoft DNS ServerIt,PRODUCT
+3180,DNS Server,PRODUCT
+3181,Red Hat Enterprise Linux 6,PRODUCT
+3182,The Measurement Factory,ORG
+3183,DNSInspect.com,ORG
+3184,6uIcedTea 1.x,PRODUCT
+3185,Java 6,PRODUCT
+3186,Java 5.0,PRODUCT
+3187,Java 5,PRODUCT
+3188,6,PRODUCT
+3189,Java Deployment Toolkit,PRODUCT
+3190,Java Web Start,PRODUCT
+3191,Java Network Launching Protocol,PRODUCT
+3192,Internet Explorer,ORG
+3193,Windows Desktop Search,PRODUCT
+3194,JavaOracle,ORG
+3195,Java 7 Update 17,PRODUCT
+3196,Java 6 Update 43,PRODUCT
+3197,Java 7 Update 10,PRODUCT
+3198,JDK 7u17,PRODUCT
+3199,IcedTea6,PRODUCT
+3200,1.12.4,PRODUCT
+3201,earlierSDK,PRODUCT
+3202,earlierWeb,PRODUCT
+3203,the Java Runtime Environment,PRODUCT
+3204,Java SE Critical Patch Update,PRODUCT
+3205,the Java Deployment Toolkit,PRODUCT
+3206,Java SE Critical Patch Update Advisory Update,PRODUCT
+3207,Java 7 Update 15,PRODUCT
+3208,Java 6 Update 41,PRODUCT
+3209,.NET Framework,PRODUCT
+3210,Adobe Flash Player 11.5.502.149,PRODUCT
+3211,MacintoshAdobe Flash Player 11.2.202.262,PRODUCT
+3212,LinuxAdobe Flash Player 11.1.115.37,PRODUCT
+3213,Android 4.xAdobe Flash Player 11.1.111.32,PRODUCT
+3214,Android 3.x,PRODUCT
+3215,2.xAdobe AIR 3.5.0.1060,PRODUCT
+3216,AIR 3.5.0.1060,PRODUCT
+3217,Shockwave Player 11.6.8.638,PRODUCT
+3218,Macintosh,PRODUCT
+3219,Adobe Security Bulletin APSB13-,PRODUCT
+3220,APSB13-,PRODUCT
+3221,UpdatesAdobe,ORG
+3222,APSB13,PRODUCT
+3223,Shockwave Player,PRODUCT
+3224,earlierJavaFX 2.2.4,PRODUCT
+3225,OS X Server 10.6.8Web,PRODUCT
+3226,Java SE Critical Patch Update Advisory,PRODUCT
+3227,Java 7 Update 13,PRODUCT
+3228,Java 6 Update 39,PRODUCT
+3229,Mac OS X v10.6 Update 12,PRODUCT
+3230,Joomla,ORG
+3231,!,ORG
+3232,Public Safety Canada,ORG
+3233,the U.S. Department of Homeland Security,ORG
+3234,Joomla,PRODUCT
+3235,Content Management Systems,PRODUCT
+3236,General Public License,ORG
+3237,The Canadian Cyber Incident Response Centre,ORG
+3238,The Open Web Application Security Project,ORG
+3239,US-CERT's,ORG
+3240,Nginx,PRODUCT
+3241,"Joomla
+",PRODUCT
+3242,6Microsoft,ORG
+3243,7Microsoft,PRODUCT
+3244,Security Bulletin MS13,PRODUCT
+3245,Java SE 7)Java,PRODUCT
+3246,JDK 7)Java,PRODUCT
+3247,JRE 7)OpenJDK,PRODUCT
+3248,7uIcedTea 2.x,PRODUCT
+3249,the Java Security Manager,PRODUCT
+3250,Java 7 Update 11,PRODUCT
+3251,JDK 7u11,PRODUCT
+3252,Java 7u11,PRODUCT
+3253,OpenJDK,PRODUCT
+3254,IcedTea,PRODUCT
+3255,.NET FrameworkInternet Explorer,PRODUCT
+3256,SQL Server,PRODUCT
+3257,7Microsoft,ORG
+3258,8Microsoft,ORG
+3259,Security Bulletin MS12-063,PRODUCT
+3260,Security Bulletin MS12-,PRODUCT
+3261,MS12-063,PRODUCT
+3262,Internet Explorer Exploit,PRODUCT
+3263,8Microsoft,PRODUCT
+3264,9,PRODUCT
+3265,MSRC,ORG
+3266,the Microsoft Enhanced Mitigation Experience Toolkit,PRODUCT
+3267,EMET 3.0,PRODUCT
+3268,Windows XP Service Pack 3Windows XP Professional x64 Edition Service Pack 2Windows Server 2003,PRODUCT
+3269,x64 Edition Service Pack,PRODUCT
+3270,SystemsWindows,ORG
+3271,2Windows Server 2008,PRODUCT
+3272,Systems Service Pack 2Windows,PRODUCT
+3273,Systems Service Pack 1Windows Server 2008,PRODUCT
+3274,Systems Service Pack 1Windows,PRODUCT
+3275,SystemsWindows Server 2008,PRODUCT
+3276,Itanium,PRODUCT
+3277,Download Center,ORG
+3278,Windows PKI Blog,ORG
+3279,1.7,PRODUCT
+3280,7uIcedTea 2.3.0,PRODUCT
+3281,OpenJDK 7,PRODUCT
+3282,Java 7 Update 7,PRODUCT
+3283,IcedTea 2.3.1.Reports,PRODUCT
+3284,Apple Safari,PRODUCT
+3285,Microsoft Internet Explorer,PRODUCT
+3286,Java 6Consider,PRODUCT
+3287,Java 6.Use,PRODUCT
+3288,NoScriptNoScript,PRODUCT
+3289,Java SE 7,PRODUCT
+3290,ToolsMicrosoft,ORG
+3291,Server SoftwareMicrosoft,PRODUCT
+3292,SQL ServerMicrosoft,PRODUCT
+3293,Google Online Security,ORG
+3294,European,NORP
+3295,ApplicationsMicrosoft,ORG
+3296,Dynamics,ORG
+3297,AX,PRODUCT
+3298,Adobe Reader X,PRODUCT
+3299,MacintoshAdobe Reader 9.5,PRODUCT
+3300,UNIXAdobe Acrobat X,PRODUCT
+3301,MacintoshAdobe Acrobat 9.5,PRODUCT
+3302,Security Bulletin APSB12-08,PRODUCT
+3303,Acrobat 9.x,PRODUCT
+3304,Authplay,PRODUCT
+3305,Adobe Security Bulletin APSB12,PRODUCT
+3306,Adobe Reader,ORG
+3307,Reader X,PRODUCT
+3308,Acrobat X,PRODUCT
+3309,Acrobat 9.5.1,PRODUCT
+3310,ReaderAdobe,ORG
+3311,Acrobat JavaScript).Adobe,PRODUCT
+3312,"Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\AcroExch.Document.7]""EditFlags""=hex:00,00,00,00Disable the display of PDF files",PRODUCT
+3313,Acrobat Reader.2,PRODUCT
+3314,Acrobat JavaScript Blacklist Framework,PRODUCT
+3315,Adobe Flash,PRODUCT
+3316,OfficeMicrosoft Server SoftwareMicrosoft,PRODUCT
+3317,Forefront United Access Gateway,PRODUCT
+3318,Server Software,PRODUCT
+3319,Expression Design,PRODUCT
+3320,Visual Studio,PRODUCT
+3321,Anonymous,ORG
+3322,MegaUpload,ORG
+3323,Low Orbit Ion Cannon,PRODUCT
+3324,HiveMind,PRODUCT
+3325,CNN,ORG
+3326,@Megaupload,ORG
+3327,Stefan Viehböck,PERSON
+3328,Tactical Network Solutions,ORG
+3329,MacintoshAdobe Reader 9.4.6,PRODUCT
+3330,MacintoshAdobe Acrobat 9.4.6,PRODUCT
+3331,3D & Multimedia,PRODUCT
+3332,3D &,PRODUCT
+3333,Adobe Reader 9,PRODUCT
+3334,"Mac OS X""/Applications/Adobe Reader 9",PRODUCT
+3335,Adobe Acrobat,PRODUCT
+3336,3D,PRODUCT
+3337,JavaScript Blacklist Framework,PRODUCT
+3338,U3D,PRODUCT
+3339,Mac OS X 10.6.8Mac,PRODUCT
+3340,Mac OS X 10.6.8,PRODUCT
+3341,Mac OS X Server 10.6.8,PRODUCT
+3342,Mac OS X Server,PRODUCT
+3343,OS X Lion v10.7.2,PRODUCT
+3344,SilverlightInternet,PRODUCT
+3345,Forefront Unified Access GatewayMicrosoft,PRODUCT
+3346,Host Integration Server,PRODUCT
+3347,Forefront Unified Access Gateway,PRODUCT
+3348,Microsoft Server Software,ORG
+3349,Shockwave Player 11.6.0.626,PRODUCT
+3350,MacintoshFlash Media Server 4.0.2,PRODUCT
+3351,LinuxFlash Media Server 3.5.6,PRODUCT
+3352,LinuxAdobe Flash Player 10.3.181.36,PRODUCT
+3353,Solaris,PRODUCT
+3354,Flash Player 10.3.185.25,PRODUCT
+3355,AndroidAdobe AIR 2.7,PRODUCT
+3356,AndroidAdobe,ORG
+3357,Photoshop CS5,PRODUCT
+3358,CS5.1,PRODUCT
+3359,MacintoshRoboHelp,PRODUCT
+3360,RoboHelp,PRODUCT
+3361,RoboHelp Server 9,PRODUCT
+3362,RoboHelp Server 8,PRODUCT
+3363,Flash Media Server,PRODUCT
+3364,APSB11,PRODUCT
+3365,Shockwave PlayerAPSB11,PRODUCT
+3366,Flash PlayerAPSB11,PRODUCT
+3367,Photoshop,ORG
+3368,CS5APSB11,PRODUCT
+3369,RoboHelp,ORG
+3370,OfficeInternet,PRODUCT
+3371,Explorer,PRODUCT
+3372,Oracle Database 11,ORG
+3373,Outside In Technology,ORG
+3374,-Business Suite Release 11i,PRODUCT
+3375,PeopleSoft Enterprise SCM,PRODUCT
+3376,PeopleSoft Enterprise PeopleTools,PRODUCT
+3377,Sun Product Suite,PRODUCT
+3378,NTLMv2,PRODUCT
+3379,Microsoft Support,ORG
+3380,Facebook,ORG
+3381,Twitter,ORG
+3382,WindowsAdobe Reader X,PRODUCT
+3383,MacintoshAdobe Reader 9.4.4,PRODUCT
+3384,MacintoshAdobe Reader 8.2.6,PRODUCT
+3385,MacintoshAdobe Acrobat X,PRODUCT
+3386,MacintoshAdobe Acrobat 9.4.4,PRODUCT
+3387,MacintoshAdobe Acrobat 8.2.6,PRODUCT
+3388,MacintoshShockwave Player 11.5.9.620,PRODUCT
+3389,Adobe Flash Player 10.3.181.23,PRODUCT
+3390,Flash Player 10.3.185.23,PRODUCT
+3391,Acrobat X 10.0.3,PRODUCT
+3392,Shockwave Player 11.5.9.620,PRODUCT
+3393,Shockwave,PRODUCT
+3394,Adobe Security Bulletin APSB11-,PRODUCT
+3395,Flash Player 10.3.181.23,PRODUCT
+3396,PDF,ORG
+3397,Shockwave PlayerAdobe,PRODUCT
+3398,Adobe Security Bulletin APSB11-17,ORG
+3399,Flash PlayerAdobe,PRODUCT
+3400,APSB11-,PRODUCT
+3401,Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\AcroExch.,PRODUCT
+3402,ISAMicrosoft,ORG
+3403,ISA,PRODUCT
+3404,"Windows Server Update Services
+
+
+",PRODUCT
+3405,Data Access Components,PRODUCT
+3406,Windows Backup Manager,PRODUCT
+3407,SharepointMicrosoft,PRODUCT
+3408,Forefront Unified Access GatewayMicrosoft Office,PRODUCT
+3409,10,PRODUCT
+3410,g,PRODUCT
+3411,Campus Solutions,ORG
+3412,9.1PeopleSoft Enterprise PeopleTools,ORG
+3413,8.50Siebel Core,ORG
+3414,Sun,ORG
+3415,Siebel Suite,PRODUCT
+3416,the Siebel Option Pack,PRODUCT
+3417,IE ActiveX,PRODUCT
+3418,Siebel,PRODUCT
+3419,UNIXAdobe Acrobat 9.3.4,PRODUCT
+3420,MacintoshAdobe Reader 8.2.4,PRODUCT
+3421,UNIXAdobe Acrobat 8.2.4,PRODUCT
+3422,Windows Registry Editor Version 5.00[HKEY_CLASSES_ROOT\AcroExch,PRODUCT
+3423,Flash Player 10.1.82.76,PRODUCT
+3424,Flash Player 10.1.92.10,PRODUCT
+3425,AndroidAdobe Reader 9.3.4,PRODUCT
+3426,Adobe Security Bulletin APSB10-22,ORG
+3427,Photoshop,PRODUCT
+3428,Lightroom,PRODUCT
+3429,Freehand MX,PRODUCT
+3430,Fireworks,PRODUCT
+3431,FlashAdobe,ORG
+3432,Flash Player 10.1.85.3,PRODUCT
+3433,Flash Player 10.1.95.1,PRODUCT
+3434,UNIXAdobe Acrobat 9.3.3,PRODUCT
+3435,MacintoshAdobe Reader 8.2.3,PRODUCT
+3436,UNIXAdobe Acrobat 8.2.3,PRODUCT
+3437,UpdateAdobe,ORG
+3438,Flash Player 10.1.53.64,PRODUCT
+3439,versionsAdobe Flash Player 9.0.277.0,PRODUCT
+3440,versionsAdobe AIR,PRODUCT
+3441,versionsAdobe Reader,PRODUCT
+3442,Adobe Security Bulletin APSB10-16,ORG
+3443,AIR,PRODUCT
+3444,Adobe Security Bulletin APSB10-,PRODUCT
+3445,AIRAdobe,ORG
+3446,ActiveX,PRODUCT
+3447,WebLogic Server 11gR1,PRODUCT
+3448,WebLogic Server 10gR3,PRODUCT
+3449,WebLogic Server 10.0,PRODUCT
+3450,MP2Oracle,ORG
+3451,MP3Oracle,ORG
+3452,SP6Oracle,ORG
+3453,SP7Oracle,ORG
+3454,-Business Suite Release 12,PRODUCT
+3455,MS10-042,PRODUCT
+3456,the Windows Help and Support Center,ORG
+3457,Flash Player 10.0.45.2,PRODUCT
+3458,Flash Player 9.0.262,PRODUCT
+3459,1.5.3.9130,PRODUCT
+3460,Adobe Security Bulletin APSB10-14,PRODUCT
+3461,AIRAdobe Security Bulletin,PRODUCT
+3462,10.1.53.64,PRODUCT
+3463,SharePoint ServicesMicrosoft,PRODUCT
+3464,SharePoint Services,PRODUCT
+3465,versionsAdobe Acrobat,PRODUCT
+3466,AcrobatAdobe,ORG
+3467,"Adobe Reader.app/Contents/Frameworks/Adobe3D.framework""GNU/Linux",PRODUCT
+3468,Adobe Acrobat Reader,PRODUCT
+3469,Preferences,PRODUCT
+3470,Security Research & Defense,ORG
+3471,Adobe Labs,ORG
+3472,Flash Player 10,PRODUCT
+3473,Outlook ExpressMicrosoft,PRODUCT
+3474,Windows MailMicrosoft,PRODUCT
+3475,Windows Live MailMicrosoft,PRODUCT
+3476,Visual Basic for Applicationsthird,PRODUCT
+3477,Outlook Express,PRODUCT
+3478,Windows Mail,PRODUCT
+3479,Windows Live Mail,PRODUCT
+3480,MicrosoftMicrosoft,ORG
+3481,Security Bulletin APSB10-,PRODUCT
+3482,Acrobat,ORG
+3483,9.3.2,PRODUCT
+3484,8.2.2,PRODUCT
+3485,11,PRODUCT
+3486,E-Business Suite Release 12,PRODUCT
+3487,E-Business Suite Release 11i,PRODUCT
+3488,Agile - Engineering Data Management,PRODUCT
+3489,Thesaurus Management System,PRODUCT
+3490,Retail Place In-Season,ORG
+3491,Retail Plan In-Season,ORG
+3492,Sun Products Suite,PRODUCT
+3493,Sun Security Blog,ORG
+3494,Movie Maker,PRODUCT
+3495,Office Producer,PRODUCT
+3496,2003,PRODUCT
+3497,Office Excel,PRODUCT
+3498,Producer 2003,PRODUCT
+3499,Producer,PRODUCT
+3500,Windows ServerMicrosoft,PRODUCT
+3501,Security Bulletin APSB10,PRODUCT
+3502,Internet ExplorerAdobe (Macromedia) Flash Player 6,PRODUCT
+3503,Windows Embedded Open Type (EOT),PRODUCT
+3504,Macromedia,ORG
+3505,Flash Player 6,PRODUCT
+3506,Embedded Open Type (EOT),PRODUCT
+3507,MS10-001,PRODUCT
+3508,Adobe Flash Player 6Adobe,PRODUCT
+3509,Flash Player ActiveX,PRODUCT
+3510,Adobe Flash Player 6,PRODUCT
+3511,Adobe Flash Player 10.0.32.18,PRODUCT
+3512,versionsAdobe AIR 1.5.2,PRODUCT
+3513,Adobe AIR,PRODUCT
+3514,Flash Player 10.0.32.18,PRODUCT
+3515,Adobe AIR 1.5.2,PRODUCT
+3516,NoScript,PRODUCT
+3517,SeaMonkey,PRODUCT
+3518,Office Word,PRODUCT
+3519,Works,PRODUCT
+3520,"Project
+
+",PRODUCT
+3521,SP5Oracle WebLogic Server,PRODUCT
+3522,SP6Oracle WebLogic Portal,PRODUCT
+3523,APSB09-,PRODUCT
+3524,Acrobat JavaScript).Prevent,PRODUCT
+3525,Forefront,PRODUCT
+3526,Tools,PRODUCT
+3527,Developer Tools,PRODUCT
+3528,OfficeRemote Desktop Connection Client,PRODUCT
+3529,Mac 2.0,PRODUCT
+3530,Office Web Components,PRODUCT
+3531,Remote Desktop Connection,PRODUCT
+3532,ATL,PRODUCT
+3533,Tiger,PRODUCT
+3534,Mac OS X v10.5.8 / Security Update 2009-003,PRODUCT
+3535,Mac OS X v10.5.8,PRODUCT
+3536,Apple Downloads,ORG
+3537,"Apple Downloads
+
+
+",ORG
+3538,C++ Redistributable,PRODUCT
+3539,PackageActiveX,PRODUCT
+3540,the Active Template Library,PRODUCT
+3541,ATL,ORG
+3542,Black Hat USA,ORG
+3543,Flash Player 10.0.22.87,PRODUCT
+3544,versionsAdobe Flash Player 9.0.159.0,PRODUCT
+3545,Flash player,PRODUCT
+3546,Department of Defense Cyber Crime Center/DCISE,ORG
+3547,DirectShowMicrosoft,ORG
+3548,ServerMicrosoft,ORG
+3549,Office PublisherMicrosoft,PRODUCT
+3550,DirectShow,PRODUCT
+3551,Virtual PC and,PRODUCT
+3552,Office Publisher,PRODUCT
+3553,ISA Server,PRODUCT
+3554,XPMicrosoft,ORG
+3555,Video ActiveX,PRODUCT
+3556,Internet Explorer 7,PRODUCT
+3557,Standard,PRODUCT
+3558,Professional,PRODUCT
+3559,Security Bulletin APSB09,PRODUCT
+3560,Adobe Security Bulletin APSB09,PRODUCT
+3561,JBIG2,PRODUCT
+3562,Portable Document Format,PRODUCT
+3563,Acrobat JavaScript,PRODUCT
+3564,Acrobat Reader,PRODUCT
+3565,"Windows Server Update Services
+",PRODUCT
+3566,earlierAdobe,ORG
+3567,Pro,PRODUCT
+3568,GNU/Linux,PRODUCT
+3569,Leopard)Safari 3,PRODUCT
+3570,Mac OS X 10.4,PRODUCT
+3571,Mac OS X 10.5,PRODUCT
+3572,Safari 3.2.3,PRODUCT
+3573,Mac OS X v10.5.7,PRODUCT
+3574,OS X,PRODUCT
+3575,Software Update,PRODUCT
+3576,SP6Oracle WebLogic Server,ORG
+3577,SP7Oracle WebLogic Portal,PRODUCT
+3578,SP6Oracle Data Service Integrator,ORG
+3579,BEA ALDSP,ORG
+3580,3.0Oracle JRockit,ORG
+3581,BEA JRockit,ORG
+3582,JDK,ORG
+3583,ISA Server,PRODUCT
+3584,MS08,PRODUCT
+3585,the Waledac Trojan,PRODUCT
+3586,MS08-067,PRODUCT
+3587,AutoRun,PRODUCT
+3588,US-CERT Technical Cyber Security Alert,ORG
+3589,Win32/Conficker.,PRODUCT
+3590,WindowsWindows Server,PRODUCT
+3591,earlierAdobe Acrobat,PRODUCT
+3592,Security Advisory APSA09,PRODUCT
+3593,APSB09,PRODUCT
+3594,03,PRODUCT
+3595,Office VisioMicrosoft,PRODUCT
+3596,QuickTime 7.5,PRODUCT
+3597,QuickTime 7.6,PRODUCT
+3598,AutoPlay,PRODUCT
+3599,FireWire,PRODUCT
+3600,Windows Explorer,PRODUCT
+3601,CERT/CC Vulnerability Analysis,ORG
+3602,NoDriveTypeAutorun,PRODUCT
+3603,Notepad,ORG
+3604,MountPoints2,PRODUCT
+3605,Nick Brown,PERSON
+3606,Emin Atac,PERSON
+3607,Aryeh Goretsky,PERSON
+3608,Notepad,PRODUCT
+3609,Nick Browns,PERSON
+3610,BEA,ORG
+3611,MP1,ORG
+3612,GAOracle,ORG
+3613,MP3Oracle WebLogic Server,PRODUCT
+3614,SP6Oracle WebLogic Server,PRODUCT
+3615,WebLogic Portal,PRODUCT
+3616,VistaMicrosoft,ORG
+3617,Internet Explorer's,PRODUCT
+3618,IE,PRODUCT
+3619,Internet Explorer 7Enabling,PRODUCT
+3620,Mac OS X v10.5.6,PRODUCT
+3621,the Sun Java Runtime Environment,PRODUCT
+3622,SharePoint Server,PRODUCT
+3623,Visual Basic 6,PRODUCT
+3624,The Sun Java Runtime Environment,PRODUCT
+3625,Java Runtime Environment,PRODUCT
+3626,The Java Runtime Environment,PRODUCT
+3627,JRE 6 Update 11JDK,PRODUCT
+3628,JRE 5.0 Update 17SDK,PRODUCT
+3629,JRE 1.4.2_19SDK,PRODUCT
+3630,JRE 1.3.1_24If,PRODUCT
+3631,Java SE Security,PRODUCT
+3632,Mozilla Foundation,ORG
+3633,Firefox 3.0.4,PRODUCT
+3634,Firefox 2.0.0.18,PRODUCT
+3635,SeaMonkey 1.1.13,PRODUCT
+3636,NoScript Firefox Extension,PRODUCT
