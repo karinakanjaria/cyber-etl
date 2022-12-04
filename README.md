@@ -2,6 +2,7 @@
 DSE 203 Project- Cybersecurity data merging from multiple sources to create and query a knowledge graph for insights.
 
 ## Files:
+0. `dse203_project_environment.yml` - Conda environment export. Use with `conda env create -f dse203_project_environment.yml`
 1. `parse_cve_json_data.py` - Script to convert NIST CVE JSON data into a format ready to import into Neo4j
 2. `mitre_json_to_csv.py` - MITRE provided script to pull MITRE JSON data into CSV for Techniques/Tactics Nodes
 
@@ -14,7 +15,8 @@ DSE 203 Project- Cybersecurity data merging from multiple sources to create and 
 8. `alert_nodes.csv` - Data for creating alerts nodes and linking CVEs referenced in the alerts
 9. `ner_node.csv` - Data for creating Named Entities mentioned in the alerts
 10. `ner_training.json` - Manually labeled matching entitites
-11. `countries_of_the_world.csv` - Data for matching NER entitites to related country information (not used yet)
+11. `countries_of_the_world.csv` - Data for matching NER entitites to related country information
+12. `stopwords.txt` - List of stopwords from Kaggle dataset (https://www.kaggle.com/datasets/rowhitswami/stopwords?resource=download)
 
 
 ## Loading data into neo4j:
