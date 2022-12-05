@@ -1,0 +1,438 @@
+,cpe,ner
+0,microsoft teams,microsoft
+1,python pillow,python
+2,github github,github
+3,google chrome,chrome
+4,nodejs node.js,nodejs
+5,telegram telegram,telegram api
+6,docker desktop,desktop
+7,oracle jdeveloper,oracle
+8,oracle documaker,oracle
+9,python python,python
+10,python python,tritons python
+11,python python,python meterpreter
+12,git-scm git,git
+13,drupal drupal,drupal
+14,drupal drupal,drupal core
+15,oracle graalvm,oracle
+16,oracle mysql,oracle
+17,linuxfoundation osquery,osquery
+18,apple mac os x,mac os
+19,apple mac os x,windows linux mac os x
+20,apple mac os x,mac os x
+21,apple mac os x,apple mac os x
+22,apple mac os x,windows mac os x
+23,apple mac os x,apple mac os mac os x
+24,apple tvos,apple
+25,apple icloud,apple
+26,apple itunes,apple
+27,apple watchos,apple
+28,mikrotik routeros,routeros
+29,apache ant,apache
+30,openbsd openssh,openssh
+31,anchorcms anchor,anchor
+32,netapp cloud backup,netapp cloud backup
+33,microsoft windows 10,microsoft windows
+34,microsoft windows 10,microsoft windows vista
+35,microsoft windows 10,microsoft windows xp
+36,microsoft windows 10,microsoft windows office
+37,python jw.util,python
+38,mozilla mozjpeg,mozilla
+39,apache skywalking,apache
+40,owasp json-sanitizer,owasp
+41,citrix xenapp,citrix
+42,electronjs electron,electron
+43,apache pluto,apache
+44,mozilla geckodriver,mozilla
+45,facebook hermes,hermes
+46,synacor zimbra collaboration suite,zimbra collaboration suite
+47,openssl openssl,openssl
+48,freebsd freebsd,freebsd
+49,apple imessage,apple
+50,microsoft chakracore,microsoft
+51,linux mac80211,linux
+52,microsoft windows server 2008,microsoft windows
+53,microsoft windows server 2008,windows server
+54,microsoft windows 8.1,microsoft windows
+55,microsoft windows 8.1,microsoft windows vista
+56,microsoft windows 8.1,microsoft windows xp
+57,microsoft windows 8.1,microsoft windows office
+58,microsoft windows server 2016,microsoft windows
+59,microsoft windows server 2016,windows server
+60,microsoft windows 7,microsoft windows
+61,microsoft windows 7,microsoft windows vista
+62,microsoft windows 7,microsoft windows xp
+63,microsoft windows 7,microsoft windows office
+64,microsoft windows rt 8.1,microsoft windows
+65,microsoft windows server 2012,microsoft windows
+66,microsoft windows server 2012,windows server
+67,microsoft windows server 2019,microsoft windows
+68,microsoft windows server 2019,windows server
+69,netapp cloud manager,netapp cloud backup
+70,hyper http,http
+71,apache iotdb,apache
+72,oracle coherence,oracle
+73,python urllib3,python
+74,apache activemq,apache
+75,apache beam,apache
+76,apache kafka,apache
+77,apache spark,apache
+78,apache nifi,apache
+79,apache solr,apache
+80,apache karaf,apache
+81,golang go,go
+82,scully scully,scully spider
+83,rclone rclone,rclone
+84,mobileiron mobile\@work,mobileiron
+85,logmein lastpass,logmein
+86,clusterlabs hawk,hawk
+87,dart http,http
+88,oracle autovue,oracle
+89,debian apt,apt
+90,vmware velero,vmware
+91,git git,git
+92,apache camel,apache
+93,mozilla bleach,mozilla
+94,oracle georaster,oracle
+95,rapid7 metasploit,metasploit
+96,cayintech cms,cms
+97,browserless chrome,chrome
+98,oracle essbase,oracle
+99,solarwinds n-central,solarwinds
+100,apple macos,macos
+101,apple macos,apple
+102,kubernetes java,java
+103,adobe magento,adobe
+104,telestream sentry,sentry
+105,microsoft .net,microsoft
+106,microsoft powershell,powershell
+107,microsoft powershell,microsoft
+108,microsoft powershell,microsoft powershell
+109,adobe git-server,adobe
+110,apple nioextras,apple
+111,apache vcl,apache
+112,trustwave modsecurity,modsecurity
+113,haxx curl,curl
+114,f5 nginx,nginx
+115,php php,php
+116,oracle linux,linux
+117,oracle linux,oracle
+118,nodejs nodejs,nodejs
+119,nmap nmap,nmap
+120,joomla joomla\!,joomla
+121,apache libcloud,apache
+122,mit kerberos,kerberos
+123,google android,android
+124,zohocorp manageengine desktop central,zoho manageengine desktop central
+125,zohocorp manageengine desktop central,manageengine desktop central
+126,microsoft edge,microsoft
+127,microsoft edge,microsoft edge
+128,microsoft windows vista,microsoft windows
+129,microsoft windows vista,windows vista
+130,microsoft windows vista,microsoft windows vista
+131,microsoft windows vista,microsoft windows xp
+132,microsoft windows vista,microsoft windows office
+133,microsoft microsoft.aspnetcore.mvc.formatters.json,microsoft
+134,microsoft microsoft.aspnetcore.mvc.cors,microsoft
+135,microsoft microsoft.aspnetcore.mvc.apiexplorer,microsoft
+136,microsoft microsoft.aspnetcore.mvc.localization,microsoft
+137,microsoft microsoft.aspnetcore.mvc.taghelpers,microsoft
+138,microsoft microsoft.aspnetcore.mvc.abstractions,microsoft
+139,microsoft microsoft.aspnetcore.mvc.formatters.xml,microsoft
+140,microsoft microsoft.aspnetcore.mvc.dataannotations,microsoft
+141,microsoft microsoft.aspnetcore.mvc.razor.host,microsoft
+142,microsoft microsoft.aspnetcore.mvc.viewfeatures,microsoft
+143,microsoft system.text.encodings.web,microsoft
+144,microsoft microsoft.aspnetcore.mvc.razor,microsoft
+145,microsoft microsoft.aspnetcore.mvc.webapicompatshim,microsoft
+146,microsoft system.net.security,microsoft
+147,microsoft system.net.websockets.client,microsoft
+148,microsoft system.net.http,microsoft
+149,microsoft system.net.http.winhttphandler,microsoft
+150,torproject tor,tor
+151,atom electron,electron
+152,leanote desktop,desktop
+153,virustotal yara,yara
+154,virustotal yara,virustotal
+155,microsoft office,microsoft
+156,microsoft office,office
+157,microsoft office,microsoft office
+158,microsoft office,microsoft windows office
+159,microsoft office,microsoft office internet explorer
+160,microsoft office,microsoft office producer
+161,microsoft office,microsoft office excel
+162,microsoft office,microsoft internet explorermicrosoft office
+163,gnu wget,wget
+164,bmc patrol,bmc
+165,zoom zoom,zoom
+166,oracle clusterware,oracle
+167,irfanview pdf,pdf
+168,openstack swift,swift
+169,k7computing antivirus,antivirus
+170,apple safari,apple
+171,apple safari,safari
+172,apple cups,apple
+173,clusterlabs pcs,pcs
+174,apache http server,apache http
+175,vmware xenon,vmware
+176,apache struts,apache
+177,apache struts,apache struts
+178,apache log4j,apache
+179,oracle goldengate,oracle
+180,red5 media server,linuxflash media server
+181,citrix netscaler application delivery controller firmware,citrix application delivery controller gateway
+182,citrix netscaler application delivery controller firmware,citrix application delivery controller
+183,citrix netscaler application delivery controller firmware,citrix netscaler application delivery control
+184,cisco ios,cisco ios
+185,cisco ios,cisco ios xe
+186,cisco ios,ios
+187,cisco ios,smi cisco ios
+188,dropbox lepton,dropbox
+189,libreoffice libreoffice,libreoffice
+190,accellion file transfer appliance,accellion file transfer appliance
+191,microsoft .net framework,microsoft net framework
+192,apache cordova,apache
+193,f5 big-iq application delivery controller,citrix application delivery controller
+194,f5 big-iq application delivery controller,citrixs application delivery controller
+195,python rply,python
+196,python requests,python
+197,adobe phonegap,adobe
+198,ibm aix,aix
+199,ibm aix,ibm
+200,ibm vios,ibm
+201,oracle database,oracle
+202,manageengine it360,manageengine
+203,manageengine desktop central,zoho manageengine desktop central
+204,manageengine desktop central,manageengine desktop central
+205,microsoft windows rt,microsoft windows
+206,microsoft windows rt,microsoft windows vista
+207,microsoft windows rt,microsoft windows xp
+208,microsoft windows rt,microsoft windows office
+209,microsoft windows server 2003,microsoft windows
+210,microsoft windows server 2003,windows server
+211,microsoft windows 8,microsoft windows
+212,microsoft windows 8,microsoft windows vista
+213,microsoft windows 8,microsoft windows xp
+214,microsoft windows 8,microsoft windows office
+215,sonicwall scrutinizer,sonicwall
+216,oracle solaris,oracle
+217,oracle solaris,solaris
+218,apple xcode,apple
+219,zohocorp desktop central,manageengine desktop central
+220,owasp dependency-track,owasp
+221,zohocorp manageengine servicedesk plus,manageengine servicedesk
+222,php imagick,php
+223,sitecore experience platform,sitecore experience platform
+224,vmware rabbitmq,vmware
+225,oracle knowledge,oracle
+226,pulsesecure pulse policy secure,pulse secure
+227,pulsesecure pulse policy secure,pulse policy secure
+228,pulsesecure pulse connect secure,pulse connect secure
+229,pulsesecure pulse connect secure,pulse secure pulse connect secure
+230,pulsesecure pulse connect secure,pulse secure
+231,pulsesecure pulse connect secure,pulse connect secure vpn software
+232,pulsesecure pulse connect secure,pulse connect secure vpn
+233,pulsesecure pulse connect secure,pulse connect
+234,pulsesecure pulse connect secure,ivanti pulse connect secure appliances
+235,pulsesecure pulse connect secure,pulse secure connect
+236,pulsesecure pulse connect secure,pulse secure connect device
+237,pulsesecure pulse connect secure,pulse connect secure appliance
+238,pulsesecure pulse connect secure,pulse connect secure appliance ip
+239,pulsesecure pulse connect secure,the pulse secure connect integritytool
+240,pulsesecure pulse connect secure,vu pulse connect secure
+241,nmap npcap,nmap
+242,mozilla firefox,firefox
+243,mozilla firefox,mozilla
+244,mozilla thunderbird,thunderbird
+245,mozilla thunderbird,mozilla
+246,python pyxdg,python
+247,gitlab gitlab,gitlab
+248,apache tomee,apache
+249,comodo antivirus,antivirus
+250,comodo antivirus,comodo
+251,apple ipados,apple
+252,msi afterburner,msi
+253,microsoft codeql,microsoft
+254,vmware cloud foundation,vmware cloud foundation
+255,apache xml-rpc,apache
+256,gnu bash,gnu bash
+257,gnu bash,bash
+258,zohocorp manageengine adselfservice plus,manageengine adselfservice
+259,linux acrn,linux
+260,apache guacamole,apache
+261,apache bookkeeper,apache
+262,apache mesos,apache
+263,microsoft azure-umqtt-c,microsoft
+264,live555 live555 media server,linuxflash media server
+265,python pypiserver,python
+266,oracle jdk,jdk
+267,oracle jdk,oracle
+268,oracle java se,oracle java
+269,oracle java se,oracle java se
+270,oracle java se,java se
+271,netapp cloud insights,netapp cloud backup
+272,solarwinds orion platform,solarwinds orion
+273,solarwinds orion platform,orion platform
+274,apple mac os x server,mac os x
+275,apple mac os x server,apple mac os x
+276,apple mac os x server,mac os server
+277,apple mac os x server,windows mac os x
+278,apple mac os x server,apple mac os mac os x
+279,mcafee epolicy orchestrator,mcafees epolicy orchestrator
+280,zlib pigz,zlib
+281,selinux setroubleshoot,selinux
+282,apple pykerberos,apple
+283,milton webdav,webdav
+284,juniper screenos,juniper
+285,curl curl,curl
+286,curl libcurl,curl
+287,apache openoffice.org,apache
+288,openstack horizon,horizon
+289,python beaker,python
+290,apache couchdb,apache
+291,cisco ios xe,cisco ios
+292,cisco ios xe,cisco ios xe
+293,cisco ios xe,ios xe
+294,cisco ios xe,ios xe software
+295,cisco ios xe,smi cisco ios
+296,cisco ios xe sd-wan,cisco ios
+297,cisco ios xe sd-wan,cisco ios xe
+298,cisco ios xe sd-wan,ios xe
+299,apache kudu,apache
+300,apache zookeeper,apache
+301,mozilla pollbot,mozilla
+302,oracle helidon,oracle
+303,sap cla-assistant,sap
+304,sap scimono,sap
+305,nextcloud desktop,desktop
+306,microsoft qlib,microsoft
+307,opennms horizon,horizon
+308,apache ofbiz,apache
+309,fortinet fortimanager,fortinet
+310,fortinet fortianalyzer,fortinet
+311,fortinet fortiportal,fortinet
+312,apache livy,apache
+313,accellion fta,accellion fta
+314,accellion fta,fta
+315,lumis lumis experience platform,sitecore experience platform
+316,apache ignite,apache
+317,owasp csrfguard,owasp
+318,cygwin git,git
+319,apache airflow,apache
+320,secureauth impacket,impacket
+321,apache openoffice,apache
+322,apache openoffice,openoffice
+323,winscp winscp,winscp
+324,sap infrabox,sap
+325,apache tika,apache
+326,grafana loki,loki
+327,freebsd libfetch,freebsd
+328,microsoft onefuzz,microsoft
+329,jpeg libjpeg,jpeg
+330,juniper libslax,juniper
+331,op5 monitor,monitor
+332,oracle tuxedo,oracle
+333,apache hive,apache
+334,apache pulsar,apache
+335,laquisscada scada,scada
+336,splashtop streamer,splashtop
+337,fortinet fortinac,fortinet
+338,hashicorp sentinel,sentinel
+339,avast antivirus,antivirus
+340,gitforwindows git,git
+341,nginx njs,nginx
+342,vmware open-vm-tools,vmware
+343,juniper junos space,juniper junos
+344,microsoft word,microsoft
+345,microsoft word,word
+346,microsoft office compatibility pack,microsoft office
+347,bouncycastle fips java api,java api
+348,ibm kitura,ibm
+349,oracle jre,oracle
+350,oracle jre,jre
+351,apache openwhisk,apache
+352,owasp dependency-check,owasp
+353,dropbox dropbox,dropbox
+354,apache mxnet,apache
+355,teamviewer teamviewer,teamviewer
+356,python pycryptodome,python
+357,viabtc viabtc exchange server,windows exchange server
+358,viabtc viabtc exchange server,onpremises exchange server
+359,rarlab winrar,winrar
+360,redhat linux,linux
+361,zlib zlib,zlib
+362,citrix netscaler,citrix
+363,citrix netscaler,netscaler
+364,citrix netscaler,citrix netscaler
+365,jiangmin antivirus,antivirus
+366,apache superset,apache
+367,apache cxf,apache
+368,citrix xenserver,citrix
+369,ssh ssh,ssh
+370,apple webkit,apple
+371,apache tomcat,apache
+372,apache geronimo,apache
+373,ibm notes,ibm
+374,ibm domino,ibm
+375,synology photo station,photo station
+376,mozilla nunjucks,mozilla
+377,oracle portal,oracle
+378,sap netweaver application server java,netweaver application server java
+379,ibm sdk,ibm
+380,apache cassandra,apache
+381,apache ws-xmlrpc,apache
+382,cisco adaptive security appliance software,adaptive security appliance
+383,bmc track-it\!,bmc
+384,php ext-http,php
+385,ruby-lang openssl,openssl
+386,gnu zlib,zlib
+387,apple swift,apple
+388,apple swift,swift
+389,mozilla convict,mozilla
+390,github gh-ost,github
+391,microsoft windows 11,microsoft windows
+392,microsoft windows 11,microsoft windows vista
+393,microsoft windows 11,microsoft windows xp
+394,microsoft windows 11,microsoft windows office
+395,microsoft windows server,microsoft windows
+396,microsoft windows server,windows exchange server
+397,microsoft windows server,windows server
+398,microsoft windows server,microsoft windows vista
+399,microsoft windows server,microsoft windows xp
+400,microsoft windows server,microsoft server software
+401,microsoft windows server,microsoft windows office
+402,microsoft windows server,vistamicrosoft windows server
+403,vmware pinniped,vmware
+404,microsoft outlook 2016,microsoft outlook
+405,element desktop,desktop
+406,tightvnc tightvnc,tightvnc
+407,accellion managed file transfer,accellion file transfer appliance
+408,github viewcomponent,github
+409,github cmark-gfm,github
+410,cve cve-services,cve
+411,python tkvideoplayer,python
+412,microsoft workspace-tools,microsoft
+413,apache cloudstack,apache
+414,php pearweb,php
+415,python pypi,python
+416,mozilla hawk,hawk
+417,mozilla hawk,mozilla
+418,jodd http,http
+419,ruifang-tech rebuild,rebuild
+420,nodejs undici,nodejs
+421,apple swiftnio,apple
+422,zimbra collaboration,zimbra collaboration suite
+423,apple swift-nio-extras,apple
+424,h3c ssl vpn,ssl vpn
+425,github toolkit,github
+426,reactphp http,http
+427,tesla tesla,tesla
+428,tesla tesla,agent tesla
+429,apple webobjects,apple
+430,microsoft windows server 2022,microsoft windows
+431,microsoft windows server 2022,windows server
+432,msi center,msi
+433,github runner,github
+434,apache apache-airflow-providers-apache-spark,apache
+435,apache apache-airflow-providers-apache-hive,apache
+436,atlassian confluence data center,confluence data center
