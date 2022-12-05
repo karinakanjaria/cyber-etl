@@ -3,10 +3,25 @@ name = ""
 version = ""
 description = ""
 authors = [
-    {name = "Chris Armstrong", email = "cparmstr@ucsd.edu"},
+    {name = "Chris",email=""},
+    {name = "Karina",email=""},
+    {name = "Spencer",email=""},
 ]
 dependencies = [
+    "jsonpath-ng>=1.5.3",
+    "pandas>=1.5.1",
     "pyarrow>=10.0.0",
+]
+requires-python = ">=3.10"
+license = {text = "MIT"}
+[tool.pdm.dev-dependencies]
+vim = [
+    "black>=22.10.0",
+    "isort>=5.10.1",
+    "flake8>=5.0.4",
+    "pynvim>=0.4.3",
+    "ropevim>=0.8.1",
+    "sourcery-cli>=0.13.0",
 ]
 requires-python = ">=3.10"
 license = {text = "MIT"}
