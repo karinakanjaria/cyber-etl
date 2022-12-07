@@ -76,23 +76,23 @@ def get_github_repo_paths(raw_urls: pd.Series) -> pd.Series:
 def get_github_data(
     api_url: str, headers=None, data=None, endpoint="", api_token=""
 ) -> Dict[str, Dict]:
+    respond_with = {"url": api_url, "status": "default", endpoint: {}}
     the_url = f"{api_url}/{endpoint}"
     response = handle_get_requests(the_url, api_token=api_token)
     print(".", end="", flush=True)
     if response.status_code != 200:
-        return pd.Series(
-            {
-                "url": api_url,
-                "status": "failed",
-                endpoint: {
-                    "status_code": str(response.status_code),
-                    "text": response.text,
-                },
-            }
-        )
-    if contrib_resp := response.json():
-        return pd.Series({"url": api_url, "status": "success", endpoint: contrib_resp})
-    return pd.Series({"url": api_url, "status": "", endpoint: {}})
+        respond_with = {
+            "url": api_url,
+            "status": "failed",
+            endpoint: {
+                "status_code": str(response.status_code),
+                "text": response.text,
+            },
+        }
+    if git_resp := response.json():
+        if isinstance(git_resp, (dict, list)):
+            respond_with = {"url": api_url, "status": "success", endpoint: git_resp}
+    return pd.Series(respond_with)
 
 
 def get_api_token(file_path=Path("api_token.secret")):
@@ -107,7 +107,7 @@ def get_api_token(file_path=Path("api_token.secret")):
 def main():
     start = 0  # Set this to your assigned start values.
     batch_size = (
-        50  # Needs to be half the max of 5000, leaving some room for error too.
+        500  # Needs to be half the max of 5000, leaving some room for error too.
     )
 
     api_token = get_api_token()
@@ -129,30 +129,29 @@ def main():
         new_len = len(github_repo_urls)
         print(f"Removed {original_len-new_len} URLs since they were already done.")
 
-    # Set up the end point for this batch
-    end = min((start + batch_size), len(github_repo_urls))
-
     # Check for rate-limit first
     _ = get_github_data(
         "https://api.github.com", endpoint="rate_limit", api_token=api_token
     )
 
-    for i in range(start, end, batch_size):
+    for start_loc in range(start, len(github_repo_urls), batch_size):
+        file_number = str(start_loc).zfill(5)
+        end_loc = min((start_loc + batch_size), len(github_repo_urls))
+
         # Query GitHub API for languages
         language_col = "languages"
-        languages = github_repo_urls.iloc[start:end].apply(
+        languages = github_repo_urls.iloc[start_loc:end_loc].apply(
             get_github_data, endpoint=language_col, api_token=api_token
         )
         languages = languages.reset_index().rename(columns={"index": "original_index"})
         try:
-            languages.to_feather(data_path / f"languages_{str(i).zfill(5)}.feather")
+            languages.to_feather(data_path / f"languages_{file_number}.feather")
         except Exception as e:
-            breakpoint()
             print(e)
 
         # Query GitHub API for contributors
         contrib_col = "contributors"
-        contributors = github_repo_urls.iloc[start:end].apply(
+        contributors = github_repo_urls.iloc[start_loc:end_loc].apply(
             get_github_data, endpoint=contrib_col, api_token=api_token
         )
         contributors = contributors.reset_index().rename(
@@ -160,13 +159,10 @@ def main():
         )
         contributors = contributors.explode(contrib_col).reset_index(drop=True)
         try:
-            contributors.to_feather(
-                data_path / f"contributors_{str(i).zfill(5)}.feather"
-            )
+            contributors.to_feather(data_path / f"contributors_{file_number}.feather")
         except Exception as e:
-            breakpoint()
             print(e)
-        print(f"finished up to: {end}")
+        print(f"finished up to: {end_loc}")
 
 
 if __name__ == "__main__":
