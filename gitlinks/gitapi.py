@@ -5,7 +5,8 @@ import time
 import urllib.parse as url
 from datetime import datetime
 from pathlib import Path
-from typing import Callable, Dict, List
+from threading import Thread
+from typing import Callable, Dict, List, Union
 
 import pandas as pd
 import requests
@@ -27,17 +28,14 @@ def handle_get_requests(api_url, headers=None, data=None, time_to_wait=3, api_to
     Uses the GitHub API response to wait as appropriate for the specified time after
     called.
     """
-    if timer > 0:
-        x = 60
-        while timer:
-            hours = int(timer / x / x)
-            minutes = int(timer / x) - (hours * x)
-            print(
-                f"Waiting for {hours:02d}:{minutes:02d} (hh:mm)", flush=True, end="\r"
-            )
-            y = min(timer, x)
-            time.sleep(y)
-            timer -= x
+    x = 60
+    while timer > 0:
+        hours = int(timer / x / x)
+        minutes = int(timer / x) - (hours * x)
+        print(f"Waiting for {hours:02d}:{minutes:02d} (hh:mm)", flush=True, end="\r")
+        y = min(timer, x)
+        time.sleep(y)
+        timer -= y
 
     req_headers = {}
     if headers:
@@ -75,8 +73,8 @@ def get_github_repo_paths(raw_urls: pd.Series) -> pd.Series:
 
 def get_github_data(
     api_url: str, headers=None, data=None, endpoint="", api_token=""
-) -> Dict[str, Dict]:
-    respond_with = {"url": api_url, "status": "default", endpoint: {}}
+) -> Dict[str, Union[str, Dict]]:
+    respond_with = {"url": api_url, "status": "default", endpoint: {}}  # default
     the_url = f"{api_url}/{endpoint}"
     response = handle_get_requests(the_url, api_token=api_token)
     print(".", end="", flush=True)
@@ -89,9 +87,16 @@ def get_github_data(
                 "text": response.text,
             },
         }
-    if git_resp := response.json():
-        if isinstance(git_resp, (dict, list)):
-            respond_with = {"url": api_url, "status": "success", endpoint: git_resp}
+    try:
+        if git_resp := response.json():
+            if isinstance(git_resp, (dict, list)):
+                respond_with = {"url": api_url, "status": "success", endpoint: git_resp}
+    except Exception as e:
+        respond_with = {
+            "url": api_url,
+            "status": "error",
+            endpoint: {"response": response.content},
+        }
     return pd.Series(respond_with)
 
 
@@ -107,7 +112,7 @@ def get_api_token(file_path=Path("api_token.secret")):
 def main():
     start = 0  # Set this to your assigned start values.
     batch_size = (
-        500  # Needs to be half the max of 5000, leaving some room for error too.
+        15  # Needs to be half the max of 5000, leaving some room for error too.
     )
 
     api_token = get_api_token()
@@ -145,8 +150,14 @@ def main():
         )
         languages = languages.reset_index().rename(columns={"index": "original_index"})
         try:
-            languages.to_feather(data_path / f"languages_{file_number}.feather")
+            lang_file = data_path / f"languages_{file_number}.feather"
+            i = 0
+            while lang_file.exists():
+                lang_file = data_path / f"languages_{file_number}_{i}.feather"
+                i += 1
+            languages.to_feather(lang_file)
         except Exception as e:
+            breakpoint()
             print(e)
 
         # Query GitHub API for contributors
@@ -157,10 +168,20 @@ def main():
         contributors = contributors.reset_index().rename(
             columns={"index": "original_index"}
         )
-        contributors = contributors.explode(contrib_col).reset_index(drop=True)
+        non_list_filter = contributors.contributors.apply(lambda x: isinstance(x, dict))
+        contributors.loc[non_list_filter, "contributors"] = contributors.loc[
+            non_list_filter, "contributors"
+        ].apply(lambda x: [x])
+        contributors2 = contributors.explode(contrib_col).reset_index(drop=True)
         try:
-            contributors.to_feather(data_path / f"contributors_{file_number}.feather")
+            contrib_file = data_path / f"contributors_{file_number}.feather"
+            i = 0
+            while contrib_file.exists():
+                contrib_file = data_path / f"contributors_{file_number}_{i}.feather"
+                i += 1
+            contributors2.to_feather(contrib_file)
         except Exception as e:
+            breakpoint()
             print(e)
         print(f"finished up to: {end_loc}")
 
