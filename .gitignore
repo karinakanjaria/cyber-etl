@@ -237,3 +237,4 @@ faxes/
 .vscode/settings.json
 *.txt
 *.png
+*.secret
