@@ -10,7 +10,7 @@ from typing import Callable, Dict, List
 import pandas as pd
 import requests
 
-data_path = Path("./") / "data"
+data_path = Path("../") / "data"
 cve_data = pd.read_feather(data_path / "all_parsed_cve_references.feather")
 github_links = cve_data.loc[
     cve_data["url"].str.contains("github.com"), "url"
@@ -84,12 +84,15 @@ def get_github_data(
             {
                 "url": api_url,
                 "status": "failed",
-                endpoint: f"{str(response.status_code)}-{response.text}",
+                endpoint: {
+                    "status_code": str(response.status_code),
+                    "text": response.text,
+                },
             }
         )
     if contrib_resp := response.json():
         return pd.Series({"url": api_url, "status": "success", endpoint: contrib_resp})
-    return pd.Series({"url": api_url, "status": None, endpoint: None})
+    return pd.Series({"url": api_url, "status": "", endpoint: {}})
 
 
 def get_api_token(file_path=Path("api_token.secret")):
@@ -104,7 +107,7 @@ def get_api_token(file_path=Path("api_token.secret")):
 def main():
     start = 0  # Set this to your assigned start values.
     batch_size = (
-        2450  # Needs to be half the max of 5000, leaving some room for error too.
+        50  # Needs to be half the max of 5000, leaving some room for error too.
     )
 
     api_token = get_api_token()
@@ -141,7 +144,11 @@ def main():
             get_github_data, endpoint=language_col, api_token=api_token
         )
         languages = languages.reset_index().rename(columns={"index": "original_index"})
-        languages.to_feather(data_path / f"languages_{str(i).zfill(5)}.feather")
+        try:
+            languages.to_feather(data_path / f"languages_{str(i).zfill(5)}.feather")
+        except Exception as e:
+            breakpoint()
+            print(e)
 
         # Query GitHub API for contributors
         contrib_col = "contributors"
@@ -152,7 +159,13 @@ def main():
             columns={"index": "original_index"}
         )
         contributors = contributors.explode(contrib_col).reset_index(drop=True)
-        contributors.to_feather(data_path / f"contributors_{str(i).zfill(5)}.feather")
+        try:
+            contributors.to_feather(
+                data_path / f"contributors_{str(i).zfill(5)}.feather"
+            )
+        except Exception as e:
+            breakpoint()
+            print(e)
         print(f"finished up to: {end}")
 
 
