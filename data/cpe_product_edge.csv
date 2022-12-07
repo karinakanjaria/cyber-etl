@@ -1,438 +1,771 @@
-index,cpe,ner
-0,microsoft teams,microsoft
-1,python pillow,python
-2,github github,github
-3,google chrome,chrome
-4,nodejs node.js,nodejs
-5,telegram telegram,telegram api
-6,docker desktop,desktop
-7,oracle jdeveloper,oracle
-8,oracle documaker,oracle
-9,python python,python
-10,python python,tritons python
-11,python python,python meterpreter
-12,git-scm git,git
-13,drupal drupal,drupal
-14,drupal drupal,drupal core
-15,oracle graalvm,oracle
-16,oracle mysql,oracle
-17,linuxfoundation osquery,osquery
-18,apple mac os x,mac os
-19,apple mac os x,windows linux mac os x
-20,apple mac os x,mac os x
-21,apple mac os x,apple mac os x
-22,apple mac os x,windows mac os x
-23,apple mac os x,apple mac os mac os x
-24,apple tvos,apple
-25,apple icloud,apple
-26,apple itunes,apple
-27,apple watchos,apple
-28,mikrotik routeros,routeros
-29,apache ant,apache
-30,openbsd openssh,openssh
-31,anchorcms anchor,anchor
-32,netapp cloud backup,netapp cloud backup
-33,microsoft windows 10,microsoft windows
-34,microsoft windows 10,microsoft windows vista
-35,microsoft windows 10,microsoft windows xp
-36,microsoft windows 10,microsoft windows office
-37,python jw.util,python
-38,mozilla mozjpeg,mozilla
-39,apache skywalking,apache
-40,owasp json-sanitizer,owasp
-41,citrix xenapp,citrix
-42,electronjs electron,electron
-43,apache pluto,apache
-44,mozilla geckodriver,mozilla
-45,facebook hermes,hermes
-46,synacor zimbra collaboration suite,zimbra collaboration suite
-47,openssl openssl,openssl
-48,freebsd freebsd,freebsd
-49,apple imessage,apple
-50,microsoft chakracore,microsoft
-51,linux mac80211,linux
-52,microsoft windows server 2008,microsoft windows
-53,microsoft windows server 2008,windows server
-54,microsoft windows 8.1,microsoft windows
-55,microsoft windows 8.1,microsoft windows vista
-56,microsoft windows 8.1,microsoft windows xp
-57,microsoft windows 8.1,microsoft windows office
-58,microsoft windows server 2016,microsoft windows
-59,microsoft windows server 2016,windows server
-60,microsoft windows 7,microsoft windows
-61,microsoft windows 7,microsoft windows vista
-62,microsoft windows 7,microsoft windows xp
-63,microsoft windows 7,microsoft windows office
-64,microsoft windows rt 8.1,microsoft windows
-65,microsoft windows server 2012,microsoft windows
-66,microsoft windows server 2012,windows server
-67,microsoft windows server 2019,microsoft windows
-68,microsoft windows server 2019,windows server
-69,netapp cloud manager,netapp cloud backup
-70,hyper http,http
-71,apache iotdb,apache
-72,oracle coherence,oracle
-73,python urllib3,python
-74,apache activemq,apache
-75,apache beam,apache
-76,apache kafka,apache
-77,apache spark,apache
-78,apache nifi,apache
-79,apache solr,apache
-80,apache karaf,apache
-81,golang go,go
-82,scully scully,scully spider
-83,rclone rclone,rclone
-84,mobileiron mobile\@work,mobileiron
-85,logmein lastpass,logmein
-86,clusterlabs hawk,hawk
-87,dart http,http
-88,oracle autovue,oracle
-89,debian apt,apt
-90,vmware velero,vmware
-91,git git,git
-92,apache camel,apache
-93,mozilla bleach,mozilla
-94,oracle georaster,oracle
-95,rapid7 metasploit,metasploit
-96,cayintech cms,cms
-97,browserless chrome,chrome
-98,oracle essbase,oracle
-99,solarwinds n-central,solarwinds
-100,apple macos,macos
-101,apple macos,apple
-102,kubernetes java,java
-103,adobe magento,adobe
-104,telestream sentry,sentry
-105,microsoft .net,microsoft
-106,microsoft powershell,powershell
-107,microsoft powershell,microsoft
-108,microsoft powershell,microsoft powershell
-109,adobe git-server,adobe
-110,apple nioextras,apple
-111,apache vcl,apache
-112,trustwave modsecurity,modsecurity
-113,haxx curl,curl
-114,f5 nginx,nginx
-115,php php,php
-116,oracle linux,linux
-117,oracle linux,oracle
-118,nodejs nodejs,nodejs
-119,nmap nmap,nmap
-120,joomla joomla\!,joomla
-121,apache libcloud,apache
-122,mit kerberos,kerberos
-123,google android,android
-124,zohocorp manageengine desktop central,zoho manageengine desktop central
-125,zohocorp manageengine desktop central,manageengine desktop central
-126,microsoft edge,microsoft
-127,microsoft edge,microsoft edge
-128,microsoft windows vista,microsoft windows
-129,microsoft windows vista,windows vista
-130,microsoft windows vista,microsoft windows vista
-131,microsoft windows vista,microsoft windows xp
-132,microsoft windows vista,microsoft windows office
-133,microsoft microsoft.aspnetcore.mvc.formatters.json,microsoft
-134,microsoft microsoft.aspnetcore.mvc.cors,microsoft
-135,microsoft microsoft.aspnetcore.mvc.apiexplorer,microsoft
-136,microsoft microsoft.aspnetcore.mvc.localization,microsoft
-137,microsoft microsoft.aspnetcore.mvc.taghelpers,microsoft
-138,microsoft microsoft.aspnetcore.mvc.abstractions,microsoft
-139,microsoft microsoft.aspnetcore.mvc.formatters.xml,microsoft
-140,microsoft microsoft.aspnetcore.mvc.dataannotations,microsoft
-141,microsoft microsoft.aspnetcore.mvc.razor.host,microsoft
-142,microsoft microsoft.aspnetcore.mvc.viewfeatures,microsoft
-143,microsoft system.text.encodings.web,microsoft
-144,microsoft microsoft.aspnetcore.mvc.razor,microsoft
-145,microsoft microsoft.aspnetcore.mvc.webapicompatshim,microsoft
-146,microsoft system.net.security,microsoft
-147,microsoft system.net.websockets.client,microsoft
-148,microsoft system.net.http,microsoft
-149,microsoft system.net.http.winhttphandler,microsoft
-150,torproject tor,tor
-151,atom electron,electron
-152,leanote desktop,desktop
-153,virustotal yara,yara
-154,virustotal yara,virustotal
-155,microsoft office,microsoft
-156,microsoft office,office
-157,microsoft office,microsoft office
-158,microsoft office,microsoft windows office
-159,microsoft office,microsoft office internet explorer
-160,microsoft office,microsoft office producer
-161,microsoft office,microsoft office excel
-162,microsoft office,microsoft internet explorermicrosoft office
-163,gnu wget,wget
-164,bmc patrol,bmc
-165,zoom zoom,zoom
-166,oracle clusterware,oracle
-167,irfanview pdf,pdf
-168,openstack swift,swift
-169,k7computing antivirus,antivirus
-170,apple safari,apple
-171,apple safari,safari
-172,apple cups,apple
-173,clusterlabs pcs,pcs
-174,apache http server,apache http
-175,vmware xenon,vmware
-176,apache struts,apache
-177,apache struts,apache struts
-178,apache log4j,apache
-179,oracle goldengate,oracle
-180,red5 media server,linuxflash media server
-181,citrix netscaler application delivery controller firmware,citrix application delivery controller gateway
-182,citrix netscaler application delivery controller firmware,citrix application delivery controller
-183,citrix netscaler application delivery controller firmware,citrix netscaler application delivery control
-184,cisco ios,cisco ios
-185,cisco ios,cisco ios xe
-186,cisco ios,ios
-187,cisco ios,smi cisco ios
-188,dropbox lepton,dropbox
-189,libreoffice libreoffice,libreoffice
-190,accellion file transfer appliance,accellion file transfer appliance
-191,microsoft .net framework,microsoft net framework
-192,apache cordova,apache
-193,f5 big-iq application delivery controller,citrix application delivery controller
-194,f5 big-iq application delivery controller,citrixs application delivery controller
-195,python rply,python
-196,python requests,python
-197,adobe phonegap,adobe
-198,ibm aix,aix
-199,ibm aix,ibm
-200,ibm vios,ibm
-201,oracle database,oracle
-202,manageengine it360,manageengine
-203,manageengine desktop central,zoho manageengine desktop central
-204,manageengine desktop central,manageengine desktop central
-205,microsoft windows rt,microsoft windows
-206,microsoft windows rt,microsoft windows vista
-207,microsoft windows rt,microsoft windows xp
-208,microsoft windows rt,microsoft windows office
-209,microsoft windows server 2003,microsoft windows
-210,microsoft windows server 2003,windows server
-211,microsoft windows 8,microsoft windows
-212,microsoft windows 8,microsoft windows vista
-213,microsoft windows 8,microsoft windows xp
-214,microsoft windows 8,microsoft windows office
-215,sonicwall scrutinizer,sonicwall
-216,oracle solaris,oracle
-217,oracle solaris,solaris
-218,apple xcode,apple
-219,zohocorp desktop central,manageengine desktop central
-220,owasp dependency-track,owasp
-221,zohocorp manageengine servicedesk plus,manageengine servicedesk
-222,php imagick,php
-223,sitecore experience platform,sitecore experience platform
-224,vmware rabbitmq,vmware
-225,oracle knowledge,oracle
-226,pulsesecure pulse policy secure,pulse secure
-227,pulsesecure pulse policy secure,pulse policy secure
-228,pulsesecure pulse connect secure,pulse connect secure
-229,pulsesecure pulse connect secure,pulse secure pulse connect secure
-230,pulsesecure pulse connect secure,pulse secure
-231,pulsesecure pulse connect secure,pulse connect secure vpn software
-232,pulsesecure pulse connect secure,pulse connect secure vpn
-233,pulsesecure pulse connect secure,pulse connect
-234,pulsesecure pulse connect secure,ivanti pulse connect secure appliances
-235,pulsesecure pulse connect secure,pulse secure connect
-236,pulsesecure pulse connect secure,pulse secure connect device
-237,pulsesecure pulse connect secure,pulse connect secure appliance
-238,pulsesecure pulse connect secure,pulse connect secure appliance ip
-239,pulsesecure pulse connect secure,the pulse secure connect integritytool
-240,pulsesecure pulse connect secure,vu pulse connect secure
-241,nmap npcap,nmap
-242,mozilla firefox,firefox
-243,mozilla firefox,mozilla
-244,mozilla thunderbird,thunderbird
-245,mozilla thunderbird,mozilla
-246,python pyxdg,python
-247,gitlab gitlab,gitlab
-248,apache tomee,apache
-249,comodo antivirus,antivirus
-250,comodo antivirus,comodo
-251,apple ipados,apple
-252,msi afterburner,msi
-253,microsoft codeql,microsoft
-254,vmware cloud foundation,vmware cloud foundation
-255,apache xml-rpc,apache
-256,gnu bash,gnu bash
-257,gnu bash,bash
-258,zohocorp manageengine adselfservice plus,manageengine adselfservice
-259,linux acrn,linux
-260,apache guacamole,apache
-261,apache bookkeeper,apache
-262,apache mesos,apache
-263,microsoft azure-umqtt-c,microsoft
-264,live555 live555 media server,linuxflash media server
-265,python pypiserver,python
-266,oracle jdk,jdk
-267,oracle jdk,oracle
-268,oracle java se,oracle java
-269,oracle java se,oracle java se
-270,oracle java se,java se
-271,netapp cloud insights,netapp cloud backup
-272,solarwinds orion platform,solarwinds orion
-273,solarwinds orion platform,orion platform
-274,apple mac os x server,mac os x
-275,apple mac os x server,apple mac os x
-276,apple mac os x server,mac os server
-277,apple mac os x server,windows mac os x
-278,apple mac os x server,apple mac os mac os x
-279,mcafee epolicy orchestrator,mcafees epolicy orchestrator
-280,zlib pigz,zlib
-281,selinux setroubleshoot,selinux
-282,apple pykerberos,apple
-283,milton webdav,webdav
-284,juniper screenos,juniper
-285,curl curl,curl
-286,curl libcurl,curl
-287,apache openoffice.org,apache
-288,openstack horizon,horizon
-289,python beaker,python
-290,apache couchdb,apache
-291,cisco ios xe,cisco ios
-292,cisco ios xe,cisco ios xe
-293,cisco ios xe,ios xe
-294,cisco ios xe,ios xe software
-295,cisco ios xe,smi cisco ios
-296,cisco ios xe sd-wan,cisco ios
-297,cisco ios xe sd-wan,cisco ios xe
-298,cisco ios xe sd-wan,ios xe
-299,apache kudu,apache
-300,apache zookeeper,apache
-301,mozilla pollbot,mozilla
-302,oracle helidon,oracle
-303,sap cla-assistant,sap
-304,sap scimono,sap
-305,nextcloud desktop,desktop
-306,microsoft qlib,microsoft
-307,opennms horizon,horizon
-308,apache ofbiz,apache
-309,fortinet fortimanager,fortinet
-310,fortinet fortianalyzer,fortinet
-311,fortinet fortiportal,fortinet
-312,apache livy,apache
-313,accellion fta,accellion fta
-314,accellion fta,fta
-315,lumis lumis experience platform,sitecore experience platform
-316,apache ignite,apache
-317,owasp csrfguard,owasp
-318,cygwin git,git
-319,apache airflow,apache
-320,secureauth impacket,impacket
-321,apache openoffice,apache
-322,apache openoffice,openoffice
-323,winscp winscp,winscp
-324,sap infrabox,sap
-325,apache tika,apache
-326,grafana loki,loki
-327,freebsd libfetch,freebsd
-328,microsoft onefuzz,microsoft
-329,jpeg libjpeg,jpeg
-330,juniper libslax,juniper
-331,op5 monitor,monitor
-332,oracle tuxedo,oracle
-333,apache hive,apache
-334,apache pulsar,apache
-335,laquisscada scada,scada
-336,splashtop streamer,splashtop
-337,fortinet fortinac,fortinet
-338,hashicorp sentinel,sentinel
-339,avast antivirus,antivirus
-340,gitforwindows git,git
-341,nginx njs,nginx
-342,vmware open-vm-tools,vmware
-343,juniper junos space,juniper junos
-344,microsoft word,microsoft
-345,microsoft word,word
-346,microsoft office compatibility pack,microsoft office
-347,bouncycastle fips java api,java api
-348,ibm kitura,ibm
-349,oracle jre,oracle
-350,oracle jre,jre
-351,apache openwhisk,apache
-352,owasp dependency-check,owasp
-353,dropbox dropbox,dropbox
-354,apache mxnet,apache
-355,teamviewer teamviewer,teamviewer
-356,python pycryptodome,python
-357,viabtc viabtc exchange server,windows exchange server
-358,viabtc viabtc exchange server,onpremises exchange server
-359,rarlab winrar,winrar
-360,redhat linux,linux
-361,zlib zlib,zlib
-362,citrix netscaler,citrix
-363,citrix netscaler,netscaler
-364,citrix netscaler,citrix netscaler
-365,jiangmin antivirus,antivirus
-366,apache superset,apache
-367,apache cxf,apache
-368,citrix xenserver,citrix
-369,ssh ssh,ssh
-370,apple webkit,apple
-371,apache tomcat,apache
-372,apache geronimo,apache
-373,ibm notes,ibm
-374,ibm domino,ibm
-375,synology photo station,photo station
-376,mozilla nunjucks,mozilla
-377,oracle portal,oracle
-378,sap netweaver application server java,netweaver application server java
-379,ibm sdk,ibm
-380,apache cassandra,apache
-381,apache ws-xmlrpc,apache
-382,cisco adaptive security appliance software,adaptive security appliance
-383,bmc track-it\!,bmc
-384,php ext-http,php
-385,ruby-lang openssl,openssl
-386,gnu zlib,zlib
-387,apple swift,apple
-388,apple swift,swift
-389,mozilla convict,mozilla
-390,github gh-ost,github
-391,microsoft windows 11,microsoft windows
-392,microsoft windows 11,microsoft windows vista
-393,microsoft windows 11,microsoft windows xp
-394,microsoft windows 11,microsoft windows office
-395,microsoft windows server,microsoft windows
-396,microsoft windows server,windows exchange server
-397,microsoft windows server,windows server
-398,microsoft windows server,microsoft windows vista
-399,microsoft windows server,microsoft windows xp
-400,microsoft windows server,microsoft server software
-401,microsoft windows server,microsoft windows office
-402,microsoft windows server,vistamicrosoft windows server
-403,vmware pinniped,vmware
-404,microsoft outlook 2016,microsoft outlook
-405,element desktop,desktop
-406,tightvnc tightvnc,tightvnc
-407,accellion managed file transfer,accellion file transfer appliance
-408,github viewcomponent,github
-409,github cmark-gfm,github
-410,cve cve-services,cve
-411,python tkvideoplayer,python
-412,microsoft workspace-tools,microsoft
-413,apache cloudstack,apache
-414,php pearweb,php
-415,python pypi,python
-416,mozilla hawk,hawk
-417,mozilla hawk,mozilla
-418,jodd http,http
-419,ruifang-tech rebuild,rebuild
-420,nodejs undici,nodejs
-421,apple swiftnio,apple
-422,zimbra collaboration,zimbra collaboration suite
-423,apple swift-nio-extras,apple
-424,h3c ssl vpn,ssl vpn
-425,github toolkit,github
-426,reactphp http,http
-427,tesla tesla,tesla
-428,tesla tesla,agent tesla
-429,apple webobjects,apple
-430,microsoft windows server 2022,microsoft windows
-431,microsoft windows server 2022,windows server
-432,msi center,msi
-433,github runner,github
-434,apache apache-airflow-providers-apache-spark,apache
-435,apache apache-airflow-providers-apache-hive,apache
-436,atlassian confluence data center,confluence data center
+cpe,best_label
+google_android,android
+microsoft_windows_10,microsoft windows
+microsoft_windows_server_2016,windows server
+microsoft_windows_server_2016,microsoft windows
+microsoft_windows_server_2019,windows server
+microsoft_windows_server_2019,microsoft windows
+microsoft_windows_server_2008,windows server
+microsoft_windows_server_2008,microsoft windows
+microsoft_windows_server_2012,windows server
+microsoft_windows_server_2012,microsoft windows
+microsoft_windows_8.1,microsoft windows
+microsoft_windows_7,microsoft windows
+microsoft_windows_rt_8.1,microsoft windows
+microsoft_excel,excel
+microsoft_sharepoint_enterprise_server,microsoft sharepoint
+microsoft_office,office
+microsoft_sharepoint_foundation,microsoft sharepoint
+microsoft_windows_defender,windows defender
+microsoft_windows_defender,microsoft windows
+microsoft_sharepoint_server,microsoft sharepoint
+microsoft_powershell,microsoft powershell
+microsoft_powershell,powershell
+apple_mac_os_x,windows linux mac os x
+apple_tvos,apple
+apple_itunes,apple
+apple_watchos,apple
+apple_icloud,apple
+apple_macos,apple
+apple_macos,macos
+apple_ipados,apple
+citrix_gateway_firmware,citrix adc citrix gateway
+citrix_gateway_firmware,citrix gateway
+adobe_coldfusion,adobe coldfusion
+solarwinds_orion_platform,solarwinds orion
+python_pillow,python
+google_chrome,chrome
+torproject_tor,tor
+apache_zookeeper,apache
+python_python,python
+python_python,python meterpreter
+kernel_selinux,selinux
+microsoft_windows_server,windows server
+microsoft_windows_server,microsoft windows
+drupal_drupal,drupal
+microsoft_powershell_core,microsoft powershell
+zoom_meetings,zoom
+opsramp_gateway,gateway
+pulsesecure_pulse_policy_secure,pulse policy secure
+pulsesecure_pulse_policy_secure,pulse secure
+apache_tomee,apache
+apache_camel,apache
+apache_dolphinscheduler,apache
+apache_unomi,apache
+apache_wicket,apache
+apache_fortress,apache
+apache_syncope,apache
+apache_airflow,apache
+apache_ant,apache
+apache_karaf,apache
+apache_netbeans,apache
+apache_batik,apache
+apache_shiro,apache
+apache_cordova,apache
+apache_cocoon,apache
+apache_dubbo,apache
+apache_tomcat,apache
+apache_guacamole,apache
+apache_activemq,apache
+mozilla_firefox,firefox
+ciphermail_gateway,gateway
+fortinet_fortianalyzer,fortinet
+fortinet_fortimanager,fortinet
+fortinet_fortios,fortinet
+fortinet_fortios,fortios
+fortinet_fortitester,fortinet
+fortinet_fortinac,fortinet
+pulsesecure_pulse_connect_secure,pulse connect secure vpn software
+pulsesecure_pulse_connect_secure,pulse connect
+pulsesecure_pulse_connect_secure,pulse connect secure
+pulsesecure_pulse_connect_secure,pulse secure
+pulsesecure_pulse_connect_secure,pulse secure pulse connect secure
+python_jw.util,python
+aviatrix_gateway,gateway
+apache_skywalking,apache
+apache_ofbiz,apache
+apache_ambari,apache
+apache_kylin,apache
+apache_atlas,apache
+apache_zeppelin,apache
+apache_wss4j,apache
+apache_nifi,apache
+apache_solr,apache
+apache_apisix,apache
+apache_cassandra,apache
+apache_superset,apache
+apache_thrift,apache
+apache_hive,apache
+apache_openmeetings,apache
+apache_tapestry,apache
+apache_cxf,apache
+apache_calcite,apache
+apache_httpclient,apache
+apache_openoffice,apache
+citrix_xenapp,citrix
+golang_go,go
+apache_pluto,apache
+mobileiron_core,mobileiron core
+mobileiron_sentry,sentry
+solarwinds_serv-u,solarwinds
+microsoft_sharepoint_designer,microsoft sharepoint
+solarwinds_n-central,solarwinds
+fortinet_fortimail,fortinet
+fortinet_fortiadc,fortinet
+fortinet_fortisandbox,fortinet
+fortinet_fortiweb,fortinet
+apple_safari,apple
+juniper_junos,juniper
+apache_fineract,apache
+apache_ozone,apache
+apache_flink,apache
+apache_groovy,apache
+apache_subversion,apache
+apache_nuttx,apache
+apache_struts,apache
+apache_accumulo,apache
+apache_olingo,apache
+apache_beam,apache
+apache_spamassassin,apache
+apache_geode,apache
+apache_shardingsphere,apache
+apache_tika,apache
+apache_iotdb,apache
+apache_couchdb,apache
+manageengine_opmanager,manageengine
+apache_druid,apache
+apache_ignite,apache
+apache_heron,apache
+apple_imessage,apple
+jenkins_azure_ad,azure ad
+apache_bookkeeper,apache
+linux_mac80211,linux
+qnap_qts,qnap
+qnap_qes,qnap
+qnap_helpdesk,qnap
+python_urllib3,python
+sap_bw\/4hana,sap
+apache_kafka,apache
+apache_spark,apache
+rclone_rclone,rclone
+fortinet_fortideceptor,fortinet
+cisco_ios_xe,ios xe
+cisco_ios_xe_sd-wan,ios xe
+logmein_lastpass,logmein
+apache_oozie,apache
+debian_apt,apt
+ibm_aix,aix
+mikrotik_winbox,winbox
+solarwinds_dameware,solarwinds
+zoom_zoom,zoom
+citrix_netscaler_sd-wan_center,citrix netscaler
+sap_netweaver,sap
+sap_netweaver,netweaver
+sap_netweaver,the sap netweaver
+sap_s\/4hana,sap
+sap_erp,sap
+sap_orientdb,sap
+sap_commerce,sap
+sap_fiori,sap
+sap_leasing,sap
+sap_basis,sap
+sap_marketing,sap
+fortinet_fortipresence,fortinet
+fortinet_fortiisolator,fortinet
+fortinet_fortiproxy,fortinet
+fortinet_fortiproxy,fortiproxy
+codesys_gateway,gateway
+rapid7_metasploit,metasploit
+browserless_chrome,chrome
+haxx_curl,curl
+citrix_workspace,citrix
+citrix_gateway,citrix
+citrix_gateway,citrix adc citrix gateway
+citrix_gateway,citrix gateway
+citrix_gateway,gateway
+citrix_netscaler_gateway,citrix adc citrix gateway
+citrix_netscaler_gateway,citrix gateway
+citrix_netscaler_gateway,citrix netscaler
+citrix_gateway_plug-in,citrix adc citrix gateway
+citrix_gateway_plug-in,citrix gateway
+citrix_xendesktop,citrix
+citrix_sd-wan,citrix
+citrix_sd-wan_wanop,citrix sdwan wanop
+telestream_sentry,sentry
+fortinet_fortiwlc,fortinet
+fortinet_forticlient,forticlient
+fortinet_forticlient,fortinet
+fortinet_forticlient_virtual_private_network,virtual private network
+fortinet_fortivoice,fortinet
+apache_asterixdb,apache
+apache_log4j,apache
+apache_hadoop,apache
+apache_chainsaw,apache
+apache_archiva,apache
+apple_nioextras,apple
+apple_swift,apple
+apple_music,apple
+apple_xcode,apple
+microsoft_windows_vista,windows vista
+microsoft_windows_vista,microsoft windows
+microsoft_windows_8,microsoft windows
+microsoft_windows_rt,microsoft windows
+microsoft_windows_xp,windows xp
+microsoft_windows_xp,microsoft windows
+microsoft_windows_server_2003,windows server
+microsoft_windows_server_2003,microsoft windows
+microsoft_sharepoint_services,microsoft sharepoint
+microsoft_sharepoint_portal_server,microsoft sharepoint
+microsoft_windows_essentials,microsoft windows
+qnap_nas,qnap
+qnap_nas,qnap nas
+apache_vcl,apache
+gentoo_linux,linux
+apple_quicktime,apple
+microsoft_.net_framework,microsoft net framework
+microsoft_windows_2003_server,windows server
+microsoft_windows_2003_server,microsoft windows
+python_setuptools,python
+apache_openjpa,apache
+apache_geronimo,apache
+apache_rave,apache
+python_py-bcrypt,python
+apache_qpid,apache
+apache_struts2-showcase,apache
+apache_cloudstack,apache
+apache_hbase,apache
+citrix_access_gateway,citrix adc citrix gateway
+citrix_access_gateway,citrix gateway
+citrix_access_gateway,unified access gateway
+hp_vpn_firewall_appliance,vpn appliance
+citrix_cloudplatform,citrix
+microsoft_windows_media_player,microsoft windows
+juniper_smartpass,juniper
+microsoft_windows_11,microsoft windows
+microsoft_windows_server_2022,windows server
+microsoft_windows_server_2022,microsoft windows
+apache_roller,apache
+apache_shindig,apache
+oracle_linux,linux
+apache_sling,apache
+cybozu_office,office
+nmap_nmap,nmap
+apple_keynote,apple
+apple_webkit,apple
+apple_motion,apple
+op5_monitor,monitor
+apache_libcloud,apache
+mit_kerberos,kerberos
+sap_netweaver_logviewer,the sap netweaver
+apple_cups,apple
+citrix_netscaler_application_delivery_controller_firmware,citrix application delivery controller
+juniper_idp250,juniper
+juniper_idp8200,juniper
+juniper_idp800,juniper
+juniper_idp75,juniper
+fortinet_fortiauthenticator,fortinet
+juniper_junose,juniper
+juniper_screenos,juniper
+sap_adminadapter,sap
+apache_harmony,apache
+microsoft_office_word_viewer,office viewer
+juniper_contrail,juniper
+synology_office,office
+virustotal_yara,yara
+sap_trex,sap
+sap_netweaver_portal,the sap netweaver
+manageengine_servicedesk,manageengine
+debian_tor,tor
+citrix_xenserver,citrix
+apache_opennlp,apache
+apache_commons-jelly,apache
+apache_poi,apache
+apache_xerces-c\+\+,apache
+apache_drill,apache
+rarlab_unrar,unrar
+qnap_qsync,qnap
+gnu_wget,wget
+sap_e-recruiting,sap
+citrix_netscaler_gateway_firmware,citrix gateway
+citrix_netscaler_gateway_firmware,citrix netscaler
+citrix_application_delivery_controller_firmware,citrix application delivery controller
+citrix_application_delivery_controller_firmware,citrixs application delivery controller
+irfanview_pdf,pdf
+apache_uimaj,apache
+apache_uima-as,apache
+apache_uimafit,apache
+apache_uimaducc,apache
+apache_synapse,apache
+sap_epbc2,sap
+sap_epbc,sap
+sap_kmc-bc,sap
+sap_businessobjects,sap
+hola_vpn,vpn
+apple_mail,apple
+apache_deltaspike,apache
+apple_garageband,apple
+apple_pages,apple
+apple_numbers,apple
+clusterlabs_pcs,pcs
+python_tablib,python
+adobe_flash_player,flash player
+fortinet_fortiwlc-sd,fortinet
+apache_brooklyn,apache
+vmware_unified_access_gateway,unified access gateway
+apache_impala,apache
+apache_knox,apache
+python_openpyxl,python
+f5_big-iq_application_delivery_controller,citrix application delivery controller
+f5_big-iq_application_delivery_controller,citrixs application delivery controller
+citrix_netscaler_sd-wan,citrix netscaler
+fortinet_fortiwlm,fortinet
+fortinet_fortiportal,fortinet
+qnap_nas_proxy_server,qnap nas
+apache_ranger,apache
+apache_mesos,apache
+sap_sapcar,sap
+sap_successfactors,sap
+apache_storm,apache
+sap_netweaver_abap,the sap netweaver
+apple_iphone,apple
+apple_iphoto,apple
+microsoft_windows_messenger,microsoft windows
+microsoft_windows_2000,microsoft windows
+microsoft_office_powerpoint_viewer,office viewer
+gateway_weblaunch,gateway
+sap_maxdb,sap
+drupal_bueditor,drupal
+drupal_workflow,drupal
+drupal_openid,drupal
+sap_sapgui,sap
+sap_saplpd,sap
+sap_sapsprint,sap
+apple_ical,apple
+microsoft_windows_live_onecare,microsoft windows
+microsoft_windows,windows
+microsoft_windows,microsoft windows
+microsoft_windows,microsoft windows operating systems
+microsoft_windows_mail,microsoft windows
+linux_audit,linux
+linux_util-linux,linux
+f5_firepass_ssl_vpn,ssl vpn
+microsoft_windows_ce,microsoft windows
+ubuntu_linux,linux
+juniper_jnos,juniper
+microsoft_windows_installer,microsoft windows
+manageengine_oputils,manageengine
+microsoft_office_excel_viewer,office viewer
+microsoft_windows_live_mail,microsoft windows
+citrix_xp,citrix
+webdav_neon,webdav
+microsoft_office_sharepoint_server,microsoft sharepoint
+drupal_mailsave,drupal
+drupal_mailhandler,drupal
+drupal_talk,drupal
+citrix_xen,citrix
+drupal_shindig-integrator,drupal
+microsoft_windows_nt,microsoft windows
+microsoft_windows_me,microsoft windows
+microsoft_windows_mobile,microsoft windows
+microsoft_windows_98,microsoft windows
+microsoft_windows_98se,microsoft windows
+microsoft_windows_9x,microsoft windows
+microsoft_windows_95,microsoft windows
+microsoft_windows_286,microsoft windows
+microsoft_windows_386,microsoft windows
+sap_tabone,sap
+microsoft_windows_live_messenger,microsoft windows
+tor_tor,tor
+drupal_everyblog,drupal
+logmein_ractrl.dll,logmein
+fortinet_fortigate-1000,fortinet
+apache_xalan-java,apache
+jboss_teiid,jboss
+apache_qpid-cpp,apache
+microsoft_vbscript,vbscript
+sap_router,sap
+python_rply,python
+python_pyxdg,python
+citrix_gotomeeting,citrix
+python_requests,python
+citrix_vdi-in-a-box,citrix
+sap_hana,sap
+redhat_linux,linux
+apache_httpasyncclient,apache
+apache_axis,apache
+manageengine_it360,manageengine
+sap_brazil,sap
+apache_jclouds,apache
+manageengine_assetexplorer,manageengine
+manageengine_supportcenter,manageengine
+juniper_ringmaster,juniper
+comodo_geekbuddy,comodo
+drupal_bluemasters,drupal
+drupal_simplecorp,drupal
+drupal_zen,drupal
+drupal_tribune,drupal
+drupal_newsflash,drupal
+drupal_print,drupal
+drupal_mayo,drupal
+citrix_xenmobile,citrix
+drupal_maestro,drupal
+drupal_commons,drupal
+sap_hybris,sap
+comodo_backup,comodo
+apache_jmeter,apache
+apache_jspwiki,apache
+apache_pdfbox,apache
+apache_james,apache
+apache_mina,apache
+sap_s4fnd,sap
+sap_sapscore,sap
+sap_openui5,sap
+sap_e-commerce,sap
+sap_ui5,sap
+sap_gateway,sap
+sap_gateway,gateway
+sap_ui,sap
+microsoft_windows_admin_center,microsoft windows
+apache_allura,apache
+juniper_libslax,juniper
+python_novajoin,python
+nmap_npcap,nmap
+citrix_receiver,citrix
+teamviewer_teamviewer,teamviewer
+citrix_appdna,citrix
+apache_arrow,apache
+apache_libapreq2,apache
+solarwinds_netpath,solarwinds
+microsoft_windows_10_mobile,microsoft windows
+codesys_linux,linux
+comodo_firewall,comodo
+comodo_antivirus,comodo
+tightvnc_tightvnc,tightvnc
+fortinet_fortiap-w2,fortinet
+fortinet_fortiap-s,fortinet
+fortinet_fortiap-u,fortinet
+fortinet_fortiap,fortinet
+fortinet_fortisiem,fortinet
+solarwinds_webhelpdesk,solarwinds
+citrix_application_delivery_management,citrix application delivery controller
+apache_xml-rpc,apache
+apache_rocketmq,apache
+fortinet_fortiswitch,fortinet
+linux_acrn,linux
+forticlient_forticlient,forticlient
+python_python-gnupg,python
+python_pypiserver,python
+qnap_myqnapcloud,qnap
+citrix_sharefile,citrix
+apple_shortcuts,apple
+apple_texture,apple
+apple_shazam,apple
+debian_cron,cron
+apache_xerces-c,apache
+apache_flex,apache
+selinux_setroubleshoot,selinux
+apache_derby,apache
+apache_jackrabbit,apache
+apache_mod-gnutls,apache
+palo_alto_networks_traps,palo alto
+sap_gui,sap
+websense_triton,triton
+sap_afaria,sap
+citrix_netscaler,citrix
+citrix_netscaler,citrix netscaler
+citrix_netscaler,netscaler
+apple_pykerberos,apple
+apple_iwork,apple
+apache_juddi,apache
+cisco_rv042g_dual_gigabit_wan_vpn_firmware,dual gigabit wan vpn
+juniper_pulse_connect_secure,pulse connect secure vpn software
+juniper_pulse_connect_secure,pulse connect
+juniper_pulse_connect_secure,pulse connect secure
+juniper_pulse_connect_secure,pulse secure
+juniper_pulse_connect_secure,pulse secure pulse connect secure
+milton_webdav,webdav
+apple_mdnsresponder,apple
+webdav_cadaver,webdav
+conectiva_linux,linux
+apple_ichat,apple
+info-zip_zip,zip
+qnx_rtos,rtos
+techland_chrome,chrome
+microsoft_psexec,psexec
+curl_curl,curl
+curl_libcurl,curl
+apache_openoffice.org,apache
+microsoft_forefront_unified_access_gateway,unified access gateway
+python_pyxml,python
+linux_systemd,linux
+mcafee_gateway,gateway
+drupal_faq,drupal
+drupal_activity,drupal
+apache_org.apache.sling.servlets.post,apache
+microsoft_windows_phone,microsoft windows
+jboss_ironjacamar,jboss
+python_beaker,python
+apache_hupa,apache
+palo_alto_networks,palo alto
+palo_alto_ssl_vpn,ssl vpn
+palo_alto_ssl_vpn,palo alto
+apache_axis2,apache
+citrix_cloudstack,citrix
+python_keyring,python
+barracudanetworks_barracuda_ssl_vpn,ssl vpn
+fortinet_fortigate-3140b,fortinet
+fortinet_fortigate-60c,fortinet
+fortinet_fortigate-3040b,fortinet
+fortinet_fortigate-300c,fortinet
+fortinet_fortigate-600c,fortinet
+fortinet_fortigate-5001a-sw,fortinet
+fortinet_fortigate-3240c,fortinet
+fortinet_fortigate-310b,fortinet
+fortinet_fortigate-800c,fortinet
+fortinet_fortigate-5020,fortinet
+fortinet_fortigate-5060,fortinet
+fortinet_fortigate-5140b,fortinet
+fortinet_fortigate-3950b,fortinet
+fortinet_fortigate-voice-80c,fortinet
+fortinet_fortigate-50b,fortinet
+fortinet_fortigate-5101c,fortinet
+fortinet_fortigate-20c,fortinet
+fortinet_fortigate-3810a,fortinet
+fortinet_fortigaterugged-100c,fortinet
+fortinet_fortigate-80c,fortinet
+fortinet_fortigate-100d,fortinet
+fortinet_fortigate-311b,fortinet
+fortinet_fortigate-620b,fortinet
+fortinet_fortigate-1000c,fortinet
+fortinet_fortigate-200b,fortinet
+fortinet_fortigate-110c,fortinet
+fortinet_fortigate-1240b,fortinet
+fortinet_fortigate-40c,fortinet
+fortinet_fortigate-5001b,fortinet
+apache_commons-httpclient,apache
+fortinet_fortidb,fortinet
+juniper_appformix,juniper
+juniper_ctpview,juniper
+apache_kudu,apache
+sap_cla-assistant,sap
+sap_scimono,sap
+apache_servicecomb,apache
+apache_pulsar,apache
+apache_nutch,apache
+apache_xmlbeans,apache
+fortinet_fortiwan,fortinet
+linux_tizen,linux
+apache_maven,apache
+apache_myfaces,apache
+apache_livy,apache
+apache_shardingsphere-ui,apache
+accellion_fta,fta
+sap_setup,sap
+sap_business-one-hana-chef-cookbook,sap
+okta_access_gateway,unified access gateway
+qnap_q\'center,qnap
+qnap_qutscloud,qnap
+apache_sshd,apache
+apple_imovie,apple
+solarwinds_orion_job_scheduler,solarwinds orion
+sap_infrabox,sap
+sap_dmis,sap
+sap_s4core,sap
+qnap_qvr,qnap
+zoom_rooms,zoom
+windriver_linux,linux
+solarwinds_pingdom,solarwinds
+apache_gobblin,apache
+fortinet_fortisdnconnector,fortinet
+apple_macos13.0,apple
+helpsystems_cobalt_strike,cobalt strike
+sophos_ssl_vpn_client,ssl vpn
+apache_shenyu,apache
+sap_commoncryptolib,sap
+apache_any23,apache
+qnap_qcalagent,qnap
+qnap_qfile,qnap
+apache_jena,apache
+apache_parquet-mr,apache
+apache_ddlutils,apache
+python_pybluemonday,python
+apache_avro,apache
+apache_plc4x,apache
+sco_unix,unix
+digital_unix,unix
+apple_appleshare,apple
+unix_unix,unix
+cyrix_linux,linux
+microsoft_windows_explorer,microsoft windows
+corel_linux,linux
+microsoft_windows_media_services,microsoft windows
+microsoft_windows_messaging,microsoft windows
+citrix_metaframe,citrix
+citrix_winframe,citrix
+qnx_qnx,qnx os
+apple_webobjects,apple
+listmanager_linux,linux
+apache_jserv,apache
+microsoft_windows_script_host,microsoft windows
+sap_saposcol,sap
+citrix_nfuse,citrix
+macromedia_flash_player,flash player
+microsoft_windows_help,microsoft windows
+microsoft_.net_windows_server,windows server
+microsoft_.net_windows_server,microsoft windows
+sun_linux,linux
+gateway_gs-400,gateway
+apple_802.11n,apple
+microsoft_sharepoint_team_services,microsoft sharepoint
+jboss_jboss,jboss
+microsoft_all_windows,microsoft windows
+apache_apr-util,apache
+android_opencore,android
+mandriva_linux,linux
+apple_files,apple
+drupal_tasklist,drupal
+linux_kernel,linux
+drupal_quiz,drupal
+apple_xsan,apple
+citrix_secure_gateway,citrix adc citrix gateway
+citrix_secure_gateway,citrix gateway
+asterisk_opensource,opensource
+citrix_licensing,citrix
+sonicwall_e-class_ssl_vpn,ssl vpn
+sonicwall_ssl_vpn,ssl vpn
+citrix_xencenterweb,citrix
+xfs_acl,acl
+cisco_anyconnect_ssl_vpn,ssl vpn
+juniper_idp,juniper
+juniper_jsnapy,juniper
+microsoft_windows_server_1709,windows server
+microsoft_windows_server_1709,microsoft windows
+jboss_jboss-remoting,jboss
+apache_openwhisk,apache
+apache_cayenne,apache
+apache_mxnet,apache
+apache_log4net,apache
+apache_ode,apache
+synology_ssl_vpn_client,ssl vpn
+python_pycryptodome,python
+sap_ea-finserv,sap
+sap_infrastructure,sap
+sap_bank\/cfm,sap
+apache_xerces-j,apache
+apple_swiftnio,apple
+citrix_netscaler_application_delivery_controller,citrix application delivery controller
+citrix_netscaler_application_delivery_controller,citrixs application delivery controller
+pulsesecure_pulse_secure_desktop,pulse secure
+apache_orc,apache
+apache_sentry,apache
+apache_sentry,sentry
+microsoft_windows_server_1803,windows server
+microsoft_windows_server_1803,microsoft windows
+microsoft_powershell_editor_services,microsoft powershell
+microsoft_powershell_extension,microsoft powershell
+microsoft_sharepoint_server_2010,microsoft sharepoint
+apple_preview,apple
+apple_installer,apple
+drupal_project,drupal
+drupal_acidfree,drupal
+drupal_textimage,drupal
+drupal_getid3,drupal
+rpath_linux,linux
+drupal_nodefamily,drupal
+microsoft_atlas_framework,microsoft net framework
+gnu_flash_player,flash player
+microsoft_windows_2003,microsoft windows
+edraw_office_viewer_component,office viewer
+sap_netweaver_nw04,the sap netweaver
+sap_netweaver_nw04s,the sap netweaver
+sap_enjoysap,sap
+sonicwall_ssl_vpn_200,ssl vpn
+citrix_edgesight_for_netscaler,citrix netscaler
+drupal_shoutbox,drupal
+suse_linux,linux
+jboss_seam,jboss
+apple_applescript,apple
+apple_carboncore,apple
+apple_imageio,apple
+apple_terminal,apple
+apple_bonjour,apple
+vmware_vcenter,vcenter
+apache_continuum,apache
+microsoft_windows_azure_sdk,microsoft windows
+microsoft_sharepoint_workspace,microsoft sharepoint
+apache_rampart\/c,apache
+citrix_access_gateway_plug-in,citrix gateway
+drupal_data,drupal
+linux_dhcp6c,linux
+canonical_selinux,selinux
+python_virtualenv,python
+apache_jetspeed,apache
+python_tgcaptcha2,python
+python_rsa,python
+microsoft_windows_diagnostics_hub,microsoft windows
+sap_sapconsole,sap
+sap_sapcryptolib,sap
+apache_ws-xmlrpc,apache
+cisco_ios_xe_3.3sg,ios xe
+cisco_ios_xe_3.4sg,ios xe
+cisco_ios_xe_3.3xo,ios xe
+cisco_ios_xe_3.2ja,ios xe
+cisco_ios_xe_16.1,ios xe
+python_hpack,python
+python_hyper,python
+apple_transporter,apple
+fortinet_connect,fortinet
+microsoft_windows_server_2000,windows server
+microsoft_windows_server_2000,microsoft windows
+apt_apt-webshop-system,apt
+fortinet_fortinet28,fortinet
+sap_sapdba,sap
+juniper_dx,juniper
+geonetwork_opensource,opensource
+apple_bomarchivehelper,apple
+apache_opentaps,apache
+microsoft_windows_event_viewer,microsoft windows
+debian_apache,apache
+palo_alto_networks_firewall,palo alto
+portwise_ssl_vpn,ssl vpn
+microsoft_windows_virtual_pc,microsoft windows
+microsoft_windows_media_encoder,microsoft windows
+apache_wink,apache
+microsoft_windows_movie_maker,microsoft windows
+jboss_jbpm,jboss
+sms_sms,mfa sms
+juniper_netscreen-idp,juniper
+juniper_netscreen-5gt,juniper
+fortinet_fortigate,fortinet
+wget_wget,wget
+fortinet_fortinet,fortinet
+fortinet_fortinet,fortinet vpn
+nortel_ssl_vpn,ssl vpn
+apple_textedit,apple
+fortinet_fortiap-c,fortinet
+fortinet_fortiedr,fortinet
+fortinet_fortisoar,fortinet
+apache_doris,apache
+apache_pinot,apache
+microsoft_windows_upgrade_assistant,microsoft windows
+python_tkvideoplayer,python
+apache_flume,apache
+apache_systemds,apache
+sap_webdispatcher,sap
+python_pypi,python
+fortinet_fortiddos,fortinet
+apple_swift-nio-extras,apple
+sap_authenticator,sap
+h3c_ssl_vpn,ssl vpn
+torguard_vpn,vpn
+apache_ivy,apache
+apache_apache-airflow-providers-docker,apache
+apache_linkis,apache
+fortinet_fortiswitchmanager,fortinet
+apache_apache-airflow-providers-apache-spark,apache
+apache_inlong,apache
+microsoft_windows_sysmon,microsoft windows
+apache_apache-airflow-providers-apache-hive,apache
+apache_isis,apache
+apache_soap,apache
+apache_hama,apache
