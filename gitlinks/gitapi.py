@@ -12,10 +12,6 @@ import pandas as pd
 import requests
 
 data_path = Path("../") / "data"
-cve_data = pd.read_feather(data_path / "all_parsed_cve_references.feather")
-github_links = cve_data.loc[
-    cve_data["url"].str.contains("github.com"), "url"
-].drop_duplicates()
 
 # Global used to track when scrip must pause to prevent getting errors
 # and get as much data as we can as fast as we can.
@@ -92,6 +88,7 @@ def get_github_data(
             if isinstance(git_resp, (dict, list)):
                 respond_with = {"url": api_url, "status": "success", endpoint: git_resp}
     except Exception as e:
+
         respond_with = {
             "url": api_url,
             "status": "error",
@@ -112,14 +109,19 @@ def get_api_token(file_path=Path("api_token.secret")):
 def main():
     start = 0  # Set this to your assigned start values.
     batch_size = (
-        15  # Needs to be half the max of 5000, leaving some room for error too.
+        25  # Needs to be half the max of 5000, leaving some room for error too.
     )
 
     api_token = get_api_token()
 
+    cve_data = pd.read_feather(data_path / "all_parsed_cve_references.feather")
+    github_links = cve_data.loc[
+        cve_data["url"].str.contains("github.com"), "url"
+    ].drop_duplicates()
+
     # Put repo paths and netloc together to get repo links.
     github_repo_urls = get_github_repo_paths(github_links)
-
+    print(github_repo_urls)
     if previous_contrib_data_list := [
         pd.read_feather(contrib_file)
         for contrib_file in data_path.glob("contributors*.feather")
