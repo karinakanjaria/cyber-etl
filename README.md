@@ -2,10 +2,10 @@
 DSE 203 Project- Cybersecurity data merging from multiple sources to create and query a knowledge graph for insights.
 
 ## Files:
-0. `dse203_project_environment.yml` - Conda environment export. Use with `conda env create -f dse203_project_environment.yml`
+0. `DSE203 - Data Integration and ETL - Project Final Writeup.pdf` - Final report
 1. `data_integration.ipynb` - Convert NIST CVE JSON data and CISA alerts into a format ready to import into Neo4j
 2. `mitre_json_to_csv.py` - MITRE provided script to pull MITRE JSON data into CSV for Techniques/Tactics Nodes
-3. `gitapi.py` - Script to pull data from GitHub REST API
+3. `dse203_project_environment.yml` - Conda environment export. Use with `conda env create -f dse203_project_environment.yml`
 
 ### Data Folder Files (./data)
 1. `cve_node_data.feather` - Data for creating CVE nodes
