@@ -3,7 +3,7 @@ DSE 203 Project- Cybersecurity data merging from multiple sources to create and 
 
 ## Files:
 0. `DSE203 - Data Integration and ETL - Project Final Writeup.pdf` - Final report
-1. `data_integration.ipynb` - Convert NIST CVE JSON data and CISA alerts into a format ready to import into Neo4j
+1. `data_integration.ipynb` - Convert NIST CVE JSON data, CISA alerts, and GitHub data into a format ready to import into Neo4j
 2. `mitre_json_to_csv.py` - MITRE provided script to pull MITRE JSON data into CSV for Techniques/Tactics Nodes
 3. `dse203_project_environment.yml` - Conda environment export. Use with `conda env create -f dse203_project_environment.yml`
 
@@ -17,22 +17,4 @@ DSE 203 Project- Cybersecurity data merging from multiple sources to create and 
 7. `ner_node.csv` - Data for creating Named Entities mentioned in the alerts
 8. `ner_training.json` - Manually labeled matching entitites
 9. `stopwords.txt` - List of stopwords from Kaggle dataset (https://www.kaggle.com/datasets/rowhitswami/stopwords?resource=download)
-
-
-## Loading data into neo4j:
-Run the following in the neo4j database-
-
-`	CALL apoc.periodic.iterate(
-	"CALL apoc.load.json('file:///nvdcve-1.1-2022.json') YIELD value",
-	"UNWIND value.CVE_Items AS data  \r\n"+
-	"UNWIND data.cve.references.reference_data AS references \r\n"+
-	"UNWIND data.publishedDate AS publishedDate \r\n"+
-	"UNWIND data.cve.description.description_data AS description_data \r\n"+
-	"UNWIND data.impact.baseMetricV3.exploitabilityScore AS exploitabilityScore \r\n"+
-	"UNWIND data.impact.baseMetricV3.impactScore AS impactScore \r\n"+
-	"UNWIND data.impact.baseMetricV3.cvssV3.baseScore AS baseScore \r\n"+
-	"MERGE (cveItem:CVE {uid: apoc.create.uuid()}) \r\n"+
-	"ON CREATE SET cveItem.cveid = data.cve.CVE_data_meta.ID, cveItem.publishedDate = publishedDate, cveItem.description = description_data.value, cveItem.exploitabilityScore = exploitabilityScore, cveItem.impactScore = impactScore, cveItem.baseScore = baseScore, cveItem.referenceURL = references.url, cveItem.referenceName = references.name, cveItem.referenceSource = references.refsource, cveItem.referenceTags = references.tags",
-	 {batchSize:100, iterateList:true});`
-
-This will create nodes with IDs, publishedDates, Descriptions, Scores, and References
+10. `neo4j_github-final.dump` - Final Neo4j graph dump
